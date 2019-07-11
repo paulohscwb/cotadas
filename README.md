@@ -42,11 +42,33 @@
 
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 <h3 id="pontos">Pontos e segmentos em épura</h3>
-<table><tr><td><h3>Exemplo de pontos em épura, pág. </h3>
+<table><tr><td><h3>Exemplo de pontos em épura, pág. 49</h3>
 <img src="vr/049_epura.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/exerc_epura.html"><img src="vr/RVaframe.png" width="180px"></a>
 <hr>
 <h3>Verdadeira grandeza de um segmento, pág. 50</h3>
 <img src="vr/050_vg.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/vg_segmento.html"><img src="vr/RVaframe.png" width="180px"></a>
+</td></tr></table>
+
+<a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+<h3 id="solidos">Sólidos em Projeções Cotadas</h3>
+<table><tr><td><h3>Pirâmide de base hexagonal, pág. 75</h3>
+<img src="vr/075_piramide1.PNG">
+<br><a href="https://paulohscwb.github.io/cotadas/vr/piramide1.html"><img src="vr/RVaframe.png" width="180px"></a>
+<hr>
+<h3>Pirâmide de base quadrada, pág. 78</h3>
+<img src="vr/078_piramide2.PNG">
+<br><a href="https://paulohscwb.github.io/cotadas/vr/piramide2.html"><img src="vr/RVaframe.png" width="180px"></a>
+<hr>
+<h3>Prisma de base hexagonal, pág. 50</h3>
+<img src="vr/078_prisma1.PNG">
+<br><a href="https://paulohscwb.github.io/cotadas/vr/prisma1.html"><img src="vr/RVaframe.png" width="180px"></a>
+</td></tr></table>
+
+<a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+<h3 id="solidos">Rebatimento de um plano qualquer</h3>
+<table><tr><td><h3>Exemplo da pág. 88</h3>
+<img src="vr/088_rebatimento.PNG">
+<br><a href="https://paulohscwb.github.io/cotadas/vr/rebatimento.html"><img src="vr/RVaframe.png" width="180px"></a>
 </td></tr></table>
