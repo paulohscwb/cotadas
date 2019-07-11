@@ -1,5 +1,5 @@
 <h2 id="inicio">Visualização de propriedades de projeções e sólidos</h2> 
-<br><b>autor:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná 
+<br><b>desenvolvido por:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná 
 <br><b>contato:</b> paulohscwb@gmail.com 
 <br><br>Este site contém algumas partes da <a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2014/09/ApostilaGD2019.pdf" target="_blank">apostila de Projeções Cotadas</a> usada em sala de aula para visualizar os objetos com Realidade Virtual (RV) e Realidade Aumentada (RA). As propriedades de projeções e os sólidos podem ser vistos em RA com os marcadores indicados, e através dos links criados nos marcadores, os objetos podem ser vistos em RV. 
 <br>Para ver os objetos em Realidade Aumentada, visite o site:
@@ -89,4 +89,40 @@
 <h3>Exercício 3.4, pág. 106</h3>
 <img src="telhados/106_telhado34.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/telhados/telhado34.html"><img src="vr/RVaframe.png" width="180px"></a>
+<hr>
+<h3>Exercício 3.5, pág. 107</h3>
+<img src="telhados/107_telhado35.PNG">
+<br><a href="https://paulohscwb.github.io/cotadas/telhados/telhado35.html"><img src="vr/RVaframe.png" width="180px"></a>
+<hr>
+<h3>Exercício 3.6, pág. 108</h3>
+<img src="telhados/108_telhado36.PNG">
+<br><a href="https://paulohscwb.github.io/cotadas/telhados/telhado36.html"><img src="vr/RVaframe.png" width="180px"></a>
+<hr>
+<h3>Exercício 3.7, pág. 109</h3>
+<img src="telhados/109_telhado37.PNG">
+<br><a href="https://paulohscwb.github.io/cotadas/telhados/telhado37.html"><img src="vr/RVaframe.png" width="180px"></a>
+<hr>
+<h3>Exercício 3.8, pág. 110</h3>
+<img src="telhados/110_telhado38.PNG">
+<br><a href="https://paulohscwb.github.io/cotadas/telhados/telhado38.html"><img src="vr/RVaframe.png" width="180px"></a>
+<hr>
+<h3>Exercício 3.9, pág. 111</h3>
+<img src="telhados/111_telhado39.PNG">
+<br><a href="https://paulohscwb.github.io/cotadas/telhados/telhado39.html"><img src="vr/RVaframe.png" width="180px"></a>
+<hr>
+<h3>Exercício 4.3, pág. 114</h3>
+<img src="telhados/114_telhado43.PNG">
+<br><a href="https://paulohscwb.github.io/cotadas/telhados/telhado43.html"><img src="vr/RVaframe.png" width="180px"></a>
+<hr>
+<h3>Exercício 4.4, pág. 115</h3>
+<img src="telhados/115_telhado44.PNG">
+<br><a href="https://paulohscwb.github.io/cotadas/telhados/telhado44.html"><img src="vr/RVaframe.png" width="180px"></a>
+<hr>
+<h3>Exercício 4.5, pág. 116</h3>
+<img src="telhados/116_telhado45.PNG">
+<br><a href="https://paulohscwb.github.io/cotadas/telhados/telhado45.html"><img src="vr/RVaframe.png" width="180px"></a>
+<hr>
+<h3>Exercício 4.6, pág. 117</h3>
+<img src="telhados/117_telhado46.PNG">
+<br><a href="https://paulohscwb.github.io/cotadas/telhados/telhado46.html"><img src="vr/RVaframe.png" width="180px"></a>
 </td></tr></table>
