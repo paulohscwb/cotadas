@@ -77,14 +77,14 @@
 <a href="#telhados"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 <h3 id="solidos">Representações de telhados</h3>
 <table><tr><td><h3>Terminologia, pág. 101</h3>
-<img src="vr/101_telhados.PNG">
+<img src="telhados/101_telhados.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/casa.html"><img src="vr/RVaframe.png" width="180px"></a>
 <hr>
 <h3>Exercício 3.3, pág. 105</h3>
-<img src="vr/105_telhado33.PNG">
+<img src="telhados/105_telhado33.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/telhado33.html"><img src="vr/RVaframe.png" width="180px"></a>
 <hr>
 <h3>Exercício 3.4, pág. 106</h3>
-<img src="vr/106_telhado34.PNG">
+<img src="telhados/106_telhado34.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/telhado34.html"><img src="vr/RVaframe.png" width="180px"></a>
 </td></tr></table>
