@@ -48,5 +48,5 @@
 <hr>
 <h3>Verdadeira grandeza de um segmento, pág. 50</h3>
 <img src="vr/050_vg.PNG">
-<br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/vg_segmento.html"><img src="vr/RVaframe.png" width="180px"></a>
+<br><a href="https://paulohscwb.github.io/cotadas/vr/vg_segmento.html"><img src="vr/RVaframe.png" width="180px"></a>
 </td></tr></table>
