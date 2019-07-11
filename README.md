@@ -1,7 +1,7 @@
-<h2 id="inicio">Visualização de propriedades de projeções e sólidos</h2> 
+<h2 id="inicio">Visualização de propriedades de projeções, sólidos e aplicações</h2> 
 <br><b>desenvolvido por:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná 
 <br><b>contato:</b> paulohscwb@gmail.com 
-<br><br>Este site contém algumas partes da <a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2014/09/ApostilaGD2019.pdf" target="_blank">apostila de Projeções Cotadas</a> usada em sala de aula para visualizar os objetos com Realidade Virtual (RV) e Realidade Aumentada (RA). As propriedades de projeções e os sólidos podem ser vistos em RA com os marcadores indicados, e através dos links criados nos marcadores, os objetos podem ser vistos em RV. 
+<br><br>Este site contém algumas partes da <a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2014/09/ApostilaGD2019.pdf" target="_blank">apostila de Projeções Cotadas</a> usada em sala de aula para visualizar os objetos com Realidade Virtual (RV) e Realidade Aumentada (RA). As propriedades de projeções, os sólidos e as maquetes podem ser vistos em RA com os marcadores indicados, e através dos links criados nos marcadores, os objetos podem ser vistos em RV. 
 <br>Para ver os objetos em Realidade Aumentada, visite o site:
 <br><center><a href="https://paulohscwb.github.io/cotadas/ra.html"> https://paulohscwb.github.io/cotadas/ra.html</a></center>
 <br>em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
@@ -13,6 +13,7 @@
 <a href="#solidos">Sólidos em Projeções Cotadas</a> | 
 <a href="#rebatimento">Rebatimento de um plano qualquer</a> | 
 <a href="#telhados">Representação de telhados</a> | 
+<a href="#superficies">Superfícies Topográficas</a> | 
 <a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2014/09/ApostilaGD2019.pdf" target="_blank"> Apostila completa </a>
 <hr>
 <h3 id="propriedades">Propriedades das projeções cilíndricas</h3>
