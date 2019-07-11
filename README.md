@@ -12,6 +12,7 @@
 <a href="#pontos">Pontos e segmentos em épura </a> | 
 <a href="#solidos">Sólidos em Projeções Cotadas</a> | 
 <a href="#rebatimento">Rebatimento de um plano qualquer</a> | 
+<a href="#telhados">Representação de telhados</a> | 
 <a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2014/09/ApostilaGD2019.pdf" target="_blank"> Apostila completa </a>
 <hr>
 <h3 id="propriedades">Propriedades das projeções cilíndricas</h3>
@@ -71,4 +72,19 @@
 <table><tr><td><h3>Exemplo da pág. 88</h3>
 <img src="vr/088_rebatimento.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/rebatimento.html"><img src="vr/RVaframe.png" width="180px"></a>
+</td></tr></table>
+
+<a href="#telhados"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+<h3 id="solidos">Representações de telhados</h3>
+<table><tr><td><h3>Terminologia, pág. 101</h3>
+<img src="vr/101_telhados.PNG">
+<br><a href="https://paulohscwb.github.io/cotadas/vr/casa.html"><img src="vr/RVaframe.png" width="180px"></a>
+<hr>
+<h3>Exercício 3.3, pág. 105</h3>
+<img src="vr/105_telhado33.PNG">
+<br><a href="https://paulohscwb.github.io/cotadas/vr/telhado33.html"><img src="vr/RVaframe.png" width="180px"></a>
+<hr>
+<h3>Exercício 3.4, pág. 106</h3>
+<img src="vr/106_telhado34.PNG">
+<br><a href="https://paulohscwb.github.io/cotadas/vr/telhado34.html"><img src="vr/RVaframe.png" width="180px"></a>
 </td></tr></table>
