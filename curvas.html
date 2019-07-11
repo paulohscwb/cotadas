@@ -1,0 +1,75 @@
+<!doctype HTML>
+<html>
+<head>
+	<script src="https://aframe.io/releases/0.8.2/aframe.js"></script>
+	<script src="https://jeromeetienne.github.io/AR.js/aframe/build/aframe-ar.js"></script>
+</head>
+<body style='margin : 0px; overflow: hidden;'>
+  <a-scene cursor="rayOrigin: mouse" raycaster="objects: [link];" 
+	   embedded arjs='sourceType: webcam; trackingMethod: best; maxDetectionRate: 10; detectionMode: mono_and_matrix; matrixCodeType: 3x3; debugUIEnabled: false;'>
+	
+	<a-assets>
+		<a-asset-item id="modelo" src="./imagens/Prudentopolis.dae"></a-asset-item>
+		<a-asset-item id="modelo3" src="./imagens/SaoJoseAusentes1.dae"></a-asset-item>
+		<a-asset-item id="modelo4" src="./imagens/SaoJoseAusentes2.dae"></a-asset-item>
+		<a-asset-item id="modelo2" src="./imagens/adrianopolis2.dae"></a-asset-item>
+		<a-asset-item id="modelo1" src="./imagens/RioRastro2.dae"></a-asset-item>
+		<a-asset-item id="modelo5" src="./imagens/curva16.dae"></a-asset-item>
+		<a-asset-item id="modelo6" src="./imagens/curva13c.dae"></a-asset-item>
+	</a-assets>
+	  
+	<a-entity camera></a-entity>	
+	
+	 <a-marker type="barcode" value="57">
+	   	<a-link rotation="-90 0 0" href="http://www.degraf.ufpr.br/docentes/paulo/lightbox/arquivos_cotadas/curva11.html" title="VR" scale="0.5 0.5 0.5" position="0 0.1 0" link="highlighted:true; backgroundColor:LightGray"></a-link>
+		<a-entity position="-4.2 0 -4" id="chapeu1" scale="0.0035 0.0035 0.0035">
+			<a-entity collada-model="#modelo"></a-entity>
+		</a-entity>
+  	 </a-marker>
+							 
+	<a-marker type="barcode" value="61">
+	   	<a-link rotation="-90 0 0" href="http://www.degraf.ufpr.br/docentes/paulo/lightbox/arquivos_cotadas/curva2.html" title="VR" scale="0.5 0.5 0.5" position="0 0.1 0" link="highlighted:true; backgroundColor:LightGray"></a-link>
+		<a-entity position="4.5 0 -5" id="ausentes1" scale="0.008 0.008 0.008">
+			<a-entity collada-model="#modelo3"></a-entity>
+		</a-entity>
+  	 </a-marker>
+	
+	<a-marker type="barcode" value="62">
+	   	<a-link rotation="-90 0 0" href="http://www.degraf.ufpr.br/docentes/paulo/lightbox/arquivos_cotadas/curva3.html" title="VR" scale="0.5 0.5 0.5" position="0 0.1 0" link="highlighted:true; backgroundColor:LightGray"></a-link>
+		<a-entity position="-4.6 0 -3.6" id="ausentes2" scale="0.0039 0.0039 0.0039">
+			<a-entity collada-model="#modelo4"></a-entity>
+		</a-entity>
+  	 </a-marker>
+	 
+	  <a-marker type="barcode" value="63">
+	   	<a-link rotation="-90 0 0" href="http://www.degraf.ufpr.br/docentes/paulo/lightbox/arquivos_cotadas/curva9.html" title="VR" scale="0.5 0.5 0.5" position="0 0.1 0" link="highlighted:true; backgroundColor:LightGray"></a-link>
+		<a-entity position="-4.6 0 -3.6" id="ausentes2" scale="0.0039 0.0039 0.0039">
+			<a-entity collada-model="#modelo2"></a-entity>
+		</a-entity>
+  	 </a-marker>
+	 
+	 <a-marker type="barcode" value="60">
+	   	<a-link rotation="-90 0 0" href="http://www.degraf.ufpr.br/docentes/paulo/lightbox/arquivos_cotadas/curva10.html" title="VR" scale="0.5 0.5 0.5" position="0 0.1 0" link="highlighted:true; backgroundColor:LightGray"></a-link>
+		<a-entity position="-4.4 0 -3.4" id="riorastro2" scale="0.0037 0.0037 0.0037">
+			<a-entity collada-model="#modelo1"></a-entity>
+		</a-entity>
+  	 </a-marker>
+	 
+	 <a-marker type="barcode" value="59">
+	   	<a-link rotation="-90 0 0" href="http://www.degraf.ufpr.br/docentes/paulo/lightbox/arquivos_cotadas/curva15.html" title="VR" scale="0.5 0.5 0.5" position="0 0.1 0" link="highlighted:true; backgroundColor:LightGray"></a-link>
+		<a-entity position="-5.5 0 -5" id="curva15" scale="0.0055 0.0055 0.0055">
+			<a-entity collada-model="#modelo5"></a-entity>
+		</a-entity>
+  	 </a-marker>
+	  
+	 <a-marker type="barcode" value="58">
+	   	<a-link rotation="-90 0 0" href="http://www.degraf.ufpr.br/docentes/paulo/lightbox/arquivos_cotadas/curva13c.html" title="VR" scale="0.5 0.5 0.5" position="0 0.1 0" link="highlighted:true; backgroundColor:LightGray"></a-link>
+		<a-entity position="-3.7 0 -5.5" id="curva13c" scale="0.0035 0.0035 0.0035">
+			<a-entity collada-model="#modelo6"></a-entity>
+		</a-entity>
+  	 </a-marker>
+	  
+	  
+  </a-scene>
+</body>
+</html>
