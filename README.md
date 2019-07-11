@@ -74,8 +74,10 @@
 <br><a href="https://paulohscwb.github.io/cotadas/vr/rebatimento.html"><img src="vr/RVaframe.png" width="180px"></a>
 </td></tr></table>
 
-<a href="#telhados"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
-<h3 id="solidos">Representações de telhados</h3>
+<a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+<h3 id="telhados">Representações de telhados</h3>
+<br>Para ver os telhados em Realidade Aumentada, visite o site:
+<br><center><a href="https://paulohscwb.github.io/cotadas/telhados.html"> https://paulohscwb.github.io/cotadas/telhados.html</a></center>
 <table><tr><td><h3>Terminologia, pág. 101</h3>
 <img src="telhados/101_telhados.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/telhados/casa.html"><img src="vr/RVaframe.png" width="180px"></a>
