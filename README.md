@@ -39,3 +39,14 @@
 <img src="vr/044_prop7.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/p7.html"><img src="vr/RVaframe.png" width="180px"></a>
 </td></tr></table>
+
+<a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+<h3 id="pontos">Pontos e segmentos em épura</h3>
+<table><tr><td><h3>Exemplo de pontos em épura, pág. </h3>
+<img src="vr/049_epura.PNG">
+<br><a href="https://paulohscwb.github.io/cotadas/vr/exerc_epura.html"><img src="vr/RVaframe.png" width="180px"></a>
+<hr>
+<h3>Verdadeira grandeza de um segmento, pág. 50</h3>
+<img src="vr/050_vg.PNG">
+<br><a href="https://paulohscwb.github.io/geometria-descritiva/vr/vg_segmento.html"><img src="vr/RVaframe.png" width="180px"></a>
+</td></tr></table>
