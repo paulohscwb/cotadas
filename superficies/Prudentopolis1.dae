@@ -2323,7 +2323,7 @@
                 <technique sid="COMMON">
                     <lambert>
                         <diffuse>
-                            <color>1 1 1 0.05</color>
+                            <color>0.5 0.5 0.7 0.05</color>
                         </diffuse>
                         <transparent opaque="RGB_ZERO">
                             <color>0.6509804 0.6509804 0.6509804 0.6509804</color>
