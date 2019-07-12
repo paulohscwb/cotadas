@@ -129,6 +129,39 @@
 </td></tr></table>
 
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+<h3 id="superficies">Superfícies Topográficas</h3>
+<br>Para ver as superfícies topográficas em Realidade Aumentada, visite o site:
+<br><center><a href="https://paulohscwb.github.io/cotadas/superficies.html"> https://paulohscwb.github.io/cotadas/superficies.html</a></center>
+<table><tr><td><h3>Curvas de nível, pág. 119</h3>
+<img src="superficies/119_cnivel.PNG">
+<br><a href="https://paulohscwb.github.io/cotadas/superficies/curva11.html"><img src="vr/RVaframe.png" width="200px"></a>
+<hr>
+<h3>Exercício 1, pág. 121</h3>
+<img src="superficies/121_exerc1.PNG">
+<br><a href="https://paulohscwb.github.io/cotadas/superficies/curva2.html"><img src="vr/RVaframe.png" width="200px"></a>
+<hr>
+<h3>Exercício 2, pág. 125</h3>
+<img src="superficies/125_exerc2.PNG">
+<br><a href="https://paulohscwb.github.io/cotadas/superficies/curva3.html"><img src="vr/RVaframe.png" width="200px"></a>
+<hr>
+<h3>Exercício 3, pág. 126</h3>
+<img src="superficies/126_exerc3.PNG">
+<br><a href="https://paulohscwb.github.io/cotadas/superficies/curva9.html"><img src="vr/RVaframe.png" width="200px"></a>
+<hr>
+<h3>Exercício da pág. 127</h3>
+<img src="superficies/127_exerc.PNG">
+<br><a href="https://paulohscwb.github.io/cotadas/superficies/curva10.html"><img src="vr/RVaframe.png" width="200px"></a>
+<hr>
+<h3>Exercício da pág. 133</h3>
+<img src="superficies/133_exerc.PNG">
+<br><a href="https://paulohscwb.github.io/cotadas/superficies/curva15.html"><img src="vr/RVaframe.png" width="200px"></a>
+<hr>
+<h3>Exercício 2, pág. 136</h3>
+<img src="superficies/136_exerc2.PNG">
+<br><a href="https://paulohscwb.github.io/cotadas/superficies/curva13c.html"><img src="vr/RVaframe.png" width="200px"></a>
+</td></tr></table>
+
+<a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 <br><br><b>Referências</b>
 <br>O ambiente Realidade Aumentada foi criado com os scripts de <b>Jerome Etienne</b>: <a href="https://github.com/jeromeetienne/AR.js"> AR.js - Augmented Reality for the Web</a>.
 <br>Os scripts de órbita desenvolvidos por <b>Till Hinrichs</b> foram usados nas páginas de RV: <a href="https://github.com/tizzle/aframe-orbit-controls-component"> A-frame orbit controls component</a>.
