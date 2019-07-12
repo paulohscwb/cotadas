@@ -6,7 +6,7 @@
 <br><center><a href="https://paulohscwb.github.io/cotadas/ra.html"> https://paulohscwb.github.io/cotadas/ra.html</a></center>
 <br>em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso aos sites de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.
-<br><br><center><img src="https://paulohscwb.github.io/geometria-descritiva/vr/exemplo.jpg" width="80%"></center>
+<br><br><center><img src="https://paulohscwb.github.io/cotadas/vr/exemplo.jpg" width="80%"></center>
 <br><b>Conteúdo do site:</b>
 <a href="#propriedades">Propriedades das projeções cilíndricas</a> | 
 <a href="#pontos">Pontos e segmentos em épura </a> | 
