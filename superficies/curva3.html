@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Maquetes</title>
+  <script src="https://aframe.io/releases/0.8.2/aframe.js"></script>
+  <script src=".././scripts/aframe-orbit-controls.min.js"></script>
+</head>
+
+<body>
+    <a-scene>
+      <a-assets>
+		<a-asset-item id="modelo" src="SaoJoseAusentes2.dae"></a-asset-item>
+		<a-mixin id="piso" geometry="primitive: box; height:0.2; width:20; depth:20;" 
+		 material="color:rgb(100,180,100); side:double; metalness:0.1; roughness:0.3" shadow></a-mixin>
+		<img id="ceu" src="ceu1.jpg">
+		</a-assets>
+	  
+	  <a-sky src="#ceu"></a-sky>
+		
+	  <a-entity camera look-controls orbit-controls="target: 0 0 0; minDistance: 0.5; minPolarAngle: 0; maxPolarAngle: 180; maxDistance: 100; initialPosition: 0 0 6"></a-entity>
+		<a-entity position="0 0 0" scale="0.003 0.003 0.003">
+			<a-entity  collada-model="#modelo"></a-entity>
+		</a-entity>
+
+  </a-scene>
+</body>
+</html>
