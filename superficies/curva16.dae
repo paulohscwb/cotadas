@@ -2717,14 +2717,11 @@
         <effect id="ID207">
             <profile_COMMON>
                 <technique sid="COMMON">
-                    <constant>
-                        <transparent opaque="A_ONE">
-                            <color>0 0 0 1</color>
-                        </transparent>
-                        <transparency>
-                            <float>1</float>
-                        </transparency>
-                    </constant>
+                    <lambert>
+                        <diffuse>
+                            <color>0.8 0.8 1 1</color>
+                        </diffuse>
+                    </lambert>
                 </technique>
             </profile_COMMON>
         </effect>
