@@ -6,7 +6,7 @@
 </head>
 <body style='margin : 0px; overflow: hidden;'>
   <a-scene renderer="logarithmicDepthBuffer: true;
-                   foveationLevel:3;" cursor="rayOrigin: mouse" raycaster="objects: [link];" 
+                   foveationLevel:0;" cursor="rayOrigin: mouse" raycaster="objects: [link];" 
 	   embedded arjs='sourceType: webcam; trackingMethod: best; maxDetectionRate: 10; detectionMode: mono_and_matrix; matrixCodeType: 3x3; debugUIEnabled: false;'>
 	
 	<a-assets>
@@ -17,7 +17,7 @@
 		<a-asset-item id="modelo1" src="./superficies/RioRastro2.dae"></a-asset-item>
 		<a-asset-item id="modelo5" src="./superficies/curva16.dae"></a-asset-item>
 		<a-asset-item id="modelo6" src="./superficies/curva13c.dae"></a-asset-item>
-		<a-mixin id="suave" markerParameters="smooth:true; smoothCount:10; smoothThreshold:8"></a-mixin>
+		<a-mixin id="suave" smooth="smooth:true; smoothCount:10; smoothThreshold:8"></a-mixin>
 		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.1 0" link="title: VR; highlighted:true; backgroundColor:LightGray"></a-mixin>
 	</a-assets>
 	  
