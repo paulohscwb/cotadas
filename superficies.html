@@ -3,7 +3,6 @@
 <head>
 	<script src="https://aframe.io/releases/0.8.2/aframe.js"></script>
 	<script src="https://jeromeetienne.github.io/AR.js/aframe/build/aframe-ar.js"></script>
-	<meta name="viewport" content="width=device-width, user-scalable=yes, minimum-scale=1.0, maximum-scale=5.0">
 </head>
 <body style='margin : 0px; overflow: hidden;'>
   <a-scene cursor="rayOrigin: mouse" raycaster="objects: [link];" 
@@ -18,13 +17,13 @@
 		<a-asset-item id="modelo1" src="./superficies/RioRastro2.dae"></a-asset-item>
 		<a-asset-item id="modelo5" src="./superficies/curva16.dae"></a-asset-item>
 		<a-asset-item id="modelo6" src="./superficies/curva13c.dae"></a-asset-item>
-		<a-mixin id="suave" smooth="true" smoothCount="25"></a-mixin>
+		<a-mixin id="suave" geometry="smooth:true; smoothCount:25;"></a-mixin>
 		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.1 0" link="title: VR; highlighted:true; backgroundColor:LightGray"></a-mixin>
 	</a-assets>
 	  
-	<a-entity camera="near:0.01; far:1"></a-entity>	
+	<a-entity camera="near:0.00001; far:1"></a-entity>	
 	
-	 <a-marker type="barcode" value="57">
+	 <a-marker type="barcode" value="57" mixin="suave">
 	   	<a-link mixin="lnk" href="superficies/curva11.html"></a-link>
 		<a-entity position="-4.2 0 -4" id="chapeu1" scale="0.0035 0.0035 0.0035">
 			<a-entity collada-model="#modelo"></a-entity>
