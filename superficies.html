@@ -6,7 +6,7 @@
 </head>
 <body style='margin : 0px; overflow: hidden;'>
   <a-scene cursor="rayOrigin: mouse" raycaster="objects: [link];" 
-	   embedded arjs='smooth:true; smoothCount:10; smoothThreshold:8; sourceType: webcam; trackingMethod: best; maxDetectionRate: 10; detectionMode: mono_and_matrix; matrixCodeType: 3x3; debugUIEnabled: false;'>
+	   embedded arjs='sourceType: webcam; trackingMethod: best; maxDetectionRate: 10; detectionMode: mono_and_matrix; matrixCodeType: 3x3; debugUIEnabled: false;'>
 	
 	<a-assets>
 		<a-asset-item id="modelo" src="./superficies/Prudentopolis.dae"></a-asset-item>
@@ -20,9 +20,9 @@
 		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.1 0" link="title: VR; highlighted:true; backgroundColor:LightGray"></a-mixin>
 	</a-assets>
 	  
-	<a-entity camera="near:100; zoom:0.2;"></a-entity>	
+	<a-entity camera="near:0.001; zoom:0.2;"></a-entity>	
 	
-	 <a-marker type="barcode" value="57" markerParameters="smooth:true; smoothCount:10; smoothThreshold:8">
+	 <a-marker type="barcode" value="57" smooth="smooth:true; smoothCount:10; smoothThreshold:8">
 	   	<a-link mixin="lnk" href="superficies/curva11.html"></a-link>
 		<a-entity position="-4.2 0 -4" id="chapeu1" scale="0.0035 0.0035 0.0035">
 			<a-entity collada-model="#modelo"></a-entity>
