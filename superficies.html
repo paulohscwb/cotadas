@@ -21,7 +21,11 @@
 		<a-mixin id="suave"></a-mixin>
 		<a-mixin id="lnk" geometry="primitive:plane;" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.1 0" link="title: VR; highlighted:true; backgroundColor:LightGray"></a-mixin>
 	</a-assets>
-	  
+	
+	<a-light type="directional" position="0 0 0" rotation="-90 0 0" color="#EEE" intensity="0.7" target="#directionaltarget">
+  		<a-entity id="directionaltarget" position="0 0 -1"></a-entity>
+	</a-light>
+	 
 	 <a-entity camera></a-entity>
 	
 	 <a-marker type="barcode" value="57" smooth="smooth:true; smoothCount:10; smoothThreshold:8">
