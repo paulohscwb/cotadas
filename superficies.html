@@ -6,7 +6,8 @@
 </head>
 <body style='margin : 0px; overflow: hidden;'>
   <a-scene cursor="rayOrigin: mouse" raycaster="objects: [link];"
-	  renderer=" sortObjects: true; logarithmicDepthBuffer: true;" embedded arjs='sourceType: webcam; trackingMethod: best; maxDetectionRate: 10; detectionMode: mono_and_matrix; matrixCodeType: 3x3; debugUIEnabled: false;'>
+		 renderer="colorManagement: true;" 
+	   embedded arjs='sourceType: webcam; trackingMethod: best; maxDetectionRate: 10; detectionMode: mono_and_matrix; matrixCodeType: 3x3; debugUIEnabled: false;'>
 	
 	<a-assets>
 		<a-asset-item id="modelo" src="./superficies/Prudentopolis.dae"></a-asset-item>
@@ -19,8 +20,8 @@
 		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.1 0" link="title: VR; highlighted:true; backgroundColor:LightGray"></a-mixin>
 	</a-assets>
 	
-	<a-entity light="type: ambient; color: #BBB; intensity:0.4;"></a-entity>
-	<a-entity light="type: directional; color: #FFF; intensity: 1.5" position="-0.5 1 1"></a-entity>
+	<a-entity light="type: ambient; color: #BBB; intensity:0.3;"></a-entity>
+	<a-entity light="type: directional; color: #FFF; intensity: 1.2" position="-0.5 1 1"></a-entity>
 	 
 	 <a-entity camera></a-entity>
 	
