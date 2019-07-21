@@ -10,17 +10,15 @@
     <a-scene>
       <a-assets>
 		<a-asset-item id="modelo" src="RioRastro2d.dae"></a-asset-item>
-		<a-mixin id="piso" geometry="primitive: box; height:0.2; width:20; depth:20;" 
-		 material="color:rgb(100,180,100); side:double; metalness:0.1; roughness:0.3" shadow></a-mixin>
 		<img id="ceu" src="ceu1.jpg">
-		</a-assets>
+      </a-assets>
 	  
 	  <a-sky src="#ceu"></a-sky>
 		
-	  <a-entity camera look-controls orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 0 0 6"></a-entity>
+	  <a-entity camera="fov:20; near:10;" look-controls orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 0 0 22"></a-entity>
 	  <a-entity position="0 0 0" scale="0.003 0.003 0.003">
 			<a-entity  collada-model="#modelo"></a-entity>
-		</a-entity>
+	   </a-entity>
 
   </a-scene>
 </body>
