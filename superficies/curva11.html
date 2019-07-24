@@ -9,7 +9,8 @@
 <body>
     <a-scene renderer="colorManagement: true;">
       <a-assets>
-		<a-asset-item id="modelo" src="Prudentopolis1.dae"></a-asset-item>
+		<a-asset-item id="modelo" src="Prudentopolisa.dae"></a-asset-item>
+		<a-asset-item id="modeloa" src="Prudentopolisb.gltf"></a-asset-item>
 		<img id="ceu" src="ceu1.jpg">
 	</a-assets>
 	  
@@ -18,6 +19,7 @@
 	  	<a-entity camera="fov:20; near:10;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 5 7 21"></a-entity>
 	 	<a-entity position="0 0 0" scale="0.003 0.003 0.003">
 			<a-entity  collada-model="#modelo"></a-entity>
+			<a-entity  gltf-model="#modeloa"></a-entity>
 		</a-entity>
 	    
 		<a-entity light="type: ambient; color: #BBB; intensity:0.9;"></a-entity>
