@@ -9,15 +9,17 @@
 <body>
     <a-scene renderer="colorManagement: true;">
       	<a-assets>
-		<a-asset-item id="modelo" src="curva15.dae"></a-asset-item>
+		<a-asset-item id="modelo" src="curva16a.dae"></a-asset-item>
+		<a-asset-item id="modeloa" src="curva16a.gltf"></a-asset-item>
 		<img id="ceu" src="ceu1.jpg">
 	</a-assets>
 	  
 	  <a-sky src="#ceu"></a-sky>
 		
-	  	<a-entity camera="fov:20; near:10;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 5 7 21"></a-entity>
+	  	<a-entity camera="fov:20; near:1;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 5 7 21"></a-entity>
 	  	<a-entity position="0 0 0" scale="0.004 0.004 0.004" rotation="0 -45 0">
 			<a-entity  collada-model="#modelo"></a-entity>
+			<a-entity  gltf-model="#modeloa"></a-entity>
 		</a-entity>
 		<a-entity light="type: ambient; color: #BBB; intensity:0.9;"></a-entity>
 		<a-entity light="type: directional; color: #BBB; intensity: 1.3" position="-0.5 1 1"></a-entity>
