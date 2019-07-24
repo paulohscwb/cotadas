@@ -23,7 +23,9 @@
 		<a-asset-item id="modelo1a" src="./superficies/RioRastro2a.dae"></a-asset-item>
 		<a-asset-item id="modelo1b" src="./superficies/RioRastro2b.gltf"></a-asset-item>
 		<a-asset-item id="modelo5" src="./superficies/curva16.dae"></a-asset-item>
-		<a-asset-item id="modelo6" src="./superficies/curva13c.dae"></a-asset-item>
+		<!--<a-asset-item id="modelo6" src="./superficies/curva13c.dae"></a-asset-item>-->
+		<a-asset-item id="modelo6" src="./superficies/curva13a.dae"></a-asset-item>
+		<a-asset-item id="modelo6a" src="./superficies/curva13b.gltf"></a-asset-item>
 		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.1 0" link="title: VR; highlighted:true; backgroundColor:LightGray"></a-mixin>
 	</a-assets>
 	
@@ -82,6 +84,7 @@
 	   	<a-link mixin="lnk" href="superficies/curva13c.html"></a-link>
 		<a-entity position="-5.2 0 -5.7" id="curva13c" scale="0.006 0.006 0.006">
 			<a-entity collada-model="#modelo6"></a-entity>
+			<a-entity gltf-model="#modelo6a"></a-entity>
 		</a-entity>
   	 </a-marker>
 	  
