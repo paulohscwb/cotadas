@@ -10,6 +10,7 @@
     <a-scene renderer="colorManagement: true;">
       <a-assets>
 		<a-asset-item id="modelo" src="RioRastro2.gltf"></a-asset-item>
+	        <a-asset-item id="modeloa" src="RioRastro2a.dae"></a-asset-item>
 		<img id="ceu" src="ceu1.jpg">
       </a-assets>
 	  
@@ -17,7 +18,8 @@
 		
 	  <a-entity camera="fov:20; near:10;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 5 7 21"></a-entity>
 	  <a-entity position="0 0 0" scale="0.003 0.003 0.003">
-			<a-entity  gltf-model="#modelo"></a-entity>
+		<a-entity  gltf-model="#modelo"></a-entity>
+		<a-entity  collada-model="#modeloa"></a-entity>  
 	   </a-entity>
 		
 	    <a-entity light="type: ambient; color: #BBB; intensity:0.9;"></a-entity>
