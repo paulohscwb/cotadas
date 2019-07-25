@@ -10,7 +10,9 @@
 	
 	<a-assets>
 		<a-asset-item id="telhado35" src="./telhados/telhado35.dae"></a-asset-item>
-		<a-asset-item id="telhado37" src="./telhados/telhado37.dae"></a-asset-item>
+		<!--<a-asset-item id="telhado37" src="./telhados/telhado37.dae"></a-asset-item>-->
+		<a-asset-item id="telhado37" src="./telhados/telhado37a.dae"></a-asset-item>
+		<a-asset-item id="telhado37a" src="./telhados/telhado37a.gltf"></a-asset-item>
 		<a-asset-item id="telhado38" src="./telhados/telhado38.dae"></a-asset-item>
 		<a-asset-item id="telhado39" src="./telhados/telhado39.dae"></a-asset-item>
 		<a-asset-item id="telhado33" src="./telhados/telhado33.dae"></a-asset-item>
@@ -20,7 +22,9 @@
 		<a-asset-item id="telhado44" src="./telhados/telhado44.dae"></a-asset-item>
 		<a-asset-item id="telhado45" src="./telhados/telhado45.dae"></a-asset-item>
 		<a-asset-item id="telhado46" src="./telhados/telhado46.dae"></a-asset-item>
-		<a-asset-item id="casa" src="./telhados/casa.dae"></a-asset-item>
+		<!--<a-asset-item id="casa" src="./telhados/casa.dae"></a-asset-item>-->
+		<a-asset-item id="casa" src="./telhados/casaa.dae"></a-asset-item>
+		<a-asset-item id="casaa" src="./telhados/casaa.gltf"></a-asset-item>
 		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.1 0" link="title: VR; highlighted:true; backgroundColor:LightGray"></a-mixin>
 	</a-assets>
 	  
@@ -37,6 +41,7 @@
 	   	<a-link mixin="lnk" href="telhados/telhado37.html"></a-link>
 		<a-entity position="4.3 0 -3.7" id="telhado37" scale="0.46 0.46 0.46">
 			<a-entity collada-model="#telhado37"></a-entity>
+			<a-entity gltf-model="#telhado37a"></a-entity>
 		</a-entity>
   	 </a-marker>
 		
@@ -107,6 +112,7 @@
 	   	<a-link mixin="lnk" href="telhados/casa.html"></a-link>
 		<a-entity position="3 0 -3" id="casa" scale="0.35 0.35 0.35">
 			<a-entity collada-model="#casa"></a-entity>
+			<a-entity gltf-model="#casaa"></a-entity>
 		</a-entity>
   	 </a-marker>
 	  
