@@ -102,15 +102,15 @@
     {
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.2011,
-          0.1835,
-          0.1835,
+          0.5356,
+          0.3787,
+          0.1734,
           1.0
         ],
         "metallicFactor": 0.1,
         "roughnessFactor": 0.9
       },
-      "name": "Chris_Shoe_Sole",
+      "name": "Chris_Skin",
       "doubleSided": true
     },
     {
