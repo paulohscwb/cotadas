@@ -9,15 +9,17 @@
 <body>
     <a-scene>
       <a-assets>
-		<a-asset-item id="modelo" src="casa.dae"></a-asset-item>
+		<a-asset-item id="modelo" src="casaa.dae"></a-asset-item>
+		<a-asset-item id="modeloa" src="casaa.gltf"></a-asset-item>
 		<img id="ceu" src="ceu1.jpg">
  	</a-assets>
 	  
 	  <a-sky src="#ceu"></a-sky>
 		
-	 <a-entity camera="fov:1; near:100;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 100 120 500"></a-entity>
+	 <a-entity camera="fov:1; near:5;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 100 120 500"></a-entity>
 	 	<a-entity position="0 -2 0" scale="0.45 0.45 0.45">
 			<a-entity  collada-model="#modelo"></a-entity>
+			<a-entity  gltf-model="#modeloa"></a-entity>
 		</a-entity>
 
   </a-scene>
