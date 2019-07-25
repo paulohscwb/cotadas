@@ -16,14 +16,14 @@
 	  
 	  <a-sky src="#ceu"></a-sky>
 		
-	 <a-entity camera="fov:1; near:35;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 100 120 500"></a-entity>
+	 <a-entity camera="fov:1; near:0.1; zoom:0.05;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 5 8 25"></a-entity>
 	 	<a-entity position="0 -2 0" scale="0.45 0.45 0.45">
 			<a-entity  collada-model="#modelo"></a-entity>
 			<a-entity  gltf-model="#modeloa"></a-entity>
 		</a-entity>
 		
-	<a-entity light="type: ambient; color: #BBB; intensity:1.5;"></a-entity>
-	<a-entity light="type: directional; color: #BBB; intensity: 1.7" position="-0.5 1 1"></a-entity>
+	<a-entity light="type: ambient; color: #BBB; intensity:1.8;"></a-entity>
+	<a-entity light="type: directional; color: #BBB; intensity: 1.5" position="-1 1 1"></a-entity>
 
   </a-scene>
 </body>
