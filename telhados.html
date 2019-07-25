@@ -9,7 +9,9 @@
 	   embedded arjs='sourceType: webcam; trackingMethod: best; detectionMode: mono_and_matrix; matrixCodeType: 3x3; debugUIEnabled: false;'>
 	
 	<a-assets>
-		<a-asset-item id="telhado35" src="./telhados/telhado35.dae"></a-asset-item>
+		<!--<a-asset-item id="telhado35" src="./telhados/telhado35.dae"></a-asset-item>-->
+		<a-asset-item id="telhado35" src="./telhados/telhado35a.dae"></a-asset-item>
+		<a-asset-item id="telhado35a" src="./telhados/telhado35a.gltf"></a-asset-item>
 		<!--<a-asset-item id="telhado37" src="./telhados/telhado37.dae"></a-asset-item>-->
 		<a-asset-item id="telhado37" src="./telhados/telhado37a.dae"></a-asset-item>
 		<a-asset-item id="telhado37a" src="./telhados/telhado37a.gltf"></a-asset-item>
@@ -40,6 +42,7 @@
 	   	<a-link mixin="lnk" href="telhados/telhado35.html"></a-link>
 		<a-entity position="5 0 -4.6" id="telhado35" scale="0.475 0.475 0.475">
 			<a-entity collada-model="#telhado35"></a-entity>
+			<a-entity gltf-model="#telhado35a"></a-entity>
 		</a-entity>
   	 </a-marker>
 		
