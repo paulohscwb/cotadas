@@ -1183,16 +1183,11 @@
     <library_effects>
         <effect id="ID5">
             <profile_COMMON>
-                <technique sid="COMMON">
-                    <constant>
-                        <transparent opaque="A_ONE">
-                            <color>0.08627451 0.08627451 0.08627451 1</color>
-                        </transparent>
-                        <transparency>
-                            <float>1</float>
-                        </transparency>
-                    </constant>
-                </technique>
+                <lambert>
+                        <diffuse>
+                            <color>0.8 0.8 1 1</color>
+                        </diffuse>
+                    </lambert>
             </profile_COMMON>
         </effect>
     </library_effects>
