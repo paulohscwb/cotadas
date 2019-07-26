@@ -1183,11 +1183,13 @@
     <library_effects>
         <effect id="ID5">
             <profile_COMMON>
-                <lambert>
+                <technique sid="COMMON">
+                    <lambert>
                         <diffuse>
                             <color>0.8 0.8 1 1</color>
                         </diffuse>
                     </lambert>
+                </technique>
             </profile_COMMON>
         </effect>
     </library_effects>
