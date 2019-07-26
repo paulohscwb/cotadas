@@ -21,7 +21,7 @@
 			<a-mixin id="mtl9" material="color: #6E6E6E;"></a-mixin>
 			<a-mixin id="linhas" material="color: black; wireframe: true; wireframe-linewidth:1;"></a-mixin>
 			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3; side: double;"></a-mixin>
-			<a-mixin id="texto" text="width: 12; side:double; color: black">
+			<a-mixin id="texto" text="width: 12; side:double; color: black" rotation="-25 0 0">
 			<a-mixin id="reta" geometry="radius:0.04;" mixin="mtl1"></a-mixin>
 			<a-mixin id="ponto" geometry="radius:0.1;" mixin="mtl8"></a-mixin>
 		</a-assets>
@@ -29,7 +29,7 @@
 		<a-entity hand-controls controller-cursor raycaster="far: 2"></a-entity>
 		<a-entity gearvr-controls></a-entity>
 		
-		<a-entity scale="0.7 0.7 0.7" position="-3 0 3">
+		<a-entity scale="0.7 0.7 0.7" position="-4 0 3">
 			<a-text position="11 0.32 1.7" value="pi'" mixin="texto"></a-text>
 			
 			<a-sphere mixin="ponto" position="4 2 -3"></a-sphere>
@@ -67,7 +67,7 @@
 		
 		</a-entity>
 		
-		<a-entity camera="fov:15; near:5;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 6 15 42"></a-entity>
+		<a-entity camera="fov:15; near:0.5;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 6 25 40"></a-entity>
 		<a-sky color="rgba(150,200,255)"></a-sky>
 
 	</a-scene>
