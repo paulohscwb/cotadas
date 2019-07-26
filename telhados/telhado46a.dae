@@ -338,14 +338,11 @@
         <effect id="ID16">
             <profile_COMMON>
                 <technique sid="COMMON">
-                    <constant>
-                        <transparent opaque="A_ONE">
-                            <color>0.7960784 0.8078431 0.7921569 1</color>
-                        </transparent>
-                        <transparency>
-                            <float>1</float>
-                        </transparency>
-                    </constant>
+                    <lambert>
+                        <diffuse>
+                            <color>0.25 0.25 0.3 1</color>
+                        </diffuse>
+                    </lambert>
                 </technique>
             </profile_COMMON>
         </effect>
@@ -373,10 +370,10 @@
     </library_effects>
     <library_images>
         <image id="ID6">
-            <init_from>telhado46a/Roofing_Scalloped.jpg</init_from>
+            <init_from>telhado46/Roofing_Scalloped.jpg</init_from>
         </image>
         <image id="ID39">
-            <init_from>telhado46a/Cinder_Block.jpg</init_from>
+            <init_from>telhado46/Cinder_Block.jpg</init_from>
         </image>
     </library_images>
     <scene>
