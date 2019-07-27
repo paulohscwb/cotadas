@@ -76,9 +76,9 @@
     {
       "pbrMetallicRoughness": {
         "baseColorFactor": [
-          0.7969,
-          0.7969,
-          0.7969,
+          0.5234,
+          0.6524,
+          0.6524,
           1.0
         ],
         "metallicFactor": 0.1,
