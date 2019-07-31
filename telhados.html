@@ -38,13 +38,16 @@
 	  
 	<a-entity camera></a-entity>	
 	<a-entity light="type: ambient; color: #BBB"></a-entity>
-	<a-entity light="type: directional; color: #FFF; intensity: 0.7" position="-0.5 2 -0.5"></a-entity>
+	<a-entity light="type: directional; color: #FFF; intensity: 0.7" position="-0.5 1 -1" shadow="cast: true"></a-entity>
+
+	  <a-plane width="0.5" height="0.5" position="0 0 0" rotation="-90 0 0" 
+           color="white" material="opacity:0.2" shadow="receive: true"></a-plane>
 	  
 	<a-marker type="barcode" value="0" smooth="smooth:true; smoothCount:1;">
 	   	<a-link mixin="lnk" href="telhados/telhado35.html"></a-link>
 		<a-entity position="4.6 0 -4.3" id="t35" scale="0.44 0.44 0.44">
 			<a-entity gltf-model="#telhado35a"></a-entity>
-			<a-entity collada-model="#telhado35"></a-entity>
+			<a-entity collada-model="#telhado35" shadow="cast: true"></a-entity>
 		</a-entity>
   	 </a-marker>
 		
