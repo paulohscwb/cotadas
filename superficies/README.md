@@ -7,7 +7,6 @@
 <br>em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso aos sites de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.
 <br><br><center><img src="https://paulohscwb.github.io/cotadas/vr/exemplo.jpg" width="80%"></center>
-<hr>
 <table><tr><td><h3>Curvas de nível, pág. 119</h3>
 <img src="119_cnivel.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/superficies/curva11.html"><img src="../vr/RVaframe.png" width="200px"></a>
