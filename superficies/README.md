@@ -34,6 +34,10 @@
 <h3>Exercício 2, pág. 136</h3>
 <img src="136_exerc2.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/superficies/curva13c.html"><img src="../vr/RVaframe.png" width="200px"></a>
+<hr>
+<h3>Exercício novo: estrada com curva</h3>
+<img src="estrada_curva.PNG">
+<br><a href="https://paulohscwb.github.io/cotadas/superficies/curva16.html"><img src="../vr/RVaframe.png" width="200px"></a>
 </td></tr></table>
 
 <a href="#inicio"><img src="../vr/topo.png" width="18px"> voltar ao topo</a>
