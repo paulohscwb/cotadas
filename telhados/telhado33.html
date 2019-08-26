@@ -8,34 +8,26 @@
 
 <body>
     <a-scene>
-      <a-assets>
-		<a-asset-item id="modelo" src="./imagens/telhado33.dae"></a-asset-item>
-		<a-mixin id="piso" geometry="primitive: box; height:0.2; width:20; depth:20;" 
-		 material="color:rgb(100,180,100); side:double; metalness:0.1; roughness:0.3" shadow></a-mixin>
-		<img id="ceu" src="imagens/ceu1.jpg">
-		</a-assets>
-	  
-
-  
-	  
+        <a-assets>
+		<a-asset-item id="modelo" src="telhado34a.dae"></a-asset-item>
+		<a-asset-item id="modeloa" src="telhado34a.glb"></a-asset-item>
+		<img id="ceu" src="ceu1.jpg">
+	</a-assets>
 	  
 	  <a-sky src="#ceu"></a-sky>
 		
-	  <a-entity camera look-controls orbit-controls="target: 0 0 0; minDistance: 0.5; minPolarAngle: -90; maxPolarAngle: 180; maxDistance: 100; initialPosition: 0 0 7"></a-entity>
-	  	<!--<a-light type="spot" intensity="0.7" color="#eaeaea" position="0 5 0" angle="120" rotation="-90 0 0" penumbra="0.8" light="castShadow:true;"></a-light>
-		<a-light type="ambient" intensity="1.8" color="grey"></a-light>
-	  -->
-		<a-entity position="0 -1.2 0" rotation="0 30 0" scale="0.5 0.5 0.5">
+	 <a-entity camera="fov:1; near:0.1; zoom:0.05;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 5 8 25"></a-entity>
+	  <a-entity position="0 -1.22 0" scale="0.45 0.45 0.45">
 			<a-entity  collada-model="#modelo"></a-entity>
+			<a-entity  gltf-model="#modeloa"></a-entity>
 		</a-entity>
-<a-entity light="type: ambient; color: #FFF; intensity:0.5;"></a-entity>
+	<a-entity light="type: ambient; color: #FFF; intensity:0.5;"></a-entity>
 		<a-entity light="type: directional; color: #BBB; intensity: 0.5" position="0 0 1"></a-entity>
 		<a-entity light="type: directional; color: #BBB; intensity: 0.5" position="0 0 -1"></a-entity>
 		<a-entity light="type: directional; color: #BBB; intensity: 0.5" position="1 0 0"></a-entity>
 		<a-entity light="type: directional; color: #BBB; intensity: 0.5" position="-1 0 0"></a-entity>
 		<a-entity light="type: directional; color: #BBB; intensity: 0.5" position="0 -1 0"></a-entity>
 		<a-entity light="type: directional; color: #BBB; intensity: 0.5" position="0 1 0"></a-entity>
-
   </a-scene>
 </body>
 </html>
