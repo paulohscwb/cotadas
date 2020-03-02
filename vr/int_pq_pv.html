@@ -1,0 +1,29 @@
+<html>
+  <head>
+	<title>360 Image Browser</title>
+	<meta charset="ISO-8859-1">
+	<script src="https://aframe.io/releases/0.8.2/aframe.js"></script>
+	<script src=".././scripts/aframe-orbit-controls.min.js"></script>
+	<script src=".././scripts/faceset.js"></script>
+  </head>  
+<body>
+	<a-scene>
+		<a-assets>
+			<a-asset-item id="modeloa" src="int_pq_pv.dae"></a-asset-item>
+			<a-asset-item id="modelo" src="int_pq_pv.glb"></a-asset-item>
+		</a-assets>
+
+		<a-entity hand-controls controller-cursor raycaster="far: 2"></a-entity>
+		<a-entity gearvr-controls></a-entity>
+		
+		<a-entity position="0 0 0" scale="3 3 3">
+			<a-entity gltf-model="#modelo"></a-entity>
+			<a-entity collada-model="#modeloa"></a-entity>
+	         </a-entity>
+		
+		<a-entity camera="fov:15; near:0.5;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 6 25 40"></a-entity>
+		<a-sky color="rgba(150,200,255)"></a-sky>
+
+	</a-scene>
+</body>
+</html>
