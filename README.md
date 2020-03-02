@@ -12,6 +12,7 @@
 <a href="#pontos">Pontos e segmentos em épura </a> | 
 <a href="#solidos">Sólidos em Projeções Cotadas</a> | 
 <a href="#rebatimento">Rebatimento de um plano qualquer</a> | 
+<a href="#intersecoes">Interseções de planos</a> | 
 <a href="#telhados">Representação de telhados</a> | 
 <a href="#superficies">Superfícies Topográficas</a> | 
 <a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2014/09/Cotadas_2019.pdf" target="_blank"> Apostila completa </a>
@@ -66,6 +67,10 @@
 <h3>Prisma de base hexagonal, pág. 56</h3>
 <img src="vr/078_prisma1.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/prisma1.html"><img src="vr/RVaframe.png" width="200px"></a>
+<hr>
+<h3>Reta de declive, pág. 63</h3>
+<img src="vr/reta-declive-pag63.PNG">
+<br><a href="https://paulohscwb.github.io/cotadas/vr/reta_declive.html"><img src="vr/RVaframe.png" width="200px"></a>
 </td></tr></table>
 
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
@@ -73,6 +78,25 @@
 <table><tr><td><h3>Exemplo da pág. 66</h3>
 <img src="vr/088_rebatimento.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/rebatimento.html"><img src="vr/RVaframe.png" width="200px"></a>
+</td></tr></table>
+
+<a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+<h3 id="intersecoes">Interseções de planos</h3>
+<table><tr><td><h3>Interseção de plano vertical com plano horizontal, pág. 74</h3>
+<img src="vr/int-pv-ph-pag74.PNG">
+<br><a href="https://paulohscwb.github.io/cotadas/vr/int_pv_ph.html"><img src="vr/RVaframe.png" width="200px"></a>
+<hr>
+<h3>Interseção de plano qualquer com plano horizontal, pág. 74</h3>
+<img src="vr/int-pq-ph-pag74.PNG">
+<br><a href="https://paulohscwb.github.io/cotadas/vr/int_pq_ph.html"><img src="vr/RVaframe.png" width="200px"></a>
+<hr>
+<h3>Interseção de plano qualquer com plano vertical, pág. 75</h3>
+<img src="vr/int-pq-pv-pag75.PNG">
+<br><a href="https://paulohscwb.github.io/cotadas/vr/int_pq_pv.html"><img src="vr/RVaframe.png" width="200px"></a>
+<hr>
+<h3>Interseção de dois planos quaisquer, pág. 75</h3>
+<img src="vr/int-pq-pq-pag75.PNG">
+<br><a href="https://paulohscwb.github.io/cotadas/vr/int_pq_pq.html"><img src="vr/RVaframe.png" width="200px"></a>
 </td></tr></table>
 
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
