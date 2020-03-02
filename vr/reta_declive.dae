@@ -74,14 +74,11 @@
         <effect id="ID5">
             <profile_COMMON>
                 <technique sid="COMMON">
-                    <constant>
-                        <transparent opaque="A_ONE">
+                    <lambert>
+                        <diffuse>
                             <color>0.75 0.75 0.8 1</color>
-                        </transparent>
-                        <transparency>
-                            <float>1</float>
-                        </transparency>
-                    </constant>
+                        </diffuse>
+                    </lambert>
                 </technique>
             </profile_COMMON>
         </effect>
