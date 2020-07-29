@@ -15,7 +15,7 @@
 <a href="#intersecoes">Interseções de planos</a> | 
 <a href="#telhados">Representação de telhados</a> | 
 <a href="#superficies">Superfícies Topográficas</a> | 
-<a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2014/09/Cotadas_2019.pdf" target="_blank"> Apostila completa </a>
+<a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2014/09/Cotadas_2020.pdf" target="_blank"> Apostila completa </a>
 <hr>
 <h3 id="propriedades">Propriedades das projeções cilíndricas</h3>
 <table><tr><td><h3>Propriedade 1, pág. 15</h3>
