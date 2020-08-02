@@ -43,11 +43,11 @@
 <img src="vr/044_prop7.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/p7.html"><img src="vr/RVaframe.png" width="200px"></a>
 </td></tr></table>
-
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
-<h3 id="pontos">Pontos e segmentos em épura</h3>
+<details>
+  <summary><h3 id="pontos">&#9655; Pontos e segmentos em épura</h3></summary>
 <table><tr><td><h3>Exemplo de pontos em épura, pág. 27</h3>
 <img src="vr/049_epura.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/exerc_epura.html"><img src="vr/RVaframe.png" width="200px"></a>
@@ -56,9 +56,11 @@
 <img src="vr/050_vg.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/vg_segmento.html"><img src="vr/RVaframe.png" width="200px"></a>
 </td></tr></table>
-
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
-<h3 id="solidos">Sólidos em Projeções Cotadas</h3>
+</details>
+
+<details>
+  <summary><h3 id="solidos">&#9655; Sólidos em Projeções Cotadas</h3></summary>
 <table><tr><td><h3>Pirâmide de base hexagonal, pág. 53</h3>
 <img src="vr/075_piramide1.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/piramide1.html"><img src="vr/RVaframe.png" width="200px"></a>
@@ -75,16 +77,20 @@
 <img src="vr/reta-declive-pag63.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/reta_declive.html"><img src="vr/RVaframe.png" width="200px"></a>
 </td></tr></table>
-
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
-<h3 id="solidos">Rebatimento de um plano qualquer</h3>
+</details>
+
+<details>
+  <summary><h3 id="rebatimento">&#9655; Rebatimento de um plano qualquer</h3></summary>
 <table><tr><td><h3>Exemplo da pág. 66</h3>
 <img src="vr/088_rebatimento.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/rebatimento.html"><img src="vr/RVaframe.png" width="200px"></a>
 </td></tr></table>
-
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
-<h3 id="intersecoes">Interseções de planos</h3>
+</details>
+
+<details>
+  <summary><h3 id="intersecoes">&#9655; Interseções de planos</h3></summary>
 <table><tr><td><h3>Interseção de plano vertical com plano horizontal, pág. 74</h3>
 <img src="vr/int-pv-ph-pag74.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/int_pv_ph.html"><img src="vr/RVaframe.png" width="200px"></a>
@@ -101,9 +107,11 @@
 <img src="vr/int-pq-pq-pag75.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/int_pq_pq.html"><img src="vr/RVaframe.png" width="200px"></a>
 </td></tr></table>
-
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
-<h3 id="telhados">Representações de telhados</h3>
+</details>
+
+<details>
+  <summary><h3 id="telhados">&#9655; Representações de telhados</h3></summary>
 <br>Para ver os telhados em Realidade Aumentada, visite o site:
 <br><center><a href="https://paulohscwb.github.io/cotadas/telhados.html"> https://paulohscwb.github.io/cotadas/telhados.html</a></center>
 <table><tr><td><h3>Terminologia, pág. 79</h3>
@@ -154,9 +162,11 @@
 <img src="telhados/117_telhado46.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/telhados/telhado46.html"><img src="vr/RVaframe.png" width="200px"></a>
 </td></tr></table>
-
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
-<h3 id="superficies">Superfícies Topográficas</h3>
+</details>
+
+<details>
+  <summary><h3 id="superficies">&#9655; Superfícies Topográficas</h3></summary>
 <br>Para ver as superfícies topográficas em Realidade Aumentada, visite o site:
 <br><center><a href="https://paulohscwb.github.io/cotadas/superficies.html"> https://paulohscwb.github.io/cotadas/superficies.html</a></center>
 <table><tr><td><h3>Curvas de nível, pág. 97</h3>
@@ -187,8 +197,9 @@
 <img src="superficies/136_exerc2.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/superficies/curva13c.html"><img src="vr/RVaframe.png" width="200px"></a>
 </td></tr></table>
-
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+</details>
+
 <br><br><b>Referências</b>
 <br>O ambiente Realidade Aumentada foi criado com os scripts de <b>Jerome Etienne</b>: <a href="https://github.com/jeromeetienne/AR.js"> AR.js - Augmented Reality for the Web</a>.
 <br>Os scripts de órbita desenvolvidos por <b>Kevin Ngo</b> foram usados nas páginas de RV: <a href="https://github.com/supermedium/superframe/tree/master/components/orbit-controls/"> Orbit controls for A-Frame</a>.
