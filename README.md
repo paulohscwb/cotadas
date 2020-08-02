@@ -18,7 +18,7 @@
 <a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2014/09/Cotadas_2020.pdf" target="_blank"> Apostila completa </a>
 <hr>
 <details>
-  <summary id="propriedades" style="font-size:45px; color:red;">Propriedades das projeções cilíndricas</summary>
+  <summary id="propriedades" style="font-size:16px; color:#8ca457;">Propriedades das projeções cilíndricas</summary>
 <table><tr><td><h3>Propriedade 1, pág. 15</h3>
 <img src="vr/037_prop1a.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/p1.html"><img src="vr/RVaframe.png" width="200px"></a>
@@ -47,7 +47,7 @@
 </details>
 
 <details>
-  <summary><h3 id="pontos">&#9655; Pontos e segmentos em épura</h3></summary>
+  <summary id="pontos" style="font-size:16px; color:#8ca457;">Pontos e segmentos em épura</summary>
 <table><tr><td><h3>Exemplo de pontos em épura, pág. 27</h3>
 <img src="vr/049_epura.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/exerc_epura.html"><img src="vr/RVaframe.png" width="200px"></a>
@@ -60,7 +60,7 @@
 </details>
 
 <details>
-  <summary><h3 id="solidos">&#9655; Sólidos em Projeções Cotadas</h3></summary>
+  <summary id="solidos" style="font-size:16px; color:#8ca457;">Sólidos em Projeções Cotadas</summary>
 <table><tr><td><h3>Pirâmide de base hexagonal, pág. 53</h3>
 <img src="vr/075_piramide1.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/piramide1.html"><img src="vr/RVaframe.png" width="200px"></a>
@@ -81,7 +81,7 @@
 </details>
 
 <details>
-  <summary><h3 id="rebatimento">&#9655; Rebatimento de um plano qualquer</h3></summary>
+  <summary id="rebatimento" style="font-size:16px; color:#8ca457;">Rebatimento de um plano qualquer</summary>
 <table><tr><td><h3>Exemplo da pág. 66</h3>
 <img src="vr/088_rebatimento.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/rebatimento.html"><img src="vr/RVaframe.png" width="200px"></a>
@@ -90,7 +90,7 @@
 </details>
 
 <details>
-  <summary><h3 id="intersecoes">&#9655; Interseções de planos</h3></summary>
+  <summary id="intersecoes" style="font-size:16px; color:#8ca457;">Interseções de planos</summary>
 <table><tr><td><h3>Interseção de plano vertical com plano horizontal, pág. 74</h3>
 <img src="vr/int-pv-ph-pag74.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/int_pv_ph.html"><img src="vr/RVaframe.png" width="200px"></a>
@@ -111,7 +111,7 @@
 </details>
 
 <details>
-  <summary><h3 id="telhados">&#9655; Representações de telhados</h3></summary>
+  <summary id="telhados" style="font-size:16px; color:#8ca457;">Representações de telhados</summary>
 <br>Para ver os telhados em Realidade Aumentada, visite o site:
 <br><center><a href="https://paulohscwb.github.io/cotadas/telhados.html"> https://paulohscwb.github.io/cotadas/telhados.html</a></center>
 <table><tr><td><h3>Terminologia, pág. 79</h3>
@@ -166,7 +166,7 @@
 </details>
 
 <details>
-  <summary><h3 id="superficies">&#9655; Superfícies Topográficas</h3></summary>
+  <summary id="superficies" style="font-size:16px; color:#8ca457;">Superfícies Topográficas</summary>
 <br>Para ver as superfícies topográficas em Realidade Aumentada, visite o site:
 <br><center><a href="https://paulohscwb.github.io/cotadas/superficies.html"> https://paulohscwb.github.io/cotadas/superficies.html</a></center>
 <table><tr><td><h3>Curvas de nível, pág. 97</h3>
