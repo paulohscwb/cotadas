@@ -18,7 +18,7 @@
 <a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2014/09/Cotadas_2020.pdf" target="_blank"> Apostila completa </a>
 <hr>
 <details>
-  <summary id="propriedades" style="font-size:45px; color:red;">&#9655; Propriedades das projeções cilíndricas</summary>
+  <summary id="propriedades" style="font-size:45px; color:red;">Propriedades das projeções cilíndricas</summary>
 <table><tr><td><h3>Propriedade 1, pág. 15</h3>
 <img src="vr/037_prop1a.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/p1.html"><img src="vr/RVaframe.png" width="200px"></a>
