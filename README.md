@@ -93,7 +93,7 @@
 <details>
   <summary id="rebatimento">Reta de declive e Rebatimento de um plano qualquer</summary>
 <h3>Exemplo da pág. 63</h3>
-<img src="vr/reta-declive-pag63.PNG.PNG">
+<img src="vr/reta-declive-pag63.PNG">
   <figcaption>Visualização em RA e RV da representação da reta de declive de um plano qualquer.</figcaption>
 <br><a href="https://paulohscwb.github.io/cotadas/vr/reta_declive.html.html"><img src="vr/RVaframe.png" width="200px"></a>
 <h3>Exemplo da pág. 66</h3>
