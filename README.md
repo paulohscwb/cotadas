@@ -55,8 +55,9 @@
   <figcaption>Visualização do item c do Exercício 5 com RV e RA.</figcaption>
 <br><a href="https://paulohscwb.github.io/cotadas/vr/p_ex5c_hexagono.html"><img src="vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Propriedade 7, pág. 44</h3>
+<h3>Propriedade 7, pág. 22</h3>
 <img src="vr/044_prop7.PNG">
+  <figcaption>Visualização da propriedade 7 com RV e RA.</figcaption>
 <br><a href="https://paulohscwb.github.io/cotadas/vr/p7.html"><img src="vr/RVaframe.png" width="200px"></a>
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
