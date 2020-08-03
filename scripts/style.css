@@ -22,4 +22,7 @@ details {
 details:last-child {
   border-bottom: 1px solid #a2dec0;
 }
+h3 {
+  font-size: 19px;
+}
 
