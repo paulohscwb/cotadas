@@ -98,20 +98,19 @@ body{
 }
 
 
-
 /* background images */
 .slide:first-child{
-  background: url('./images/img01.jpg') no-repeat center center/cover;
+  background: url('./vr/037_prop1a.PNG') no-repeat center center/cover;
 }
 .slide:nth-child(2){
-  background: url('./images/img02.jpg') no-repeat center top/cover;
+  background: url('./vr/037_prop1b.PNG') no-repeat center top/cover;
 }
 .slide:nth-child(3){
-  background: url('./images/img03.jpg') no-repeat center top/cover;
+  background: url('./vr/038_prop2a.PNG') no-repeat center top/cover;
 }
 .slide:nth-child(4){
-  background: url('./images/img04.jpg') no-repeat center top/cover;
+  background: url('./vr/038_prop2b.PNG') no-repeat center top/cover;
 }
 .slide:nth-child(5){
-  background: url('./images/img05.jpg') no-repeat center top/cover;
+  background: url('./042_exerc4c.PNG') no-repeat center top/cover;
 }
