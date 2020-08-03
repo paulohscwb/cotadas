@@ -2,13 +2,16 @@ figcaption {
   margin-top:-20px;
   background: rgba(200,200,200,0.25);
   padding: 5px;
-  border-radius: 50px 20px;
+  border-radius: 7px;
   z-index: 30;
+}
+img {
+  z-index:29;
 }
 summary {
   font-size: 21px;
   color: #159957;
-{
+}
 details {
   border: 1px solid grey;
   padding: 3px;
