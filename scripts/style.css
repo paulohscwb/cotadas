@@ -1,8 +1,9 @@
 figcaption {
   margin-top:-20px;
   background: rgba(200,200,200,0.25);
-  padding: 20px 5px 5px 5px;
+  padding: 5px;
   border-radius: 50px 20px;
+  z-index: 30;
 }
 summary {
   font-size: 21px;
