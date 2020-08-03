@@ -18,7 +18,7 @@ details {
   padding: 3px;
   border-radius: 7px;
 }
-details: last-child {
+details:last-child {
   border-bottom: 1px solid #a2dec0;
 }
 
