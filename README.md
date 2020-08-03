@@ -52,20 +52,19 @@
 
 <details>
   <summary id="pontos">Pontos e segmentos em épura</summary>
-<table><tr><td><h3>Exemplo de pontos em épura, pág. 49</h3>
+<h3>Exemplo de pontos em épura, pág. 49</h3>
 <img src="vr/049_epura.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/exerc_epura.html"><img src="vr/RVaframe.png" width="200px"></a>
 <hr>
 <h3>Verdadeira grandeza de um segmento, pág. 50</h3>
 <img src="vr/050_vg.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/vg_segmento.html"><img src="vr/RVaframe.png" width="200px"></a>
-</td></tr></table>
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
 <details>
   <summary id="solidos">Sólidos em Projeções Cotadas</summary>
-<table><tr><td><h3>Pirâmide de base hexagonal, pág. 75</h3>
+<h3>Pirâmide de base hexagonal, pág. 75</h3>
 <img src="vr/075_piramide1.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/piramide1.html"><img src="vr/RVaframe.png" width="200px"></a>
 <hr>
@@ -76,16 +75,14 @@
 <h3>Prisma de base hexagonal, pág. 50</h3>
 <img src="vr/078_prisma1.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/prisma1.html"><img src="vr/RVaframe.png" width="200px"></a>
-</td></tr></table>
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
 <details>
   <summary id="solidos">Rebatimento de um plano qualquer</summary>
-<table><tr><td><h3>Exemplo da pág. 88</h3>
+<h3>Exemplo da pág. 88</h3>
 <img src="vr/088_rebatimento.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/rebatimento.html"><img src="vr/RVaframe.png" width="200px"></a>
-</td></tr></table>
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
@@ -93,7 +90,7 @@
   <summary id="telhados">Representações de telhados</summary>
 <br>Para ver os telhados em Realidade Aumentada, visite o site:
 <br><center><a href="https://paulohscwb.github.io/cotadas/telhados.html"> https://paulohscwb.github.io/cotadas/telhados.html</a></center>
-<table><tr><td><h3>Terminologia, pág. 101</h3>
+<h3>Terminologia, pág. 101</h3>
 <img src="telhados/101_telhados.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/telhados/casa.html"><img src="vr/RVaframe.png" width="200px"></a>
 <hr>
@@ -140,7 +137,6 @@
 <h3>Exercício 4.6, pág. 117</h3>
 <img src="telhados/117_telhado46.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/telhados/telhado46.html"><img src="vr/RVaframe.png" width="200px"></a>
-</td></tr></table>
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
@@ -148,7 +144,7 @@
   <summary id="superficies">Superfícies Topográficas</summary>
 <br>Para ver as superfícies topográficas em Realidade Aumentada, visite o site:
 <br><center><a href="https://paulohscwb.github.io/cotadas/superficies.html"> https://paulohscwb.github.io/cotadas/superficies.html</a></center>
-<table><tr><td><h3>Curvas de nível, pág. 119</h3>
+<h3>Curvas de nível, pág. 119</h3>
 <img src="superficies/119_cnivel.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/superficies/curva11.html"><img src="vr/RVaframe.png" width="200px"></a>
 <hr>
@@ -175,7 +171,6 @@
 <h3>Exercício 2, pág. 136</h3>
 <img src="superficies/136_exerc2.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/superficies/curva13c.html"><img src="vr/RVaframe.png" width="200px"></a>
-</td></tr></table>
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
