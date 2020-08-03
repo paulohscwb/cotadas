@@ -12,6 +12,7 @@ summary {
   color: #159957;
 {
 details {
-  border: 1px dotted blue; 
+  border: 1px solid grey;
+  padding: 3px;
 }
 
