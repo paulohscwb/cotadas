@@ -1,135 +1,83 @@
-@import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
+/*
+ * Ideal Image Slider v1.5.1
+ *
+ * By Gilbert Pellegrom
+ * http://gilbert.pellegrom.me
+ *
+ * Copyright (C) 2014 Dev7studios
+ * https://raw.githubusercontent.com/gilbitron/Ideal-Image-Slider/master/LICENSE
+ */
 
-* {
-  box-sizing: border-box;
-  margin: 0;
-  padding: 0;
+.ideal-image-slider {
+	position: relative;
+	overflow: hidden;
 }
-
-body {
-  font-family: "Roboto", sans-serif;
-  background: #333;
-  color: #fff;
-  line-height: 1.6;
-}
-
-.slider {
-  position: relative;
-  overflow: hidden;
-  height: 100vh;
-  width: 100vw;
-}
-
-.slide {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  opacity: 0;
-  transition: opacity 0.4s ease-in-out;
+.iis-slide {
+	display: block;
+	bottom: 0;
+	text-decoration: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	background-size: cover;
+	text-indent: -9999px;
 }
 
-.slide.active {
-  opacity: 1;
+/* Slide effect */
+.iis-effect-slide .iis-slide {
+	opacity: 0;
+	-webkit-transition-property: -webkit-transform;
+	   -moz-transition-property: -moz-transform;
+		 -o-transition-property: -o-transform;
+			transition-property: transform;
+	-webkit-transition-timing-function: ease-out;
+	   -moz-transition-timing-function: ease-out;
+		 -o-transition-timing-function: ease-out;
+			transition-timing-function: ease-out;
+	-webkit-transform: translateX(0%);
+		-ms-transform: translateX(0%);
+			transform: translateX(0%);
 }
+.iis-effect-slide .iis-current-slide {
+	opacity: 1;
+	z-index: 1;
+}
+.iis-effect-slide .iis-previous-slide {
+	-webkit-transform: translateX(-100%);
+		-ms-transform: translateX(-100%);
+			transform: translateX(-100%);
+}
+.iis-effect-slide .iis-next-slide {
+	-webkit-transform: translateX(100%);
+		-ms-transform: translateX(100%);
+			transform: translateX(100%);
+}
+.iis-effect-slide.iis-direction-next .iis-previous-slide,
+.iis-effect-slide.iis-direction-previous .iis-next-slide { opacity: 1; }
 
-.slide .content {
-  position: absolute;
-  bottom: 20px;
-  left: -685px;
-  width: 700px;
-  opacity: 0;
-  background-color: rgba(255, 255, 255, 0.7);
-  border-radius: 5px;
-  color: #333;
-  padding: 20px;
-}
+/* Touch styles */
+.iis-touch-enabled .iis-slide { z-index: 1; }
+.iis-touch-enabled .iis-current-slide { z-index: 2; }
+.iis-touch-enabled.iis-is-touching .iis-previous-slide,
+.iis-touch-enabled.iis-is-touching .iis-next-slide { opacity: 1; }
 
-.slide .content h2 {
-  margin-bottom: 10px;
+/* Fade effect */
+.iis-effect-fade .iis-slide {
+	-webkit-transition-property: opacity;
+	   -moz-transition-property: opacity;
+		 -o-transition-property: opacity;
+			transition-property: opacity;
+	-webkit-transition-timing-function: ease-in;
+	   -moz-transition-timing-function: ease-in;
+		 -o-transition-timing-function: ease-in;
+			transition-timing-function: ease-in;
+	opacity: 0;
 }
-
-.slide.active .content {
-  opacity: 1;
-  transform: translateX(700px);
-  transition: all 0.7s ease-in-out 0.3s;
-}
-
-.cta {
-  color: rgb(233, 94, 94);
-  margin-bottom: 10px;
-}
-
-.ctabtn {
-  padding: 10px 30px;
-  border: 2px solid #333;
-  border-radius: 5px;
-  font-size: 14px;
-  background: transparent;
-  color: #333;
-}
-
-.ctabtn span {
-  color: rgb(233, 94, 94);
-  cursor: pointer;
-}
-
-.buttons button#prev {
-  position: absolute;
-  top: 50%;
-  left: 15px;
-}
-
-.buttons button#next {
-  position: absolute;
-  top: 50%;
-  right: 15px;
-}
-
-.buttons button {
-  border: 1px solid #fff;
-  background-color: transparent;
-  color: #fff;
-  cursor: pointer;
-  padding: 13px 15px;
-  border-radius: 5px;
-  outline: none;
-}
-
-.buttons button:hover {
-  background-color: #fff;
-  color: #333;
-}
-
-/* media query */
-@media (max-width: 500px) {
-  .slide .content {
-    bottom: -300px;
-    left: 0;
-    width: 100%;
-  }
-
-  .slide.active .content {
-    transform: translateY(-300px);
-    text-align: center;
-  }
-}
-
-
-/* background images */
-.slide:first-child{
-  background: url('./vr/037_prop1a.PNG') no-repeat center center/cover;
-}
-.slide:nth-child(2){
-  background: url('./vr/037_prop1b.PNG') no-repeat center top/cover;
-}
-.slide:nth-child(3){
-  background: url('./vr/038_prop2a.PNG') no-repeat center top/cover;
-}
-.slide:nth-child(4){
-  background: url('./vr/038_prop2b.PNG') no-repeat center top/cover;
-}
-.slide:nth-child(5){
-  background: url('./vr/042_exerc4c.PNG') no-repeat center top/cover;
+.iis-effect-fade .iis-current-slide {
+	opacity: 1;
+	z-index: 1;
 }
