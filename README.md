@@ -1,3 +1,7 @@
+<head>
+<link rel="stylesheet" href="scripts/style.css">
+<script src="scripts/main.js"></script>
+</head>
 <h2 id="inicio">Visualização de propriedades de projeções, sólidos e aplicações</h2> 
 <br><b>desenvolvido por:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná 
 <br><b>contato:</b> paulohscwb@gmail.com 
@@ -16,7 +20,44 @@
 <a href="#superficies">Superfícies Topográficas</a> | 
 <a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2014/09/Cotadas_2019.pdf" target="_blank"> Apostila completa </a>
 <hr>
+
+
 <h3 id="propriedades">Propriedades das projeções cilíndricas</h3>
+
+  <div class="slider">
+    <div class="slide current">
+      <div class="content">
+        <h3>First Slide</h3>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto, corporis perferendis minus labore blanditiis doloribus. Sunt, aliquid? Pariatur, facilis at.</p>
+      </div>
+    </div>
+    <div class="slide">
+      <div class="content">
+        <h3>Second Slide</h3>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto, corporis perferendis minus labore blanditiis doloribus. Sunt, aliquid? Pariatur, facilis at.</p>
+      </div>
+    </div>
+    <div class="slide">
+      <div class="content">
+        <h3>Third Slide</h3>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto, corporis perferendis minus labore blanditiis doloribus. Sunt, aliquid? Pariatur, facilis at.</p>
+      </div>
+    </div>
+    <div class="slide">
+      <div class="content">
+        <h3>Fourth Slide</h3>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto, corporis perferendis minus labore blanditiis doloribus. Sunt, aliquid? Pariatur, facilis at.</p>
+      </div>
+    </div>
+    <div class="slide">
+      <div class="content">
+        <h3>Fifth Slide</h3>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto, corporis perferendis minus labore blanditiis doloribus. Sunt, aliquid? Pariatur, facilis at.</p>
+      </div>
+    </div>
+  </div>
+
+
 <table><tr><td><h3>Propriedade 1, pág. 37</h3>
 <img src="vr/037_prop1a.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/p1.html"><img src="vr/RVaframe.png" width="200px"></a>
@@ -166,3 +207,7 @@
 <br>O ambiente Realidade Aumentada foi criado com os scripts de <b>Jerome Etienne</b>: <a href="https://github.com/jeromeetienne/AR.js"> AR.js - Augmented Reality for the Web</a>.
 <br>Os scripts de órbita desenvolvidos por <b>Kevin Ngo</b> foram usados nas páginas de RV: <a href="https://github.com/supermedium/superframe/tree/master/components/orbit-controls/"> Orbit controls for A-Frame</a>.
 <br>As faces de poliedros foram criadas com a função desenvolvida por <b>Andreas Plesch</b>: <a href="https://github.com/andreasplesch/aframe-faceset-component"> Geometry from vertices and faces</a>.
+<div class="buttons">
+  <button id="prev"><i class="fas fa-arrow-left"></i></button>
+  <button id="next"><i class="fas fa-arrow-right"></i></button>
+</div>
