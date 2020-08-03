@@ -21,42 +21,19 @@
 <a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2014/09/Cotadas_2019.pdf" target="_blank"> Apostila completa </a>
 <hr>
 
-
 <h3 id="propriedades">Propriedades das projeções cilíndricas</h3>
 
-  <div class="slider">
-    <div class="slide current">
-      <div class="content">
-        <h3>First Slide</h3>
-        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto, corporis perferendis minus labore blanditiis doloribus. Sunt, aliquid? Pariatur, facilis at.</p>
-      </div>
-    </div>
-    <div class="slide">
-      <div class="content">
-        <h3>Second Slide</h3>
-        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto, corporis perferendis minus labore blanditiis doloribus. Sunt, aliquid? Pariatur, facilis at.</p>
-      </div>
-    </div>
-    <div class="slide">
-      <div class="content">
-        <h3>Third Slide</h3>
-        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto, corporis perferendis minus labore blanditiis doloribus. Sunt, aliquid? Pariatur, facilis at.</p>
-      </div>
-    </div>
-    <div class="slide">
-      <div class="content">
-        <h3>Fourth Slide</h3>
-        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto, corporis perferendis minus labore blanditiis doloribus. Sunt, aliquid? Pariatur, facilis at.</p>
-      </div>
-    </div>
-    <div class="slide">
-      <div class="content">
-        <h3>Fifth Slide</h3>
-        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Architecto, corporis perferendis minus labore blanditiis doloribus. Sunt, aliquid? Pariatur, facilis at.</p>
-      </div>
-    </div>
-  </div>
+<div id="slider">
+  <img src="vr/037_prop1a.PNG" alt="alt text 1">
+  <img src="vr/037_prop1b.PNG" alt="alt text 2">
+  <img src="vr/038_prop2a.PNG" alt="alt text 3">
+</div>
 
+<div id="slider">
+  <img src="vr/038_prop2b.PNGG" alt="alt text 1">
+  <img src="vr/042_exerc4c.PNG" alt="alt text 2">
+  <img src="vr/043_exerc5a.PNG" alt="alt text 3">
+</div>
 
 <table><tr><td><h3>Propriedade 1, pág. 37</h3>
 <img src="vr/037_prop1a.PNG">
