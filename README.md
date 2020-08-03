@@ -129,54 +129,66 @@
   <summary id="telhados">Representações de telhados</summary>
 <br>Para ver os telhados em Realidade Aumentada, visite o site:
 <br><center><a href="https://paulohscwb.github.io/cotadas/telhados.html"> https://paulohscwb.github.io/cotadas/telhados.html</a></center>
-<h3>Terminologia, pág. 101</h3>
+<h3>Terminologia, pág. 79</h3>
 <img src="telhados/101_telhados.PNG">
+  <figcaption>Visualização em RA e RV de um telhado com a terminologia utilizada.</figcaption>
 <br><a href="https://paulohscwb.github.io/cotadas/telhados/casa.html"><img src="vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 3.3, pág. 105</h3>
+<h3>Exercício 3.3, pág. 83</h3>
 <img src="telhados/105_telhado33.PNG">
+  <figcaption>Visualização em RA e RV do exercício 3.3: telhado com inclinações iguais.</figcaption>
 <br><a href="https://paulohscwb.github.io/cotadas/telhados/telhado33.html"><img src="vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 3.4, pág. 106</h3>
+<h3>Exercício 3.4, pág. 84</h3>
 <img src="telhados/106_telhado34.PNG">
+  <figcaption>Visualização em RA e RV do exercício 3.4: telhado com inclinações iguais.</figcaption>
 <br><a href="https://paulohscwb.github.io/cotadas/telhados/telhado34.html"><img src="vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 3.5, pág. 107</h3>
+<h3>Exercício 3.5, pág. 85</h3>
 <img src="telhados/107_telhado35.PNG">
+  <figcaption>Visualização em RA e RV do exercício 3.5: telhado com inclinações iguais.</figcaption>
 <br><a href="https://paulohscwb.github.io/cotadas/telhados/telhado35.html"><img src="vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 3.6, pág. 108</h3>
+<h3>Exercício 3.6, pág. 86</h3>
 <img src="telhados/108_telhado36.PNG">
+  <figcaption>Visualização em RA e RV do exercício 3.6: telhado com inclinações iguais.</figcaption>
 <br><a href="https://paulohscwb.github.io/cotadas/telhados/telhado36.html"><img src="vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 3.7, pág. 109</h3>
+<h3>Exercício 3.7, pág. 87</h3>
 <img src="telhados/109_telhado37.PNG">
+  <figcaption>Visualização em RA e RV do exercício 3.7: telhado com inclinações iguais.</figcaption>
 <br><a href="https://paulohscwb.github.io/cotadas/telhados/telhado37.html"><img src="vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 3.8, pág. 110</h3>
+<h3>Exercício 3.8, pág. 88</h3>
 <img src="telhados/110_telhado38.PNG">
+  <figcaption>Visualização em RA e RV do exercício 3.8: telhado com inclinações iguais.</figcaption>
 <br><a href="https://paulohscwb.github.io/cotadas/telhados/telhado38.html"><img src="vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 3.9, pág. 111</h3>
+<h3>Exercício 3.9, pág. 89</h3>
 <img src="telhados/111_telhado39.PNG">
+  <figcaption>Visualização em RA e RV do exercício 3.9: telhado com inclinações iguais.</figcaption>
 <br><a href="https://paulohscwb.github.io/cotadas/telhados/telhado39.html"><img src="vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 4.3, pág. 114</h3>
+<h3>Exercício 4.3, pág. 92</h3>
 <img src="telhados/114_telhado43.PNG">
+  <figcaption>Visualização em RA e RV do exercício 4.3: telhado com inclinações diferentes.</figcaption>
 <br><a href="https://paulohscwb.github.io/cotadas/telhados/telhado43.html"><img src="vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 4.4, pág. 115</h3>
+<h3>Exercício 4.4, pág. 93</h3>
 <img src="telhados/115_telhado44.PNG">
+  <figcaption>Visualização em RA e RV do exercício 4.4: telhado com inclinações diferentes.</figcaption>
 <br><a href="https://paulohscwb.github.io/cotadas/telhados/telhado44.html"><img src="vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 4.5, pág. 116</h3>
+<h3>Exercício 4.5, pág. 94</h3>
 <img src="telhados/116_telhado45.PNG">
+  <figcaption>Visualização em RA e RV do exercício 4.5: telhado com inclinações diferentes.</figcaption>
 <br><a href="https://paulohscwb.github.io/cotadas/telhados/telhado45.html"><img src="vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 4.6, pág. 117</h3>
+<h3>Exercício 4.6, pág. 95</h3>
 <img src="telhados/117_telhado46.PNG">
+  <figcaption>Visualização em RA e RV do exercício 4.6: telhado com inclinações e níveis diferentes.</figcaption>
 <br><a href="https://paulohscwb.github.io/cotadas/telhados/telhado46.html"><img src="vr/RVaframe.png" width="200px"></a>
-<a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+<br><a href="#telhados"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
 <details>
