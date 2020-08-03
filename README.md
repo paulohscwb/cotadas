@@ -95,12 +95,34 @@
 <h3>Exemplo da pág. 63</h3>
 <img src="vr/reta-declive-pag63.PNG">
   <figcaption>Visualização em RA e RV da representação da reta de declive de um plano qualquer.</figcaption>
-<br><a href="https://paulohscwb.github.io/cotadas/vr/reta_declive.html.html"><img src="vr/RVaframe.png" width="200px"></a>
+<br><a href="https://paulohscwb.github.io/cotadas/vr/reta_declive.html"><img src="vr/RVaframe.png" width="200px"></a>
 <h3>Exemplo da pág. 66</h3>
 <img src="vr/088_rebatimento.PNG">
   <figcaption>Visualização em RA e RV do rebatimento de um plano qualquer no plano horizontal de projeções.</figcaption>
 <br><a href="https://paulohscwb.github.io/cotadas/vr/rebatimento.html"><img src="vr/RVaframe.png" width="200px"></a>
 <br><a href="#rebatimento"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+</details>
+
+
+<details>
+  <summary id="intersecoes">Interseções de planos</summary>
+<h3>Exemplo da pág. 74</h3>
+<img src="vr/int-pv-ph-pag74.PNG">
+  <figcaption>Visualização em RA e RV da interseção de um plano horizontal e um plano vertical.</figcaption>
+<br><a href="https://paulohscwb.github.io/cotadas/vr/int_pv_ph.html"><img src="vr/RVaframe.png" width="200px"></a>
+<h3>Exemplo da pág. 74</h3>
+<img src="vr/int-pq-ph-pag74.PNG">
+  <figcaption>Visualização em RA e RV da interseção entre um plano qualquer e um plano horizontal.</figcaption>
+<br><a href="https://paulohscwb.github.io/cotadas/vr/int_pq_ph.html.html"><img src="vr/RVaframe.png" width="200px"></a>
+<h3>Exemplo da pág. 75</h3>
+<img src="vr/int-pq-pv-pag75.PNG">
+  <figcaption>Visualização em RA e RV da interseção de um plano qualquer e um plano vertical.</figcaption>
+<br><a href="https://paulohscwb.github.io/cotadas/vr/int_pq_pv.html"><img src="vr/RVaframe.png" width="200px"></a>
+<h3>Exemplo da pág. 75</h3>
+<img src="vr/int-pq-pq-pag75.PNG">
+  <figcaption>Visualização em RA e RV da interseção entre dois planos quaisquer.</figcaption>
+<br><a href="https://paulohscwb.github.io/cotadas/vr/int_pq_pq.html.html"><img src="vr/RVaframe.png" width="200px"></a>
+<br><a href="#intersecoes"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
 <details>
