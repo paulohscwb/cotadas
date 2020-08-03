@@ -1,222 +1,212 @@
-  <link rel="stylesheet" href="/path/to/ideal-image-slider.css">
+# Ideal Image Slider
+
+The aim behind the Ideal Image Slider is to create a slider which has just the right amount of features,
+with no bloat and be easy to extend so that more features can be added as "extensions". Here are the ideals
+and core features I wanted to include:
+
+* HTML5 (SEO optimised)
+* CSS3 transitions (a few simple transitions like slide/fade)
+* Left/Right navigation (including touch/swipe support)
+* Responsive
+* HiDPI (retina) support
+* ARIA support
+* Extremely simple to setup (no dependencies)
+* Very extensible
+* Uses progressive enhancement
+* Open source (goes without saying)
+
+And, as an example, here are some features that *should not* be in the core and could be optional extensions:
+
+* Themes or skins
+* More transitions
+* Bullet navigation
+* Thumbnail navigation
+* Full screen slider
+* Video/Audio support
+* etc...
+
+[Read the original blog post &rarr;](http://gilbert.pellegrom.me/the-ideal-image-slider)
+
+## Demos
+
+* [Standard Slider](http://idealimageslider.com/demo/standard-slider.html)
+* [With Links](http://idealimageslider.com/demo/links.html)
+* [Using the API](http://idealimageslider.com/demo/using-the-api.html)
+* [Using Events](http://idealimageslider.com/demo/using-events.html)
+* [Multiple Sliders](http://idealimageslider.com/demo/multiple-sliders.html)
+
+## Extensions
+
+* [Bullet Navigation](https://github.com/gilbitron/Ideal-Image-Slider/tree/master/extensions/bullet-nav)
+* [Captions](https://github.com/gilbitron/Ideal-Image-Slider/tree/master/extensions/captions)
+* [Third Party Extensions](https://github.com/gilbitron/Ideal-Image-Slider/wiki/Third-Party-Extensions)
+
+## Requirements
+
+* **None**
+
+Ideal Image Slider is written in vanilla JS and has no dependancies.
+
+## Getting Started
+
+To install the slider you can either manually download this repository or you can use [Bower](http://bower.io)
+and run the following command:
+
+```
+bower install ideal-image-slider --save
+```
+
+Next you need to include the CSS file in the `<head>` section of your HTML and you need to include the script
+before the `</body>` tag in your HTML. Note you can optionally include a theme CSS file in the `<head>` too.
+
+```html
+<html>
+<head>
+	...
+	<link rel="stylesheet" href="/path/to/ideal-image-slider.css">
 	<link rel="stylesheet" href="/path/to/themes/default/default.css">
+	...
+</head>
+<body>
+	...
 	<script src="/path/to/ideal-image-slider.js"></script>
-<h2 id="inicio">Visualização de propriedades de projeções, sólidos e aplicações</h2> 
-<br><b>desenvolvido por:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná 
-<br><b>contato:</b> paulohscwb@gmail.com 
-<br><br>Este site contém algumas partes da <a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2014/09/Cotadas_2020.pdf" target="_blank">apostila de Projeções Cotadas</a> usada em sala de aula para visualizar os objetos com Realidade Virtual (RV) e Realidade Aumentada (RA). As propriedades de projeções, os sólidos e as maquetes podem ser vistos em RA com os marcadores indicados, e através dos links criados nos marcadores, os objetos podem ser vistos em RV. 
-<br>Para ver os objetos em Realidade Aumentada, visite o site:
-<br><center><a href="https://paulohscwb.github.io/cotadas/ra.html"> https://paulohscwb.github.io/cotadas/ra.html</a></center>
-<br>em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
-<br>O acesso aos sites de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.
-<br><br><center><img src="https://paulohscwb.github.io/cotadas/vr/exemplo.jpg" width="80%"></center>
-<br><b>Conteúdo do site:</b>
-<a href="#propriedades">Propriedades das projeções cilíndricas</a> | 
-<a href="#pontos">Pontos e segmentos em épura </a> | 
-<a href="#solidos">Sólidos em Projeções Cotadas</a> | 
-<a href="#rebatimento">Rebatimento de um plano qualquer</a> | 
-<a href="#intersecoes">Interseções de planos</a> | 
-<a href="#telhados">Representação de telhados</a> | 
-<a href="#superficies">Superfícies Topográficas</a> | 
-<a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2014/09/Cotadas_2020.pdf" target="_blank"> Apostila completa </a>
-<hr>
-<details>
-  <summary id="propriedades" style="font-size:22px; color:#159986;">Propriedades das projeções cilíndricas</summary>
-  
+</body>
+</html>
+```
+
+Next you need to set up your slider HTML where you want it to appear in your page. It should look something
+like this:
+
+```html
 <div id="slider">
-	<img src="vr/037_prop1a.PNG" alt="Minimum required attributes">
-	<img data-src="vr/037_prop1b.PNG" src="" alt="Use data-src for on-demand loading">
-	<img data-src="vr/038_prop2a.PNG" data-src-2x="img/3@2x.jpg" src="" alt="Use data-src-2x for HiDPI devices">
+	<img src="img/1.jpg" alt="Minimum required attributes">
+	<img data-src="img/2.jpg" src="" alt="Use data-src for on-demand loading">
+	<img data-src="img/3.jpg" data-src-2x="img/3@2x.jpg" src="" alt="Use data-src-2x for HiDPI devices">
 	<a href="http://example.com"><img data-src="img/4.jpg" src="" alt="Links work too"></a>
 	...
 </div>
-</details>
+```
 
-<details>
-  <summary id="propriedades" style="font-size:22px; color:#159986;">Propriedades das projeções cilíndricas</summary>
-<table><tr><td><h3>Propriedade 1, pág. 15</h3>
-<img src="vr/037_prop1a.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/vr/p1.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr><img src="vr/037_prop1b.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/vr/p1a.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Propriedade 2, pág. 16</h3>
-<img src="vr/038_prop2a.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/vr/p2.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr><img src="vr/038_prop2b.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/vr/p2a.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercícios 4 e 5, págs. 20 e 21</h3>
-<img src="vr/042_exerc4c.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/vr/p_ex4c_triangulo.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr><img src="vr/043_exerc5a.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/vr/p_ex5a_hexagono.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr><img src="vr/043_exerc5c.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/vr/p_ex5c_hexagono.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Propriedade 7, pág. 22</h3>
-<img src="vr/044_prop7.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/vr/p7.html"><img src="vr/RVaframe.png" width="200px"></a>
-</td></tr></table>
-<a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
-</details>
+There a few things to note about the structure of the images in your slider:
 
-<details>
-  <summary id="pontos" style="font-size:22px; color:#159986;">Pontos e segmentos em épura</summary>
-<table><tr><td><h3>Exemplo de pontos em épura, pág. 27</h3>
-<img src="vr/049_epura.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/vr/exerc_epura.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Verdadeira grandeza de um segmento, pág. 28</h3>
-<img src="vr/050_vg.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/vr/vg_segmento.html"><img src="vr/RVaframe.png" width="200px"></a>
-</td></tr></table>
-<a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
-</details>
+* This is an image slider, so only images are supported. Any other content will be removed.
+* You can use the `data-src` attribute to load your images "on-demand" (i.e. images are not loaded until they are required).
+* The first image should not use `data-src` so it is loaded if no JS is detected.
+* If you specify a `data-src-2x` image, it will be used on devices that support HiDPI (such as Apple's retina devices).
 
-<details>
-  <summary id="solidos" style="font-size:22px; color:#159986;">Sólidos em Projeções Cotadas</summary>
-<table><tr><td><h3>Pirâmide de base hexagonal, pág. 53</h3>
-<img src="vr/075_piramide1.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/vr/piramide1.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Pirâmide de base quadrada, pág. 56</h3>
-<img src="vr/078_piramide2.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/vr/piramide2.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Prisma de base hexagonal, pág. 56</h3>
-<img src="vr/078_prisma1.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/vr/prisma1.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Reta de declive, pág. 63</h3>
-<img src="vr/reta-declive-pag63.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/vr/reta_declive.html"><img src="vr/RVaframe.png" width="200px"></a>
-</td></tr></table>
-<a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
-</details>
+Finally you can create your slider by using the following Javascript:
 
-<details>
-  <summary id="rebatimento" style="font-size:22px; color:#159986;">Rebatimento de um plano qualquer</summary>
-<table><tr><td><h3>Exemplo da pág. 66</h3>
-<img src="vr/088_rebatimento.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/vr/rebatimento.html"><img src="vr/RVaframe.png" width="200px"></a>
-</td></tr></table>
-<a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
-</details>
+```js
+new IdealImageSlider.Slider('#slider');
+```
 
-<details>
-  <summary id="intersecoes" style="font-size:22px; color:#159986;">Interseções de planos</summary>
-<table><tr><td><h3>Interseção de plano vertical com plano horizontal, pág. 74</h3>
-<img src="vr/int-pv-ph-pag74.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/vr/int_pv_ph.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Interseção de plano qualquer com plano horizontal, pág. 74</h3>
-<img src="vr/int-pq-ph-pag74.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/vr/int_pq_ph.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Interseção de plano qualquer com plano vertical, pág. 75</h3>
-<img src="vr/int-pq-pv-pag75.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/vr/int_pq_pv.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Interseção de dois planos quaisquer, pág. 75</h3>
-<img src="vr/int-pq-pq-pag75.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/vr/int_pq_pq.html"><img src="vr/RVaframe.png" width="200px"></a>
-</td></tr></table>
-<a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
-</details>
+If you want to tweak the settings or use the slider API it would look more like:
 
-<details>
-  <summary id="telhados" style="font-size:22px; color:#159986;">Representações de telhados</summary>
-<br>Para ver os telhados em Realidade Aumentada, visite o site:
-<br><center><a href="https://paulohscwb.github.io/cotadas/telhados.html"> https://paulohscwb.github.io/cotadas/telhados.html</a></center>
-<table><tr><td><h3>Terminologia, pág. 79</h3>
-<img src="telhados/101_telhados.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/telhados/casa.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 3.3, pág. 83</h3>
-<img src="telhados/105_telhado33.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/telhados/telhado33.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 3.4, pág. 84</h3>
-<img src="telhados/106_telhado34.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/telhados/telhado34.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 3.5, pág. 85</h3>
-<img src="telhados/107_telhado35.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/telhados/telhado35.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 3.6, pág. 86</h3>
-<img src="telhados/108_telhado36.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/telhados/telhado36.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 3.7, pág. 87</h3>
-<img src="telhados/109_telhado37.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/telhados/telhado37.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 3.8, pág. 88</h3>
-<img src="telhados/110_telhado38.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/telhados/telhado38.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 3.9, pág. 89</h3>
-<img src="telhados/111_telhado39.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/telhados/telhado39.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 4.3, pág. 92</h3>
-<img src="telhados/114_telhado43.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/telhados/telhado43.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 4.4, pág. 93</h3>
-<img src="telhados/115_telhado44.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/telhados/telhado44.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 4.5, pág. 94</h3>
-<img src="telhados/116_telhado45.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/telhados/telhado45.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 4.6, pág. 95</h3>
-<img src="telhados/117_telhado46.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/telhados/telhado46.html"><img src="vr/RVaframe.png" width="200px"></a>
-</td></tr></table>
-<a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
-</details>
+```js
+var slider = new IdealImageSlider.Slider({
+	selector: '#slider',
+	height: 400, // Required but can be set by CSS
+	interval: 4000
+});
+slider.start();
+```
 
-<details>
-  <summary id="superficies" style="font-size:22px; color:#159986;">Superfícies Topográficas</summary>
-<br>Para ver as superfícies topográficas em Realidade Aumentada, visite o site:
-<br><center><a href="https://paulohscwb.github.io/cotadas/superficies.html"> https://paulohscwb.github.io/cotadas/superficies.html</a></center>
-<table><tr><td><h3>Curvas de nível, pág. 97</h3>
-<img src="superficies/119_cnivel.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/superficies/curva11.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 1, pág. 99</h3>
-<img src="superficies/121_exerc1.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/superficies/curva2.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 2, pág. 103</h3>
-<img src="superficies/125_exerc2.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/superficies/curva3.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 3, pág. 104</h3>
-<img src="superficies/126_exerc3.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/superficies/curva9.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício da pág. 106</h3>
-<img src="superficies/127_exerc.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/superficies/curva10.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício da pág. 111</h3>
-<img src="superficies/133_exerc.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/superficies/curva15.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 2, pág. 114</h3>
-<img src="superficies/136_exerc2.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/superficies/curva13c.html"><img src="vr/RVaframe.png" width="200px"></a>
-</td></tr></table>
-<a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
-</details>
+Note: If you don't pass a `height` to the Javascript constructor you **must** set it
+in your CSS.
 
-<br><br><b>Referências</b>
-<br>O ambiente Realidade Aumentada foi criado com os scripts de <b>Jerome Etienne</b>: <a href="https://github.com/jeromeetienne/AR.js"> AR.js - Augmented Reality for the Web</a>.
-<br>Os scripts de órbita desenvolvidos por <b>Kevin Ngo</b> foram usados nas páginas de RV: <a href="https://github.com/supermedium/superframe/tree/master/components/orbit-controls/"> Orbit controls for A-Frame</a>.
-<br>As faces de poliedros foram criadas com a função desenvolvida por <b>Andreas Plesch</b>: <a href="https://github.com/andreasplesch/aframe-faceset-component"> Geometry from vertices and faces</a>.
+## Settings
 
+|Setting|Default Value|Description|
+|---|---|---|
+|selector|`''`|CSS selector for the slider|
+|height|`'auto'`|Height of the slider. Can be `'auto'` (height changes depending on the height of the slide), a fixed px value (e.g. `400`) or an aspect ratio (e.g. `'16:9'`)|
+|initialHeight|`400`|If height is `'auto'` or an aspect ratio this is the height of the slider while the first image is loading|
+|maxHeight|`null`|If height is `'auto'` or an aspect ratio this is an optional max height in px for the slider (e.g. `800`)|
+|interval|`4000`|Time (in ms) to wait before changing to the next slide|
+|transitionDuration|`700`|Duration (in ms) of animated transition|
+|effect|`'slide'`|Transition effect (slide/fade by default)|
+|disableNav|`false`|Toggle the previous/next navigation (also disables touch and keyboard navigation)|
+|keyboardNav|`true`|Toggle keyboard navigation|
+|previousNavSelector|`''`|Selector for custom previous nav element|
+|nextNavSelector|`''`|Selector for custom next nav element|
+|classes|`{...}`|List of classes to be used by slider. Probably shouldn't be changed|
+
+## Events
+
+Event callback functions can be passed in with the settings. For example:
+
+```js
+new IdealImageSlider.Slider({
+	selector: '#slider',
+	onStart: function(){
+		console.log('onStart');
+	}
+});
+```
+
+|Event|Description|
+|---|---|
+|onInit|Callback that fires when slider and first image have loaded|
+|onStart|Callback that fires when slider has started playing|
+|onStop|Callback that fires when slider has stopped playing|
+|onDestroy|Callback that fires when slider is destroyed|
+|beforeChange|Callback that fires before a slide has changed|
+|afterChange|Callback that fires after a slide has changed|
+
+## API
+
+To use the API methods you must store the slider object. For example:
+
+```js
+var slider = new IdealImageSlider.Slider('#slider');
+slider.start();
+```
+
+|Method|Description|
+|---|---|
+|start()|Start the slider. Note the slider will automatically be stopped when navigation is used|
+|stop()|Stop the slider|
+|previousSlide()|Change to the previous slide|
+|nextSlide()|Change to the next slide|
+|gotoSlide(index)|Change to a specific slide (1 indexed)|
+|destroy()|Destroy the slider|
+|get(attribute)|Get an attribute value (attributes are mostly used internally)|
+|set(attribute, value)|Set an attribute. Can be useful for storing custom data|
+
+## Browsers
+
+Ideal Image Slider has been tested on:
+
+* Chrome
+* Firefox
+* Safari (Desktop + Mobile)
+* Opera
+* IE9+
+
+## Contribute
+
+So you want to help out? That's awesome. Here is how you can do it:
+
+* [Report a bug](https://github.com/gilbitron/Ideal-Image-Slider/labels/bug)
+* [Ask for a feature](https://github.com/gilbitron/Ideal-Image-Slider/labels/enhancement)
+* [Submit a pull request](https://github.com/gilbitron/Ideal-Image-Slider/pulls)
+
+If you are submitting a pull request please adhere to the existing coding standards used throughout the code
+and only submit **1 feature/fix per pull request**. Pull requests containing multiple changes will be rejected.
+
+Note that if you submit a pull request you are aware that you are contributing to both the free (open source) version
+and the proprietary (commercial) version of the codebase and that your work may make money for Dev7studios.
+
+## Credits
+
+Ideal Image Slider was created by [Gilbert Pellegrom](http://gilbert.pellegrom.me) from
+[Dev7studios](http://dev7studios.com). Released under the [GPL license](https://raw.githubusercontent.com/gilbitron/Ideal-Image-Slider/master/LICENSE).
+
+## Other Projects
+
+Check-out other stuff that we are working on : 
+
+* [ThemeIsle](https://themeisle.com)
+* [Codeinwp](https://codeinwp.com/blog/)
+* [Revive.social](https://revive.social)
+* [Mystock.photos](http://mystock.photos)
