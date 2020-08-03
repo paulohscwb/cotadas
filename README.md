@@ -1,3 +1,6 @@
+  <link rel="stylesheet" href="/path/to/ideal-image-slider.css">
+	<link rel="stylesheet" href="/path/to/themes/default/default.css">
+	<script src="/path/to/ideal-image-slider.js"></script>
 <h2 id="inicio">Visualização de propriedades de projeções, sólidos e aplicações</h2> 
 <br><b>desenvolvido por:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná 
 <br><b>contato:</b> paulohscwb@gmail.com 
@@ -20,31 +23,13 @@
 <details>
   <summary id="propriedades" style="font-size:22px; color:#159986;">Propriedades das projeções cilíndricas</summary>
   
-- selector: Barra de propriedades
-  bullets: false
-  captions: true
-  images:
-    - src: vr/037_prop1a.PNG
-      alt: Minimum required attributes
-    - data-src: vr/037_prop1b.PNG
-      alt: Use data-src for on-demand loading
-    - data-src: /img/3.jpg
-      data-src-2x: /img/3@2x.jpg
-      alt: Use data-src-2x for HiDPI devices
-    - src: vr/038_prop2a.PNG
-      alt: Links work too
-      href: https://github.com/jekylltools/jekyll-ideal-image-slider-include
-  settings:
-    height: 400
-    initialHeight:
-    maxHeight:
-    interval:
-    transitionDuration:
-    effect:
-    disableNav:
-    keyboardNav:
-    previousNavSelector:
-    nextNavSelector:
+<div id="slider">
+	<img src="vr/037_prop1a.PNG" alt="Minimum required attributes">
+	<img data-src="vr/037_prop1b.PNG" src="" alt="Use data-src for on-demand loading">
+	<img data-src="vr/038_prop2a.PNG" data-src-2x="img/3@2x.jpg" src="" alt="Use data-src-2x for HiDPI devices">
+	<a href="http://example.com"><img data-src="img/4.jpg" src="" alt="Links work too"></a>
+	...
+</div>
 </details>
 
 <details>
