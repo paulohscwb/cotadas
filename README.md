@@ -21,22 +21,11 @@
 <a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2014/09/Cotadas_2019.pdf" target="_blank"> Apostila completa </a>
 <hr>
 
-<h3 id="propriedades">Propriedades das projeções cilíndricas</h3>
-
-<div id="slider">
-  <img src="vr/037_prop1a.PNG" alt="alt text 1">
-  <img src="vr/037_prop1b.PNG" alt="alt text 2">
-  <img src="vr/038_prop2a.PNG" alt="alt text 3">
-</div>
-
-<div id="slider">
-  <img src="vr/038_prop2b.PNG" alt="alt text 1">
-  <img src="vr/042_exerc4c.PNG" alt="alt text 2">
-  <img src="vr/043_exerc5a.PNG" alt="alt text 3">
-</div>
-
+<details>
+  <summary id="propriedades">Propriedades das projeções cilíndricas</summary>
 <table><tr><td><h3>Propriedade 1, pág. 37</h3>
 <img src="vr/037_prop1a.PNG">
+  <caption>Legenda da 1a construção</caption>
 <br><a href="https://paulohscwb.github.io/cotadas/vr/p1.html"><img src="vr/RVaframe.png" width="200px"></a>
 <hr><img src="vr/037_prop1b.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/p1a.html"><img src="vr/RVaframe.png" width="200px"></a>
@@ -59,9 +48,11 @@
 <img src="vr/044_prop7.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/p7.html"><img src="vr/RVaframe.png" width="200px"></a>
 </td></tr></table>
-
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
-<h3 id="pontos">Pontos e segmentos em épura</h3>
+</details>
+
+<details>
+  <summary id="pontos">Pontos e segmentos em épura</summary>
 <table><tr><td><h3>Exemplo de pontos em épura, pág. 49</h3>
 <img src="vr/049_epura.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/exerc_epura.html"><img src="vr/RVaframe.png" width="200px"></a>
@@ -70,9 +61,11 @@
 <img src="vr/050_vg.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/vg_segmento.html"><img src="vr/RVaframe.png" width="200px"></a>
 </td></tr></table>
-
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
-<h3 id="solidos">Sólidos em Projeções Cotadas</h3>
+</details>
+
+<details>
+  <summary id="solidos">Sólidos em Projeções Cotadas</summary>
 <table><tr><td><h3>Pirâmide de base hexagonal, pág. 75</h3>
 <img src="vr/075_piramide1.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/piramide1.html"><img src="vr/RVaframe.png" width="200px"></a>
@@ -85,16 +78,20 @@
 <img src="vr/078_prisma1.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/prisma1.html"><img src="vr/RVaframe.png" width="200px"></a>
 </td></tr></table>
-
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
-<h3 id="solidos">Rebatimento de um plano qualquer</h3>
+</details>
+
+<details>
+  <summary id="solidos">Rebatimento de um plano qualquer</summary>
 <table><tr><td><h3>Exemplo da pág. 88</h3>
 <img src="vr/088_rebatimento.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/rebatimento.html"><img src="vr/RVaframe.png" width="200px"></a>
 </td></tr></table>
-
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
-<h3 id="telhados">Representações de telhados</h3>
+</details>
+
+<details>
+  <summary id="telhados">Representações de telhados</summary>
 <br>Para ver os telhados em Realidade Aumentada, visite o site:
 <br><center><a href="https://paulohscwb.github.io/cotadas/telhados.html"> https://paulohscwb.github.io/cotadas/telhados.html</a></center>
 <table><tr><td><h3>Terminologia, pág. 101</h3>
@@ -145,9 +142,11 @@
 <img src="telhados/117_telhado46.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/telhados/telhado46.html"><img src="vr/RVaframe.png" width="200px"></a>
 </td></tr></table>
-
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
-<h3 id="superficies">Superfícies Topográficas</h3>
+</details>
+
+<details>
+  <summary id="superficies">Superfícies Topográficas</summary>
 <br>Para ver as superfícies topográficas em Realidade Aumentada, visite o site:
 <br><center><a href="https://paulohscwb.github.io/cotadas/superficies.html"> https://paulohscwb.github.io/cotadas/superficies.html</a></center>
 <table><tr><td><h3>Curvas de nível, pág. 119</h3>
@@ -178,8 +177,9 @@
 <img src="superficies/136_exerc2.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/superficies/curva13c.html"><img src="vr/RVaframe.png" width="200px"></a>
 </td></tr></table>
-
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+</details>
+
 <br><br><b>Referências</b>
 <br>O ambiente Realidade Aumentada foi criado com os scripts de <b>Jerome Etienne</b>: <a href="https://github.com/jeromeetienne/AR.js"> AR.js - Augmented Reality for the Web</a>.
 <br>Os scripts de órbita desenvolvidos por <b>Kevin Ngo</b> foram usados nas páginas de RV: <a href="https://github.com/supermedium/superframe/tree/master/components/orbit-controls/"> Orbit controls for A-Frame</a>.
