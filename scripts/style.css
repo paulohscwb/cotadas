@@ -1,6 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto');
-
-/* use reset here */
+@import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
 
 * {
   box-sizing: border-box;
@@ -8,10 +6,10 @@
   padding: 0;
 }
 
-body{
-  font-family: 'Roboto', sans-serif;
+body {
+  font-family: "Roboto", sans-serif;
   background: #333;
-  color: white;
+  color: #fff;
   line-height: 1.6;
 }
 
@@ -32,68 +30,89 @@ body{
   transition: opacity 0.4s ease-in-out;
 }
 
-.slide.current{
+.slide.active {
   opacity: 1;
 }
 
-.slide .content{
+.slide .content {
   position: absolute;
-  bottom: 70px;
-  left: -600px;
+  bottom: 20px;
+  left: -685px;
+  width: 700px;
   opacity: 0;
-  width: 600px;
-  background-color: rgba(255,255,255, 0.8);
+  background-color: rgba(255, 255, 255, 0.7);
+  border-radius: 5px;
   color: #333;
-  padding: 30px;
+  padding: 20px;
 }
 
-.slide .content h3{
+.slide .content h2 {
   margin-bottom: 10px;
 }
 
-.slide.current .content{
+.slide.active .content {
   opacity: 1;
-  transform: translateX(600px);
+  transform: translateX(700px);
   transition: all 0.7s ease-in-out 0.3s;
 }
 
-.buttons button#prev{
+.cta {
+  color: rgb(233, 94, 94);
+  margin-bottom: 10px;
+}
+
+.ctabtn {
+  padding: 10px 30px;
+  border: 2px solid #333;
+  border-radius: 5px;
+  font-size: 14px;
+  background: transparent;
+  color: #333;
+}
+
+.ctabtn span {
+  color: rgb(233, 94, 94);
+  cursor: pointer;
+}
+
+.buttons button#prev {
   position: absolute;
   top: 50%;
   left: 15px;
 }
 
-.buttons button#next{
+.buttons button#next {
   position: absolute;
   top: 50%;
   right: 15px;
 }
 
-.buttons button{
-  border: 2px solid #fff;
+.buttons button {
+  border: 1px solid #fff;
   background-color: transparent;
   color: #fff;
   cursor: pointer;
   padding: 13px 15px;
-  border-radius: 50%;
+  border-radius: 5px;
   outline: none;
 }
 
-.buttons button:hover{
+.buttons button:hover {
   background-color: #fff;
   color: #333;
 }
 
-/* add media queries  */
-@media (max-width: 450px){
-  .slide .content{
+/* media query */
+@media (max-width: 500px) {
+  .slide .content {
     bottom: -300px;
     left: 0;
     width: 100%;
   }
 
-  .slide.current .content{
-    transform: translateY(-300px)
+  .slide.active .content {
+    transform: translateY(-300px);
+    text-align: center;
   }
 }
 
