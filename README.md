@@ -23,7 +23,7 @@
 
 <details>
   <summary id="propriedades">Propriedades das projeções cilíndricas</summary>
-<table><tr><td><h3>Propriedade 1, pág. 37</h3>
+<h3>Propriedade 1, pág. 37</h3>
 <img src="vr/037_prop1a.PNG">
   <figcaption>Legenda da 1a construção</figcaption>
 <br><a href="https://paulohscwb.github.io/cotadas/vr/p1.html"><img src="vr/RVaframe.png" width="200px"></a>
@@ -47,7 +47,6 @@
 <h3>Propriedade 7, pág. 44</h3>
 <img src="vr/044_prop7.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/p7.html"><img src="vr/RVaframe.png" width="200px"></a>
-</td></tr></table>
 <a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
