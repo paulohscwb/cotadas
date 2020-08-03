@@ -11,6 +11,7 @@ img {
 summary {
   font-size: 21px;
   color: #159957;
+  font-weight: bold;
 }
 details {
   border: 1px solid #a2dec0;
