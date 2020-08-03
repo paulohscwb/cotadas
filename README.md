@@ -68,31 +68,39 @@
 <img src="vr/050_vg.PNG">
   <figcaption>Visualização em RA e RV do rebatimento usado para encontrar a verdadeira grandeza de um segmento AB.</figcaption>
 <br><a href="https://paulohscwb.github.io/cotadas/vr/vg_segmento.html"><img src="vr/RVaframe.png" width="200px"></a>
-<a href="#pontos"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+<br><a href="#pontos"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
 <details>
   <summary id="solidos">Sólidos em Projeções Cotadas</summary>
-<h3>Pirâmide de base hexagonal, pág. 75</h3>
+<h3>Pirâmide de base hexagonal, pág. 53</h3>
 <img src="vr/075_piramide1.PNG">
+  <figcaption>Visualização em RA e RV do Exercício 2.</figcaption>
 <br><a href="https://paulohscwb.github.io/cotadas/vr/piramide1.html"><img src="vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Pirâmide de base quadrada, pág. 78</h3>
+<h3>Pirâmide de base quadrada, pág. 56</h3>
 <img src="vr/078_piramide2.PNG">
+  <figcaption>Visualização em RA e RV do Exercício 1.</figcaption>
 <br><a href="https://paulohscwb.github.io/cotadas/vr/piramide2.html"><img src="vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Prisma de base hexagonal, pág. 50</h3>
+<h3>Prisma de base hexagonal, pág. 56</h3>
 <img src="vr/078_prisma1.PNG">
+  <figcaption>Visualização em RA e RV do Exercício 2.</figcaption>
 <br><a href="https://paulohscwb.github.io/cotadas/vr/prisma1.html"><img src="vr/RVaframe.png" width="200px"></a>
-<a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+<br><a href="#solidos"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
 <details>
-  <summary id="solidos">Rebatimento de um plano qualquer</summary>
-<h3>Exemplo da pág. 88</h3>
+  <summary id="rebatimento">Reta de declive e Rebatimento de um plano qualquer</summary>
+<h3>Exemplo da pág. 63</h3>
+<img src="vr/reta-declive-pag63.PNG.PNG">
+  <figcaption>Visualização em RA e RV da representação da reta de declive de um plano qualquer.</figcaption>
+<br><a href="https://paulohscwb.github.io/cotadas/vr/reta_declive.html.html"><img src="vr/RVaframe.png" width="200px"></a>
+<h3>Exemplo da pág. 66</h3>
 <img src="vr/088_rebatimento.PNG">
+  <figcaption>Visualização em RA e RV do rebatimento de um plano qualquer no plano horizontal de projeções.</figcaption>
 <br><a href="https://paulohscwb.github.io/cotadas/vr/rebatimento.html"><img src="vr/RVaframe.png" width="200px"></a>
-<a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+<br><a href="#rebatimento"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
 <details>
