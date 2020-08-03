@@ -1,7 +1,7 @@
 <head>
 <link rel="stylesheet" href="scripts/style.css">
-<script src="scripts/main.js"></script>
 </head>
+<script src="scripts/main.js"></script>
 <h2 id="inicio">Visualização de propriedades de projeções, sólidos e aplicações</h2> 
 <br><b>desenvolvido por:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná 
 <br><b>contato:</b> paulohscwb@gmail.com 
