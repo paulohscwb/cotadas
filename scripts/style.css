@@ -13,7 +13,12 @@ summary {
   color: #159957;
 }
 details {
-  border: 1px solid grey;
+  border: 1px solid #a2dec0;
+  border-bottom: none;
   padding: 3px;
+  border-radius: 7px;
+}
+details: last-child {
+  border-bottom: 1px solid #a2dec0;
 }
 
