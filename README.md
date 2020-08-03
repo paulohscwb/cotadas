@@ -19,6 +19,36 @@
 <hr>
 <details>
   <summary id="propriedades" style="font-size:22px; color:#159986;">Propriedades das projeções cilíndricas</summary>
+  
+- selector: Barra de propriedades
+  bullets: false
+  captions: true
+  images:
+    - src: vr/037_prop1a.PNG
+      alt: Minimum required attributes
+    - data-src: vr/037_prop1b.PNG
+      alt: Use data-src for on-demand loading
+    - data-src: /img/3.jpg
+      data-src-2x: /img/3@2x.jpg
+      alt: Use data-src-2x for HiDPI devices
+    - src: vr/038_prop2a.PNG
+      alt: Links work too
+      href: https://github.com/jekylltools/jekyll-ideal-image-slider-include
+  settings:
+    height: 400
+    initialHeight:
+    maxHeight:
+    interval:
+    transitionDuration:
+    effect:
+    disableNav:
+    keyboardNav:
+    previousNavSelector:
+    nextNavSelector:
+</details>
+
+<details>
+  <summary id="propriedades" style="font-size:22px; color:#159986;">Propriedades das projeções cilíndricas</summary>
 <table><tr><td><h3>Propriedade 1, pág. 15</h3>
 <img src="vr/037_prop1a.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/vr/p1.html"><img src="vr/RVaframe.png" width="200px"></a>
