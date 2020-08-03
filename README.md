@@ -195,34 +195,41 @@
   <summary id="superficies">Superfícies Topográficas</summary>
 <br>Para ver as superfícies topográficas em Realidade Aumentada, visite o site:
 <br><center><a href="https://paulohscwb.github.io/cotadas/superficies.html"> https://paulohscwb.github.io/cotadas/superficies.html</a></center>
-<h3>Curvas de nível, pág. 119</h3>
+<h3>Curvas de nível, pág. 97</h3>
 <img src="superficies/119_cnivel.PNG">
+  <figcaption>Visualização em RA e RV da superfície topográfica com suas respectivas curvas de nível.</figcaption>
 <br><a href="https://paulohscwb.github.io/cotadas/superficies/curva11.html"><img src="vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 1, pág. 121</h3>
+<h3>Exercício 1, pág. 99</h3>
 <img src="superficies/121_exerc1.PNG">
+  <figcaption>Visualização em RA e RV do exercício 1 com suas curvas de nível.</figcaption>
 <br><a href="https://paulohscwb.github.io/cotadas/superficies/curva2.html"><img src="vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 2, pág. 125</h3>
+<h3>Exercício 2, pág. 103</h3>
 <img src="superficies/125_exerc2.PNG">
+  <figcaption>Visualização em RA e RV do exercício 2: perfil topográfico de um terreno.</figcaption>
 <br><a href="https://paulohscwb.github.io/cotadas/superficies/curva3.html"><img src="vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 3, pág. 126</h3>
+<h3>Exercício 3, pág. 104</h3>
 <img src="superficies/126_exerc3.PNG">
+  <figcaption>Visualização em RA e RV do exercício 3: perfil topográfico de um terreno.</figcaption>
 <br><a href="https://paulohscwb.github.io/cotadas/superficies/curva9.html"><img src="vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício da pág. 127</h3>
+<h3>Exercício da pág. 106</h3>
 <img src="superficies/127_exerc.PNG">
+  <figcaption>Visualização em RA e RV do exercício da página 106: seção plana de um terreno.</figcaption>
 <br><a href="https://paulohscwb.github.io/cotadas/superficies/curva10.html"><img src="vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício da pág. 133</h3>
+<h3>Exercício da pág. 111</h3>
 <img src="superficies/133_exerc.PNG">
+  <figcaption>Visualização em RA e RV do exercício da página 111: cortes de um terreno para construção de uma estrada.</figcaption>
 <br><a href="https://paulohscwb.github.io/cotadas/superficies/curva15.html"><img src="vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Exercício 2, pág. 136</h3>
+<h3>Exercício 2, pág. 114</h3>
 <img src="superficies/136_exerc2.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/superficies/curva13c.html"><img src="vr/RVaframe.png" width="200px"></a>
-<a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+  <figcaption>Visualização em RA e RV do exercício 2: seção mista de um terreno (corte e aterro).</figcaption>
+<br><a href="#superficies"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
 <br><br><b>Referências</b>
