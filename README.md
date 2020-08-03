@@ -113,7 +113,7 @@
 <h3>Exemplo da pág. 74</h3>
 <img src="vr/int-pq-ph-pag74.PNG">
   <figcaption>Visualização em RA e RV da interseção entre um plano qualquer e um plano horizontal.</figcaption>
-<br><a href="https://paulohscwb.github.io/cotadas/vr/int_pq_ph.html.html"><img src="vr/RVaframe.png" width="200px"></a>
+<br><a href="https://paulohscwb.github.io/cotadas/vr/int_pq_ph.html"><img src="vr/RVaframe.png" width="200px"></a>
 <h3>Exemplo da pág. 75</h3>
 <img src="vr/int-pq-pv-pag75.PNG">
   <figcaption>Visualização em RA e RV da interseção de um plano qualquer e um plano vertical.</figcaption>
@@ -121,7 +121,7 @@
 <h3>Exemplo da pág. 75</h3>
 <img src="vr/int-pq-pq-pag75.PNG">
   <figcaption>Visualização em RA e RV da interseção entre dois planos quaisquer.</figcaption>
-<br><a href="https://paulohscwb.github.io/cotadas/vr/int_pq_pq.html.html"><img src="vr/RVaframe.png" width="200px"></a>
+<br><a href="https://paulohscwb.github.io/cotadas/vr/int_pq_pq.html"><img src="vr/RVaframe.png" width="200px"></a>
 <br><a href="#intersecoes"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
