@@ -19,3 +19,13 @@ details {
 h3 {
   font-size: 19px;
 }
+.item {
+  border: none;
+  padding: 0;
+  border-radius: 0;
+}
+.itemT {
+  font-size: 19px;
+  color: #159957;
+  font-weight: normal;
+}
