@@ -59,14 +59,16 @@
 
 <details>
   <summary id="pontos">Pontos e segmentos em épura</summary>
-<h3>Exemplo de pontos em épura, pág. 49</h3>
+<h3>Exemplo de pontos em épura, pág. 27</h3>
 <img src="vr/049_epura.PNG">
+  <figcaption>Visualização do exercício da página 27 com RV e RA.</figcaption>
 <br><a href="https://paulohscwb.github.io/cotadas/vr/exerc_epura.html"><img src="vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Verdadeira grandeza de um segmento, pág. 50</h3>
+<h3>Verdadeira grandeza de um segmento, pág. 28</h3>
 <img src="vr/050_vg.PNG">
+  <figcaption>Visualização em RA e RV do rebatimento usado para encontrar a verdadeira grandeza de um segmento AB.</figcaption>
 <br><a href="https://paulohscwb.github.io/cotadas/vr/vg_segmento.html"><img src="vr/RVaframe.png" width="200px"></a>
-<a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+<a href="#pontos"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
 <details>
