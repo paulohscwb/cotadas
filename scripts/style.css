@@ -1,6 +1,9 @@
 figcaption {
-  display: table-caption;
-  caption-side: bottom;
   margin-top:-20px;
   background: rgba(200,120,120,0.2);
+  width: 100%;
 }
+summary {
+  font-size: 22px;
+  color: #159957;
+{
