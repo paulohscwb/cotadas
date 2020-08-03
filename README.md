@@ -5,7 +5,7 @@
 <h2 id="inicio">Visualização de propriedades de projeções, sólidos e aplicações</h2> 
 <br><b>desenvolvido por:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná 
 <br><b>contato:</b> paulohscwb@gmail.com 
-<br><br>Este site contém algumas partes da <a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2014/09/Cotadas_2019.pdf" target="_blank">apostila de Projeções Cotadas</a> usada em sala de aula para visualizar os objetos com Realidade Virtual (RV) e Realidade Aumentada (RA). As propriedades de projeções, os sólidos e as maquetes podem ser vistos em RA com os marcadores indicados, e através dos links criados nos marcadores, os objetos podem ser vistos em RV. 
+<br><br>Este site contém algumas partes da <a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2014/09/Cotadas_2020.pdf" target="_blank">apostila de Projeções Cotadas</a> usada em sala de aula para visualizar os objetos com Realidade Virtual (RV) e Realidade Aumentada (RA). As propriedades de projeções, os sólidos e as maquetes podem ser vistos em RA com os marcadores indicados, e através dos links criados nos marcadores, os objetos podem ser vistos em RV. 
 <br>Para ver os objetos em Realidade Aumentada, visite o site:
 <br><center><a href="https://paulohscwb.github.io/cotadas/ra.html"> https://paulohscwb.github.io/cotadas/ra.html</a></center>
 <br>em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
@@ -18,22 +18,30 @@
 <a href="#rebatimento">Rebatimento de um plano qualquer</a> | 
 <a href="#telhados">Representação de telhados</a> | 
 <a href="#superficies">Superfícies Topográficas</a> | 
-<a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2014/09/Cotadas_2019.pdf" target="_blank"> Apostila completa </a>
+<a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2014/09/Cotadas_2020.pdf" target="_blank"> Apostila completa </a>
 <hr>
 
 <details>
+  <summary id="propriedades">Desenho Geométrico</summary>
+<h3>Exercício 1, pág. 1</h3>
+</details>
+
+<details>
   <summary id="propriedades">Propriedades das projeções cilíndricas</summary>
-<h3>Propriedade 1, pág. 37</h3>
+<h3>Propriedade 1, pág. 15</h3>
 <img src="vr/037_prop1a.PNG">
-  <figcaption>Legenda da 1a construção</figcaption>
+  <figcaption>Visualização da Propriedade 1 com Realidade Virtual (RV) e Realidade Aumentada (RA). Neste caso, a reta r não é paralela à direção d.</figcaption>
 <br><a href="https://paulohscwb.github.io/cotadas/vr/p1.html"><img src="vr/RVaframe.png" width="200px"></a>
 <hr><img src="vr/037_prop1b.PNG">
+  <figcaption>Visualização da Propriedade 1 com RV e RA. Neste caso, as retas r e d são paralelas</figcaption>
 <br><a href="https://paulohscwb.github.io/cotadas/vr/p1a.html"><img src="vr/RVaframe.png" width="200px"></a>
 <hr>
-<h3>Propriedade 2, pág. 38</h3>
+<h3>Propriedade 2, pág. 16</h3>
 <img src="vr/038_prop2a.PNG">
+  <figcaption>Visualização da Propriedade 2 com RV e RA. Neste caso, r e s estão em planos projetantes distintos.</figcaption>
 <br><a href="https://paulohscwb.github.io/cotadas/vr/p2.html"><img src="vr/RVaframe.png" width="200px"></a>
 <hr><img src="vr/038_prop2b.PNG">
+  <figcaption>Visualização da Propriedade 2 com RV e RA. Neste caso, r e s estão em um mesmo plano projetante.</figcaption>
 <br><a href="https://paulohscwb.github.io/cotadas/vr/p2a.html"><img src="vr/RVaframe.png" width="200px"></a>
 <hr>
 <h3>Exercícios 4 e 5, págs. 42 e 43</h3>
