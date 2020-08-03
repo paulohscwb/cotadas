@@ -11,19 +11,14 @@
 <br>em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso aos sites de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.
 <br><br><center><img src="https://paulohscwb.github.io/cotadas/vr/exemplo.jpg" width="80%"></center>
-<br><b>Conteúdo do site:</b>
-<a href="#propriedades">Propriedades das projeções cilíndricas</a> | 
-<a href="#pontos">Pontos e segmentos em épura </a> | 
-<a href="#solidos">Sólidos em Projeções Cotadas</a> | 
-<a href="#rebatimento">Rebatimento de um plano qualquer</a> | 
-<a href="#telhados">Representação de telhados</a> | 
-<a href="#superficies">Superfícies Topográficas</a> | 
-<a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2014/09/Cotadas_2020.pdf" target="_blank"> Apostila completa </a>
 <hr>
 
 <details>
-  <summary id="propriedades">Desenho Geométrico</summary>
+  <summary id="desenho">Desenho Geométrico</summary>
 <h3>Exercício 1, pág. 1</h3>
+  <img src="vr/037_prop1a.PNG">
+  <figcaption>Visualização da Propriedade 1 com Realidade Virtual (RV) e Realidade Aumentada (RA). Neste caso, a reta r não é paralela à direção d.</figcaption>
+  <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
 <details>
@@ -59,7 +54,7 @@
 <img src="vr/044_prop7.PNG">
   <figcaption>Visualização da propriedade 7 com RV e RA.</figcaption>
 <br><a href="https://paulohscwb.github.io/cotadas/vr/p7.html"><img src="vr/RVaframe.png" width="200px"></a>
-<a href="#inicio"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+<br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
 <details>
