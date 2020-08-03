@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="scripts/style.css">
 <link rel="stylesheet" href="scripts/default.css">
 </head>
-<script src="scripts/main.js"></script>
+<script src="scripts/ideal-image-slider.min.js"></script>
 <script src="scripts/iis-bullet-nav.js"></script>
 <script src="scripts/iis-captions.js"></script>
 <h2 id="inicio">Visualização de propriedades de projeções, sólidos e aplicações</h2> 
