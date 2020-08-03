@@ -1,56 +1,48 @@
-const slides = document.querySelectorAll('.slide');
-const next = document.querySelector('#next');
-const prev = document.querySelector('#prev');
+const slides = document.querySelectorAll(".slide");
+const prev = document.querySelector("#prev");
+const next = document.querySelector("#next");
 const auto = true;
-const intervalTime = 3000;
+const intervalTime = 5000;
 let slideInterval;
 
-const nextSlide =() => {
-  // Get current class
-  const current = document.querySelector('.current');
-  current.classList.remove('current');
-  if(current.nextElementSibling){
-    current.nextElementSibling.classList.add('current');
-  }else{
-    slides[0].classList.add('current');
+const nextSlide = () => {
+  const current = document.querySelector(".active");
+  current.classList.remove("active");
+  if (current.nextElementSibling) {
+    current.nextElementSibling.classList.add("active");
+  } else {
+    slides[0].classList.add("active");
   }
-  setTimeout(()=>{
-    current.classList.remove('current');
-  })
-}
+  setTimeout(() => current.classList.remove("active"));
+};
 
-const prevSlide =() => {
-  // Get current class
-  const current = document.querySelector('.current');
-  current.classList.remove('current');
-  if(current.previousElementSibling){
-    current.previousElementSibling.classList.add('current');
-  }else{
-    slides[slides.length-1].classList.add('current');
+const prevSlide = () => {
+  const current = document.querySelector(".active");
+  current.classList.remove("active");
+  if (current.previousElementSibling) {
+    current.previousElementSibling.classList.add("active");
+  } else {
+    slides[slides.length - 1].classList.add("active");
   }
-  setTimeout(()=>{
-    current.classList.remove('current');
-  })
-}
+  setTimeout(() => current.classList.remove("active"));
+};
 
-// button event
-next.addEventListener('click', e =>{
+next.addEventListener("click", e => {
   nextSlide();
-  if(auto){
-    clearInterval(slideInterval)
-    slideInterval = setInterval(nextSlide, intervalTime)
+  if (auto) {
+    clearInterval(slideInterval);
+    slideInterval = setInterval(nextSlide, intervalTime);
   }
-})
+});
 
-prev.addEventListener('click', e=>{
+prev.addEventListener("click", e => {
   prevSlide();
-  if(auto){
-    clearInterval(slideInterval)
-    slideInterval = setInterval(nextSlide, intervalTime)
+  if (auto) {
+    clearInterval(slideInterval);
+    slideInterval = setInterval(nextSlide, intervalTime);
   }
-})
+});
 
-// auto slide
-if(auto){
-  slideInterval = setInterval(nextSlide, intervalTime)
+if (auto) {
+  slideInterval = setInterval(nextSlide, intervalTime);
 }
