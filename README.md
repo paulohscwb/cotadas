@@ -191,8 +191,8 @@
 <br><a href="#telhados"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
-<details>
-  <summary id="superficies" style="border-bottom: 1px solid #a2dec0;">Superfícies Topográficas</summary>
+<details style="border-bottom: 1px solid #a2dec0;">
+  <summary id="superficies">Superfícies Topográficas</summary>
 <br>Para ver as superfícies topográficas em Realidade Aumentada, visite o site:
 <br><center><a href="https://paulohscwb.github.io/cotadas/superficies.html"> https://paulohscwb.github.io/cotadas/superficies.html</a></center>
 <h3>Curvas de nível, pág. 97</h3>
