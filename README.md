@@ -33,7 +33,7 @@
 </div>
 
 <div id="slider">
-  <img src="vr/038_prop2b.PNGG" alt="alt text 1">
+  <img src="vr/038_prop2b.PNG" alt="alt text 1">
   <img src="vr/042_exerc4c.PNG" alt="alt text 2">
   <img src="vr/043_exerc5a.PNG" alt="alt text 3">
 </div>
