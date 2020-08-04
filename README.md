@@ -18,25 +18,27 @@
 <h3>Exercício 1, pág. 1</h3>
   <img src="vr/037_prop1a.PNG">
   <figcaption>Visualização da Propriedade 1 com Realidade Virtual (RV) e Realidade Aumentada (RA). Neste caso, a reta r não é paralela à direção d.</figcaption>
-  <div class="slider">
-     <ul><li>
+  <div class="combo">
+     <ul class="slider">
+       <li>
            <input type="radio" id="slide1" name="slide" checked>
            <label for="slide1">passo 1</label>
            <img src="vr/037_prop1a.PNG" />
            <figcaption>Figura 1</figcaption>
-     </li>
-     <li>
+       </li>
+       <li>
            <input type="radio" id="slide2" name="slide">
            <label for="slide2">passo 2</label>
            <img src="vr/037_prop1b.PNG" />
            <figcaption>Figura 2</figcaption>
-     </li>
-     <li>
+       </li>
+       <li>
            <input type="radio" id="slide3" name="slide">
            <label for="slide3">passo 3</label>
            <img src="vr/038_prop2a.PNG" />
            <figcaption>Figura 3</figcaption>
-       </li></ul>
+       </li>
+    </ul>
   </div>
   <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
