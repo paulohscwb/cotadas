@@ -43,6 +43,7 @@
        </li>
     </ul>
   </div>
+  <img src="dg/01_01_01.png" class="fundo">
   <hr>
   <div class="slider">
      <ul>
@@ -84,7 +85,7 @@
        </li>
     </ul>
   </div>
-  <img src="dg/01_01_01.png" class="fundo">
+  <img src="dg/01_01_06.png" class="fundo">
   <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
