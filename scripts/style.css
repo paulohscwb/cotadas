@@ -24,7 +24,7 @@ h3 {
 * { margin: 0; padding: 0; }
 
 .fundo {
-   margin: 40px 0 70px 0;
+   margin: 40px 0 30px 0;
    z-index: 0;
    visibility: hidden;
 }
@@ -53,7 +53,7 @@ h3 {
 }
  .slider label {
      background-color: #DCDCDC;
-     top: -15px;
+     top: -10px;
      cursor: pointer;
      display: block;
      height: 25px;
