@@ -23,9 +23,10 @@ h3 {
 
 .slider {
      display: flex;
-     height: 400px;
+     height: 100%;
      width: 100%;
      position: relative;
+     margin: 0;
  }
 
  .slider li {
