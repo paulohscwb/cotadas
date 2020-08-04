@@ -26,7 +26,7 @@ h3 {
 .slider {
      display: block;
      height: 100%;
-     width: 100%;
+     width: 400px;
      top: 30px;
      position: relative;
      margin: auto;
@@ -56,6 +56,8 @@ h3 {
      width: 20px;
      z-index: 10;
      border-radius: 50%;
+     text-align:center;
+     vertical-align: middle;
  }
 
  .slider li:nth-child(1) label {
@@ -105,5 +107,6 @@ h3 {
  }
  .slider li input:checked ~label {
      background-color: #159957;
+     color: white;
  }
 
