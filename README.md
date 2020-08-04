@@ -22,19 +22,19 @@
  <ul class="slider">
      <li>
            <input type="radio" id="slide1" name="slide" checked>
-           <label for="slide1"></label>
+           <label for="slide1">1</label>
            <img src="vr/037_prop1a.PNG" />
            <figcaption>Figura 1</figcaption>
      </li>
      <li>
            <input type="radio" id="slide2" name="slide">
-           <label for="slide2"></label>
+           <label for="slide2">2</label>
            <img src="vr/037_prop1b.PNG" />
            <figcaption>Figura 2</figcaption>
      </li>
      <li>
            <input type="radio" id="slide3" name="slide">
-           <label for="slide3"></label>
+           <label for="slide3">3</label>
            <img src="vr/038_prop2a.PNG" />
            <figcaption>Figura 3</figcaption>
      </li>
