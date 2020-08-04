@@ -26,13 +26,13 @@ h3 {
 .slider {
      height: auto;
      width: 100%;
+     min-height:300px;
      top: 30px;
      margin: auto;
  }
 
  .slider li {
      list-style: none;
-     position: absolute;
  }
 
  .slider img {
@@ -47,14 +47,14 @@ h3 {
      top: -30px;
      cursor: pointer;
      display: block;
-     height: 25px;
+     height: 27px;
      position: absolute;
-     width: 100px;
+     width: 60px;
      z-index: 10;
      border-radius: 5px;
      text-align:center;
      vertical-align: middle;
-     font-size: 13px;
+     font-size: 14px;
  }
 
  .slider li:nth-child(1) label {
@@ -62,19 +62,19 @@ h3 {
  }
 
  .slider li:nth-child(2) label {
-     left: 90px;
+     left: 80px;
  }
 
  .slider li:nth-child(3) label {
-     left: 170px;
+     left: 150px;
  }
  
  .slider li:nth-child(4) label {
-     left: 250px;
+     left: 220px;
  }
  
 .slider li:nth-child(5) label {
-     left: 330px;
+     left: 290px;
  }
 
  .slider img {
