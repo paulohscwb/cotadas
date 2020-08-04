@@ -9,9 +9,8 @@
 <details>
   <summary id="desenho">Desenho Geométrico</summary>
 <h3>Resolução do Exercício 1 da pág. 1: mediatriz</h3>
-  <div class="slider">
-     <ul>
-       <li>
+  <ul class="slider">
+      <li>
            <input type="radio" id="slide1" name="slide" checked>
            <label for="slide1">passos: 1</label>
            <img src="dg/01_01_01.png" />
@@ -42,11 +41,8 @@
            <figcaption>Pronto! A mediatriz do segmento AB está construída.</figcaption>
        </li>
     </ul>
-  </div>
-  <!--<img src="dg/01_01_00.png" class="fundo">-->
   <hr>
-  <div class="slider">
-     <ul>
+  <ul class="slider">
        <li>
            <input type="radio" id="slide6" name="slide" checked>
            <label for="slide6">passos: 1</label>
@@ -83,9 +79,7 @@
            <img src="dg/01_01_13.png" />
            <figcaption>Pronto! A mediatriz do segmento AB está construída.</figcaption>
        </li>
-    </ul>
-  </div>
-  <!--<img src="dg/01_01_00.png" class="fundo">-->
+  </ul>
   <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
