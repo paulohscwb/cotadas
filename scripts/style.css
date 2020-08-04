@@ -21,13 +21,15 @@ h3 {
   font-size: 19px;
 }
 
+* { margin: 0; padding: 0; }
+
 .slider {
-     display: flex;
+     display: block;
      height: 100%;
      width: 100%;
      top: 30px;
      position: relative;
-     margin: 0;
+     margin: auto;
  }
 
  .slider li {
