@@ -38,6 +38,20 @@ h3 {
      float:left;
  }
 
+@media (max-width: 800px) and (orientation: landscape){
+  /* For mobile phones: */
+  .slider {
+    height: 200vh;
+  }
+}
+
+@media (max-width: 800px) {
+  /* For mobile phones: */
+  .slider {
+    height: 70vh;
+  }
+}
+
  .slider li {
      list-style: none;
      position: absolute;
@@ -53,7 +67,7 @@ h3 {
 }
  .slider label {
      background-color: #DCDCDC;
-     top: 0px;
+     top: -15px;
      cursor: pointer;
      display: block;
      height: 25px;
