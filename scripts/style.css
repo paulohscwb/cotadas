@@ -38,6 +38,7 @@ h3 {
  .slider img {
      margin: auto;
      width: 100%;
+     object-fit: contain;
  }
 .slider input {
     display: none;
