@@ -24,12 +24,13 @@ h3 {
 * { margin: 0; padding: 0; }
 
 .slider {
-     display: table;
+     display: block;
      height: auto;
      width: 100%;
      min-height:300px;
      top: 30px;
      margin: auto;
+     position: relative;
  }
 
  .slider li {
