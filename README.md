@@ -21,24 +21,36 @@
        <li>
            <input type="radio" id="slide1" name="slide" checked>
            <label for="slide1">passo 1</label>
-           <img src="vr/037_prop1a.PNG" />
+           <img src="dg/ex1pg1p1.jpeg" />
            <figcaption>Figura 1</figcaption>
        </li>
        <li>
            <input type="radio" id="slide2" name="slide">
            <label for="slide2">passo 2</label>
-           <img src="vr/037_prop1b.PNG" />
+           <img src="dg/ex1pg1p2.jpeg" />
            <figcaption>Figura 2</figcaption>
        </li>
        <li>
            <input type="radio" id="slide3" name="slide">
            <label for="slide3">passo 3</label>
-           <img src="vr/038_prop2a.PNG" />
+           <img src="dg/ex1pg1p3.jpeg" />
+           <figcaption>Figura 3</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide3" name="slide">
+           <label for="slide3">passo 4</label>
+           <img src="dg/ex1pg1p4.jpeg" />
+           <figcaption>Figura 3</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide3" name="slide">
+           <label for="slide3">passo 5</label>
+           <img src="dg/ex1pg1p5.jpeg" />
            <figcaption>Figura 3</figcaption>
        </li>
     </ul>
   </div>
-  <img src="vr/037_prop1a.PNG" vspace="50">
+  <img src="dg/ex1pg1p1.jpeg" vspace="50">
   <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
