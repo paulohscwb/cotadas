@@ -40,6 +40,7 @@
        </li>
     </ul>
   </div>
+  <img src="vr/037_prop1a.PNG">
   <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
