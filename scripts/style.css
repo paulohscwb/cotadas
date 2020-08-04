@@ -1,3 +1,7 @@
+html, body {
+  height: 100%;
+}
+
 figcaption {
   margin-top: 0;
   background: rgba(21,153,87,0.12);
@@ -25,7 +29,7 @@ h3 {
 
 .slider {
      display: block;
-     height: auto;
+     height: 100%;
      width: 100%;
      top: 30px;
      margin: auto;
