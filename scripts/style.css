@@ -30,7 +30,7 @@ h3 {
 }
 .slider {
      display: block;
-     height: auto;
+     height: 100vh;
      width: 100%;
      top: 30px;
      margin: auto;
