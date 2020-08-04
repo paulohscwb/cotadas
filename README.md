@@ -12,31 +12,31 @@
   <div class="slider">
      <ul>
        <li>
-           <input type="radio" id="slide1" name="slide" checked>
+           <input type="radio" id="slide1" checked>
            <label for="slide1">passos: 1</label>
            <img src="dg/01_01_01.png" />
            <figcaption>Com a ponta seca em A, desenhe um arco com raio maior do que a metade de AB.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide2" name="slide">
+           <input type="radio" id="slide2">
            <label for="slide2">2</label>
            <img src="dg/01_01_02.png" />
            <figcaption>Com a ponta seca em B, desenhe um arco com o mesmo raio usado no passo anterior.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide3" name="slide">
+           <input type="radio" id="slide3">
            <label for="slide3">3</label>
            <img src="dg/01_01_03.png" />
            <figcaption>Os pontos de interseção dos arcos são P e Q.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide4" name="slide">
+           <input type="radio" id="slide4">
            <label for="slide4">4</label>
            <img src="dg/01_01_04.png" />
            <figcaption>Desenhe a reta que passa pelos pontos de interseção dos arcos.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide5" name="slide">
+           <input type="radio" id="slide5">
            <label for="slide5">5</label>
            <img src="dg/01_01_05.png" />
            <figcaption>Pronto! A mediatriz do segmento AB está construída.</figcaption>
@@ -48,37 +48,37 @@
   <div class="slider">
      <ul>
        <li>
-           <input type="radio" id="slide6" name="slide" checked>
+           <input type="radio" id="slide6" checked>
            <label for="slide6">passos: 1</label>
            <img src="dg/01_01_06.png" />
            <figcaption>No caso em que AB está próximo da margem da folha, podemos desenhar dois arcos: o primeiro com a ponta seca em A e um raio maior do que a metade de AB.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide7" name="slide">
+           <input type="radio" id="slide7">
            <label for="slide7">2</label>
            <img src="dg/01_01_07.png" />
            <figcaption>Com a ponta seca em B, podemos desenhar um arco com a mesma medida usada no ponto A.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide8" name="slide">
+           <input type="radio" id="slide8">
            <label for="slide8">3</label>
            <img src="dg/01_01_09.png" />
            <figcaption>Podemos desenhar um arco com medida diferente da que usamos nos passos anteriores para encontrar o segundo ponto da mediatriz.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide9" name="slide">
+           <input type="radio" id="slide9">
            <label for="slide9">4</label>
            <img src="dg/01_01_10.png" />
            <figcaption>Desenhando os arcos com centros em A e B com mesma medida, encontramos os pontos P e Q da mediatriz.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide10" name="slide">
+           <input type="radio" id="slide10">
            <label for="slide10">5</label>
            <img src="dg/01_01_12.png" />
            <figcaption>Desenhe a reta que passa pelos pontos P e Q.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide11" name="slide">
+           <input type="radio" id="slide11">
            <label for="slide11">6</label>
            <img src="dg/01_01_13.png" />
            <figcaption>Pronto! A mediatriz do segmento AB está construída.</figcaption>
