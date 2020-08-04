@@ -33,13 +33,14 @@ h3 {
      height: 80vh;
      width: 100%;
      top: 30px;
-     margin: 0;
+     left: 0;
      position: relative;
  }
 
  .slider li {
      list-style: none;
      position: absolute;
+     left:0;
  }
 
  .slider img {
