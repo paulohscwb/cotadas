@@ -123,8 +123,12 @@ h3 {
      visibility: visible;
      z-index: 10;
  }
+
  .slider li input:checked ~label {
      background-color: #159957;
      color: white;
  }
 
+.slider li input:checked ~.fundo img {
+     opacity: 0;
+ }
