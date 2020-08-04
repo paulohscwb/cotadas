@@ -24,11 +24,8 @@ h3 {
 * { margin: 0; padding: 0; }
 
 .slider {
-     display: flex;
-     flex-flow: wrap;
-     flex: 1;
-     min-height: 400px;
-     overflow: visible;
+     display: block;
+     height: auto;
      width: 100%;
      top: 30px;
      position: relative;
