@@ -39,7 +39,7 @@ h3 {
 
  .slider img {
      margin: auto;
-     height: 100%;
+     height: auto;
      width: 100%;
      vertical-align: top;
  }
