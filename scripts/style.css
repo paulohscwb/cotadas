@@ -23,16 +23,12 @@ h3 {
 
 * { margin: 0; padding: 0; }
 .fundo {
-   margin: 120 0 260 0;
+   margin: 120px 0 260px 0;
    z-index: 0;
    visibility: hidden;
 }
 .slider {
-     display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
-  align-items: stretch;
-  align-content: stretch;
+     display: block;
   height: auto;
      width: 100%;
      top: 30px;
