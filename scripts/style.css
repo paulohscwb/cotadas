@@ -30,7 +30,7 @@ h3 {
 }*/
 .slider {
      display: block;
-     height: 15vh;
+     height: 80vh;
      width: 100%;
      top: 30px;
      margin: 0;
@@ -126,10 +126,6 @@ h3 {
  .slider li input:checked ~label {
      background-color: #159957;
      color: white;
- }
-
- .slider li input:checked {
-     height: 85vh;
  }
 
 /*
