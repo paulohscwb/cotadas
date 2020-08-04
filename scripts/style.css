@@ -23,9 +23,9 @@ h3 {
 
 * { margin: 0; padding: 0; }
 .fundo {
-   filter: brightness(1); 
-   margin: 100 0 150 0;
+   margin: 120 0 200 0;
    z-index: 0;
+   visibility: hidden;
 }
 .slider {
      display: flex;
