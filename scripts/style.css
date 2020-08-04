@@ -9,6 +9,7 @@ summary {
   font-size: 21px;
   color: #159957;
   font-weight: bold;
+  cursor: pointer;
 }
 details {
   border: 1px solid #a2dec0;
@@ -22,10 +23,7 @@ h3 {
 
 .slider {
      display: block;
-     height: 293px;
-     width: 600px;
      margin: auto;
-     margin-top: 20px;
      position: relative;
  }
 
@@ -65,13 +63,24 @@ h3 {
  .slider li:nth-child(3) label {
      left: 70px;
  }
+ 
+ .slider li:nth-child(4) label {
+     left: 100px;
+ }
+ 
+.slider li:nth-child(5) label {
+     left: 130px;
+ }
+
  .slider img {
      opacity: 0;
      visibility: hidden;
+     transition: opacity .5s linear;
  }
 
  .slider li input:checked ~ img {
      opacity: 1;
+     transition: opacity .5s linear;
      visibility: visible;
      z-index: 10;
  }
