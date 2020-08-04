@@ -56,7 +56,7 @@ h3 {
      display: block;
      height: 25px;
      position: absolute;
-     width: 20px;
+     width: 28px;
      z-index: 10;
      border-radius: 5px;
      text-align:center;
@@ -70,23 +70,31 @@ h3 {
  }
 
  .slider li:nth-child(2) label {
-     left: 85px;
+     left: 80px;
  }
 
  .slider li:nth-child(3) label {
-     left: 115px;
+     left: 110px;
  }
  
  .slider li:nth-child(4) label {
-     left: 145px;
+     left: 140px;
  }
  
 .slider li:nth-child(5) label {
-     left: 175px;
+     left: 170px;
  }
 
 .slider li:nth-child(6) label {
-     left: 205px;
+     left: 200px;
+ }
+
+.slider li:nth-child(7) label {
+     left: 230px;
+ }
+
+.slider li:nth-child(8) label {
+     left: 260px;
  }
 
  .slider img {
