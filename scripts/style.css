@@ -23,14 +23,14 @@ h3 {
 
 * { margin: 0; padding: 0; }
 
-.fundo {
+/*.fundo {
    margin: 40px 0 70px 0;
    z-index: 0;
    visibility: visible;
-}
+}*/
 .slider {
      display: block;
-     height: 100vh;
+     height: 85vh;
      width: 100%;
      top: 30px;
      margin: auto;
@@ -67,7 +67,7 @@ h3 {
 
  .slider li:nth-child(1) label {
      left: 0px;
-     width: 70px;
+     width: 72px;
  }
 
  .slider li:nth-child(2) label {
@@ -128,7 +128,7 @@ h3 {
      background-color: #159957;
      color: white;
  }
-
+/*
 .slider li input:checked ~.fundo img {
      opacity: 0;
- }
+ }*/
