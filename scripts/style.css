@@ -23,7 +23,7 @@ h3 {
 
 * { margin: 0; padding: 0; }
 .fundo {
-   margin: 120px 0 260px 0;
+   margin: 20px 0 40px 0;
    z-index: 0;
    visibility: hidden;
 }
