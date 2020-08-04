@@ -34,12 +34,14 @@ h3 {
      width: 100%;
      top: 30px;
      position: relative;
+     margin: auto;
+     float:left;
  }
 
  .slider li {
      list-style: none;
      position: absolute;
-     margin:0;
+     margin:auto;
  }
 
  .slider img {
