@@ -25,7 +25,8 @@ h3 {
 
 .slider {
      display: block;
-     height: auto;
+     min-height: 400px;
+     overflow: visible;
      width: 100%;
      top: 30px;
      position: relative;
