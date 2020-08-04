@@ -41,7 +41,7 @@
            <figcaption>Pronto! A mediatriz do segmento AB está construída.</figcaption>
        </li>
     </ul>
-    <img src="dg/01_01_00.png" />
+    <img src="dg/01_01_00.png" class="fundo" />
   <hr>
   <ul class="slider">
        <li>
@@ -81,7 +81,7 @@
            <figcaption>Pronto! A mediatriz do segmento AB está construída.</figcaption>
        </li>
   </ul>
-  <img src="dg/01_01_00.png" />
+  <img src="dg/01_01_00.png" class="fundo"/>
   <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
