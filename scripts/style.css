@@ -24,11 +24,9 @@ h3 {
 * { margin: 0; padding: 0; }
 
 .slider {
-     display: block;
      height: auto;
      width: 100%;
      top: 30px;
-     position: relative;
      margin: auto;
  }
 
@@ -39,9 +37,7 @@ h3 {
 
  .slider img {
      margin: auto;
-     height: auto;
      width: 100%;
-     vertical-align: top;
  }
 .slider input {
     display: none;
@@ -55,10 +51,10 @@ h3 {
      position: absolute;
      width: 100px;
      z-index: 10;
-     border-radius: 50%;
+     border-radius: 5px;
      text-align:center;
      vertical-align: middle;
-     font-size: 12px;
+     font-size: 13px;
  }
 
  .slider li:nth-child(1) label {
@@ -66,19 +62,19 @@ h3 {
  }
 
  .slider li:nth-child(2) label {
-     left: 120px;
+     left: 90px;
  }
 
  .slider li:nth-child(3) label {
-     left: 230px;
+     left: 170px;
  }
  
  .slider li:nth-child(4) label {
-     left: 340px;
+     left: 250px;
  }
  
 .slider li:nth-child(5) label {
-     left: 450px;
+     left: 330px;
  }
 
  .slider img {
