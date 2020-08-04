@@ -3,14 +3,7 @@
 </head>
 
 <h2 id="inicio">Visualização de propriedades de projeções, sólidos e aplicações</h2> 
-<br><b>desenvolvido por:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná 
-<br><b>contato:</b> paulohscwb@gmail.com 
-<br><br>Este site contém algumas partes da <a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2014/09/Cotadas_2020.pdf" target="_blank">apostila de Projeções Cotadas</a> usada em sala de aula para visualizar os objetos com Realidade Virtual (RV) e Realidade Aumentada (RA). As propriedades de projeções, os sólidos e as maquetes podem ser vistos em RA com os marcadores indicados, e através dos links criados nos marcadores, os objetos podem ser vistos em RV. 
-<br>Para ver os objetos em Realidade Aumentada, visite o site:
-<br><center><a href="https://paulohscwb.github.io/cotadas/ra.html"> https://paulohscwb.github.io/cotadas/ra.html</a></center>
-<br>em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
-<br>O acesso aos sites de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.
-<br><br><center><img src="https://paulohscwb.github.io/cotadas/vr/exemplo.jpg" width="80%"></center>
+
 <hr>
 
 <details>
@@ -264,6 +257,15 @@
   <figcaption>Visualização em RA e RV do exercício 2: seção mista de um terreno (corte e aterro).</figcaption>
 <br><a href="#superficies"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
+
+<br><b>desenvolvido por:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná 
+<br><b>contato:</b> paulohscwb@gmail.com 
+<br><br>Este site contém algumas partes da <a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2014/09/Cotadas_2020.pdf" target="_blank">apostila de Projeções Cotadas</a> usada em sala de aula para visualizar os objetos com Realidade Virtual (RV) e Realidade Aumentada (RA). As propriedades de projeções, os sólidos e as maquetes podem ser vistos em RA com os marcadores indicados, e através dos links criados nos marcadores, os objetos podem ser vistos em RV. 
+<br>Para ver os objetos em Realidade Aumentada, visite o site:
+<br><center><a href="https://paulohscwb.github.io/cotadas/ra.html"> https://paulohscwb.github.io/cotadas/ra.html</a></center>
+<br>em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
+<br>O acesso aos sites de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.
+<br><br><center><img src="https://paulohscwb.github.io/cotadas/vr/exemplo.jpg" width="80%"></center>
 
 <br><br><b>Referências</b>
 <br>O ambiente Realidade Aumentada foi criado com os scripts de <b>Jerome Etienne</b>: <a href="https://github.com/jeromeetienne/AR.js"> AR.js - Augmented Reality for the Web</a>.
