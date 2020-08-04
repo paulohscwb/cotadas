@@ -19,8 +19,8 @@
   <img src="vr/037_prop1a.PNG">
   <figcaption>Visualização da Propriedade 1 com Realidade Virtual (RV) e Realidade Aumentada (RA). Neste caso, a reta r não é paralela à direção d.</figcaption>
   <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
- <ul class="slider">
-     <li>
+ <div class="slider">
+     <ul><li>
            <input type="radio" id="slide1" name="slide" checked>
            <label for="slide1">1</label>
            <img src="vr/037_prop1a.PNG" />
@@ -37,8 +37,8 @@
            <label for="slide3">3</label>
            <img src="vr/038_prop2a.PNG" />
            <figcaption>Figura 3</figcaption>
-     </li>
- </ul>
+       </li></ul>
+ </div>
 </details>
 
 <details>
