@@ -23,6 +23,8 @@ h3 {
 
 .slider {
      display: block;
+     height: 400px;
+     width: 100%;
      margin: auto;
      position: relative;
  }
