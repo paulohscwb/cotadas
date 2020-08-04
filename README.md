@@ -15,9 +15,7 @@
 
 <details>
   <summary id="desenho">Desenho Geométrico</summary>
-<h3>Exercício 1, pág. 1</h3>
-  <img src="vr/037_prop1a.PNG">
-  <figcaption>Visualização da Propriedade 1 com Realidade Virtual (RV) e Realidade Aumentada (RA). Neste caso, a reta r não é paralela à direção d.</figcaption>
+<h3>Resolução do Exercício 1 da pág. 1: mediatriz</h3>
   <div class="slider">
      <ul>
        <li>
@@ -40,7 +38,7 @@
        </li>
     </ul>
   </div>
-  <img src="vr/037_prop1a.PNG">
+  <img src="vr/037_prop1a.PNG" vspace="30">
   <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
