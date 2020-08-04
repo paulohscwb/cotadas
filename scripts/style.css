@@ -68,19 +68,23 @@ h3 {
  }
 
  .slider li:nth-child(2) label {
-     left: 80px;
+     left: 75px;
  }
 
  .slider li:nth-child(3) label {
-     left: 150px;
+     left: 140px;
  }
  
  .slider li:nth-child(4) label {
-     left: 220px;
+     left: 205px;
  }
  
 .slider li:nth-child(5) label {
-     left: 290px;
+     left: 270px;
+ }
+
+.slider li:nth-child(6) label {
+     left: 335px;
  }
 
  .slider img {
