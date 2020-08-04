@@ -50,7 +50,7 @@
        </li>
     </ul>
   </div>
-  <img src="dg/ex1pg1p1.jpeg" vspace="50">
+  <img src="dg/ex1pg1p1.jpeg" class="fundo">
   <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
