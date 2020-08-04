@@ -22,10 +22,11 @@ h3 {
 }
 
 * { margin: 0; padding: 0; }
+
 .fundo {
    margin: 20px 0 90px 0;
    z-index: 0;
-   visibility: hidden;
+   visibility: visible;
 }
 .slider {
      display: block;
