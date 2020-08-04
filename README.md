@@ -22,31 +22,31 @@
            <input type="radio" id="slide1" name="slide" checked>
            <label for="slide1">passo 1</label>
            <img src="dg/ex1pg1p1.jpeg" />
-           <figcaption>Figura 1</figcaption>
+           <figcaption>Com a ponta seca em A, desenhe um arco com raio maior do que a metade de AB.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide2" name="slide">
            <label for="slide2">passo 2</label>
            <img src="dg/ex1pg1p2.jpeg" />
-           <figcaption>Figura 2</figcaption>
+           <figcaption>Com a ponta seca em B, desenhe um arco com o mesmo raio usado no passo anterior.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide3" name="slide">
            <label for="slide3">passo 3</label>
            <img src="dg/ex1pg1p3.jpeg" />
-           <figcaption>Figura 3</figcaption>
+           <figcaption>Os pontos de interseção dos arcos são P e Q.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide3" name="slide">
-           <label for="slide3">passo 4</label>
+           <input type="radio" id="slide4" name="slide">
+           <label for="slide4">passo 4</label>
            <img src="dg/ex1pg1p4.jpeg" />
-           <figcaption>Figura 3</figcaption>
+           <figcaption>Desenhe a reta que passa pelos pontos de interseção dos arcos.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide3" name="slide">
-           <label for="slide3">passo 5</label>
+           <input type="radio" id="slide5" name="slide">
+           <label for="slide5">passo 5</label>
            <img src="dg/ex1pg1p5.jpeg" />
-           <figcaption>Figura 3</figcaption>
+           <figcaption>Pronto! A mediatriz do segmento AB está construída.</figcaption>
        </li>
     </ul>
   </div>
