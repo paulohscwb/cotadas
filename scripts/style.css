@@ -74,13 +74,13 @@ h3 {
      left: 130px;
  }
 
- .slider img {
+ .slider img, figcaption {
      opacity: 0;
      visibility: hidden;
      transition: opacity .5s linear;
  }
 
- .slider li input:checked ~ img {
+ .slider li input:checked ~ img, ~figcaption {
      opacity: 1;
      transition: opacity .5s linear;
      visibility: visible;
