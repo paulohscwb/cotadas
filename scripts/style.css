@@ -23,34 +23,20 @@ h3 {
 
 * { margin: 0; padding: 0; }
 
-/*.fundo {
+.fundo {
    margin: 40px 0 70px 0;
    z-index: 0;
-   visibility: visible;
-}*/
+   visibility: hidden;
+}
 .slider {
      display: block;
-     height: 82vh;
+     height: auto;
      width: 100%;
      top: 30px;
      position: relative;
      margin: auto;
      float:left;
  }
-
-@media (min-width: 300px) and (max-height: 400px){
-  /* For mobile phones: */
-  .slider {
-    height: 200vh;
-  }
-}
-
-@media (min-width: 300px) and (max-width: 800px) {
-  /* For mobile phones: */
-  .slider {
-    height: 70vh;
-  }
-}
 
  .slider li {
      list-style: none;
