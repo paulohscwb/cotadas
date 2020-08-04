@@ -24,6 +24,7 @@ h3 {
 * { margin: 0; padding: 0; }
 
 .slider {
+     display: table;
      height: auto;
      width: 100%;
      min-height:300px;
@@ -33,12 +34,12 @@ h3 {
 
  .slider li {
      list-style: none;
+     position: absolute;
  }
 
  .slider img {
      margin: auto;
      width: 100%;
-     object-fit: contain;
  }
 .slider input {
     display: none;
