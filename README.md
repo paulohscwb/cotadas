@@ -8,7 +8,7 @@
 
 <details>
   <summary id="desenho">Desenho Geométrico</summary>
-<h3>Resolução do Exercício 1 da pág. 1: mediatriz</h3>
+<h3>Exercício 1 da pág. 1: mediatriz</h3>
   <h5> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</h5>
   <ul class="slider">
       <li>
@@ -84,7 +84,7 @@
   </ul>
   <img src="dg/01_01_00.png" class="fundo"/>
   <hr>
-<h3>Resolução do Exercício 2 da pág. 2: reta paralela</h3>
+<h3>Exercício 2 da pág. 2: reta paralela</h3>
   <h5> Podemos utilizar a régua e um dos esquadros ou a régua e o compasso para resolver este exercício. Primeiro, veja como é a construção com a régua e o esquadro de 45<sup>o</sup>.</h5>
   <ul class="slider">
       <li>
@@ -119,6 +119,41 @@
        </li>
     </ul>
     <img src="dg/02_01_00.png" class="fundo" />
+  <hr>
+<h5> Agora veja os passos da construção feita com régua e compasso.</sup>.</h5>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="slide17" name="slide" checked>
+           <label for="slide17">passos: 1</label>
+           <img src="dg/02_01_01c.png" />
+           <figcaption>Desenhe um arco com a ponta seca em P, que intercepte a reta r no ponto Q.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide18" name="slide">
+           <label for="slide18">2</label>
+           <img src="dg/02_01_02c.png" />
+           <figcaption>Com a ponta seca em Q, use o mesmo raio PQ para marcar o ponto R na reta r.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide19" name="slide">
+           <label for="slide19">3</label>
+           <img src="dg/02_01_03c.png" />
+           <figcaption>Desenhe o arco com a ponta seca em R, com a mesma medida PQ, interceptando o primeiro arco que você desenhou no ponto S.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide20" name="slide">
+           <label for="slide15">4</label>
+           <img src="dg/02_01_04c.png" />
+           <figcaption>Desenhe a reta que passa pelos pontos P e S com a régua.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide20" name="slide">
+           <label for="slide16">5</label>
+           <img src="dg/02_01_05c.png" />
+           <figcaption>Pronto! A reta paralela s está construída.</figcaption>
+       </li>
+    </ul>
+    <img src="dg/02_01_05c.png" class="fundo" />
   <hr>
 
   <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
