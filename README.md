@@ -142,13 +142,13 @@
        </li>
        <li>
            <input type="radio" id="slide20" name="slide">
-           <label for="slide15">4</label>
+           <label for="slide20">4</label>
            <img src="dg/02_01_04c.png" />
            <figcaption>Desenhe a reta que passa pelos pontos P e S com a régua.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide20" name="slide">
-           <label for="slide16">5</label>
+           <input type="radio" id="slide21" name="slide">
+           <label for="slide21">5</label>
            <img src="dg/02_01_05c.png" />
            <figcaption>Pronto! A reta paralela s está construída.</figcaption>
        </li>
