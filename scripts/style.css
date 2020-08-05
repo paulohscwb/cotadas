@@ -55,7 +55,7 @@ h3::after {
      display: block;
      height: auto;
      width: 100%;
-     top: 5px;
+     top: 15px;
      position: relative;
  }
 
@@ -72,7 +72,7 @@ h3::after {
 }
  .slider label {
      background-color: #DCDCDC;
-     top: -25px;
+     top: 5px;
      cursor: pointer;
      display: block;
      height: 25px;
