@@ -1,5 +1,5 @@
 figcaption {
-  top: -20px;
+  top: -25px;
   background: rgba(21,153,87,0.12);
   padding: 5px;
   border-radius: 7px;
@@ -54,7 +54,7 @@ h3 {
 }
  .slider label {
      background-color: #DCDCDC;
-     top: -10px;
+     top: -15px;
      cursor: pointer;
      display: block;
      height: 25px;
