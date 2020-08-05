@@ -9,7 +9,7 @@
 <details>
   <summary id="desenho">Desenho Geométrico</summary>
 <h3>Resolução do Exercício 1 da pág. 1: mediatriz</h3>
-  <h4> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</h4>
+  <h5> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</h5>
   <ul class="slider">
       <li>
            <input type="radio" id="slide1" name="slide" checked>
@@ -83,8 +83,9 @@
        </li>
   </ul>
   <img src="dg/01_01_00.png" class="fundo"/>
+  <hr>
 <h3>Resolução do Exercício 2 da pág. 2: reta paralela</h3>
-  <h4> Podemos utilizar a régua e um dos esquadros ou a régua e o compasso para resolver este exercício. Primeiro, veja como é a construção com a régua e o esquadro de 45<sup>o</sup>.</h4>
+  <h5> Podemos utilizar a régua e um dos esquadros ou a régua e o compasso para resolver este exercício. Primeiro, veja como é a construção com a régua e o esquadro de 45<sup>o</sup>.</h5>
   <ul class="slider">
       <li>
            <input type="radio" id="slide12" name="slide" checked>
