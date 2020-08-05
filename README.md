@@ -44,12 +44,13 @@
     </ul>
     <img src="dg/01_01_00.png" class="fundo" />
   <hr>
+  <h5>Agora veja como fica a construção da mediatriz do segmento AB próximo da margem da folha.</h5>
   <ul class="slider">
        <li>
            <input type="radio" id="slide6" name="slide" checked>
            <label for="slide6">passos: 1</label>
            <img src="dg/01_01_06.png" />
-           <figcaption>No caso em que AB está próximo da margem da folha, podemos começar desenhando um arco com a ponta seca em A e um raio maior do que a metade de AB.</figcaption>
+           <figcaption>Podemos começar desenhando um arco com a ponta seca em A e um raio maior do que a metade de AB.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide7" name="slide">
