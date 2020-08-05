@@ -218,21 +218,23 @@
     <img src="dg/19_01_00.png" class="fundo" />
   <hr>
   </details>
-<h3>Exercícios 4 e 5, págs. 20 e 21</h3>
-<img src="vr/042_exerc4c.PNG">
-  <figcaption>Visualização do item c do Exercício 4 com RV e RA.</figcaption>
-<br><a href="https://paulohscwb.github.io/cotadas/vr/p_ex4c_triangulo.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr><img src="vr/043_exerc5a.PNG">
-  <figcaption>Visualização do item a do Exercício 5 com RV e RA.</figcaption>
-<br><a href="https://paulohscwb.github.io/cotadas/vr/p_ex5a_hexagono.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr><img src="vr/043_exerc5c.PNG">
-  <figcaption>Visualização do item c do Exercício 5 com RV e RA.</figcaption>
-<br><a href="https://paulohscwb.github.io/cotadas/vr/p_ex5c_hexagono.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Propriedade 7, pág. 22</h3>
-<img src="vr/044_prop7.PNG">
-  <figcaption>Visualização da propriedade 7 com RV e RA.</figcaption>
-<br><a href="https://paulohscwb.github.io/cotadas/vr/p7.html"><img src="vr/RVaframe.png" width="200px"></a>
+  <details class="sub"><summary>Exercícios 4 e 5, págs. 20 e 21</summary>
+  <img src="vr/042_exerc4c.PNG">
+    <figcaption>Visualização do item c do Exercício 4 com RV e RA.</figcaption>
+  <br><a href="https://paulohscwb.github.io/cotadas/vr/p_ex4c_triangulo.html"><img src="vr/RVaframe.png" width="200px"></a>
+  <hr><img src="vr/043_exerc5a.PNG">
+    <figcaption>Visualização do item a do Exercício 5 com RV e RA.</figcaption>
+  <br><a href="https://paulohscwb.github.io/cotadas/vr/p_ex5a_hexagono.html"><img src="vr/RVaframe.png" width="200px"></a>
+  <hr><img src="vr/043_exerc5c.PNG">
+    <figcaption>Visualização do item c do Exercício 5 com RV e RA.</figcaption>
+  <br><a href="https://paulohscwb.github.io/cotadas/vr/p_ex5c_hexagono.html"><img src="vr/RVaframe.png" width="200px"></a>
+  <hr>
+  </details>
+  <details class="sub"><summary>Visualização da Propriedade 7, pág. 22</summary>
+  <img src="vr/044_prop7.PNG">
+    <figcaption>Visualização da propriedade 7 com RV e RA.</figcaption>
+  <br><a href="https://paulohscwb.github.io/cotadas/vr/p7.html"><img src="vr/RVaframe.png" width="200px"></a>
+  </details>
 <br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
