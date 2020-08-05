@@ -127,31 +127,31 @@
       <li>
            <input type="radio" id="slide17" name="slide" checked>
            <label for="slide17">passos: 1</label>
-           <img src="dg/02_01_01c.png" />
+           <img src="prop/02_01_01c.png" />
            <figcaption>Desenhe um arco com a ponta seca em P, que intercepte a reta r no ponto Q.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide18" name="slide">
            <label for="slide18">2</label>
-           <img src="dg/02_01_02c.png" />
+           <img src="prop/02_01_02c.png" />
            <figcaption>Com a ponta seca em Q, use o mesmo raio PQ para marcar o ponto R na reta r.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide19" name="slide">
            <label for="slide19">3</label>
-           <img src="dg/02_01_03c.png" />
+           <img src="prop/02_01_03c.png" />
            <figcaption>Desenhe o arco com a ponta seca em R, com a mesma medida PQ, interceptando o primeiro arco que você desenhou no ponto S.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide20" name="slide">
            <label for="slide20">4</label>
-           <img src="dg/02_01_04c.png" />
+           <img src="prop/02_01_04c.png" />
            <figcaption>Desenhe a reta que passa pelos pontos P e S com a régua.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide21" name="slide">
            <label for="slide21">5</label>
-           <img src="dg/02_01_05c.png" />
+           <img src="prop/02_01_05c.png" />
            <figcaption>Pronto! A reta paralela s está construída.</figcaption>
        </li>
     </ul>
