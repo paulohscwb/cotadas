@@ -85,6 +85,7 @@
   </ul>
   <img src="dg/01_01_00.png" class="fundo"/>
   </details>
+  <hr>
   <details class="sub"><summary>-Exercício 2 da pág. 2: reta paralela</summary>
   <h5> Podemos utilizar a régua e um dos esquadros ou a régua e o compasso para resolver este exercício. Primeiro, veja como é a construção com a régua e o esquadro de 45<sup>o</sup>.</h5>
   <ul class="slider">
@@ -156,6 +157,7 @@
     </ul>
     <img src="dg/02_01_05c.png" class="fundo" />
   </details>
+  <hr>
   <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
