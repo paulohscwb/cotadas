@@ -20,6 +20,10 @@ details {
   padding: 3px;
   border-radius: 7px;
 }
+.sub {
+  border: none;
+  padding: 0;
+}
 h3 {
   font-size: 19px;
 }
