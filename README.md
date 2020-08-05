@@ -217,6 +217,7 @@
     </ul>
     <img src="dg/19_01_00.png" class="fundo" />
   <hr>
+  </details>
 <h3>Exercícios 4 e 5, págs. 20 e 21</h3>
 <img src="vr/042_exerc4c.PNG">
   <figcaption>Visualização do item c do Exercício 4 com RV e RA.</figcaption>
