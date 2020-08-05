@@ -39,7 +39,7 @@ h5 {
   margin: 0;
 }
 hr {
-  border-color: rgb(21,153,87);
+  border: 1px dashed rgb(21,153,87);
 }
 h3::after {
   content: '';
