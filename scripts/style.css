@@ -26,19 +26,17 @@ h3 {
 
 * { margin: 0; padding: 0; }
 
-.fundo {
+/*.fundo {
    margin: 40px 0 50px 0;
    z-index: 0;
    visibility: hidden;
-}
+}*/
 .slider {
      display: block;
      height: auto;
      width: 100%;
      top: 35px;
-     position: relative;
-     margin: auto;
-     float:left;
+     position: absolute;
  }
 
  .slider li {
