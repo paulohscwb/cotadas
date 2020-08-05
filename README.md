@@ -217,7 +217,44 @@
     </ul>
     <img src="prop/19_01_00.png" class="fundo" />
   </details>
-  <hr>  
+  <hr>
+  <details class="sub"><summary>Exercício 2 da pág. 19</summary>
+  <h5> Vamos utilizar a régua, o compasso e o par de esquadros para resolver este exercício. De acordo com a propriedade 2, podemos encontrar a projeção dos lados de um paralelogramo utilizando a construção de retas paralelas.</h5>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="slide105" name="slide" checked>
+           <label for="slide105">passos: 1</label>
+           <img src="prop/19_02_01.png" />
+           <figcaption>A projeção do lado C'D' será paralela ao segmento A'B'. Logo, podemos desenhar a reta C'D'//A'B' com o uso de esquadros.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide106" name="slide">
+           <label for="slide106">2</label>
+           <img src="prop/19_02_02.png" />
+           <figcaption>Alinhando o esquadro de 45<sup>o</sup> com A'B', coloque como apoio o outro esquadro ou a régua. Deslize o esquadro de 45<sup>o</sup> deixando o outro esquadro ou a régua fixo.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide107" name="slide">
+           <label for="slide107">3</label>
+           <img src="prop/19_02_03.png" />
+           <figcaption>Usando a mesma construção, você pode desenhar a reta paralela a A'D', ou usar o compasso. Pela propriedade 3, A'B' = C'D', logo, podemos "pegar" a medida A'B' com o compasso... </figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide108" name="slide">
+           <label for="slide108">4</label>
+           <img src="prop/19_02_04.png" />
+           <figcaption>... e desenhá-la com centro em D' e o raio A'B'. Logo, encontramos o ponto C'.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide109" name="slide">
+           <label for="slide109">5</label>
+           <img src="prop/19_02_05.png" />
+           <figcaption>Pronto! O paralelogramo está construído. Agora é sua vez de fazer o item b!</figcaption>
+       </li>
+    </ul>
+    <img src="prop/19_02_00.png" class="fundo" />
+  </details>
+  <hr>
   <details class="sub"><summary>Exercícios 4 e 5, págs. 20 e 21</summary>
   <img src="vr/042_exerc4c.PNG">
     <figcaption>Visualização do item c do Exercício 4 com RV e RA.</figcaption>
