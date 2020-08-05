@@ -33,6 +33,10 @@ details {
 h3 {
   font-size: 19px;
 }
+
+h5 {
+  margin: 0;
+}
 hr {
   border-color: rgb(21,153,87);
 }
