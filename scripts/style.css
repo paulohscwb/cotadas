@@ -24,6 +24,11 @@ details {
   border: none;
   padding: 0;
 }
+.sub summary{
+  font-size: 19px;
+  font-weight: normal;
+}
+
 h3 {
   font-size: 19px;
 }
