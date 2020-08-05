@@ -163,21 +163,59 @@
 
 <details>
   <summary id="propriedades">Propriedades das projeções cilíndricas</summary>
-  <h3>Propriedade 1, pág. 15</h3>
+  <details class="sub"><summary>Visualização da Propriedade 1, pág. 15</summary>
     <img src="vr/037_prop1a.PNG">
       <figcaption>Visualização da Propriedade 1 com Realidade Virtual (RV) e Realidade Aumentada (RA). Neste caso, a reta r não é paralela à direção d.</figcaption>
       <br><a href="https://paulohscwb.github.io/cotadas/vr/p1.html"><img src="vr/RVaframe.png" width="200px"></a>
     <hr><img src="vr/037_prop1b.PNG">
       <figcaption>Visualização da Propriedade 1 com RV e RA. Neste caso, as retas r e d são paralelas</figcaption>
       <br><a href="https://paulohscwb.github.io/cotadas/vr/p1a.html"><img src="vr/RVaframe.png" width="200px"></a>
+  </details>
   <hr>
-  <h3>Propriedade 2, pág. 16</h3>
+  <details class="sub"><summary>Visualização da Propriedade 2, pág. 16</summary>
     <img src="vr/038_prop2a.PNG">
       <figcaption>Visualização da Propriedade 2 com RV e RA. Neste caso, r e s estão em planos projetantes distintos.</figcaption>
       <br><a href="https://paulohscwb.github.io/cotadas/vr/p2.html"><img src="vr/RVaframe.png" width="200px"></a>
     <hr><img src="vr/038_prop2b.PNG">
        <figcaption>Visualização da Propriedade 2 com RV e RA. Neste caso, r e s estão em um mesmo plano projetante.</figcaption>
     <br><a href="https://paulohscwb.github.io/cotadas/vr/p2a.html"><img src="vr/RVaframe.png" width="200px"></a>
+  </details>
+  <hr>
+  <details class="sub"><summary>Exercício 1 da pág. 19</summary>
+  <h5> Vamos utilizar a régua e o compasso para resolver este exercício. De acordo com a propriedade 3, podemos encontrar a projeção do ponto médio de AB construindo a mediatriz da projeção deste segmento. Clique nos botões do passo a passo para fazer a construção na sua apostila.</h5>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="slide100" name="slide" checked>
+           <label for="slide100">passos: 1</label>
+           <img src="dg/19_01_01.png" />
+           <figcaption>Com a ponta seca em A', desenhe um arco com raio maior do que a metade de A'B'.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide101" name="slide">
+           <label for="slide101">2</label>
+           <img src="dg/19_01_02.png" />
+           <figcaption>Com a ponta seca em B', desenhe um arco com o mesmo raio usado no passo anterior.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide102" name="slide">
+           <label for="slide102">3</label>
+           <img src="dg/19_01_03.png" />
+           <figcaption>Desenhe a reta que passa pelos pontos de interseção dos arcos usando a régua.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide103" name="slide">
+           <label for="slide103">4</label>
+           <img src="dg/19_01_04.png" />
+           <figcaption>A projeção do ponto médio M' está na interseção da mediatriz de A'B' com o segmento A'B'.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide104" name="slide">
+           <label for="slide104">5</label>
+           <img src="dg/19_01_05.png" />
+           <figcaption>Como os pontos A' e B' estão coincidentes, quer dizer que o segmento AB é paralelo à direção das projetantes. Logo, M' coincide com A' e B'.</figcaption>
+       </li>
+    </ul>
+    <img src="dg/19_01_00.png" class="fundo" />
   <hr>
 <h3>Exercícios 4 e 5, págs. 20 e 21</h3>
 <img src="vr/042_exerc4c.PNG">
