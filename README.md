@@ -120,7 +120,7 @@
     </ul>
     <img src="dg/02_01_00.png" class="fundo" />
   <hr>
-<h5> Agora veja os passos da construção feita com régua e compasso.</sup>.</h5>
+<h5> Agora veja os passos da construção feita com régua e compasso.</h5>
   <ul class="slider">
       <li>
            <input type="radio" id="slide17" name="slide" checked>
