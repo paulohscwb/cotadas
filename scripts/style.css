@@ -1,5 +1,5 @@
 figcaption {
-  top: -10px;
+  top: 0px;
   background: rgba(21,153,87,0.12);
   padding: 5px;
   border-radius: 7px;
@@ -52,7 +52,7 @@ h3::after {
 * { margin: 0; padding: 0; }
 
 .fundo {
-   margin: 40px 0 45px 0;
+   margin: 40px 0 55px 0;
    z-index: 0;
    visibility: hidden;
 }
