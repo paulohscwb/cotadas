@@ -127,31 +127,31 @@
       <li>
            <input type="radio" id="slide17" name="slide" checked>
            <label for="slide17">passos: 1</label>
-           <img src="prop/02_01_01c.png" />
+           <img src="dg/02_01_01c.png" />
            <figcaption>Desenhe um arco com a ponta seca em P, que intercepte a reta r no ponto Q.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide18" name="slide">
            <label for="slide18">2</label>
-           <img src="prop/02_01_02c.png" />
+           <img src="dg/02_01_02c.png" />
            <figcaption>Com a ponta seca em Q, use o mesmo raio PQ para marcar o ponto R na reta r.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide19" name="slide">
            <label for="slide19">3</label>
-           <img src="prop/02_01_03c.png" />
+           <img src="dg/02_01_03c.png" />
            <figcaption>Desenhe o arco com a ponta seca em R, com a mesma medida PQ, interceptando o primeiro arco que você desenhou no ponto S.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide20" name="slide">
            <label for="slide20">4</label>
-           <img src="prop/02_01_04c.png" />
+           <img src="dg/02_01_04c.png" />
            <figcaption>Desenhe a reta que passa pelos pontos P e S com a régua.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide21" name="slide">
            <label for="slide21">5</label>
-           <img src="prop/02_01_05c.png" />
+           <img src="dg/02_01_05c.png" />
            <figcaption>Pronto! A reta paralela s está construída.</figcaption>
        </li>
     </ul>
@@ -187,35 +187,35 @@
       <li>
            <input type="radio" id="slide100" name="slide" checked>
            <label for="slide100">passos: 1</label>
-           <img src="dg/19_01_01.png" />
+           <img src="prop/19_01_01.png" />
            <figcaption>Com a ponta seca em A', desenhe um arco com raio maior do que a metade de A'B'.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide101" name="slide">
            <label for="slide101">2</label>
-           <img src="dg/19_01_02.png" />
+           <img src="prop/19_01_02.png" />
            <figcaption>Com a ponta seca em B', desenhe um arco com o mesmo raio usado no passo anterior.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide102" name="slide">
            <label for="slide102">3</label>
-           <img src="dg/19_01_03.png" />
+           <img src="prop/19_01_03.png" />
            <figcaption>Desenhe a reta que passa pelos pontos de interseção dos arcos usando a régua.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide103" name="slide">
            <label for="slide103">4</label>
-           <img src="dg/19_01_04.png" />
+           <img src="prop/19_01_04.png" />
            <figcaption>A projeção do ponto médio M' está na interseção da mediatriz de A'B' com o segmento A'B'.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide104" name="slide">
            <label for="slide104">5</label>
-           <img src="dg/19_01_05.png" />
+           <img src="prop/19_01_05.png" />
            <figcaption>Como os pontos A' e B' estão coincidentes, quer dizer que o segmento AB é paralelo à direção das projetantes. Logo, M' coincide com A' e B'.</figcaption>
        </li>
     </ul>
-    <img src="dg/19_01_00.png" class="fundo" />
+    <img src="prop/19_01_00.png" class="fundo" />
   </details>
   <hr>  
   <details class="sub"><summary>Exercícios 4 e 5, págs. 20 e 21</summary>
