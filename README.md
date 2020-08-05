@@ -8,7 +8,7 @@
 
 <details>
   <summary id="desenho">Desenho Geométrico</summary>
-  <details class="sub"><summary>Exercício 1 da pág. 1: mediatriz</summary>
+  <details class="sub"><summary>&#9745; Exercício 1 da pág. 1: mediatriz</summary>
   <h5> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</h5>
   <ul class="slider">
       <li>
@@ -85,7 +85,7 @@
   </ul>
   <img src="dg/01_01_00.png" class="fundo"/>
   </details>
-<h3>Exercício 2 da pág. 2: reta paralela</h3>
+  <details class="sub"><summary>&#9745; Exercício 2 da pág. 2: reta paralela</summary>
   <h5> Podemos utilizar a régua e um dos esquadros ou a régua e o compasso para resolver este exercício. Primeiro, veja como é a construção com a régua e o esquadro de 45<sup>o</sup>.</h5>
   <ul class="slider">
       <li>
@@ -121,7 +121,7 @@
     </ul>
     <img src="dg/02_01_00.png" class="fundo" />
   <hr>
-<h5> Agora veja os passos da construção feita com régua e compasso.</h5>
+  <h5> Agora veja os passos da construção feita com régua e compasso.</h5>
   <ul class="slider">
       <li>
            <input type="radio" id="slide17" name="slide" checked>
@@ -155,8 +155,7 @@
        </li>
     </ul>
     <img src="dg/02_01_05c.png" class="fundo" />
-  <hr>
-
+  </details>
   <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
