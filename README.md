@@ -216,8 +216,8 @@
        </li>
     </ul>
     <img src="dg/19_01_00.png" class="fundo" />
-  <hr>
   </details>
+  <hr>  
   <details class="sub"><summary>Exercícios 4 e 5, págs. 20 e 21</summary>
   <img src="vr/042_exerc4c.PNG">
     <figcaption>Visualização do item c do Exercício 4 com RV e RA.</figcaption>
@@ -228,8 +228,8 @@
   <hr><img src="vr/043_exerc5c.PNG">
     <figcaption>Visualização do item c do Exercício 5 com RV e RA.</figcaption>
   <br><a href="https://paulohscwb.github.io/cotadas/vr/p_ex5c_hexagono.html"><img src="vr/RVaframe.png" width="200px"></a>
-  <hr>
   </details>
+  <hr>
   <details class="sub"><summary>Visualização da Propriedade 7, pág. 22</summary>
   <img src="vr/044_prop7.PNG">
     <figcaption>Visualização da propriedade 7 com RV e RA.</figcaption>
