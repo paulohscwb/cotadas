@@ -43,11 +43,10 @@ h3 {
  .slider li {
      list-style: none;
      position: absolute;
-     margin:auto;
+     top:10px;
  }
 
  .slider img {
-     top:10px;
      width: 100%;
  }
 .slider input {
