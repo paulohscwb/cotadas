@@ -40,8 +40,6 @@ h5 {
 }
 hr {
   border: 1px solid rgb(21,153,87);
-  width: 75%;
-  margin: 0 auto;
 }
 h3::after {
   content: '';
