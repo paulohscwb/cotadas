@@ -28,7 +28,7 @@ h3::before {
   display: block;
   background: rgb(21,153,87);
   width: 80%;
-  height:2px;
+  height: 0.5px;
   margin: 0 auto;
 }
 
