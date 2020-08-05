@@ -23,13 +23,12 @@ details {
 h3 {
   font-size: 19px;
 }
-h3::before {
+h3::after {
   content: '';
   display: block;
-  background: rgb(21,153,87);
+  background: rgba(21,153,87,0.5);
   width: 80%;
   height: 1px;
-  margin: 0 auto;
 }
 
 * { margin: 0; padding: 0; }
