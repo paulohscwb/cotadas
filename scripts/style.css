@@ -35,7 +35,7 @@ h3 {
      display: block;
      height: auto;
      width: 100%;
-     top: 15px;
+     top: 25px;
      position: relative;
      margin: auto;
      float:left;
@@ -44,7 +44,6 @@ h3 {
  .slider li {
      list-style: none;
      position: absolute;
-     top: 20px;
  }
 
  .slider img {
@@ -55,7 +54,7 @@ h3 {
 }
  .slider label {
      background-color: #DCDCDC;
-     top: -5px;
+     top: -10px;
      cursor: pointer;
      display: block;
      height: 25px;
