@@ -23,6 +23,14 @@ details {
 h3 {
   font-size: 19px;
 }
+h3::before {
+  content: '';
+  display: block;
+  background: rgb(21,153,87);
+  width: 80%;
+  height:2px;
+  margin: 0 auto;
+}
 
 * { margin: 0; padding: 0; }
 
