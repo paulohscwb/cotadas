@@ -44,8 +44,7 @@ h3 {
  .slider li {
      list-style: none;
      position: absolute;
-     top:10px;
-     height:auto;
+     top: 20px;
  }
 
  .slider img {
