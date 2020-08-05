@@ -47,7 +47,7 @@ h3::after {
 * { margin: 0; padding: 0; }
 
 .fundo {
-   margin: 40px 0 50px 0;
+   margin: 40px 0 30px 0;
    z-index: 0;
    visibility: hidden;
 }
@@ -55,7 +55,7 @@ h3::after {
      display: block;
      height: auto;
      width: 100%;
-     top: 15px;
+     top: 10px;
      position: relative;
  }
 
@@ -72,7 +72,7 @@ h3::after {
 }
  .slider label {
      background-color: #DCDCDC;
-     top: 5px;
+     top: -5px;
      cursor: pointer;
      display: block;
      height: 25px;
