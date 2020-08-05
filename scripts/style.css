@@ -22,7 +22,7 @@ details {
 }
 .sub {
   border: none;
-  padding: 0;
+  padding: 3px;
 }
 .sub summary{
   font-size: 19px;
@@ -41,7 +41,7 @@ h5 {
 hr {
   border: 1px solid rgb(21,153,87);
   width: 75%;
-  margin: auto;
+  margin: 0 auto;
 }
 h3::after {
   content: '';
