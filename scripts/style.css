@@ -39,8 +39,9 @@ h5 {
   margin: 0;
 }
 hr {
-  border: 1px dashed rgb(21,153,87);
+  border: 1px solid rgb(21,153,87);
   width: 75%;
+  margin: auto;
 }
 h3::after {
   content: '';
@@ -78,7 +79,7 @@ h3::after {
 }
  .slider label {
      background-color: #DCDCDC;
-     top: -15px;
+     top: -20px;
      cursor: pointer;
      display: block;
      height: 25px;
