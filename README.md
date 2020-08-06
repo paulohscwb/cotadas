@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="scripts/style.css">
 </head>
 ---
-driveId: 1Tg2c6pOoDNESEAvl9kvXgRGv81D-U0Kw
+driveId: 1Tg2c6pOoDNESEAvl9kvXgRGv81D-U0Kw/view?usp=sharing
 ---
 
 <h2 id="inicio">Visualização de propriedades de projeções, sólidos e aplicações</h2> 
