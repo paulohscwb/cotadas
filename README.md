@@ -167,6 +167,7 @@
   <details class="sub"><summary>Conceito de Projeção Cônica, pág. 14</summary>
     <img src="prop/14_proj_conica.PNG">
     <figcaption>Para projetar um ponto A qualquer do espaço usando a projeção cônica, basta definir a reta projetante <b>a</b>, que passa pelo centro de projeção O e pelo ponto A. A interseção desta reta com o plano &pi;' é a projeção A' do ponto A.</figcaption>
+    <a href="https://paulohscwb.github.io/cotadas/vr/proj_conica.html"><img src="vr/3d.png" width="25px">Visualização em 3D</a>
   </details>
   <hr>
   <details class="sub"><summary>Conceito de Projeção Cilíndrica, pág. 14</summary>
