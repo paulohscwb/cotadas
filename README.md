@@ -229,7 +229,7 @@
     <img src="prop/19_01_00.png" class="fundo" />
   </details>
   <hr>
-  <details class="sub"><summary>Exercício 2 da pág. 19</summary>
+  <details class="sub"><summary>Exercício 2 da pág. 19 (item a)</summary>
   <h5> Vamos utilizar a régua, o compasso e o par de esquadros para resolver este exercício. De acordo com a propriedade 2, podemos encontrar a projeção dos lados de um paralelogramo utilizando a construção de retas paralelas.</h5>
   <ul class="slider">
       <li>
@@ -264,6 +264,37 @@
        </li>
     </ul>
     <img src="prop/19_02_00.png" class="fundo" />
+  </details>
+  <hr>
+  <details class="sub"><summary>Exercício 2 da pág. 19 (item c)</summary>
+  <h5> Vamos utilizar a régua e o compasso para resolver este exercício. De acordo com a propriedade 5, o paralelogramo está em um plano paralelo à direção <b>d</b) das projetantes.</h5>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="slide110" name="slide" checked>
+           <label for="slide110">passos: 1</label>
+           <img src="prop/19_02_01c.png" />
+           <figcaption>O vértice C' do paralelogramo estará no prolongamento da reta A'B'.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide111" name="slide">
+           <label for="slide1cc">2</label>
+           <img src="prop/19_02_02c.png" />
+           <figcaption>De acordo com a propriedade 3, os segmentos A'B' e C'D' são iguais. Logo, podemos "pegar" a medida A'B' com o compasso...</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide112" name="slide">
+           <label for="slide112">3</label>
+           <img src="prop/19_02_03c.png" />
+           <figcaption>... e desenhar o arco com medida A'B' no prolongamento deste segmento.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide113" name="slide">
+           <label for="slide113">4</label>
+           <img src="prop/19_02_04c.png" />
+           <figcaption>Assim, encontramos o vértice C' do paralelogramo.</figcaption>
+       </li>
+    </ul>
+    <img src="prop/19_02_00c.png" class="fundo" />
   </details>
   <hr>
   <details class="sub"><summary>Exercícios 4 e 5, págs. 20 e 21</summary>
