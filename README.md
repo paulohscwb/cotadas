@@ -277,7 +277,7 @@
        </li>
        <li>
            <input type="radio" id="slide111" name="slide">
-           <label for="slide1cc">2</label>
+           <label for="slide111">2</label>
            <img src="prop/19_02_02c.png" />
            <figcaption>De acordo com a propriedade 3, os segmentos A'B' e C'D' são iguais. Logo, podemos "pegar" a medida A'B' com o compasso...</figcaption>
        </li>
