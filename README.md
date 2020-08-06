@@ -267,7 +267,7 @@
   </details>
   <hr>
   <details class="sub"><summary>Exercício 2 da pág. 19 (item c)</summary>
-  <h5> Vamos utilizar a régua e o compasso para resolver este exercício. De acordo com a propriedade 5, o paralelogramo está em um plano paralelo à direção <b>d</b) das projetantes.</h5>
+  <h5> Vamos utilizar a régua e o compasso para resolver este exercício. De acordo com a propriedade 5, o paralelogramo está em um plano paralelo à direção <b>d</b> das projetantes.</h5>
   <ul class="slider">
       <li>
            <input type="radio" id="slide110" name="slide" checked>
