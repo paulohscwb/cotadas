@@ -7,6 +7,7 @@ figcaption {
   position: relative;
   float:left;
   height:auto;
+  margin: 5px 0 15px 0;
 }
 summary {
   font-size: 21px;
@@ -37,7 +38,7 @@ h3 {
 
 h5 {
   top: -20px;
-  font-color: rgb(21,89,151);
+  color: #155997;
   font-size: 15px;
 }
 hr {
