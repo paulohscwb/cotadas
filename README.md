@@ -181,8 +181,8 @@
       <figcaption>Visualização da Propriedade 1 com Realidade Virtual (RV) e Realidade Aumentada (RA). Neste caso, a reta r não é paralela à direção d.</figcaption>
       <br><a href="https://paulohscwb.github.io/cotadas/vr/p1.html"><img src="vr/RVaframe.png" width="200px"></a>
     <hr><img src="vr/037_prop1b.PNG">
-      <figcaption>Visualização da Propriedade 1 com RV e RA. Neste caso, as retas r e d são paralelas</figcaption>
-      <br><a href="https://paulohscwb.github.io/cotadas/vr/p1a.html"><img src="vr/RVaframe.png" width="200px"></a>
+      <figcaption>Visualização da Propriedade 1 com RV e RA. Neste caso, as retas r e d são paralelas.</figcaption>
+      <br><br><a href="https://paulohscwb.github.io/cotadas/vr/p1a.html"><img src="vr/RVaframe.png" width="200px"></a>
      <hr>
   </details>
   <hr>
