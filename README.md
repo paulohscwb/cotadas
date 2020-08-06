@@ -1,9 +1,6 @@
 <head>
 <link rel="stylesheet" href="scripts/style.css">
 </head>
----
-driveId: 1Tg2c6pOoDNESEAvl9kvXgRGv81D-U0Kw/view?usp=sharing
----
 
 <h2 id="inicio">Visualização de propriedades de projeções, sólidos e aplicações</h2> 
 
@@ -184,7 +181,7 @@ driveId: 1Tg2c6pOoDNESEAvl9kvXgRGv81D-U0Kw/view?usp=sharing
     <br>O acesso aos sites de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.
     <br><br><center><img src="https://paulohscwb.github.io/cotadas/vr/exemplo.jpg" width="80%"></center>  
     Veja o vídeo de demonstração do uso destes recursos:
-    {% include googleDrivePlayer.html id=page.driveId1 %}
+    {% include googleDrivePlayer.html id=page.1Tg2c6pOoDNESEAvl9kvXgRGv81D-U0Kw/view?usp=sharing %}
   </details>
   <hr>
   <details class="sub"><summary>Visualização da Propriedade 1, pág. 15</summary>
