@@ -326,7 +326,7 @@
        </li>
        <li>
            <input type="radio" id="slide118" name="slide">
-           <label for="slide118">6</label>
+           <label for="slide118">5</label>
            <img src="prop/20_03_05a.png" />
            <figcaption>... e podemos desenhar o arco com centro em M' e raio B'M'.</figcaption>
        </li>
