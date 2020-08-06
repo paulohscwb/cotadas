@@ -174,6 +174,21 @@
     <figcaption>Para projetar um ponto A qualquer do espaço usando a projeção cilíndrica, basta definir a reta projetante <b>a</b>, paralela à direção <b>d</b> e pelo ponto A. A interseção desta reta com o plano &pi;' é a projeção A' do ponto A.</figcaption>
   </details>
   <hr>
+  <details class="sub"><summary>Uso de recursos de Realidade Aumentada e Realidade Virtual</summary>
+    <p>Esta apostila tem recursos programados em Realidade Aumentada e Realidade Virtal. Você pode acessar estes recursos usando o seguinte endereço:</p>
+    <center><a href="https://paulohscwb.github.io/cotadas/ra.html"> https://paulohscwb.github.io/cotadas/ra.html</a></center>
+    Os ambientes podem ser acessados em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
+    <br>O acesso aos sites de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.
+    <br><br><center><img src="https://paulohscwb.github.io/cotadas/vr/exemplo.jpg" width="80%"></center>  
+    Veja o vídeo de demonstração do uso destes recursos:
+    <video id=0 controls width="100%">
+      <source src="http://www.degraf.ufpr.br/docentes/paulo/videos/RARV.ogv" type='video/ogg; codecs="theora, vorbis"'/>
+      <source src="http://www.degraf.ufpr.br/docentes/paulo/videos/RARV.webm" type='video/webm' >
+      <source src="http://www.degraf.ufpr.br/docentes/paulo/videos/RARV.mp4" type='video/mp4'>
+      Seu navegador não consegue reproduzir vídeos!
+    </video>
+  </details>
+  <hr>
   <details class="sub"><summary>Visualização da Propriedade 1, pág. 15</summary>
     <img src="vr/037_prop1a.PNG">
       <figcaption>Visualização da Propriedade 1 com Realidade Virtual (RV) e Realidade Aumentada (RA). Neste caso, a reta r não é paralela à direção d.</figcaption>
