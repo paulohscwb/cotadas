@@ -181,7 +181,10 @@
     <br>O acesso aos sites de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.
     <br><br><center><img src="https://paulohscwb.github.io/cotadas/vr/exemplo.jpg" width="80%"></center>  
     Veja o vídeo de demonstração do uso destes recursos:
-    {% include googleDrivePlayer.html id=page.1Tg2c6pOoDNESEAvl9kvXgRGv81D-U0Kw/view?usp=sharing %}
+    <div class="embed-container">
+      <iframe width="100%" src="https://drive.google.com/file/d/1Tg2c6pOoDNESEAvl9kvXgRGv81D-U0Kw/view?usp=sharing" frameborder="0" allowfullscreen="">
+    </iframe>
+</div>
   </details>
   <hr>
   <details class="sub"><summary>Visualização da Propriedade 1, pág. 15</summary>
