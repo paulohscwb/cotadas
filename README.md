@@ -167,13 +167,11 @@
   <details class="sub"><summary>Conceito de Projeção Cônica, pág. 14</summary>
     <img src="prop/14_proj_conica.PNG">
     <figcaption>Para projetar um ponto A qualquer do espaço usando a projeção cônica, basta definir a reta projetante <b>a</b>, que passa pelo centro de projeção O e pelo ponto A. A interseção desta reta com o plano &pi;' é a projeção A' do ponto A.</figcaption>
-    <hr> 
   </details>
   <hr>
   <details class="sub"><summary>Conceito de Projeção Cilíndrica, pág. 14</summary>
     <img src="prop/14_proj_cilindrica.PNG">
     <figcaption>Para projetar um ponto A qualquer do espaço usando a projeção cilíndrica, basta definir a reta projetante <b>a</b>, paralela à direção <b>d</b> e pelo ponto A. A interseção desta reta com o plano &pi;' é a projeção A' do ponto A.</figcaption>
-    <hr>
   </details>
   <hr>
   <details class="sub"><summary>Visualização da Propriedade 1, pág. 15</summary>
@@ -183,7 +181,6 @@
     <hr><img src="vr/037_prop1b.PNG">
       <figcaption>Visualização da Propriedade 1 com RV e RA. Neste caso, as retas r e d são paralelas.</figcaption>
       <br><br><a href="https://paulohscwb.github.io/cotadas/vr/p1a.html"><img src="vr/RVaframe.png" width="200px"></a>
-     <hr>
   </details>
   <hr>
   <details class="sub"><summary>Visualização da Propriedade 2, pág. 16</summary>
