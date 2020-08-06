@@ -182,7 +182,7 @@
     <br><br><center><img src="https://paulohscwb.github.io/cotadas/vr/exemplo.jpg" width="80%"></center>  
     Veja o vídeo de demonstração do uso destes recursos:
     <div class="embed-container">
-      <iframe width="100%" src="https://drive.google.com/file/d/1Tg2c6pOoDNESEAvl9kvXgRGv81D-U0Kw/preview" frameborder="0" allowfullscreen=""></iframe>
+      <iframe src="https://drive.google.com/file/d/1Tg2c6pOoDNESEAvl9kvXgRGv81D-U0Kw/preview" width="100%"></iframe>
     </div>
   </details>
   <hr>
