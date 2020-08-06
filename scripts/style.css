@@ -13,6 +13,7 @@ summary {
   color: #159957;
   font-weight: bold;
   cursor: pointer;
+  margin-bottom:15px;
 }
 details {
   border: 1px solid #a2dec0;
