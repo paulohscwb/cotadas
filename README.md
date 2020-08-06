@@ -181,14 +181,16 @@
     <br>O acesso aos sites de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.
     <br><br><center><img src="https://paulohscwb.github.io/cotadas/vr/exemplo.jpg" width="80%"></center>  
     Veja o vídeo de demonstração do uso destes recursos:
+    <div class="embed-container">
     <iframe
-      src="http://www.degraf.ufpr.br/docentes/paulo/videos/RARV.mp4"
+      src="https://drive.google.com/file/d/1Tg2c6pOoDNESEAvl9kvXgRGv81D-U0Kw/view?usp=sharing"
       height="360"
       width="640"
       frameborder="0"
       scrolling="no"
       allowfullscreen="true">
     </iframe>
+    </div>
   </details>
   <hr>
   <details class="sub"><summary>Visualização da Propriedade 1, pág. 15</summary>
