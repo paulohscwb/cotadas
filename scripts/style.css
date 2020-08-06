@@ -13,7 +13,7 @@ summary {
   color: #159957;
   font-weight: bold;
   cursor: pointer;
-  margin-bottom:15px;
+  margin-bottom:13px;
 }
 details {
   border: 1px solid #a2dec0;
@@ -28,7 +28,7 @@ details {
 .sub summary{
   font-size: 19px;
   font-weight: normal;
-  margin-bottom: 0px;
+  margin-bottom: 12px;
   margin-left:10px;
 }
 
