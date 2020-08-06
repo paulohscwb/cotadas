@@ -3,7 +3,7 @@ figcaption {
   background: rgba(21,153,87,0.12);
   padding: 5px;
   border-radius: 7px;
-  font-size: 14px;
+  font-size: 15px;
   position: relative;
   float:left;
   height:auto;
@@ -38,6 +38,7 @@ h3 {
 h5 {
   top: -20px;
   color: rgb(21,89,151);
+  font-size: 15px;
 }
 hr {
   border: 1px solid rgb(21,153,87);
