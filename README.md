@@ -166,13 +166,13 @@
   <h5>Leia o conteúdo das páginas 12 e 13 da apostila. Agora vamos começar a trabalhar com as projeções de objetos e figuras em um plano &pi;'.</h5> 
   <details class="sub"><summary>Conceito de Projeção Cônica, pág. 14</summary>
     <img src="prop/14_proj_conica.PNG">
-    <figcaption>Para projetar um ponto A qualquer do espaço usando a projeção cônica, basta definir a reta projetante <span>a</span>, que passa pelo centro de projeção O e pelo ponto A. A interseção desta reta com o plano &pi;' é a projeção A' do ponto A.</figcaption>
+    <figcaption>Para projetar um ponto A qualquer do espaço usando a projeção cônica, basta definir a reta projetante <b>a</b>, que passa pelo centro de projeção O e pelo ponto A. A interseção desta reta com o plano &pi;' é a projeção A' do ponto A.</figcaption>
     <hr> 
   </details>
   <hr>
   <details class="sub"><summary>Conceito de Projeção Cilíndrica, pág. 14</summary>
     <img src="prop/14_proj_cilindrica.PNG">
-    <figcaption>Para projetar um ponto A qualquer do espaço usando a projeção cilíndrica, basta definir a reta projetante <span>a</span>, paralela à direção <span>d</span> e pelo ponto A. A interseção desta reta com o plano &pi;' é a projeção A' do ponto A.</figcaption>
+    <figcaption>Para projetar um ponto A qualquer do espaço usando a projeção cilíndrica, basta definir a reta projetante <b>a</b>, paralela à direção <b>d</b> e pelo ponto A. A interseção desta reta com o plano &pi;' é a projeção A' do ponto A.</figcaption>
     <hr>
   </details>
   <hr>
