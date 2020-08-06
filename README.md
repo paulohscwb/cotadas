@@ -297,6 +297,49 @@
     <img src="prop/19_02_00c.png" class="fundo" />
   </details>
   <hr>
+  <details class="sub"><summary>Exercício 3 da pág. 20 (item a)</summary>
+  <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="slide114" name="slide" checked>
+           <label for="slide114">passos: 1</label>
+           <img src="prop/20_03_01a.png" />
+           <figcaption>Relembrando uma propriedade do paralelogramo: as diagonais interceptam-se em seus respectivos pontos médios. Logo, pela propriedade 3, A'M' = M'C'.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide115" name="slide">
+           <label for="slide115">2</label>
+           <img src="prop/20_03_02a.png" />
+           <figcaption>Logo, podemos "pegar" a medida A'B' com o compasso e prolongar o segmento A'M'.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide116" name="slide">
+           <label for="slide116">3</label>
+           <img src="prop/20_03_03a.png" />
+           <figcaption>Para encontrar C', basta desenhar o arco com medida A'M' no prolongamento de A'M'.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide117" name="slide">
+           <label for="slide117">4</label>
+           <img src="prop/20_03_04a.png" />
+           <figcaption>O mesmo acontece com os segmentos B'M' e M'D'. Logo, podemos "pegar" a medida B'M' com o compasso...</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide118" name="slide">
+           <label for="slide118">6</label>
+           <img src="prop/20_03_05a.png" />
+           <figcaption>... e podemos desenhar o arco com centro em M' e raio B'M'.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide119" name="slide">
+           <label for="slide119">6</label>
+           <img src="prop/20_03_06a.png" />
+           <figcaption>Pronto! O paralelogramo está construído. Não esqueça de desenhar os lados desta figura.</figcaption>
+       </li>
+    </ul>
+    <img src="prop/20_03_00a.png" class="fundo" />
+  </details>
+  <hr>
   <details class="sub"><summary>Exercícios 4 e 5, págs. 20 e 21</summary>
   <img src="vr/042_exerc4c.PNG">
     <figcaption>Visualização do item c do Exercício 4 com RV e RA.</figcaption>
