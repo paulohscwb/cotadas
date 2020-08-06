@@ -9,7 +9,7 @@
 <details>
   <summary id="desenho">Desenho Geométrico</summary>
   <details class="sub"><summary>Exercício 1 da pág. 1: mediatriz</summary>
-  <h5> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</h5>
+  <p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="slide1" name="slide" checked>
@@ -44,7 +44,7 @@
     </ul>
     <img src="dg/01_01_00.png" class="fundo" />
   <hr>
-  <h5>Agora veja como fica a construção da mediatriz do segmento AB próximo da margem da folha.</h5>
+  <p>Agora veja como fica a construção da mediatriz do segmento AB próximo da margem da folha.</p>
   <ul class="slider">
        <li>
            <input type="radio" id="slide6" name="slide" checked>
@@ -87,7 +87,7 @@
   </details>
   <hr>
   <details class="sub"><summary>Exercício 2 da pág. 2: reta paralela</summary>
-  <h5> Podemos utilizar a régua e um dos esquadros ou a régua e o compasso para resolver este exercício. Primeiro, veja como é a construção com a régua e o esquadro de 45<sup>o</sup>.</h5>
+  <p> Podemos utilizar a régua e um dos esquadros ou a régua e o compasso para resolver este exercício. Primeiro, veja como é a construção com a régua e o esquadro de 45<sup>o</sup>.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="slide12" name="slide" checked>
@@ -122,7 +122,7 @@
     </ul>
     <img src="dg/02_01_00.png" class="fundo" />
   <hr>
-  <h5> Agora veja os passos da construção feita com régua e compasso.</h5>
+  <p> Agora veja os passos da construção feita com régua e compasso.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="slide17" name="slide" checked>
@@ -163,7 +163,7 @@
 
 <details>
   <summary id="propriedades">Propriedades das projeções cilíndricas</summary>
-  <h5>Leia o conteúdo das páginas 12 e 13 da apostila. Agora vamos começar a trabalhar com as projeções de objetos e figuras em um plano &pi;'.</h5> 
+  <p>Leia o conteúdo das páginas 12 e 13 da apostila. Agora vamos começar a trabalhar com as projeções de objetos e figuras em um plano &pi;'.</p> 
   <details class="sub"><summary>Conceito de Projeção Cônica, pág. 14</summary>
     <img src="prop/14_proj_conica.PNG">
     <figcaption>Para projetar um ponto A qualquer do espaço usando a projeção cônica, basta definir a reta projetante <b>a</b>, que passa pelo centro de projeção O e pelo ponto A. A interseção desta reta com o plano &pi;' é a projeção A' do ponto A.</figcaption>
@@ -193,7 +193,7 @@
   </details>
   <hr>
   <details class="sub"><summary>Exercício 1 da pág. 19</summary>
-  <h5> Vamos utilizar a régua e o compasso para resolver este exercício. De acordo com a propriedade 3, podemos encontrar a projeção do ponto médio de AB construindo a mediatriz da projeção deste segmento. Clique nos botões do passo a passo para fazer a construção na sua apostila.</h5>
+  <p> Vamos utilizar a régua e o compasso para resolver este exercício. De acordo com a propriedade 3, podemos encontrar a projeção do ponto médio de AB construindo a mediatriz da projeção deste segmento. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="slide100" name="slide" checked>
@@ -230,7 +230,7 @@
   </details>
   <hr>
   <details class="sub"><summary>Exercício 2 da pág. 19 (item a)</summary>
-  <h5> Vamos utilizar a régua, o compasso e o par de esquadros para resolver este exercício. De acordo com a propriedade 2, podemos encontrar a projeção dos lados de um paralelogramo utilizando a construção de retas paralelas.</h5>
+  <p> Vamos utilizar a régua, o compasso e o par de esquadros para resolver este exercício. De acordo com a propriedade 2, podemos encontrar a projeção dos lados de um paralelogramo utilizando a construção de retas paralelas.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="slide105" name="slide" checked>
@@ -267,7 +267,7 @@
   </details>
   <hr>
   <details class="sub"><summary>Exercício 2 da pág. 19 (item c)</summary>
-  <h5> Vamos utilizar a régua e o compasso para resolver este exercício. De acordo com a propriedade 5, o paralelogramo está em um plano paralelo à direção <b>d</b> das projetantes.</h5>
+  <p> Vamos utilizar a régua e o compasso para resolver este exercício. De acordo com a propriedade 5, o paralelogramo está em um plano paralelo à direção <b>d</b> das projetantes.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="slide110" name="slide" checked>
