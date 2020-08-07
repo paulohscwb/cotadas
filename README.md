@@ -382,43 +382,31 @@
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide114" name="slide" checked>
-           <label for="slide114">passos: 1</label>
-           <img src="prop/20_03_01a.png" />
-           <figcaption>Relembrando uma propriedade do paralelogramo: as diagonais interceptam-se em seus respectivos pontos médios. Logo, pela propriedade 3, A'M' = M'C'.</figcaption>
+           <input type="radio" id="slide120" name="slide" checked>
+           <label for="slide120">passos: 1</label>
+           <img src="prop/20_03_00b.png" />
+        <figcaption>Como as projeções dos vértices <b>A'</b> e <b>B'</b> são coincidentes, pela propriedade 1, podemos concluir que <b>AB // d</b>. Portanto, temos que <b>C'D' // d</b>.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide115" name="slide">
-           <label for="slide115">2</label>
-           <img src="prop/20_03_02a.png" />
-           <figcaption>Logo, podemos "pegar" a medida A'B' com o compasso e prolongar o segmento A'M'.</figcaption>
+           <input type="radio" id="slide121" name="slide">
+           <label for="slide121">2</label>
+           <img src="prop/20_03_01b.png" />
+         <figcaption>Podemos "pegar" a medida entre os pontos <b>A'=B'</b> e <b>M'</b> com o compasso e prolongar o segmento que une estes pontos.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide116" name="slide">
-           <label for="slide116">3</label>
-           <img src="prop/20_03_03a.png" />
-           <figcaption>Para encontrar C', basta desenhar o arco com medida A'M' no prolongamento de A'M'.</figcaption>
+           <input type="radio" id="slide122" name="slide">
+           <label for="slide122">3</label>
+           <img src="prop/20_03_02b.png" />
+           <figcaption>Os pontos <b>C'</b> e <b>D'</b> também coincidem, pois <b>AB // CD</b>.  Para encontrar <b>C'=D'</b>, basta desenhar o arco com medida <b>A'M'</b> no prolongamento de <b>A'M'</b>.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide117" name="slide">
-           <label for="slide117">4</label>
-           <img src="prop/20_03_04a.png" />
-           <figcaption>O mesmo acontece com os segmentos B'M' e M'D'. Logo, podemos "pegar" a medida B'M' com o compasso...</figcaption>
-       </li>
-       <li>
-           <input type="radio" id="slide118" name="slide">
-           <label for="slide118">5</label>
-           <img src="prop/20_03_05a.png" />
-           <figcaption>... e podemos desenhar o arco com centro em M' e raio B'M'.</figcaption>
-       </li>
-       <li>
-           <input type="radio" id="slide119" name="slide">
-           <label for="slide119">6</label>
-           <img src="prop/20_03_06a.png" />
-           <figcaption>Pronto! O paralelogramo está construído. Não esqueça de desenhar os lados desta figura.</figcaption>
+           <input type="radio" id="slide123" name="slide">
+           <label for="slide123">4</label>
+           <img src="prop/20_03_03b.png" />
+           <figcaption>Pronto! O paralelogramo está construído. Use o link abaixo para visualizar em 3D a propriedade que usamos.</figcaption>
        </li>
     </ul>
-    <img src="prop/20_03_00a.png" class="fundo" />
+    <img src="prop/20_03_00b.png" class="fundo" />
     <a href="vr/20_03b.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
   </details>
   <hr>
