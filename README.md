@@ -456,8 +456,7 @@
            <figcaption>Agora você pode desenhar os lados do triângulo A'B'C'.</figcaption>
        </li> 
     </ul>
-    <img src="prop/20_03_00b.png" class="fundo" />
-    <a href="vr/20_03b.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+    <img src="prop/20_04_00a.png" class="fundo" />
   </details>
   <hr>
 
