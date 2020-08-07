@@ -219,11 +219,15 @@
   </details>
   <hr>
   <details class="sub"><summary>Propriedade 4, pág. 18</summary>
-
+      <img src="prop/18_prop4.PNG">
+      <figcaption>Uma figura pertencente a um plano paralelo ao plano de projeções &pi;' fica projetada com o mesmo tamanho, sem redução ou ampliação de tamanho.</figcaption>
+      <a href="vr/p4.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
   </details>
   <hr>
   <details class="sub"><summary>Propriedade 5, pág. 18</summary>
-
+      <img src="prop/18_prop5.PNG">
+      <figcaption>Uma figura que pertence a um plano paralelo à direção <b>d</b> de projeções tem projeção reduzida a um segmento.</figcaption>
+      <a href="vr/p5.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
   </details>
   <hr>
   <details class="sub"><summary>Exercício 1 da pág. 19</summary>
