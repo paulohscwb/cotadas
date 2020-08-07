@@ -417,7 +417,7 @@
            <input type="radio" id="slide124" name="slide" checked>
            <label for="slide124">passos: 1</label>
            <img src="prop/20_04_00a.png" />
-        <figcaption>Relembrando a propriedade do baricentro: A distância do baricentro a um vértice mede 2/3 da mediana, ou seja, <b>CG = 2CM/3</b> ou <b>GM = CM/3.</figcaption>
+        <figcaption>Relembrando a propriedade do baricentro: A distância do baricentro a um vértice mede 2/3 da mediana, ou seja, <b>CG = 2CM/3</b> ou <b>GM = CM/3.</b></figcaption>
        </li>
        <li>
            <input type="radio" id="slide125" name="slide">
