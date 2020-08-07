@@ -410,6 +410,57 @@
     <a href="vr/20_03b.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
   </details>
   <hr>
+  <details class="sub"><summary>Exercício 4 da pág. 20 (item a)</summary>
+  <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="slide124" name="slide" checked>
+           <label for="slide124">passos: 1</label>
+           <img src="prop/20_04_00a.png" />
+        <figcaption>Relembrando a propriedade do baricentro: A distância do baricentro a um vértice mede 2/3 da mediana, ou seja, <b>CG = 2CM/3</b> ou <b>GM = CM/3.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide125" name="slide">
+           <label for="slide125">2</label>
+           <img src="prop/20_04_01a.png" />
+         <figcaption>Pela propriedade 3, a medida <b>G'M'</b> mede <b>CM/3</b>. Então vamos construir a mediatriz do segmento <b>A'B'</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide126" name="slide">
+           <label for="slide126">3</label>
+           <img src="prop/20_04_02a.png" />
+         <figcaption>Usando os arcos de mesma medida, com centros em <b>A'</b> e <b>B'</b>, obtemos os pontos que definem a mediatriz de <b>A'B'</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide127" name="slide">
+           <label for="slide127">4</label>
+           <img src="prop/20_04_04a.png" />
+         <figcaption>Unindo os pontos <b>M'</b> e <b>G'</b>, podemos usar o compasso para "pegar" a medida <b>G'M'</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide128" name="slide">
+           <label for="slide128">5</label>
+           <img src="prop/20_04_05a.png" />
+           <figcaption>Com o centro em <b>G'</b>, marcamos uma vez o segmento com medida igual a <b>G'M'</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide129" name="slide">
+           <label for="slide129">6</label>
+           <img src="prop/20_04_06a.png" />
+           <figcaption>Na sequência, marcamos novamente um segmento com a mesma medida. Assim, encontramos <b>G'C' = 2G'M'</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide130" name="slide">
+           <label for="slide130">7</label>
+           <img src="prop/20_04_07a.png" />
+           <figcaption>Agora você pode desenhar os lados do triângulo A'B'C'.</figcaption>
+       </li> 
+    </ul>
+    <img src="prop/20_03_00b.png" class="fundo" />
+    <a href="vr/20_03b.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+  </details>
+  <hr>
+
   <details class="sub"><summary>Exercícios 4 e 5, págs. 20 e 21</summary>
   <img src="vr/042_exerc4c.PNG">
     <figcaption>Visualização do item c do Exercício 4 com RV e RA.</figcaption>
