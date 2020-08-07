@@ -164,19 +164,19 @@
 <details>
   <summary id="propriedades">Propriedades das projeções cilíndricas</summary>
   <p>Leia o conteúdo das páginas 12 e 13 da apostila. Agora vamos começar a trabalhar com as projeções de objetos e figuras em um plano &pi;'.</p> 
-  <details class="sub"><summary>Conceito de Projeção Cônica, pág. 14</summary>
+  <details class="sub"><summary>Projeção Cônica, pág. 14</summary>
     <img src="prop/14_proj_conica.PNG">
     <figcaption>Para projetar um ponto A qualquer do espaço usando a projeção cônica, basta definir a reta projetante <b>a</b>, que passa pelo centro de projeção O e pelo ponto A. A interseção desta reta com o plano &pi;' é a projeção A' do ponto A.</figcaption>
     <a href="vr/proj_conica.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
   </details>
   <hr>
-  <details class="sub"><summary>Conceito de Projeção Cilíndrica, pág. 14</summary>
+  <details class="sub"><summary>Projeção Cilíndrica, pág. 14</summary>
     <img src="prop/14_proj_cilindrica.PNG">
     <figcaption>Para projetar um ponto A qualquer do espaço usando a projeção cilíndrica, basta definir a reta projetante <b>a</b>, paralela à direção <b>d</b> e pelo ponto A. A interseção desta reta com o plano &pi;' é a projeção A' do ponto A.</figcaption>
     <a href="vr/proj_cilindrica.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
   </details>
   <hr>
-  <details class="sub"><summary>Uso de recursos de Realidade Aumentada e Realidade Virtual</summary>
+  <details class="sub"><summary>Recursos de Realidade Aumentada e Realidade Virtual</summary>
     <p>Esta apostila tem recursos programados em Realidade Aumentada e Realidade Virtal. Você pode acessar estes recursos usando o seguinte endereço:</p>
     <center><a href="https://paulohscwb.github.io/cotadas/ra.html"> https://paulohscwb.github.io/cotadas/ra.html</a></center>
     Os ambientes podem ser acessados em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
@@ -188,7 +188,7 @@
     </div>
   </details>
   <hr>
-  <details class="sub"><summary>Visualização da Propriedade 1, pág. 15</summary>
+  <details class="sub"><summary>Propriedade 1, pág. 15</summary>
     <img src="vr/037_prop1a.PNG">
       <figcaption>Propriedade 1 de projeções cilíndricas, onde a reta <b>r</b> não é paralela à direção <b>d</b>.</figcaption>
       <a href="vr/p1.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
@@ -197,13 +197,25 @@
       <a href="vr/p1a.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
   </details>
   <hr>
-  <details class="sub"><summary>Visualização da Propriedade 2, pág. 16</summary>
+  <details class="sub"><summary>Propriedade 2, pág. 16</summary>
     <img src="vr/038_prop2a.PNG">
       <figcaption>Propriedade 2 de projeções cilíndricas, considerando <b>r</b> e <b>s</b> estão em planos projetantes distintos.</figcaption>
       <a href="vr/p2.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
     <hr><img src="vr/038_prop2b.PNG">
       <figcaption>Propriedade 2 de projeções cilíndricas, onde <b>r</b> e <b>s</b> estão em um mesmo plano projetante.</figcaption>
       <a href="vr/p2a.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+  </details>
+  <hr>
+  <details class="sub"><summary>Propriedade 3, pág. 17</summary>
+
+  </details>
+  <hr>
+  <details class="sub"><summary>Propriedade 4, pág. 18</summary>
+
+  </details>
+  <hr>
+  <details class="sub"><summary>Propriedade 5, pág. 18</summary>
+
   </details>
   <hr>
   <details class="sub"><summary>Exercício 1 da pág. 19</summary>
