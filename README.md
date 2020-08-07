@@ -403,7 +403,7 @@
            <input type="radio" id="slide123" name="slide">
            <label for="slide123">4</label>
            <img src="prop/20_03_03b.png" />
-           <figcaption>Pronto! O paralelogramo está construído. Use o link abaixo para visualizar em 3D a propriedade que usamos.</figcaption>
+           <figcaption>O paralelogramo está construído. Use o link abaixo para visualizar em 3D a propriedade que usamos. Agora você pode construir o item c deste exercício.</figcaption>
        </li>
     </ul>
     <img src="prop/20_03_00b.png" class="fundo" />
