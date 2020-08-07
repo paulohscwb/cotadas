@@ -190,24 +190,32 @@
   <hr>
   <details class="sub"><summary>Propriedade 1, pág. 15</summary>
     <img src="vr/037_prop1a.PNG">
-      <figcaption>Propriedade 1 de projeções cilíndricas, onde a reta <b>r</b> não é paralela à direção <b>d</b>.</figcaption>
+      <figcaption>Quando a reta <b>r</b> não é paralela à direção <b>d</b>, a sua projeção <b>r'</b> é uma reta.</figcaption>
       <a href="vr/p1.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
     <hr><img src="vr/037_prop1b.PNG">
-      <figcaption>Propriedade 1 de projeções cilíndrcias, considerando o caso em que as retas <b>r</b> e <b>d</b> são paralelas.</figcaption>
+      <figcaption>No caso em que as retas <b>r</b> e <b>d</b> são paralelas, a projeção <b>r'</b> é um ponto.</figcaption>
       <a href="vr/p1a.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
   </details>
   <hr>
   <details class="sub"><summary>Propriedade 2, pág. 16</summary>
     <img src="vr/038_prop2a.PNG">
-      <figcaption>Propriedade 2 de projeções cilíndricas, considerando <b>r</b> e <b>s</b> estão em planos projetantes distintos.</figcaption>
+      <figcaption>Considerando <b>r</b> e <b>s</b> estão em planos projetantes distintos, as projeções <b>r'</b> e <b>s'</b> são paralelas.</figcaption>
       <a href="vr/p2.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
     <hr><img src="vr/038_prop2b.PNG">
-      <figcaption>Propriedade 2 de projeções cilíndricas, onde <b>r</b> e <b>s</b> estão em um mesmo plano projetante.</figcaption>
+      <figcaption>Se <b>r</b> e <b>s</b> estão em um mesmo plano projetante, as projeções <b>r'</b> e <b>s'</b> são coincidentes.</figcaption>
       <a href="vr/p2a.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+    <hr><img src="prop/16_prop2c.PNG">
+      <figcaption>Quando as retas <b>r</b> e <b>s</b> são paralelas à direção <b>d</b>, suas projeções <b>r'</b> e <b>s'</b> são pontos.</figcaption>
+      <a href="vr/p2c.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
   </details>
   <hr>
   <details class="sub"><summary>Propriedade 3, pág. 17</summary>
-
+    <img src="prop/17_prop3a.PNG">
+      <figcaption>A proporção entre as medidas dos segmentos paralelos <b>AB</b> e <b>CD</b> é a mesma de suas projeções: <b>AB/CD = A'B'/C'D'</b>.</figcaption>
+      <a href="vr/p3a.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+    <hr><img src="prop/17_prop3b.PNG">
+      <figcaption>Se os segmentos <b>AB</b> e <b>CD</b> são colineares, a mesma proporção entre as medidas é válida: <b>AB/CD = A'B'/C'D'</b>.</figcaption>
+      <a href="vr/p3b.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
   </details>
   <hr>
   <details class="sub"><summary>Propriedade 4, pág. 18</summary>
