@@ -130,6 +130,22 @@ h3::after {
      left: 290px;
  }
 
+.slider li:nth-child(9) label {
+     left: 325px;
+ }
+
+.slider li:nth-child(10) label {
+     left: 360px;
+ }
+
+.slider li:nth-child(11) label {
+     left: 395px;
+ }
+
+.slider li:nth-child(12) label {
+     left: 430px;
+ }
+
  .slider img {
      opacity: 0;
      visibility: hidden;
