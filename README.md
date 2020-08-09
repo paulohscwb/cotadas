@@ -157,6 +157,113 @@
     </ul>
     <img src="dg/02_01_05c.png" class="fundo" />
   </details>
+<details class="sub"><summary>Exercício 3 da pág. 2: reta perpendicular</summary>
+  <p> Vamos utilizar a régua e um dos esquadros para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="slide22" name="slide" checked>
+           <label for="slide22">passos: 1</label>
+           <img src="dg/02_02_01.png" />
+           <figcaption>?</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide23" name="slide">
+           <label for="slide23">2</label>
+           <img src="dg/02_02_02.png" />
+           <figcaption>?</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide24" name="slide">
+           <label for="slide24">3</label>
+           <img src="dg/02_02_03.png" />
+           <figcaption>?</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide25" name="slide">
+           <label for="slide25">4</label>
+           <img src="dg/02_02_04.png" />
+           <figcaption>?</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide26" name="slide">
+           <label for="slide26">5</label>
+           <img src="dg/02_02_05.png" />
+           <figcaption>?</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide27" name="slide" checked>
+           <label for="slide27">6</label>
+           <img src="dg/02_02_06.png" />
+           <figcaption>?</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide28" name="slide">
+           <label for="slide28">7</label>
+           <img src="dg/02_02_07.png" />
+           <figcaption>?</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide29" name="slide">
+           <label for="slide29">8</label>
+           <img src="dg/02_02_08.png" />
+           <figcaption>?</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide30" name="slide">
+           <label for="slide30">9</label>
+           <img src="dg/02_02_09.png" />
+           <figcaption>?</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide31" name="slide">
+           <label for="slide31">10</label>
+           <img src="dg/02_02_10.png" />
+           <figcaption>?</figcaption>
+       </li>
+    </ul>
+    <img src="dg/02_02_00.png" class="fundo" />
+  <hr>
+  <p>Agora veja como fica a construção da mediatriz do segmento AB próximo da margem da folha.</p>
+  <ul class="slider">
+       <li>
+           <input type="radio" id="slide6" name="slide" checked>
+           <label for="slide6">passos: 1</label>
+           <img src="dg/01_01_06.png" />
+           <figcaption>Podemos começar desenhando um arco com a ponta seca em A e um raio maior do que a metade de AB.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide7" name="slide">
+           <label for="slide7">2</label>
+           <img src="dg/01_01_07.png" />
+           <figcaption>Com a ponta seca em B, podemos desenhar um arco com a mesma medida usada no ponto A.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide8" name="slide">
+           <label for="slide8">3</label>
+           <img src="dg/01_01_09.png" />
+           <figcaption>Podemos desenhar um arco com medida diferente da que usamos nos passos anteriores para encontrar o segundo ponto da mediatriz.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide9" name="slide">
+           <label for="slide9">4</label>
+           <img src="dg/01_01_10.png" />
+           <figcaption>Desenhando os arcos com centros em A e B com mesma medida, encontramos os pontos P e Q da mediatriz.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide10" name="slide">
+           <label for="slide10">5</label>
+           <img src="dg/01_01_12.png" />
+           <figcaption>Desenhe a reta que passa pelos pontos P e Q.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide11" name="slide">
+           <label for="slide11">6</label>
+           <img src="dg/01_01_13.png" />
+           <figcaption>Pronto! A mediatriz do segmento AB está construída.</figcaption>
+       </li>
+  </ul>
+  <img src="dg/01_01_00.png" class="fundo"/>
+  </details>
   <hr>
   <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
