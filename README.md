@@ -15,19 +15,19 @@
            <input type="radio" id="slide1" name="slide" checked>
            <label for="slide1">passos: 1</label>
            <img src="dg/01_01_01.png" />
-           <figcaption>Com a ponta seca em A, desenhe um arco com raio maior do que a metade de AB.</figcaption>
+           <figcaption>Com a ponta seca em <b>A</b>, desenhe um arco com raio maior do que a metade de <b>AB</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide2" name="slide">
            <label for="slide2">2</label>
            <img src="dg/01_01_02.png" />
-           <figcaption>Com a ponta seca em B, desenhe um arco com o mesmo raio usado no passo anterior.</figcaption>
+           <figcaption>Com a ponta seca em <b>B</b>, desenhe um arco com o mesmo raio usado no passo anterior.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide3" name="slide">
            <label for="slide3">3</label>
            <img src="dg/01_01_03.png" />
-           <figcaption>Os pontos de interseção dos arcos são P e Q.</figcaption>
+           <figcaption>Os pontos de interseção dos arcos são <b>P</b> e <b>Q</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide4" name="slide">
@@ -39,24 +39,24 @@
            <input type="radio" id="slide5" name="slide">
            <label for="slide5">5</label>
            <img src="dg/01_01_05.png" />
-           <figcaption>Pronto! A mediatriz do segmento AB está construída.</figcaption>
+           <figcaption>Pronto! A mediatriz do segmento <b>AB</b> está construída.</figcaption>
        </li>
     </ul>
     <img src="dg/01_01_00.png" class="fundo" />
   <hr>
-  <p>Agora veja como fica a construção da mediatriz do segmento AB próximo da margem da folha.</p>
+  <p>Agora veja como fica a construção da mediatriz do segmento <b>AB</b> próximo da margem da folha.</p>
   <ul class="slider">
        <li>
            <input type="radio" id="slide6" name="slide" checked>
            <label for="slide6">passos: 1</label>
            <img src="dg/01_01_06.png" />
-           <figcaption>Podemos começar desenhando um arco com a ponta seca em A e um raio maior do que a metade de AB.</figcaption>
+           <figcaption>Podemos começar desenhando um arco com a ponta seca em <b>A</b> e um raio maior do que a metade de <b>AB</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide7" name="slide">
            <label for="slide7">2</label>
            <img src="dg/01_01_07.png" />
-           <figcaption>Com a ponta seca em B, podemos desenhar um arco com a mesma medida usada no ponto A.</figcaption>
+           <figcaption>Com a ponta seca em <b>B</b>, podemos desenhar um arco com a mesma medida usada no ponto <b>A</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide8" name="slide">
@@ -68,19 +68,19 @@
            <input type="radio" id="slide9" name="slide">
            <label for="slide9">4</label>
            <img src="dg/01_01_10.png" />
-           <figcaption>Desenhando os arcos com centros em A e B com mesma medida, encontramos os pontos P e Q da mediatriz.</figcaption>
+           <figcaption>Desenhando os arcos com centros em <b>A</b> e <b>B</b> com mesma medida, encontramos os pontos <b>P</b> e <b>Q</b> da mediatriz.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide10" name="slide">
            <label for="slide10">5</label>
            <img src="dg/01_01_12.png" />
-           <figcaption>Desenhe a reta que passa pelos pontos P e Q.</figcaption>
+           <figcaption>Desenhe a reta que passa pelos pontos <b>P</b> e <b>Q</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide11" name="slide">
            <label for="slide11">6</label>
            <img src="dg/01_01_13.png" />
-           <figcaption>Pronto! A mediatriz do segmento AB está construída.</figcaption>
+           <figcaption>Pronto! A mediatriz do segmento <b>AB</b> está construída.</figcaption>
        </li>
   </ul>
   <img src="dg/01_01_00.png" class="fundo"/>
@@ -93,7 +93,7 @@
            <input type="radio" id="slide12" name="slide" checked>
            <label for="slide12">passos: 1</label>
            <img src="dg/02_01_01.png" />
-           <figcaption>Alinhe um dos catetos do esquadro com a reta r.</figcaption>
+           <figcaption>Alinhe um dos catetos do esquadro com a reta <b>r</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide13" name="slide">
@@ -105,19 +105,19 @@
            <input type="radio" id="slide14" name="slide">
            <label for="slide14">3</label>
            <img src="dg/02_01_03.png" />
-           <figcaption>Deslize o esquadro até chegar na posição do ponto P. Lembre-se de não mover a régua.</figcaption>
+           <figcaption>Deslize o esquadro até chegar na posição do ponto <b>P</b>. Lembre-se de não mover a régua.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide15" name="slide">
            <label for="slide15">4</label>
            <img src="dg/02_01_04.png" />
-           <figcaption>Desenhe a reta que passa pelo ponto P com o cateto do esquadro.</figcaption>
+           <figcaption>Desenhe a reta que passa pelo ponto <b>P</b> com o cateto do esquadro.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide16" name="slide">
            <label for="slide16">5</label>
            <img src="dg/02_01_05.png" />
-           <figcaption>Pronto! A reta paralela s está construída.</figcaption>
+           <figcaption>Pronto! A reta paralela <b>s</b> está construída.</figcaption>
        </li>
     </ul>
     <img src="dg/02_01_00.png" class="fundo" />
@@ -128,25 +128,25 @@
            <input type="radio" id="slide17" name="slide" checked>
            <label for="slide17">passos: 1</label>
            <img src="dg/02_01_01c.png" />
-           <figcaption>Desenhe um arco com a ponta seca em P, que intercepte a reta r no ponto Q.</figcaption>
+           <figcaption>Desenhe um arco com a ponta seca em <b>P</b>, que intercepte a reta <b>r</b> no ponto <b>Q</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide18" name="slide">
            <label for="slide18">2</label>
            <img src="dg/02_01_02c.png" />
-           <figcaption>Com a ponta seca em Q, use o mesmo raio PQ para marcar o ponto R na reta r.</figcaption>
+           <figcaption>Com a ponta seca em <b>Q</b>, use o mesmo raio <b>PQ</b> para marcar o ponto <b>R</b> na reta <b>r</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide19" name="slide">
            <label for="slide19">3</label>
            <img src="dg/02_01_03c.png" />
-           <figcaption>Desenhe o arco com a ponta seca em R, com a mesma medida PQ, interceptando o primeiro arco que você desenhou no ponto S.</figcaption>
+           <figcaption>Desenhe o arco com a ponta seca em <b>R</b>, com a mesma medida <b>PQ</b>, interceptando o primeiro arco que você desenhou no ponto <b>S</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide20" name="slide">
            <label for="slide20">4</label>
            <img src="dg/02_01_04c.png" />
-           <figcaption>Desenhe a reta que passa pelos pontos P e S com a régua.</figcaption>
+           <figcaption>Desenhe a reta que passa pelos pontos <b>P</b> e <b>S</b> com a régua.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide21" name="slide">
@@ -224,46 +224,58 @@
     </ul>
     <img src="dg/02_02_00.png" class="fundo" />
   <hr>
-  <p>Agora veja como fica a construção da mediatriz do segmento AB próximo da margem da folha.</p>
+    <p>Agora veja como fica a construção da reta perpendicular à reta <b>r</b> qua passa por <b>P</b> usando régua e compasso.</p>
   <ul class="slider">
        <li>
-           <input type="radio" id="slide6" name="slide" checked>
-           <label for="slide6">passos: 1</label>
-           <img src="dg/01_01_06.png" />
-           <figcaption>Podemos começar desenhando um arco com a ponta seca em A e um raio maior do que a metade de AB.</figcaption>
+           <input type="radio" id="slide32" name="slide" checked>
+           <label for="slide32">passos: 1</label>
+           <img src="dg/02_02_01c.png" />
+           <figcaption>?</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide7" name="slide">
-           <label for="slide7">2</label>
-           <img src="dg/01_01_07.png" />
-           <figcaption>Com a ponta seca em B, podemos desenhar um arco com a mesma medida usada no ponto A.</figcaption>
+           <input type="radio" id="slide33" name="slide">
+           <label for="slide33">2</label>
+           <img src="dg/02_02_02c.png" />
+           <figcaption>?</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide8" name="slide">
-           <label for="slide8">3</label>
-           <img src="dg/01_01_09.png" />
-           <figcaption>Podemos desenhar um arco com medida diferente da que usamos nos passos anteriores para encontrar o segundo ponto da mediatriz.</figcaption>
+           <input type="radio" id="slide34" name="slide">
+           <label for="slide34">3</label>
+           <img src="dg/02_02_03c.png" />
+           <figcaption>?</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide9" name="slide">
-           <label for="slide9">4</label>
-           <img src="dg/01_01_10.png" />
-           <figcaption>Desenhando os arcos com centros em A e B com mesma medida, encontramos os pontos P e Q da mediatriz.</figcaption>
+           <input type="radio" id="slide35" name="slide">
+           <label for="slide35">4</label>
+           <img src="dg/02_02_04c.png" />
+           <figcaption>?</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide10" name="slide">
-           <label for="slide10">5</label>
-           <img src="dg/01_01_12.png" />
-           <figcaption>Desenhe a reta que passa pelos pontos P e Q.</figcaption>
+           <input type="radio" id="slide36" name="slide">
+           <label for="slide36">5</label>
+           <img src="dg/02_02_05c.png" />
+           <figcaption>?</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide11" name="slide">
-           <label for="slide11">6</label>
-           <img src="dg/01_01_13.png" />
-           <figcaption>Pronto! A mediatriz do segmento AB está construída.</figcaption>
+           <input type="radio" id="slide37" name="slide">
+           <label for="slide37">6</label>
+           <img src="dg/02_02_06c.png" />
+           <figcaption>?</figcaption>
+       </li>
+      <li>
+           <input type="radio" id="slide38" name="slide">
+           <label for="slide38">6</label>
+           <img src="dg/02_02_07c.png" />
+           <figcaption>?</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide39" name="slide">
+           <label for="slide39">8</label>
+           <img src="dg/02_02_08c.png" />
+           <figcaption>?</figcaption>
        </li>
   </ul>
-  <img src="dg/01_01_00.png" class="fundo"/>
+  <img src="dg/02_02_00c.png" class="fundo"/>
   </details>
   <hr>
   <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
