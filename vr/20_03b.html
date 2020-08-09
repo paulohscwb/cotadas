@@ -9,6 +9,7 @@
 <body>
 	<a-scene>
 		<a-assets>
+			<img id="pi3" src="pi3.png">
 			<a-mixin id="mtl0" material="opacity: 0.5; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
 			<a-mixin id="mtl1" material="color: #4b97ee;"></a-mixin>
 			<a-mixin id="mtl2" material="color: #ee514b"></a-mixin>
@@ -61,8 +62,8 @@
 			
 			<a-text position="4.7 4 0" value="d" mixin="texto"></a-text>
 			<a-entity line="start: 5.5 0 1; end: 4.5 4 0; color: #6E6E6E"></a-entity>
-			
-			<a-text position="4.5 0.32 4.8" value="pi'" mixin="texto"></a-text>
+			<a-plane src="#pi3" height="0.5" width="0.5" position="4.5 0.32 4.8" side="double" transparent="true" rotation="-25 0 0"> </a-plane>
+			<!--<a-text position="4.5 0.32 4.8" value="pi'" mixin="texto"></a-text>-->
 			<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0 mtl2"></a-entity>
 		</a-entity>
 		
