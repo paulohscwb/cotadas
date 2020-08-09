@@ -278,6 +278,86 @@
   <img src="dg/02_02_00c.png" class="fundo"/>
   </details>
   <hr>
+  <details class="sub"><summary>Exercício 4 da pág. 2: bissetriz</summary>
+  <p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="slide40" name="slide" checked>
+           <label for="slide40">passos: 1</label>
+           <img src="dg/02_03_01.png" />
+           <figcaption>?</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide41" name="slide">
+           <label for="slide41">2</label>
+           <img src="dg/02_03_02.png" />
+           <figcaption>?</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide41" name="slide">
+           <label for="slide41">3</label>
+           <img src="dg/02_03_03.png" />
+           <figcaption>?</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide42" name="slide">
+           <label for="slide42">4</label>
+           <img src="dg/02_03_04.png" />
+           <figcaption>?</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide43" name="slide">
+           <label for="slide43">5</label>
+           <img src="dg/02_03_05.png" />
+           <figcaption>?</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide44" name="slide">
+           <label for="slide44">6</label>
+           <img src="dg/02_03_06.png" />
+           <figcaption>?</figcaption>
+       </li>
+    </ul>
+    <img src="dg/02_03_00.png" class="fundo" />
+  </details>
+  <hr>
+  <details class="sub"><summary>Exercício 5 da pág. 3: bissetriz</summary>
+  <p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="slide45" name="slide" checked>
+           <label for="slide45">passos: 1</label>
+           <img src="dg/03_01_01.png" />
+           <figcaption>?</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide46" name="slide">
+           <label for="slide46">2</label>
+           <img src="dg/03_01_02.png" />
+           <figcaption>?</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide47" name="slide">
+           <label for="slide47">3</label>
+           <img src="dg/03_01_03.png" />
+           <figcaption>?</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide48" name="slide">
+           <label for="slide48">4</label>
+           <img src="dg/03_01_04.png" />
+           <figcaption>?</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide49" name="slide">
+           <label for="slide49">5</label>
+           <img src="dg/03_01_05.png" />
+           <figcaption>?</figcaption>
+       </li>
+    </ul>
+    <img src="dg/03_01_00.png" class="fundo" />
+  </details>
+  <hr>
   <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
