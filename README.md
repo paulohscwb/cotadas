@@ -264,7 +264,7 @@
        </li>
       <li>
            <input type="radio" id="slide38" name="slide">
-           <label for="slide38">6</label>
+           <label for="slide38">7</label>
            <img src="dg/02_02_07c.png" />
            <figcaption>?</figcaption>
        </li>
