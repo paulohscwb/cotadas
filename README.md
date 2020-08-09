@@ -294,8 +294,8 @@
            <figcaption>?</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide41" name="slide">
-           <label for="slide41">3</label>
+           <input type="radio" id="slide41a" name="slide">
+           <label for="slide41a">3</label>
            <img src="dg/02_03_03.png" />
            <figcaption>?</figcaption>
        </li>
@@ -321,7 +321,7 @@
     <img src="dg/02_03_00.png" class="fundo" />
   </details>
   <hr>
-  <details class="sub"><summary>Exercício 5 da pág. 3: bissetriz</summary>
+  <details class="sub"><summary>Exercício 5 da pág. 3: transporte de ângulos</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <ul class="slider">
       <li>
