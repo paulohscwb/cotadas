@@ -157,7 +157,8 @@
     </ul>
     <img src="dg/02_01_05c.png" class="fundo" />
   </details>
-<details class="sub"><summary>Exercício 3 da pág. 2: reta perpendicular</summary>
+  <hr>
+  <details class="sub"><summary>Exercício 3 da pág. 2: reta perpendicular</summary>
   <p> Vamos utilizar a régua e um dos esquadros para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <ul class="slider">
       <li>
