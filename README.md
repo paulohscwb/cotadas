@@ -117,7 +117,7 @@
            <input type="radio" id="slide16" name="slide">
            <label for="slide16">5</label>
            <img src="dg/02_01_05.png" />
-           <figcaption>Pronto! A reta paralela <b>s</b> está construída.</figcaption>
+           <figcaption>Pronto! A reta paralela <b>s // r</b> está construída.</figcaption>
        </li>
     </ul>
     <img src="dg/02_01_00.png" class="fundo" />
@@ -152,7 +152,7 @@
            <input type="radio" id="slide21" name="slide">
            <label for="slide21">5</label>
            <img src="dg/02_01_05c.png" />
-           <figcaption>Pronto! A reta paralela s está construída.</figcaption>
+           <figcaption>Pronto! A reta paralela <b>s // r</b> está construída.</figcaption>
        </li>
     </ul>
     <img src="dg/02_01_05c.png" class="fundo" />
@@ -165,114 +165,114 @@
            <input type="radio" id="slide22" name="slide" checked>
            <label for="slide22">passos: 1</label>
            <img src="dg/02_02_01.png" />
-           <figcaption>?</figcaption>
+           <figcaption>Alinhe um dos catetos do esquadro com a reta <b>r</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide23" name="slide">
            <label for="slide23">2</label>
            <img src="dg/02_02_02.png" />
-           <figcaption>?</figcaption>
+           <figcaption>Coloque a régua como apoio na hipotenusa do esquadro. A régua ficará fixa.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide24" name="slide">
            <label for="slide24">3</label>
            <img src="dg/02_02_03.png" />
-           <figcaption>?</figcaption>
+           <figcaption>Deslize o esquadro até o cateto vertical chegar na posição do ponto <b>P</b>. Lembre-se de não mover a régua.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide25" name="slide">
            <label for="slide25">4</label>
            <img src="dg/02_02_04.png" />
-           <figcaption>?</figcaption>
+           <figcaption>Desenhe a reta que passa pelo ponto <b>P</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide26" name="slide">
            <label for="slide26">5</label>
            <img src="dg/02_02_05.png" />
-           <figcaption>?</figcaption>
+           <figcaption>Pronto! A reta perpendicular <b>p</b> está construída.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide27" name="slide" checked>
            <label for="slide27">6</label>
            <img src="dg/02_02_06.png" />
-           <figcaption>?</figcaption>
+           <figcaption>Alinhe um dos catetos do esquadro com a reta <b>r</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide28" name="slide">
            <label for="slide28">7</label>
            <img src="dg/02_02_07.png" />
-           <figcaption>?</figcaption>
+           <figcaption>Coloque a régua como apoio na hipotenusa do esquadro. A régua ficará fixa.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide29" name="slide">
            <label for="slide29">8</label>
            <img src="dg/02_02_08.png" />
-           <figcaption>?</figcaption>
+           <figcaption>Deslize o esquadro até o cateto vertical chegar na posição do ponto <b>P</b>. Lembre-se de não mover a régua.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide30" name="slide">
            <label for="slide30">9</label>
            <img src="dg/02_02_09.png" />
-           <figcaption>?</figcaption>
+           <figcaption>Desenhe a reta que passa pelo ponto <b>P</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide31" name="slide">
            <label for="slide31">10</label>
            <img src="dg/02_02_10.png" />
-           <figcaption>?</figcaption>
+           <figcaption>Pronto! A reta perpendicular <b>p</b> está construída.</figcaption>
        </li>
     </ul>
     <img src="dg/02_02_00.png" class="fundo" />
   <hr>
-    <p>Agora veja como fica a construção da reta perpendicular à reta <b>r</b> qua passa por <b>P</b> usando régua e compasso.</p>
+    <p>Agora veja como fica a construção da reta perpendicular à reta <b>r</b> que passa por <b>P</b> usando régua e compasso.</p>
   <ul class="slider">
        <li>
            <input type="radio" id="slide32" name="slide" checked>
            <label for="slide32">passos: 1</label>
            <img src="dg/02_02_01c.png" />
-           <figcaption>?</figcaption>
+           <figcaption>Com a ponta seca em <b>P</b> desenhe um arco para a esquerda obtendo o ponto <b>Q</b> sobre a reta <b>r</b> e um arco para a direita obtendo o ponto <b>R</b> sobre a reta. Ambos os arcos com o mesmo raio.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide33" name="slide">
            <label for="slide33">2</label>
            <img src="dg/02_02_02c.png" />
-           <figcaption>?</figcaption>
+           <figcaption>Com a ponta seca em <b>Q</b>, desenhe um arco com raio maior do que a metade de <b>QR</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide34" name="slide">
            <label for="slide34">3</label>
            <img src="dg/02_02_03c.png" />
-           <figcaption>?</figcaption>
+           <figcaption>Com a ponta seca em <b>R</b>, desenhe um arco com o mesmo raio usado no passo anterior. Os pontos de interseção dos arcos são <b>S</b> e <b>T</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide35" name="slide">
            <label for="slide35">4</label>
            <img src="dg/02_02_04c.png" />
-           <figcaption>?</figcaption>
+           <figcaption>Desenhe a reta que passa pelos pontos <b>S</b> e <b>T</b> de interseção dos arcos. Pronto! A perpendicular à reta <b>r</b> que passa pelo ponto <b>P</b> está construída!</figcaption>
        </li>
        <li>
            <input type="radio" id="slide36" name="slide">
            <label for="slide36">5</label>
            <img src="dg/02_02_05c.png" />
-           <figcaption>?</figcaption>
+           <figcaption>Com a ponta seca em <b>P</b> desenhe um arco com raio maior que a distância de <b>P</b> à reta <b>r</b>, obtendo os pontos <b>Q</b> e <b>R</b> sobre a reta <b>r</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide37" name="slide">
            <label for="slide37">6</label>
            <img src="dg/02_02_06c.png" />
-           <figcaption>?</figcaption>
+           <figcaption>Com a ponta seca em <b>Q</b> desenhe um arco.</figcaption>
        </li>
       <li>
            <input type="radio" id="slide38" name="slide">
            <label for="slide38">7</label>
            <img src="dg/02_02_07c.png" />
-           <figcaption>?</figcaption>
+           <figcaption>Com a ponta seca em <b>R</b> desenhe um arco com o mesmo raio do passo anterior, obtendo o ponto <b>S</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide39" name="slide">
            <label for="slide39">8</label>
            <img src="dg/02_02_08c.png" />
-           <figcaption>?</figcaption>
+           <figcaption>Desenhe a reta <b>p</b> que passa pelos pontos <b>P</b> e <b>S</b>. Pronto! A reta <b>p</b> é perpendicular à reta <b>r</b> e passa pelo ponto <b>P</b>. Note que essa construção é baseada na construção da mediatriz de um segmento dado!</figcaption>
        </li>
   </ul>
   <img src="dg/02_02_00c.png" class="fundo"/>
@@ -285,37 +285,37 @@
            <input type="radio" id="slide40" name="slide" checked>
            <label for="slide40">passos: 1</label>
            <img src="dg/02_03_01.png" />
-           <figcaption>?</figcaption>
+           <figcaption>Com a ponta seca no vértice <b>O</b> do ângulo desenhe um arco obtendo os pontos <b>P</b> e <b>Q</b>, cada um em um lado do ângulo.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide41" name="slide">
            <label for="slide41">2</label>
            <img src="dg/02_03_02.png" />
-           <figcaption>?</figcaption>
+           <figcaption>Com a ponta seca no ponto <b>P</b> desenhe um arco.</figcaption>
        </li>
-       <li>
+	   <li>
            <input type="radio" id="slide41a" name="slide">
            <label for="slide41a">3</label>
            <img src="dg/02_03_03.png" />
-           <figcaption>?</figcaption>
+           <figcaption>Com a ponta seca em <b>Q</b> desenhe um arco com o mesmo raio do passo anterior, obtendo o ponto <b>R</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide42" name="slide">
            <label for="slide42">4</label>
            <img src="dg/02_03_04.png" />
-           <figcaption>?</figcaption>
+           <figcaption>Desenhe a reta <b>OR</b> que é a bissetriz do ângulo dado.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide43" name="slide">
            <label for="slide43">5</label>
            <img src="dg/02_03_05.png" />
-           <figcaption>?</figcaption>
+           <figcaption>Note que construímos dois triângulos: um verde e outro laranja.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide44" name="slide">
            <label for="slide44">6</label>
            <img src="dg/02_03_06.png" />
-           <figcaption>?</figcaption>
+           <figcaption>Esses triângulos são congruentes (iguais) e por isso os ângulos &alpha; e &beta; são também congruentes.</figcaption>
        </li>
     </ul>
     <img src="dg/02_03_00.png" class="fundo" />
@@ -328,31 +328,31 @@
            <input type="radio" id="slide45" name="slide" checked>
            <label for="slide45">passos: 1</label>
            <img src="dg/03_01_01.png" />
-           <figcaption>?</figcaption>
+           <figcaption>Com a ponta seca no vértice <b>O</b> do ângulo desenhe um arco obtendo os pontos <b>R</b> e <b>Q</b>, cada um em um lado do ângulo.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide46" name="slide">
            <label for="slide46">2</label>
            <img src="dg/03_01_02.png" />
-           <figcaption>?</figcaption>
+           <figcaption>Com o mesmo raio do passo anterior, desenhe um arco agora com vértice no ponto <b>P</b>, obtendo o ponto <b>S</b> sobre a reta <b>r</b>.</figcaption>
        </li>
-       <li>
+	   <li>
            <input type="radio" id="slide47" name="slide">
            <label for="slide47">3</label>
            <img src="dg/03_01_03.png" />
-           <figcaption>?</figcaption>
+           <figcaption>Agora meça com o compasso o tamanho do segmento <b>QR</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide48" name="slide">
            <label for="slide48">4</label>
            <img src="dg/03_01_04.png" />
-           <figcaption>?</figcaption>
+           <figcaption>Com raio <b>QR</b> desenhe um arco com centro no ponto <b>S</b>, obtendo o ponto <b>T</b> sobre o segundo arco desenhado.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide49" name="slide">
            <label for="slide49">5</label>
            <img src="dg/03_01_05.png" />
-           <figcaption>?</figcaption>
+           <figcaption>Construa a reta <b>PT</b>. O ângulo &alpha; obtido é congruente ao ângulo &alpha; dado. Note que o triângulo <b>ROQ</b> é congruente ao <b>TPS</b>, por isso que os ângulos são também congruentes.</figcaption>
        </li>
     </ul>
     <img src="dg/03_01_00.png" class="fundo" />
@@ -363,16 +363,16 @@
 
 <details>
   <summary id="propriedades">Propriedades das projeções cilíndricas</summary>
-  <p>Leia o conteúdo das páginas 12 e 13 da apostila. Agora vamos começar a trabalhar com as projeções de objetos e figuras em um plano &pi;'.</p> 
+  <p>Leia o conteúdo das páginas 12 e 13 da apostila. Agora vamos começar a trabalhar com as projeções de objetos e figuras em um plano <b>&pi;'</b>.</p> 
   <details class="sub"><summary>Projeção Cônica, pág. 14</summary>
     <img src="prop/14_proj_conica.PNG">
-    <figcaption>Para projetar um ponto A qualquer do espaço usando a projeção cônica, basta definir a reta projetante <b>a</b>, que passa pelo centro de projeção O e pelo ponto A. A interseção desta reta com o plano &pi;' é a projeção A' do ponto A.</figcaption>
+    <figcaption>Para projetar um ponto <b>A</b> qualquer do espaço usando a projeção cônica, basta definir a reta projetante <b>a</b>, que passa pelo centro de projeção <b>O</b> e pelo ponto <b>A</b>. A interseção desta reta com o plano <b>&pi;'</b> é a projeção <b>A'</b> do ponto <b>A</b>.</figcaption>
     <a href="vr/proj_conica.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
   </details>
   <hr>
   <details class="sub"><summary>Projeção Cilíndrica, pág. 14</summary>
     <img src="prop/14_proj_cilindrica.PNG">
-    <figcaption>Para projetar um ponto A qualquer do espaço usando a projeção cilíndrica, basta definir a reta projetante <b>a</b>, paralela à direção <b>d</b> e pelo ponto A. A interseção desta reta com o plano &pi;' é a projeção A' do ponto A.</figcaption>
+    <figcaption>Para projetar um ponto <b>A</b> qualquer do espaço usando a projeção cilíndrica, basta definir a reta projetante <b>a</b>, paralela à direção <b>d</b> e que passa pelo ponto <b>A</b>. A interseção desta reta com o plano <b>&pi;'</b> é a projeção <b>A'</b> do ponto <b>A</b>. Se a reta <b>d</b> formar ângulo <b>0 < &theta; < 90<sup>o</sup></b>, a projeção é chamada <b>oblíqua</b>. Quando <b>&theta; = 90<sup>o</sup></b>, temos a projeção <b>ortogonal</b>.</figcaption>
     <a href="vr/proj_cilindrica.html" target="_blank"><img src="vr/3d.png" width="25px"> Projeção cilíndrica <b>oblíqua</b> em 3D</a>
     <br><a href="vr/proj_cilindrica_orto.html" target="_blank"><img src="vr/3d.png" width="25px"> Projeção cilíndrica <b>ortogonal</b> em 3D</a>
   </details>
@@ -412,7 +412,7 @@
   <hr>
   <details class="sub"><summary>Propriedade 3, pág. 17</summary>
     <img src="prop/17_prop3a.PNG">
-      <figcaption>A proporção entre as medidas dos segmentos paralelos <b>AB</b> e <b>CD</b> é a mesma de suas projeções: <b>AB/CD = A'B'/C'D'</b>.</figcaption>
+      <figcaption>A proporção entre as medidas dos segmentos paralelos <b>AB</b> e <b>CD</b> é a mesma de suas projeções, ou seja: <b>AB/CD = A'B'/C'D'</b>.</figcaption>
       <a href="vr/p3a.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
     <hr><img src="prop/17_prop3b.PNG">
       <figcaption>Se os segmentos <b>AB</b> e <b>CD</b> são colineares, a mesma proporção entre as medidas é válida: <b>AB/CD = A'B'/C'D'</b>.</figcaption>
@@ -421,30 +421,30 @@
   <hr>
   <details class="sub"><summary>Propriedade 4, pág. 18</summary>
       <img src="prop/18_prop4.PNG">
-      <figcaption>Uma figura pertencente a um plano paralelo ao plano de projeções &pi;' fica projetada com o mesmo tamanho, sem redução ou ampliação de tamanho.</figcaption>
+      <figcaption>Uma figura pertencente a um plano paralelo ao plano de projeções <b>&pi;'</b> fica projetada com o mesmo tamanho, sem redução ou ampliação de tamanho.</figcaption>
       <a href="vr/p4.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
   </details>
   <hr>
   <details class="sub"><summary>Propriedade 5, pág. 18</summary>
       <img src="prop/18_prop5.PNG">
-      <figcaption>Uma figura que pertence a um plano paralelo à direção <b>d</b> de projeções tem projeção reduzida a um segmento.</figcaption>
+      <figcaption>Uma figura que pertence a um plano <b>&alpha;</b> paralelo à direção <b>d</b> de projeções tem projeção reduzida a um segmento.</figcaption>
       <a href="vr/p5.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
   </details>
   <hr>
   <details class="sub"><summary>Exercício 1 da pág. 19</summary>
-  <p> Vamos utilizar a régua e o compasso para resolver este exercício. De acordo com a propriedade 3, podemos encontrar a projeção do ponto médio de AB construindo a mediatriz da projeção deste segmento. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
+  <p> Vamos utilizar a régua e o compasso para resolver este exercício. De acordo com a propriedade 3, podemos encontrar a projeção do ponto médio de <b>AB</b> construindo a mediatriz da projeção deste segmento. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="slide100" name="slide" checked>
            <label for="slide100">passos: 1</label>
            <img src="prop/19_01_01.png" />
-           <figcaption>Com a ponta seca em A', desenhe um arco com raio maior do que a metade de A'B'.</figcaption>
+           <figcaption>Com a ponta seca em <b>A'</b>, desenhe um arco com raio maior do que a metade de <b>A'B'</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide101" name="slide">
            <label for="slide101">2</label>
            <img src="prop/19_01_02.png" />
-           <figcaption>Com a ponta seca em B', desenhe um arco com o mesmo raio usado no passo anterior.</figcaption>
+           <figcaption>Com a ponta seca em <b>B'</b>, desenhe um arco com o mesmo raio usado no passo anterior.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide102" name="slide">
@@ -456,13 +456,13 @@
            <input type="radio" id="slide103" name="slide">
            <label for="slide103">4</label>
            <img src="prop/19_01_04.png" />
-           <figcaption>A projeção do ponto médio M' está na interseção da mediatriz de A'B' com o segmento A'B'.</figcaption>
+           <figcaption>A projeção do ponto médio <b>M'</b> está na interseção da mediatriz de <b>A'B'</b> com o segmento <b>A'B'</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide104" name="slide">
            <label for="slide104">5</label>
            <img src="prop/19_01_05.png" />
-           <figcaption>Como os pontos A' e B' estão coincidentes, quer dizer que o segmento AB é paralelo à direção das projetantes. Logo, M' coincide com A' e B'.</figcaption>
+           <figcaption>Como os pontos <b>A'</b> e <b>B'</b> estão coincidentes, quer dizer que o segmento <b>AB</b> é paralelo à direção das projetantes. Logo, <b>M'</b> coincide com <b>A'</b> e <b>B'</b>.</figcaption>
        </li>
     </ul>
     <img src="prop/19_01_00.png" class="fundo" />
@@ -475,25 +475,25 @@
            <input type="radio" id="slide105" name="slide" checked>
            <label for="slide105">passos: 1</label>
            <img src="prop/19_02_01.png" />
-           <figcaption>A projeção do lado C'D' será paralela ao segmento A'B'. Logo, podemos desenhar a reta C'D'//A'B' com o uso de esquadros.</figcaption>
+           <figcaption>A projeção do lado <b>C'D'</b> será paralela ao segmento <b>A'B'</b>. Logo, podemos desenhar a reta <b>C'D' // A'B'</b> com o uso de esquadros.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide106" name="slide">
            <label for="slide106">2</label>
            <img src="prop/19_02_02.png" />
-           <figcaption>Alinhando o esquadro de 45<sup>o</sup> com A'B', coloque como apoio o outro esquadro ou a régua. Deslize o esquadro de 45<sup>o</sup> deixando o outro esquadro ou a régua fixo.</figcaption>
+           <figcaption>Alinhando o esquadro de 45<sup>o</sup> com <b>A'B'</b>, coloque como apoio o outro esquadro ou a régua. Deslize o esquadro de 45<sup>o</sup> deixando o outro esquadro ou a régua fixo.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide107" name="slide">
            <label for="slide107">3</label>
            <img src="prop/19_02_03.png" />
-           <figcaption>Usando a mesma construção, você pode desenhar a reta paralela a A'D', ou usar o compasso. Pela propriedade 3, A'B' = C'D', logo, podemos "pegar" a medida A'B' com o compasso... </figcaption>
+           <figcaption>Usando a mesma construção, você pode desenhar a reta paralela a <b>A'D'</b>, ou usar o compasso. Pela propriedade 3, <b>A'B' = C'D'</b>, logo, podemos "pegar" a medida <b>A'B'</b> com o compasso... </figcaption>
        </li>
        <li>
            <input type="radio" id="slide108" name="slide">
            <label for="slide108">4</label>
            <img src="prop/19_02_04.png" />
-           <figcaption>... e desenhá-la com centro em D' e o raio A'B'. Logo, encontramos o ponto C'.</figcaption>
+           <figcaption>... e desenhá-la com centro em <b>D'</b> e o raio <b>A'B'</b>. Logo, encontramos o ponto <b>C'</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide109" name="slide">
@@ -512,25 +512,25 @@
            <input type="radio" id="slide110" name="slide" checked>
            <label for="slide110">passos: 1</label>
            <img src="prop/19_02_01c.png" />
-           <figcaption>O vértice C' do paralelogramo estará no prolongamento da reta A'B'.</figcaption>
+           <figcaption>O vértice <b>C'</b> do paralelogramo estará no prolongamento da reta <b>A'B'</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide111" name="slide">
            <label for="slide111">2</label>
            <img src="prop/19_02_02c.png" />
-           <figcaption>De acordo com a propriedade 3, os segmentos A'B' e C'D' são iguais. Logo, podemos "pegar" a medida A'B' com o compasso...</figcaption>
+           <figcaption>De acordo com a propriedade 3, os segmentos <b>A'B'</b> e <b>C'D'</b> são iguais. Logo, podemos "pegar" a medida <b>A'B'</b> com o compasso...</figcaption>
        </li>
        <li>
            <input type="radio" id="slide112" name="slide">
            <label for="slide112">3</label>
            <img src="prop/19_02_03c.png" />
-           <figcaption>... e desenhar o arco com medida A'B' no prolongamento deste segmento.</figcaption>
+           <figcaption>... e desenhar o arco com medida <b>A'B'</b> no prolongamento deste segmento.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide113" name="slide">
            <label for="slide113">4</label>
            <img src="prop/19_02_04c.png" />
-           <figcaption>Assim, encontramos o vértice C' do paralelogramo.</figcaption>
+           <figcaption>Assim, encontramos o vértice <b>C'</b> do paralelogramo.</figcaption>
        </li>
     </ul>
     <img src="prop/19_02_00c.png" class="fundo" />
@@ -543,31 +543,31 @@
            <input type="radio" id="slide114" name="slide" checked>
            <label for="slide114">passos: 1</label>
            <img src="prop/20_03_01a.png" />
-           <figcaption>Relembrando uma propriedade do paralelogramo: as diagonais interceptam-se em seus respectivos pontos médios. Logo, pela propriedade 3, A'M' = M'C'.</figcaption>
+           <figcaption>Relembrando uma propriedade do paralelogramo: as diagonais interceptam-se em seus respectivos pontos médios. Logo, pela propriedade 3, <b>A'M' = M'C'</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide115" name="slide">
            <label for="slide115">2</label>
            <img src="prop/20_03_02a.png" />
-           <figcaption>Logo, podemos "pegar" a medida A'B' com o compasso e prolongar o segmento A'M'.</figcaption>
+           <figcaption>Logo, podemos "pegar" a medida <b>A'B'</b> com o compasso e prolongar o segmento <b>A'M'</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide116" name="slide">
            <label for="slide116">3</label>
            <img src="prop/20_03_03a.png" />
-           <figcaption>Para encontrar C', basta desenhar o arco com medida A'M' no prolongamento de A'M'.</figcaption>
+           <figcaption>Para encontrar <b>C'</b>, basta desenhar o arco com medida <b>A'M'</b> no prolongamento de <b>A'M'</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide117" name="slide">
            <label for="slide117">4</label>
            <img src="prop/20_03_04a.png" />
-           <figcaption>O mesmo acontece com os segmentos B'M' e M'D'. Logo, podemos "pegar" a medida B'M' com o compasso...</figcaption>
+           <figcaption>O mesmo acontece com os segmentos <b>B'M'</b> e <b>M'D'</b>. Logo, podemos "pegar" a medida <b>B'M'</b> com o compasso...</figcaption>
        </li>
        <li>
            <input type="radio" id="slide118" name="slide">
            <label for="slide118">5</label>
            <img src="prop/20_03_05a.png" />
-           <figcaption>... e podemos desenhar o arco com centro em M' e raio B'M'.</figcaption>
+           <figcaption>... e podemos desenhar o arco com centro em <b>M'</b> e raio <b>B'M'</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide119" name="slide">
@@ -654,7 +654,7 @@
            <input type="radio" id="slide130" name="slide">
            <label for="slide130">7</label>
            <img src="prop/20_04_07a.png" />
-           <figcaption>Agora você pode desenhar os lados do triângulo A'B'C'.</figcaption>
+           <figcaption>Agora você pode desenhar os lados do triângulo <b>A'B'C'</b>.</figcaption>
        </li> 
     </ul>
     <img src="prop/20_04_00a.png" class="fundo" />
