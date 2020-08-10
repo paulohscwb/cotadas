@@ -374,6 +374,8 @@
     <img src="prop/14_proj_cilindrica.PNG">
     <figcaption>Para projetar um ponto A qualquer do espaço usando a projeção cilíndrica, basta definir a reta projetante <b>a</b>, paralela à direção <b>d</b> e pelo ponto A. A interseção desta reta com o plano &pi;' é a projeção A' do ponto A.</figcaption>
     <a href="vr/proj_cilindrica.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+    <p>Veja o caso da projeção cilíndrica ortogonal:
+    <a href="vr/proj_cilindrica_orto.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
   </details>
   <hr>
   <details class="sub"><summary>Recursos de Realidade Aumentada e Realidade Virtual</summary>
