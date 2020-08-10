@@ -315,7 +315,7 @@
            <input type="radio" id="slide44" name="slide">
            <label for="slide44">6</label>
            <img src="dg/02_03_06.png" />
-           <figcaption>Esses triângulos são congruentes (iguais) e por isso os ângulos &alpha; e &beta; são também congruentes.</figcaption>
+           <figcaption>Esses triângulos são congruentes (iguais) e por isso os ângulos <b>&alpha;</b> e <b>&beta;</b> são também congruentes.</figcaption>
        </li>
     </ul>
     <img src="dg/02_03_00.png" class="fundo" />
@@ -352,7 +352,7 @@
            <input type="radio" id="slide49" name="slide">
            <label for="slide49">5</label>
            <img src="dg/03_01_05.png" />
-           <figcaption>Construa a reta <b>PT</b>. O ângulo &alpha; obtido é congruente ao ângulo &alpha; dado. Note que o triângulo <b>ROQ</b> é congruente ao <b>TPS</b>, por isso que os ângulos são também congruentes.</figcaption>
+	       <figcaption>Construa a reta <b>PT</b>. O ângulo <b>&alpha;</b> obtido é congruente ao ângulo <b>&alpha;</b> dado. Note que o triângulo <b>ROQ</b> é congruente ao <b>TPS</b>, por isso que os ângulos são também congruentes.</figcaption>
        </li>
     </ul>
     <img src="dg/03_01_00.png" class="fundo" />
