@@ -9,6 +9,7 @@
 <body>
 	<a-scene>
 		<a-assets>
+			<a-mixin id="imagem" material="side: double; transparent: true; depthTest: false;" rotation="-25 0 0"></a-mixin>
 			<a-mixin id="mtl0" material="opacity: 0.5; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
 			<a-mixin id="mtl1" material="color: #4b97ee;"></a-mixin>
 			<a-mixin id="mtl2" material="color: #ee514b"></a-mixin>
@@ -32,7 +33,7 @@
 		<a-entity scale="0.7 0.7 0.7" position="0 0 0">
 			<a-entity position="1 0 1">
 				<a-sphere mixin="ponto" position="-2.79 3.28 -0.77"></a-sphere>
-				<a-text position="-2.79 3.28 -0.77" value="B" mixin="texto"></a-text>
+				<a-text position="-3.3 3.28 -0.77" value="B" mixin="texto"></a-text>
 				<a-sphere mixin="ponto" position="-0.4 0.74 -1.62"></a-sphere>
 				<a-text position="-0.4 0.74 -1.62" value="A" mixin="texto"></a-text>
 				<a-sphere mixin="ponto" position="-2.29 6.04 -9.1"></a-sphere>
@@ -41,7 +42,7 @@
 				<a-text position="-1.83 3.35 -3.83" value="G" mixin="texto"></a-text>
 				
 				<a-sphere mixin="ponto" position="-1 0 2"></a-sphere>
-				<a-text position="-1 0.21 2" value="B'" mixin="texto"></a-text>
+				<a-text position="-1.6 0.21 2" value="B'" mixin="texto"></a-text>
 				<a-sphere mixin="ponto" position="0 0 -1"></a-sphere>
 				<a-text position="0 0.21 -1" value="A'=G'" mixin="texto"></a-text>
 				<a-sphere mixin="ponto" position="1 0 -4"></a-sphere>
@@ -57,10 +58,10 @@
 				<a-entity id="triangulo" faceset="vertices: -2.79 3.28 -0.77  -0.4 0.74 -1.62  -2.29 6.04 -9.1" mixin="mtl0 mtl3"></a-entity>
 			</a-entity>
 			<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0 mtl2"></a-entity>
-			<a-text position="4.5 0.32 4.8" value="pi'" mixin="texto"></a-text>
+			<a-image src="pi1.png" height="0.6" width="0.6" position="4.5 0.32 4.8" mixin="imagem"></a-image>
 		</a-entity>
 		
-		<a-entity camera="fov:1; near:5; zoom:0.9;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 100 250 500"></a-entity>
+		<a-entity camera="fov:1; near:5; zoom:0.8;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 100 250 500"></a-entity>
 		<a-sky color="rgba(150,200,255)"></a-sky>
 
 	</a-scene>
