@@ -403,13 +403,16 @@
   <details class="sub"><summary>Propriedade 2, pág. 16</summary>
     <img src="vr/038_prop2a.PNG">
       <figcaption>Considerando <b>r</b> e <b>s</b> estão em planos projetantes distintos, as projeções <b>r'</b> e <b>s'</b> são paralelas.</figcaption>
-      <a href="vr/p2.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+      <a href="vr/p2.html" target="_blank"><img src="vr/3d.png" width="25px"> Propriedade em 3D: projeção <b>oblíqua</b></a>
+	  <br><a href="vr/p2_orto.html" target="_blank"><img src="vr/3d.png" width="25px"> Propriedade em 3D: projeção <b>ortogonal</b></a>
     <hr><img src="vr/038_prop2b.PNG">
       <figcaption>Se <b>r</b> e <b>s</b> estão em um mesmo plano projetante, as projeções <b>r'</b> e <b>s'</b> são coincidentes.</figcaption>
-      <a href="vr/p2a.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+      <a href="vr/p2a.html" target="_blank"><img src="vr/3d.png" width="25px"> Propriedade em 3D: projeção <b>oblíqua</b></a>
+	  <br><a href="vr/p2a_orto.html" target="_blank"><img src="vr/3d.png" width="25px"> Propriedade em 3D: projeção <b>ortogonal</b></a>
     <hr><img src="prop/16_prop2c.PNG">
       <figcaption>Quando as retas <b>r</b> e <b>s</b> são paralelas à direção <b>d</b>, suas projeções <b>r'</b> e <b>s'</b> são pontos.</figcaption>
-      <a href="vr/p2c.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+      <a href="vr/p2c.html" target="_blank"><img src="vr/3d.png" width="25px"> Propriedade em 3D: projeção <b>oblíqua</b></a>
+	  <br><a href="vr/p2c_orto.html" target="_blank"><img src="vr/3d.png" width="25px"> Propriedade em 3D: projeção <b>ortogonal</b></a>
   </details>
   <hr>
   <details class="sub"><summary>Propriedade 3, pág. 17</summary>
