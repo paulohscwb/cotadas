@@ -791,16 +791,18 @@
 
 <details>
   <summary id="pontos">Pontos, retas e segmentos em épura</summary>
-<h3>Exemplo de pontos em épura, pág. 27</h3>
-<img src="vr/049_epura.PNG">
-  <figcaption>Visualização do exercício da página 27 com RV e RA.</figcaption>
-  <a href="https://paulohscwb.github.io/cotadas/vr/exerc_epura.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Verdadeira grandeza de um segmento, pág. 28</h3>
-<img src="vr/050_vg.PNG">
-  <figcaption>Visualização em RA e RV do rebatimento usado para encontrar a verdadeira grandeza de um segmento AB.</figcaption>
-  <a href="https://paulohscwb.github.io/cotadas/vr/vg_segmento.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
+	<details class="sub"><summary>Exemplo de pontos em épura, pág. 27</summary>
+	<img src="vr/049_epura.PNG">
+	<figcaption>Visualização do exercício da página 27 com RV e RA.</figcaption>
+		<a href="https://paulohscwb.github.io/cotadas/vr/exerc_epura.html"><img src="vr/RVaframe.png" width="200px"></a>
+	</details>
+    <hr>
+    <details class="sub"><summary>Verdadeira grandeza de um segmento, pág. 28</summary>
+	<img src="vr/050_vg.PNG">
+	<figcaption>Visualização em RA e RV do rebatimento usado para encontrar a verdadeira grandeza de um segmento AB.</figcaption>
+		<a href="https://paulohscwb.github.io/cotadas/vr/vg_segmento.html"><img src="vr/RVaframe.png" width="200px"></a>
+	</details>
+	<hr>
 <details class="sub"><summary>Condições de incidência, pág. 47 (5<sup>o</sup> caso)</summary>
   <p> Vamos verificar se as retas são paralelas ou concorrentes, considerando a reta <b>s</b> qualquer e a reta <b>r</b> vertical. Como pertencem ao mesmo plano projetante, elas são necessariamente concorrentes, basta encontrar o ponto <b>P</b> de concorrência. Usando o método do rebatimento, siga os seguintes passos:</b>
   <ul class="slider">
