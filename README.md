@@ -756,7 +756,7 @@
            <input type="radio" id="slide142" name="slide">
            <label for="slide142">7</label>
            <img src="prop/21_05_07a.png" />
-         <figcaption>... e desenhar o arco com centro em <b>O'</b>. Assim, encontramos o vértice <b>D'/b>.</figcaption>
+         <figcaption>... e desenhar o arco com centro em <b>O'</b>. Assim, encontramos o vértice <b>D'</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="slide143" name="slide">
