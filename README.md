@@ -669,7 +669,44 @@
     <img src="prop/20_04_00a.png" class="fundo" />
   </details>
   <hr>
-
+<details class="sub"><summary>Exercício 4 da pág. 20 (item b)</summary>
+  <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="slide131" name="slide" checked>
+           <label for="slide131">passos: 1</label>
+           <img src="prop/20_04_00b.png" />
+        <figcaption>Vamos usar a mesma propriedade do item anterior: A distância do baricentro a um vértice mede 2/3 da mediana, ou seja, <b>CG = 2CM/3</b> ou <b>GM = CM/3.</b></figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide132" name="slide">
+           <label for="slide132">2</label>
+           <img src="prop/20_04_01b.png" />
+         <figcaption>Pela propriedade 2, se os pontos <b>A'</b> e <b>B'</b> coincidem, o lado <b>AB</b> é paralelo à direção <b>d</b>. Logo, o ponto <b>M'</b> também coincide com <b>A'</b> e <b>B'</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide133" name="slide">
+           <label for="slide133">3</label>
+           <img src="prop/20_04_02a.png" />
+         <figcaption>Logo, podemos prolongar a reta <b>A'G'</b> para encontrar a projeção do vértice <b>C</b>. Usando o compasso, "pegamos" a medida <b>A'G'</b> e podemos marcá-la a partir de <b>G'</b></figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide134" name="slide">
+           <label for="slide134">4</label>
+           <img src="prop/20_04_04a.png" />
+         <figcaption>Marcando-se duas vezes esta medida <b>A'G'</b> encontramos a projeção <b>C'</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide135" name="slide">
+           <label for="slide135">5</label>
+           <img src="prop/20_04_05a.png" />
+           <figcaption>Neste caso, o triângulo <b>ABC</b> fica projetado como um segmento. Use o link abaixo para visualizar esta situação em 3D.</figcaption>
+       </li>
+    </ul>
+	<img src="prop/20_04_00b.png" class="fundo" />
+    <a href="vr/20_04b.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+  </details>
+  <hr>
   <details class="sub"><summary>Exercícios 4 e 5, págs. 20 e 21</summary>
   <img src="vr/042_exerc4c.PNG">
     <figcaption>Visualização do item c do Exercício 4 com RV e RA.</figcaption>
