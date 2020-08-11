@@ -670,7 +670,7 @@
   </details>
   <hr>
 <details class="sub"><summary>Exercício 4 da pág. 20 (item b)</summary>
-  <!--<p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
+  <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="slide131" name="slide" checked>
@@ -693,13 +693,18 @@
        <li>
            <input type="radio" id="slide134" name="slide">
            <label for="slide134">4</label>
-           <img src="prop/20_04_04b.png" />
+           <img src="prop/20_04_03b.png" />
          <figcaption>Marcando-se duas vezes esta medida <b>A'G'</b> encontramos a projeção <b>C'</b>. Neste caso, o triângulo <b>ABC</b> fica projetado como um segmento.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide134" name="slide">
+           <label for="slide134">4</label>
+           <img src="prop/20_04_04b.png" />
+         <figcaption>Use o link abaixo para visualizar o exercício em 3D. Agora é sua vez de construir o item c.</figcaption>
        </li>
     </ul>
 	<img src="prop/20_04_00b.png" class="fundo" />
     <a href="vr/20_04b.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>-->
-	<embed type="text/html" src="prop/20_04b.html" >
   </details>
   <hr>
   <details class="sub"><summary>Exercícios 4 e 5, págs. 20 e 21</summary>
