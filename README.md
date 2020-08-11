@@ -697,8 +697,8 @@
          <figcaption>Marcando-se duas vezes esta medida <b>A'G'</b> encontramos a projeção <b>C'</b>. Neste caso, o triângulo <b>ABC</b> fica projetado como um segmento.</figcaption>
        </li>
 	   <li>
-           <input type="radio" id="slide134" name="slide">
-           <label for="slide134">4</label>
+           <input type="radio" id="slide135" name="slide">
+           <label for="slide135">5</label>
            <img src="prop/20_04_04b.png" />
          <figcaption>Use o link abaixo para visualizar o exercício em 3D. Agora é sua vez de construir o item c.</figcaption>
        </li>
@@ -708,7 +708,7 @@
   </details>
   <hr>
   <details class="sub"><summary>Exercício 4 da pág. 20 (item c)</summary>
-  <p> Visualização do item c do Exercício 4 em 3D.</p>
+  <p> Resolva este exercício com a ajuda da visualização em 3D com o link abaixo.</p>
   	<img src="vr/042_exerc4c.PNG"/>
     <a href="vr/p_ex4c_triangulo.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
   </details>
