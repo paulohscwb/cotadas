@@ -841,7 +841,7 @@
   </details>
   <hr>
 <details class="sub"><summary>Condições de incidência, pág. 47 (6<sup>o</sup> caso)</summary>
-  <p> Vamos verificar se as retas são paralelas ou concorrentes considerando as retas r e s quaisquer. Devemos verificar o ponto de interseção tem a mesma cota nas duas retas, para isso utilizamos o método do rebatimento.</p>
+  <p> Vamos verificar se as retas são paralelas ou concorrentes considerando as retas <b>r</b> e <b>s</b> quaisquer. Devemos verificar o ponto de interseção tem a mesma cota nas duas retas, para isso utilizamos o método do rebatimento.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="slide300" name="slide" checked>
