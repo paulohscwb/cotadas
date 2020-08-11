@@ -694,19 +694,12 @@
            <input type="radio" id="slide134" name="slide">
            <label for="slide134">4</label>
            <img src="prop/20_04_04b.png" />
-         <figcaption>Marcando-se duas vezes esta medida <b>A'G'</b> encontramos a projeção <b>C'</b>.</figcaption>
-       </li>
-       <li>
-           <input type="radio" id="slide135" name="slide">
-           <label for="slide135">5</label>
-           <img src="prop/20_04_05b.png" />
-           <figcaption>Neste caso, o triângulo <b>ABC</b> fica projetado como um segmento. Use o link abaixo para visualizar esta situação em 3D.</figcaption>
+         <figcaption>Marcando-se duas vezes esta medida <b>A'G'</b> encontramos a projeção <b>C'</b>. Neste caso, o triângulo <b>ABC</b> fica projetado como um segmento.</figcaption>
        </li>
     </ul>
 	<img src="prop/20_04_00b.png" class="fundo" />
     <a href="vr/20_04b.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
 	<div>
-	<iframe class="frame" src="20_04b.html" id="myIframe"></iframe>
 	</div>
   </details>
   <hr>
