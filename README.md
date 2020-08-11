@@ -847,7 +847,7 @@
            <input type="radio" id="slide300" name="slide" checked>
            <label for="slide300">passos: 1</label>
            <img src="cotadas/47_02_01.png" />
-        <figcaption>Marcar a cota do ponto <b>A'(2)</b>.</b></figcaption>
+        <figcaption>Marcar a cota do ponto <b>A'(2)</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide301" name="slide">
