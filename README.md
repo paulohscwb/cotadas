@@ -704,7 +704,13 @@
        </li>
     </ul>
 	<img src="prop/20_04_00b.png" class="fundo" />
-    <a href="vr/20_04b.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>-->
+    <a href="vr/20_04b.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+  </details>
+  <hr>
+  <details class="sub"><summary>Exercício 4 da pág. 20 (item c)</summary>
+  <p> Visualização do item c do Exercício 4 em 3D.</p>
+  	<img src="vr/042_exerc4c.PNG"/>
+    <a href="vr/p_ex4c_triangulo.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
   </details>
   <hr>
   <details class="sub"><summary>Exercícios 4 e 5, págs. 20 e 21</summary>
