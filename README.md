@@ -315,7 +315,7 @@
            <input type="radio" id="slide44" name="slide">
            <label for="slide44">6</label>
            <img src="dg/02_03_06.png" />
-           <figcaption>Esses triângulos são congruentes (iguais) e por isso os ângulos &alpha; e &beta; são também congruentes.</figcaption>
+           <figcaption>Esses triângulos são congruentes (iguais) e por isso os ângulos <b>&alpha;</b> e <b>&beta;</b> são também congruentes.</figcaption>
        </li>
     </ul>
     <img src="dg/02_03_00.png" class="fundo" />
@@ -352,7 +352,7 @@
            <input type="radio" id="slide49" name="slide">
            <label for="slide49">5</label>
            <img src="dg/03_01_05.png" />
-           <figcaption>Construa a reta <b>PT</b>. O ângulo &alpha; obtido é congruente ao ângulo &alpha; dado. Note que o triângulo <b>ROQ</b> é congruente ao <b>TPS</b>, por isso que os ângulos são também congruentes.</figcaption>
+           <figcaption>Construa a reta <b>PT</b>. O ângulo <b>&alpha;</b> obtido é congruente ao ângulo <b>&alpha;</b> dado. Note que o triângulo <b>ROQ</b> é congruente ao <b>TPS</b>, por isso que os ângulos são também congruentes.</figcaption>
        </li>
     </ul>
     <img src="dg/03_01_00.png" class="fundo" />
@@ -418,10 +418,12 @@
   <details class="sub"><summary>Propriedade 3, pág. 17</summary>
     <img src="prop/17_prop3a.PNG">
       <figcaption>A proporção entre as medidas dos segmentos paralelos <b>AB</b> e <b>CD</b> é a mesma de suas projeções, ou seja: <b>AB/CD = A'B'/C'D'</b>.</figcaption>
-      <a href="vr/p3a.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+      <a href="vr/p3a.html" target="_blank"><img src="vr/3d.png" width="25px"> Propriedade em 3D: projeção <b>oblíqua</b></a>
+	  <br><a href="vr/p3a_orto.html" target="_blank"><img src="vr/3d.png" width="25px"> Propriedade em 3D: projeção <b>ortogonal</b></a>
     <hr><img src="prop/17_prop3b.PNG">
       <figcaption>Se os segmentos <b>AB</b> e <b>CD</b> são colineares, a mesma proporção entre as medidas é válida: <b>AB/CD = A'B'/C'D'</b>.</figcaption>
-      <a href="vr/p3b.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+      <a href="vr/p3b.html" target="_blank"><img src="vr/3d.png" width="25px"> Propriedade em 3D: projeção <b>oblíqua</b></a>
+	  <br><a href="vr/p3b_orto.html" target="_blank"><img src="vr/3d.png" width="25px"> Propriedade em 3D: projeção <b>ortogonal</b></a>
   </details>
   <hr>
   <details class="sub"><summary>Propriedade 4, pág. 18</summary>
