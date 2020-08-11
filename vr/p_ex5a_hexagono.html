@@ -9,6 +9,7 @@
 <body>
 	<a-scene>
 		<a-assets>
+			<a-mixin id="imagem" material="side: double; transparent: true; depthTest: false;" rotation="-25 0 0"></a-mixin>
 			<a-mixin id="mtl0" material="opacity: 0.5; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
 			<a-mixin id="mtl1" material="color: #4b97ee;"></a-mixin>
 			<a-mixin id="mtl2" material="color: #ee514b"></a-mixin>
@@ -47,9 +48,9 @@
 				<a-text position="0.59 3.59 4.07" value="O" mixin="texto"></a-text>
 				
 				<a-sphere mixin="ponto" position="-1.66 0 2.38"></a-sphere>
-				<a-text position="-1.66 0.31 2.38" value="A'" mixin="texto"></a-text>
+				<a-text position="-2.3 0.31 2.38" value="A'" mixin="texto"></a-text>
 				<a-sphere mixin="ponto" position="1.15 0 1.77"></a-sphere>
-				<a-text position="1.15 0.31 1.77" value="B'" mixin="texto"></a-text>
+				<a-text position="0.64 0.31 1.77" value="B'" mixin="texto"></a-text>
 				<a-sphere mixin="ponto" position="3.42 0 3.14"></a-sphere>
 				<a-text position="3.42 0.31 3.14" value="C'" mixin="texto"></a-text>
 				<a-sphere mixin="ponto" position="2.89 0 5.12"></a-sphere>
@@ -57,25 +58,25 @@
 				<a-sphere mixin="ponto" position="0.08 0 5.73"></a-sphere>
 				<a-text position="0.08 0.31 5.73" value="E'" mixin="texto"></a-text>
 				<a-sphere mixin="ponto" position="-2.19 0 4.36"></a-sphere>
-				<a-text position="-2.19 0.31 4.36" value="F'" mixin="texto"></a-text>
+				<a-text position="-2.7 0.31 4.36" value="F'" mixin="texto"></a-text>
 				<a-sphere mixin="ponto" position="0.61 0 3.75"></a-sphere>
 				<a-text position="0.61 0.31 3.75" value="O'" mixin="texto"></a-text>
 				
 				<a-text position="5.45 6 -0.58" value="d" mixin="texto"></a-text>
 				<a-entity id="hexagono" faceset="vertices: -1.68 2.63 2.6  1.14 1.89 1.93  3.4 3.15 3.4  2.86 5.15 5.55  0.05 5.89 6.22  -2.22 4.63 4.74" mixin="mtl0 mtl5"></a-entity>
-				<a-entity id="hexagono" faceset="vertices: -1.66 0.01 2.38  1.15 0.01 1.77  3.42 0.01 3.14  2.89 0.01 5.12  0.08 0.01 5.73  -2.19 0.01 4.36" mixin="mtl0 mtl6"></a-entity>
+				<a-entity id="hexagono" faceset="vertices: -1.66 0.03 2.38  1.15 0.03 1.77  3.42 0.03 3.14  2.89 0.03 5.12  0.08 0.03 5.73  -2.19 0.03 4.36" mixin="mtl0 mtl6"></a-entity>
 				
-				<a-entity line="start: 5.41 0 -1.07; end: 5.37 6 -0.58; color: #404040" 
-				line__2="start: -1.66 0 2.38; end: -1.68 2.63 2.6; color: #404040"
-				line__3="start: 1.15 0 1.77; end: 1.14 1.89 1.93; color: #404040"
-				line__5="start: 3.42 0 3.14; end: 3.4 3.15 3.4; color: #404040"
-				line__6="start: 2.89 0 5.12; end: 2.86 5.15 5.55; color: #404040"
-				line__7="start: 0.08 0 5.73; end: 0.05 5.89 6.22; color: #404040"
+				<a-entity line="start: 5.41 0 -1.07; end: 5.37 6 -0.58; color: #404040" line__10="start: -1.68 2.63 2.6; end: 2.86 5.15 5.55; color: grey"
+				line__2="start: -1.66 0 2.38; end: -1.68 2.63 2.6; color: #404040" line__11="start: 1.14 1.89 1.93; end: 0.05 5.89 6.22; color: grey"
+				line__3="start: 1.15 0 1.77; end: 1.14 1.89 1.93; color: #404040" line__12="start: 3.4 3.15 3.4; end: -2.22 4.63 4.74; color: grey"
+				line__5="start: 3.42 0 3.14; end: 3.4 3.15 3.4; color: #404040" line__13="start: -1.66 0 2.38; end: 2.89 0 5.12; color: grey"
+				line__6="start: 2.89 0 5.12; end: 2.86 5.15 5.55; color: #404040" line__14="start: 1.15 0 1.77; end: 0.08 0 5.73; color: grey"
+				line__7="start: 0.08 0 5.73; end: 0.05 5.89 6.22; color: #404040" line__15="start: 3.42 0 3.14; end: -2.19 0 4.36; color: grey"
 				line__8="start: -2.19 0 4.36; end: -2.22 4.63 4.74; color: #404040"
 				line__9="start: 0.61 0 3.75; end: 0.59 3.89 4.07; color: #404040"></a-entity>
 			</a-entity>
-			<a-text position="4.5 0.32 4.8" value="pi'" mixin="texto"></a-text>
 			<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0 mtl2"></a-entity>
+			<a-image src="pi1.png" height="0.6" width="0.6" position="4.5 0.32 4.8" mixin="imagem"></a-image>
 		</a-entity>
 		
 		<a-entity camera="fov:1; near:5; zoom:0.9;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 100 250 500"></a-entity>
