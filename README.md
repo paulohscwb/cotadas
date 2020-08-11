@@ -713,13 +713,69 @@
     <a href="vr/p_ex4c_triangulo.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
   </details>
   <hr>
+  <details class="sub"><summary>Exercício 5 da pág. 21 (item a)</summary>
+  <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="slide136" name="slide" checked>
+           <label for="slide136">passos: 1</label>
+           <img src="prop/21_05_01a.png" />
+        <figcaption>Relembrando as propriedades do hexágono regular: os lados são iguais ao raio da circunferência circunscrita, e os raios são paralelos aos lados.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide137" name="slide">
+           <label for="slide137">2</label>
+           <img src="prop/21_05_02a.png" />
+         <figcaption>Pela propriedade 3, os segmentos <b>A'O'</b> e <b>B'C'</b> terão projeções com mesma medida e serão paralelos. Logo, podemos construir a paralela a <b>A'O'</b> que passa por <b>B'</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide138" name="slide">
+           <label for="slide138">3</label>
+           <img src="prop/21_05_03a.png" />
+         <figcaption>Alinhando a hipotenusa de um esquadro e apoiando este esquadro com a régua ou outro esquadro, basta deslizar o esquadro que você alinhou até chegar em <b>B'</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide139" name="slide">
+           <label for="slide139">4</label>
+           <img src="prop/21_05_04a.png" />
+         <figcaption>Como <b>AO = BC</b> e <b>AO // BC</b>, pelas propriedades 2 e 3 temos que <b>A'O' = B'C'</b> e <b>A'O' // B'C'</b>. Podemos "pegar" a medida <b>A'O'</b> com o compasso...</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide140" name="slide">
+           <label for="slide140">5</label>
+           <img src="prop/21_05_05a.png" />
+         <figcaption>... e marcá-la na paralela construída, a partir do ponto <b>B'</b>. Assim, encontramos a projeção do ponto <b>C'</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide141" name="slide">
+           <label for="slide141">6</label>
+           <img src="prop/21_05_06a.png" />
+         <figcaption>Usando a propriedade 3, como <b>A</b>, <b>O</b> e <b>D</b> são colineares, temos que <b>A'O' = O'D'</b>. Podemos "pegar" essa medida com o compasso...</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide142" name="slide">
+           <label for="slide142">7</label>
+           <img src="prop/21_05_07a.png" />
+         <figcaption>... e desenhar o arco com centro em <b>O'</b>. Assim, encontramos o vértice <b>D'/b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide143" name="slide">
+           <label for="slide143">8</label>
+           <img src="prop/21_05_08a.png" />
+         <figcaption>Podemos fazer a mesma construção com os segmentos <b>O'F' = O'C'</b> para encontrar <b>F'</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide144" name="slide">
+           <label for="slide144">9</label>
+           <img src="prop/21_05_09a.png" />
+         <figcaption>E para fechar o hexágono, fazemos a mesma construção com os segmentos <b>B'O' = O'E'</b>. Use o link abaixo para visualizar o exercício em 3D.</figcaption>
+       </li>
+    </ul>
+	<img src="prop/21_05_00a.png" class="fundo" />
+    <a href="vr/p_ex5a_hexagono.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+  </details>
+  <hr>
   <details class="sub"><summary>Exercícios 4 e 5, págs. 20 e 21</summary>
-  <img src="vr/042_exerc4c.PNG">
-    <figcaption>Visualização do item c do Exercício 4 com RV e RA.</figcaption>
-    <a href="https://paulohscwb.github.io/cotadas/vr/p_ex4c_triangulo.html"><img src="vr/RVaframe.png" width="200px"></a>
-  <hr><img src="vr/043_exerc5a.PNG">
-    <figcaption>Visualização do item a do Exercício 5 com RV e RA.</figcaption>
-    <a href="https://paulohscwb.github.io/cotadas/vr/p_ex5a_hexagono.html"><img src="vr/RVaframe.png" width="200px"></a>
   <hr><img src="vr/043_exerc5c.PNG">
     <figcaption>Visualização do item c do Exercício 5 com RV e RA.</figcaption>
     <a href="https://paulohscwb.github.io/cotadas/vr/p_ex5c_hexagono.html"><img src="vr/RVaframe.png" width="200px"></a>
