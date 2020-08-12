@@ -616,7 +616,7 @@
   </details>
   <hr>
   <details class="sub"><summary>Exercício 2 da pág. 19 (itens a e b)</summary>
-  <p> Vamos utilizar a régua, o compasso e o par de esquadros para resolver este exercício. De acordo com a propriedade 2, podemos encontrar a projeção dos lados de um paralelogramo utilizando a construção de retas paralelas.</p>
+  <p> Vamos utilizar a régua, o compasso e os esquadros para resolver este exercício. De acordo com a propriedade 2, podemos encontrar a projeção dos lados de um paralelogramo utilizando a construção de retas paralelas.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="slide105" name="slide" checked>
@@ -859,7 +859,7 @@
   </details>
   <hr>
   <details class="sub"><summary>Exercício 5 da pág. 21 (itens a e b)</summary>
-  <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
+  <p> Vamos utilizar a régua, o compasso e os esquadros para resolver este exercício.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="slide136" name="slide" checked>
@@ -920,13 +920,57 @@
     <a href="vr/p_ex5a_hexagono.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
 	<h4>Solução do item b</h4>
 	<img src="prop/21_05_00b.png">
-	<figcaption>Usando as propriedades do item a, você consegue fazer a construção deste hexágono.</figcaption>
+	<figcaption>Com as propriedades que usamos no item a, você consegue fazer a construção deste hexágono do item b.</figcaption>
   </details>
   <hr>
-  <details class="sub"><summary>Exercícios 4 e 5, págs. 20 e 21</summary>
-  <hr><img src="vr/043_exerc5c.PNG">
-    <figcaption>Visualização do item c do Exercício 5 com RV e RA.</figcaption>
-    <a href="https://paulohscwb.github.io/cotadas/vr/p_ex5c_hexagono.html"><img src="vr/RVaframe.png" width="200px"></a>
+  <details class="sub"><summary>Exercício 5 da pág. 21 (item c)</summary>
+  <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="slide145" name="slide" checked>
+           <label for="slide145">passos: 1</label>
+           <img src="prop/21_05_01c.png" />
+        <figcaption>Usando as propriedades do hexágono regular, podemos notar que <b>AB = OC</b> e <b>AB // OC</b>. Logo, as projeções desses serão iguais e paralelas.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide146" name="slide">
+           <label for="slide146">2</label>
+           <img src="prop/21_05_02c.png" />
+         <figcaption>Pela propriedade 5, como os pontos <b>A'</b>, <b>B'</b> e <b>O'</b> são colineares, o hexágono está em um plano paralelo à direção de projeções <b>d</b>. Logo, <b>C'</b> estará na mesma reta.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide147" name="slide">
+           <label for="slide147">3</label>
+           <img src="prop/21_05_03c.png" />
+         <figcaption>Podemos "pegar" a medida <b>A'B'</b> com o compasso e transferir esta medida a partir de <b>O'</b>, encontrando o ponto <b>C'</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide148" name="slide">
+           <label for="slide148">4</label>
+           <img src="prop/21_05_04c.png" />
+         <figcaption>Como <b>BO = OE</b>, pela propriedade 3 temos que <b>B'O' = O'E'</b>. Podemos "pegar" a medida <b>B'O'</b> com o compasso...</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide149" name="slide">
+           <label for="slide149">5</label>
+           <img src="prop/21_05_05c.png" />
+         <figcaption>... e marcá-la a partir do ponto <b>O'</b>, encontrando o vértice <b>E'</b>. Podemos usar a mesma propriedade para encontrar os outros vértices.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide150" name="slide">
+           <label for="slide150">6</label>
+           <img src="prop/21_05_06c.png" />
+         <figcaption>Podemos marcar <b>A'O' = O'D'</b> para encontrar o vértice <b>D'</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide151" name="slide">
+           <label for="slide151">7</label>
+           <img src="prop/21_05_07c.png" />
+         <figcaption>E para finalizar o hexágono, marcamos <b>O'C' = O'F'</b>. Visualize este hexágono em 3D com o link abaixo.</figcaption>
+       </li>
+    </ul>
+	<img src="prop/21_05_00c.png" class="fundo" />
+    <a href="vr/p_ex5c_hexagono.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
   </details>
   <hr>
   <details class="sub"><summary>Visualização da Propriedade 7, pág. 22</summary>
