@@ -9,6 +9,7 @@
 <body>
 	<a-scene>
 		<a-assets>
+			<a-mixin id="imagem" material="side: double; transparent: true; depthTest: false;" rotation="-25 0 0"></a-mixin>
 			<a-mixin id="mtl0" material="opacity: 0.5; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
 			<a-mixin id="mtl1" material="color: #4b97ee;"></a-mixin>
 			<a-mixin id="mtl2" material="color: #ee514b"></a-mixin>
@@ -30,8 +31,6 @@
 		<a-entity gearvr-controls></a-entity>
 		
 		<a-entity scale="0.7 0.7 0.7" position="0 0 0">
-			<a-text position="4.5 0.32 4.8" value="pi'" mixin="texto"></a-text>
-			
 			<a-text position="-4.3 0.21 2" value="r'" mixin="texto"></a-text>
 			<a-text position="-4.3 3.15 2" value="r" mixin="texto"></a-text>
 			<a-text position="3 0.21 2.56" value="s'" mixin="texto"></a-text>
@@ -39,13 +38,14 @@
 
 			<a-text position="4.6 3 1" value="d" mixin="texto"></a-text>
 			
-			<a-entity line="start: -4 0 2; end: 1.62 0 -4.02; color: #6E6E6E" 
-			line__2="start: -4 3.15 2; end: 1.62 3.15 -4.02; color: #6E6E6E"
-			line__3="start: 3.56 0 2.56; end: -3.42 0 -3.96; color: #6E6E6E"
-			line__5="start: 3.56 1 2.56; end: -3.42 4.47 -3.96; color: #6E6E6E"
+			<a-entity line="start: -4 0 2; end: 1.62 0 -4.02; color: blue" line__6="start: -1.16 3.15 -1.04; end: -0.75 2.94 -0.65; color: green"
+			line__2="start: -4 3.15 2; end: 1.62 3.15 -4.02; color: blue" line__7="start: -0.75 2.94 -0.65; end: -0.35 2.94 -1.09; color: green"
+			line__3="start: 3.56 0 2.56; end: -3.42 0 -3.96; color: red" line__8="start: -1.16 0 -1.04; end: -0.75 0 -0.65; color: green"
+			line__5="start: 3.56 1 2.56; end: -3.42 4.47 -3.96; color: red" line__9="start: -0.75 0 -0.65; end: -0.35 0 -1.09; color: green"
 			line__4="start: 4.5 0 1; end: 4.5 5 1; color: #6E6E6E"
 			line__1="start: -0.76 3.15 -1.47; end: -0.76 0 -1.47; color: #6E6E6E"></a-entity>
 			<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0 mtl2"></a-entity>
+			<a-image src="pi1.png" height="0.6" width="0.6" position="4.5 0.32 4.8" mixin="imagem"></a-image>
 		</a-entity>
 		
 		<a-entity camera="fov:1; near:5; zoom:0.9;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 100 250 500"></a-entity>
