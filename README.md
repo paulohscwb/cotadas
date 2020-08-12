@@ -685,7 +685,7 @@
     </ul>
     <img src="prop/19_02_00c.png" class="fundo" />
 	<h4>Solução do item d</h4>
-	<img src="prop/19_02_00d.PNG">
+	<img src="prop/19_02_00d.png">
 	<figcaption>Usando as mesmas propriedades usadas nos itens anteriores, podemos concluir que os vértices <b>A</b> e <b>D</b> coincidem.</figcaption>
   </details>
   <hr>
@@ -763,7 +763,7 @@
     <img src="prop/20_03_00b.png" class="fundo" />
     <a href="vr/20_03b.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D para o item b</a>
 	<h4>Solução do item c</h4>
-	<img src="prop/20_03_00c.PNG">
+	<img src="prop/20_03_00c.png">
 	<figcaption>Usando as propriedades dos itens a e b, você consegue fazer a construção deste item.</figcaption>
   </details>
   <hr>
@@ -855,8 +855,9 @@
   </details>
   <hr>
   <details class="sub"><summary>Exercício 4 da pág. 20 (item c)</summary>
-  <p> Resolva este exercício com a ajuda da visualização em 3D com o link abaixo.</p>
-  	<img src="vr/042_exerc4c.PNG"/>
+    <p> Resolva este exercício com a ajuda da visualização em 3D com o link abaixo.</p>
+  	<img src="prop/20_04_00c.png"/>
+	<figcaption>Utilizamos as mesmas propriedades dos itens anteriores.</figcaption>
     <a href="vr/p_ex4c_triangulo.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
   </details>
   <hr>
