@@ -615,7 +615,7 @@
     <img src="prop/19_01_00.png" class="fundo" />
   </details>
   <hr>
-  <details class="sub"><summary>Exercício 2 da pág. 19 (item a)</summary>
+  <details class="sub"><summary>Exercício 2 da pág. 19 (itens a e b)</summary>
   <p> Vamos utilizar a régua, o compasso e o par de esquadros para resolver este exercício. De acordo com a propriedade 2, podemos encontrar a projeção dos lados de um paralelogramo utilizando a construção de retas paralelas.</p>
   <ul class="slider">
       <li>
@@ -650,6 +650,9 @@
        </li>
     </ul>
     <img src="prop/19_02_00.png" class="fundo" />
+	<h4>Solução do item b</h4>
+	<img src="prop/19_02_00b.PNG">
+	<figcaption>A construção é parecida com a que fizemos no item a.</figcaption>
   </details>
   <hr>
   <details class="sub"><summary>Exercício 2 da pág. 19 (item c)</summary>
@@ -681,6 +684,9 @@
        </li>
     </ul>
     <img src="prop/19_02_00c.png" class="fundo" />
+	<h4>Solução do item d</h4>
+	<img src="prop/19_02_00d.PNG">
+	<figcaption>Usando as mesmas propriedades usadas nos itens anteriores, podemos concluir que os vértices <b>A</b> e <b>D</b> coincidem.</figcaption>
   </details>
   <hr>
   <details class="sub"><summary>Exercício 3 da pág. 20 (item a)</summary>
@@ -755,7 +761,10 @@
        </li>
     </ul>
     <img src="prop/20_03_00b.png" class="fundo" />
-    <a href="vr/20_03b.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+    <a href="vr/20_03b.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D para o item b</a>
+	<h4>Solução do item c</h4>
+	<img src="prop/20_03_00c.PNG">
+	<figcaption>Usando as propriedades dos itens a e b, você consegue fazer a construção deste item.</figcaption>
   </details>
   <hr>
   <details class="sub"><summary>Exercício 4 da pág. 20 (item a)</summary>
