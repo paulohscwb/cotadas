@@ -453,7 +453,6 @@
        </li>
     </ul>
     <img src="dg/03_02_07.png" class="fundo" />
-  </details>
   <hr>
   <h4>Ângulos de 75<sup>o</sup> e 15<sup>o</sup>:</h4>
     <ul class="slider">
@@ -495,7 +494,7 @@
        </li>
     </ul>
     <img src="dg/03_02_14.png" class="fundo" />
-  </details>
+	</details>
   <hr>
   <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
