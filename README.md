@@ -852,7 +852,7 @@
     </ul>
 	<img src="prop/20_04_00_b.png" class="fundo" />
     <a href="vr/20_04b.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
-    <h4>Solução do item c.</p>
+    <h4>Solução do item c.</h4>
   	<img src="prop/20_04_00c.png"/>
 	<figcaption>Utilizando as mesmas propriedades dos itens anteriores, você consegue construir este triângulo. Use o link abaixo para te ajudar na visualização em 3D.</figcaption>
     <a href="vr/p_ex4c_triangulo.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D do item c</a>
