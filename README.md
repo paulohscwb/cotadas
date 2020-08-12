@@ -651,11 +651,11 @@
     </ul>
     <img src="prop/19_02_00.png" class="fundo" />
 	<h4>Solução do item b</h4>
-	<img src="prop/19_02_00b.PNG">
+	<img src="prop/19_02_00b.png">
 	<figcaption>A construção é parecida com a que fizemos no item a.</figcaption>
   </details>
   <hr>
-  <details class="sub"><summary>Exercício 2 da pág. 19 (item c)</summary>
+  <details class="sub"><summary>Exercício 2 da pág. 19 (itens c e d)</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício. De acordo com a propriedade 5, o paralelogramo está em um plano paralelo à direção <b>d</b> das projetantes.</p>
   <ul class="slider">
       <li>
@@ -764,7 +764,7 @@
     <a href="vr/20_03b.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D para o item b</a>
 	<h4>Solução do item c</h4>
 	<img src="prop/20_03_00c.png">
-	<figcaption>Usando as propriedades dos itens a e b, você consegue fazer a construção deste item.</figcaption>
+	<figcaption>Usando as propriedades dos itens a e b, você consegue fazer a construção deste paralelogramo.</figcaption>
   </details>
   <hr>
   <details class="sub"><summary>Exercício 4 da pág. 20 (item a)</summary>
@@ -816,7 +816,7 @@
     <img src="prop/20_04_00_a.png" class="fundo" />
   </details>
   <hr>
-<details class="sub"><summary>Exercício 4 da pág. 20 (item b)</summary>
+<details class="sub"><summary>Exercício 4 da pág. 20 (itens b e c)</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
@@ -852,16 +852,13 @@
     </ul>
 	<img src="prop/20_04_00_b.png" class="fundo" />
     <a href="vr/20_04b.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
-  </details>
-  <hr>
-  <details class="sub"><summary>Exercício 4 da pág. 20 (item c)</summary>
-    <p> Resolva este exercício com a ajuda da visualização em 3D com o link abaixo.</p>
+    <h4>Solução do item c.</p>
   	<img src="prop/20_04_00c.png"/>
-	<figcaption>Utilizamos as mesmas propriedades dos itens anteriores.</figcaption>
-    <a href="vr/p_ex4c_triangulo.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+	<figcaption>Utilizando as mesmas propriedades dos itens anteriores, você consegue construir este triângulo. Use o link abaixo para te ajudar na visualização em 3D.</figcaption>
+    <a href="vr/p_ex4c_triangulo.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D do item c</a>
   </details>
   <hr>
-  <details class="sub"><summary>Exercício 5 da pág. 21 (item a)</summary>
+  <details class="sub"><summary>Exercício 5 da pág. 21 (itens a e b)</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
@@ -921,6 +918,9 @@
     </ul>
 	<img src="prop/21_05_00a.png" class="fundo" />
     <a href="vr/p_ex5a_hexagono.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+	<h4>Solução do item b</h4>
+	<img src="prop/21_05_00b.png">
+	<figcaption>Usando as propriedades do item a, você consegue fazer a construção deste hexágono.</figcaption>
   </details>
   <hr>
   <details class="sub"><summary>Exercícios 4 e 5, págs. 20 e 21</summary>
