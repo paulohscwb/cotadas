@@ -764,7 +764,7 @@
       <li>
            <input type="radio" id="slide124" name="slide" checked>
            <label for="slide124">passos: 1</label>
-           <img src="prop/20_04_00_a.png" />
+           <img src="prop/20_04_00a.png" />
         <figcaption>Relembrando a propriedade do baricentro: A distância do baricentro a um vértice mede 2/3 da mediana, ou seja, <b>CG = 2CM/3</b> ou <b>GM = CM/3.</b></figcaption>
        </li>
        <li>
@@ -804,7 +804,7 @@
            <figcaption>Agora você pode desenhar os lados do triângulo <b>A'B'C'</b>.</figcaption>
        </li> 
     </ul>
-    <img src="prop/20_04_00a.png" class="fundo" />
+    <img src="prop/20_04_00_a.png" class="fundo" />
   </details>
   <hr>
 <details class="sub"><summary>Exercício 4 da pág. 20 (item b)</summary>
@@ -813,7 +813,7 @@
       <li>
            <input type="radio" id="slide131" name="slide" checked>
            <label for="slide131">passos: 1</label>
-           <img src="prop/20_04_00_b.png" />
+           <img src="prop/20_04_00b.png" />
         <figcaption>Vamos usar a mesma propriedade do item anterior: A distância do baricentro a um vértice mede 2/3 da mediana, ou seja, <b>CG = 2CM/3</b> ou <b>GM = CM/3.</b></figcaption>
        </li>
        <li>
@@ -841,7 +841,7 @@
          <figcaption>Use o link abaixo para visualizar o exercício em 3D. Agora é sua vez de construir o item c.</figcaption>
        </li>
     </ul>
-	<img src="prop/20_04_00b.png" class="fundo" />
+	<img src="prop/20_04_00_b.png" class="fundo" />
     <a href="vr/20_04b.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
   </details>
   <hr>
