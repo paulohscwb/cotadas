@@ -425,7 +425,7 @@
            <input type="radio" id="slide59" name="slide">
            <label for="slide59">3</label>
            <img src="dg/03_02_10.png" />
-           <figcaption>Com centro em <b>B</b> e um raio maior que a metade do segmento <b>BC</b> construa um arco, e faça o mesmo em <b>C</b>. Na interseção desses arcos obtemos os pontos <b>D</b> e <b>C</b>.</figcaption>
+           <figcaption>Com centro em <b>B</b> e um raio maior que a metade do segmento <b>BC</b> construa um arco, e faça o mesmo em <b>C</b>. Na interseção desses arcos obtemos os pontos <b>D</b> e <b>E</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide60" name="slide">
@@ -460,7 +460,7 @@
            <input type="radio" id="slide64" name="slide" checked>
            <label for="slide64">passos: 1</label>
            <img src="dg/03_02_15.png" />
-           <figcaption>Para construir um ângulo de <b>75°</b> basta dividir um ângulo de <b>150°</b> ao meio. Já sabemos construir um ângulo de <b>150°</b>, lembra? Comece construindo um ângulo <b>ABC</b> de <b>60°</b>. Construa um arco <b>BC</b> de tal forma que intercepte a reta <b>r</b> em dois pontos <b>B</b> e <b>F</b>.</figcaption>
+           <figcaption>Para construir um ângulo de <b>75°</b> basta dividir um ângulo de <b>150°</b> ao meio. Já sabemos construir um ângulo de <b>150°</b>, lembra? Comece construindo um ângulo <b>BAC</b> de <b>60°</b>. Construa um arco <b>BC</b> de tal forma que intercepte a reta <b>r</b> em dois pontos <b>B</b> e <b>F</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide65" name="slide">
@@ -581,11 +581,11 @@
   <details class="sub"><summary>Exercício 1 da pág. 19</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício. De acordo com a propriedade 3, podemos encontrar a projeção do ponto médio de <b>AB</b> construindo a mediatriz da projeção deste segmento. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <ul class="slider">
-      <li>
-           <input type="radio" id="slide100" name="slide" checked>
+       <li>
+           <input type="radio" id="slide100" name="slide">
            <label for="slide100">passos: 1</label>
-           <img src="prop/19_01_01.png" />
-           <figcaption>Com a ponta seca em <b>A'</b>, desenhe um arco com raio maior do que a metade de <b>A'B'</b>.</figcaption>
+		   <img src="prop/19_01_01.png" />
+		   <figcaption>Com a ponta seca em <b>A'</b>, desenhe um arco com raio maior do que a metade de <b>A'B'</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide101" name="slide">
@@ -764,7 +764,7 @@
       <li>
            <input type="radio" id="slide124" name="slide" checked>
            <label for="slide124">passos: 1</label>
-           <img src="prop/20_04_00a.png" />
+           <img src="prop/20_04_00.png" />
         <figcaption>Relembrando a propriedade do baricentro: A distância do baricentro a um vértice mede 2/3 da mediana, ou seja, <b>CG = 2CM/3</b> ou <b>GM = CM/3.</b></figcaption>
        </li>
        <li>
@@ -813,7 +813,7 @@
       <li>
            <input type="radio" id="slide131" name="slide" checked>
            <label for="slide131">passos: 1</label>
-           <img src="prop/20_04_00b.png" />
+           <img src="prop/20_04_00.png" />
         <figcaption>Vamos usar a mesma propriedade do item anterior: A distância do baricentro a um vértice mede 2/3 da mediana, ou seja, <b>CG = 2CM/3</b> ou <b>GM = CM/3.</b></figcaption>
        </li>
        <li>
