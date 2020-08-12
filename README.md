@@ -978,11 +978,18 @@
     <a href="vr/p_ex5c_hexagono.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
   </details>
   <hr>
-  <details class="sub"><summary>Visualização da Propriedade 7, pág. 22</summary>
-  <img src="vr/044_prop7.PNG">
-    <figcaption>Visualização da propriedade 7 com RV e RA.</figcaption>
-    <a href="https://paulohscwb.github.io/cotadas/vr/p7.html"><img src="vr/RVaframe.png" width="200px"></a>
+  <details class="sub"><summary>Propriedade 6, pág. 22</summary>
+      <img src="vr/p6.png">
+      <figcaption>Os segmentos oblíquos ao plano de projeções <b>&pi;'</b> são projetados com tamanho reduzido, ou seja, <b>AB > A'B'</b></figcaption>
+      <a href="vr/p6.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização da propriedade em 3D</b></a>
   </details>
+  <hr>
+  <details class="sub"><summary>Propriedade 7, pág. 22</summary>
+      <img src="prop/044_prop7.PNG">
+      <figcaption>Quando a reta <b>r // &pi;'</b> e as retas <b>r</b> e <b>s</b> são perpendiculares ou ortogonais, as retas <b>r'</b> e <b>s'</b> são perpendiculares.</figcaption>
+      <a href="vr/p7.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização da propriedade em 3D</a>
+  </details>
+  <hr>
 <br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
