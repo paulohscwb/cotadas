@@ -90,7 +90,7 @@ h3::after {
      display: block;
      height: 25px;
      position: absolute;
-     width: 28px;
+     width: 23px;
      z-index: 10;
      border-radius: 5px;
      text-align:center;
@@ -100,51 +100,51 @@ h3::after {
 
  .slider li:nth-child(1) label {
      left: 0px;
-     width: 72px;
+     width: 70px;
  }
 
  .slider li:nth-child(2) label {
-     left: 80px;
+     left: 77px;
  }
 
  .slider li:nth-child(3) label {
-     left: 115px;
+     left: 107px;
  }
  
  .slider li:nth-child(4) label {
-     left: 150px;
+     left: 137px;
  }
  
 .slider li:nth-child(5) label {
-     left: 185px;
+     left: 167px;
  }
 
 .slider li:nth-child(6) label {
-     left: 220px;
+     left: 197px;
  }
 
 .slider li:nth-child(7) label {
-     left: 255px;
+     left: 227px;
  }
 
 .slider li:nth-child(8) label {
-     left: 290px;
+     left: 257px;
  }
 
 .slider li:nth-child(9) label {
-     left: 325px;
+     left: 287px;
  }
 
 .slider li:nth-child(10) label {
-     left: 360px;
+     left: 317px;
  }
 
 .slider li:nth-child(11) label {
-     left: 395px;
+     left: 347px;
  }
 
 .slider li:nth-child(12) label {
-     left: 430px;
+     left: 377px;
  }
 
  .slider img {
