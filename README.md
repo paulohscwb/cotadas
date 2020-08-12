@@ -981,7 +981,7 @@
   <details class="sub"><summary>Propriedade 6, pág. 22</summary>
       <img src="vr/p6.png">
       <figcaption>Os segmentos oblíquos ao plano de projeções <b>&pi;'</b> são projetados com tamanho reduzido, ou seja, <b>AB > A'B'</b></figcaption>
-      <a href="vr/p6.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização da propriedade em 3D</b></a>
+      <a href="vr/p6.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização da propriedade em 3D</a>
   </details>
   <hr>
   <details class="sub"><summary>Propriedade 7, pág. 22</summary>
