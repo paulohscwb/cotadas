@@ -650,6 +650,7 @@
        </li>
     </ul>
     <img src="prop/19_02_00.png" class="fundo" />
+	<hr>
 	<h4>Solução do item b</h4>
 	<img src="prop/19_02_00b.png">
 	<figcaption>A construção é parecida com a que fizemos no item a.</figcaption>
@@ -684,6 +685,7 @@
        </li>
     </ul>
     <img src="prop/19_02_00c.png" class="fundo" />
+	<hr>
 	<h4>Solução do item d</h4>
 	<img src="prop/19_02_00d.png">
 	<figcaption>Usando as mesmas propriedades usadas nos itens anteriores, podemos concluir que os vértices <b>A</b> e <b>D</b> coincidem.</figcaption>
@@ -762,6 +764,7 @@
     </ul>
     <img src="prop/20_03_00b.png" class="fundo" />
     <a href="vr/20_03b.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D para o item b</a>
+	<hr>
 	<h4>Solução do item c</h4>
 	<img src="prop/20_03_00c.png">
 	<figcaption>Usando as propriedades dos itens a e b, você consegue fazer a construção deste paralelogramo.</figcaption>
@@ -852,7 +855,8 @@
     </ul>
 	<img src="prop/20_04_00_b.png" class="fundo" />
     <a href="vr/20_04b.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
-    <h4>Solução do item c.</h4>
+    <hr>
+	<h4>Solução do item c.</h4>
   	<img src="prop/20_04_00c.png"/>
 	<figcaption>Utilizando as mesmas propriedades dos itens anteriores, você consegue construir este triângulo. Use o link abaixo para te ajudar na visualização em 3D.</figcaption>
     <a href="vr/p_ex4c_triangulo.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D do item c</a>
@@ -918,6 +922,7 @@
     </ul>
 	<img src="prop/21_05_00a.png" class="fundo" />
     <a href="vr/p_ex5a_hexagono.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+	<hr>
 	<h4>Solução do item b</h4>
 	<img src="prop/21_05_00b.png">
 	<figcaption>Com as propriedades que usamos no item a, você consegue fazer a construção deste hexágono do item b.</figcaption>
