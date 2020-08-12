@@ -985,7 +985,7 @@
   </details>
   <hr>
   <details class="sub"><summary>Propriedade 7, pág. 22</summary>
-      <img src="prop/044_prop7.PNG">
+      <img src="vr/044_prop7.PNG">
       <figcaption>Quando a reta <b>r // &pi;'</b> e as retas <b>r</b> e <b>s</b> são perpendiculares ou ortogonais, as retas <b>r'</b> e <b>s'</b> são perpendiculares.</figcaption>
       <a href="vr/p7.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização da propriedade em 3D</a>
   </details>
