@@ -358,6 +358,145 @@
     <img src="dg/03_01_00.png" class="fundo" />
   </details>
   <hr>
+  <details class="sub"><summary>Exercício 6 da pág. 3: construção de ângulos com régua e compasso</summary>
+  <p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
+  <h4>Ângulos de 60<sup>o</sup> e 30<sup>o</sup>:</h4>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="slide50" name="slide" checked>
+           <label for="slide50">passos: 1</label>
+           <img src="dg/03_02_01.png" />
+           <figcaption>Desenhe uma reta <b>r</b> e marque dois pontos <b>A</b> e <b>B</b> sobre ela.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide51" name="slide">
+           <label for="slide51">2</label>
+           <img src="dg/03_02_02.png" />
+           <figcaption>Construa o arco de centro <b>A</b> e raio <b>AB</b> e o arco de centro <b>B</b> e raio <b>AB</b> obtendo o ponto <b>C</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide52" name="slide">
+           <label for="slide52">3</label>
+           <img src="dg/03_02_03.png" />
+           <figcaption>Construa a reta <b>AC</b>. O ângulo <b>CAB</b> mede <b>60°</b>, pois o triângulo <b>ABC</b> construído é equilátero e, portanto, todos os seus ângulos internos medem <b>60°</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide53" name="slide">
+           <label for="slide53">4</label>
+           <img src="dg/03_02_04.png" />
+           <figcaption>Essa construção fornece dois ângulos: o de <b>60°</b> e o de <b>120°</b>. Quando dois ângulos somam <b>180°</b> são chamados de suplementares.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide54" name="slide">
+           <label for="slide54">5</label>
+           <img src="dg/03_02_05.png" />
+           <figcaption>Para obtermos o ângulo de <b>30°</b> basta dividir o ângulo de <b>60°</b> em duas partes iguais. Então construa novamente um ângulo de <b>60°</b> conforme vimos anteriormente.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide55" name="slide">
+           <label for="slide55">6</label>
+           <img src="dg/03_02_06.png" />
+           <figcaption>Agora construa a bissetriz desse ângulo, obtendo a reta <b>AD</b>. O ângulo <b>DAB</b> mede <b>30°</b>. Que ângulo também obtivemos nessa construção? Lembre-se do ângulo suplementar!</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide56" name="slide">
+           <label for="slide56">7</label>
+           <img src="dg/03_02_07.png" />
+           <figcaption>Essa construção fornece também o suplemento do ângulo de <b>30°</b>, ou seja, o ângulo de <b>150°</b>.</figcaption>
+       </li>
+    </ul>
+    <img src="dg/03_02_00.png" class="fundo" />
+	<hr>
+	<h4>Ângulos de 90<sup>o</sup> e 45<sup>o</sup>:</h4>
+    <ul class="slider">
+      <li>
+           <input type="radio" id="slide57" name="slide" checked>
+           <label for="slide57">passos: 1</label>
+           <img src="dg/03_02_08.png" />
+           <figcaption>Para construir um ângulo de <b>90°</b> com régua e compasso basta construir uma reta perpendicular. Lembra que já fizemos isso? Vamos repetir então. Desenhe uma reta <b>r</b> e marque um ponto <b>A</b> sobre ela. </figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide58" name="slide">
+           <label for="slide58">2</label>
+           <img src="dg/03_02_09.png" />
+           <figcaption>Com a ponta seca do compasso em <b>A</b>, marque um ponto <b>B</b> para a esquerda e um ponto <b>C</b> para a direita. Use o mesmo raio para esses arcos. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide59" name="slide">
+           <label for="slide59">3</label>
+           <img src="dg/03_02_10.png" />
+           <figcaption>Com centro em <b>B</b> e um raio maior que a metade do segmento <b>BC</b> construa um arco, e faça o mesmo em <b>C</b>. Na interseção desses arcos obtemos os pontos <b>D</b> e <b>C</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide60" name="slide">
+           <label for="slide60">4</label>
+           <img src="dg/03_02_11.png" />
+           <figcaption>A reta <b>DE</b> é perpendicular à reta <b>r</b> e, assim, o ângulo obtido mede <b>90°</b>,</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide61" name="slide">
+           <label for="slide61">5</label>
+           <img src="dg/03_02_12.png" />
+           <figcaption>Para obtermos o ângulo de <b>45°</b> basta dividir o ângulo de <b>90°</b> em duas partes iguais. Então construa novamente um ângulo de <b>90°</b> conforme vimos anteriormente.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide62" name="slide">
+           <label for="slide62">6</label>
+           <img src="dg/03_02_13.png" />
+           <figcaption>Agora construa a bissetriz desse ângulo, obtendo a reta <b>AF</b>. O ângulo <b>FAC</b> mede <b>45°</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide63" name="slide">
+           <label for="slide63">7</label>
+           <img src="dg/03_02_14.png" />
+           <figcaption>Lembra do ângulo suplementar? O suplemento do ângulo de <b>45°</b> mede <b>135°</b>.</figcaption>
+       </li>
+    </ul>
+    <img src="dg/03_02_07.png" class="fundo" />
+  </details>
+  <hr>
+  <h4>Ângulos de 75<sup>o</sup> e 15<sup>o</sup>:</h4>
+    <ul class="slider">
+      <li>
+           <input type="radio" id="slide64" name="slide" checked>
+           <label for="slide64">passos: 1</label>
+           <img src="dg/03_02_15.png" />
+           <figcaption>Para construir um ângulo de <b>75°</b> basta dividir um ângulo de <b>150°</b> ao meio. Já sabemos construir um ângulo de <b>150°</b>, lembra? Comece construindo um ângulo <b>ABC</b> de <b>60°</b>. Construa um arco <b>BC</b> de tal forma que intercepte a reta <b>r</b> em dois pontos <b>B</b> e <b>F</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide65" name="slide">
+           <label for="slide65">2</label>
+           <img src="dg/03_02_16.png" />
+           <figcaption>Construa sua bissetriz, obtendo um ângulo de <b>30°</b>. O suplemento do ângulo de <b>30°</b> irá medir <b>150°</b>. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide66" name="slide">
+           <label for="slide66">3</label>
+           <img src="dg/03_02_17.png" />
+           <figcaption>Como o ângulo <b>DAF</b> mede <b>150°</b>, basta agora construir usa bissetriz, obtendo o ângulo de <b>75°</b>. Os ângulos <b>DAE</b> e <b>EAF</b> medem <b>75°</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide67" name="slide">
+           <label for="slide67">4</label>
+           <img src="dg/03_02_18.png" />
+           <figcaption>Para construir um ângulo de <b>15°</b> basta construir um ângulo de <b>30°</b>. E para construir um ângulo de <b>30°</b> basta construir um de <b>60°</b>. Então vamos começar construindo um ângulo de <b>60°</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide68" name="slide">
+           <label for="slide68">5</label>
+           <img src="dg/03_02_19.png" />
+           <figcaption>Agora construa a bissetriz do ângulo de <b>60°</b>, obtendo dois ângulos de <b>30°</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide69" name="slide">
+           <label for="slide69">6</label>
+           <img src="dg/03_02_20.png" />
+           <figcaption>Escolha um dos ângulos de <b>30°</b> e construa sua bissetriz, obtendo dois ângulos de <b>15°</b>.</figcaption>
+       </li>
+    </ul>
+    <img src="dg/03_02_14.png" class="fundo" />
+  </details>
+  <hr>
   <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
