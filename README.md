@@ -1126,19 +1126,19 @@
 	   <li>
            <input type="radio" id="slide171" name="slide">
            <label for="slide171">8</label>
-           <img src="prop/24_01_07.png" />
+           <img src="prop/24_01_08.png" />
          <figcaption>... e marcar com a ponta seca em <b>B'</b> para encontrar o vértice <b>F'</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="slide172" name="slide">
            <label for="slide172">9</label>
-           <img src="prop/24_01_07.png" />
+           <img src="prop/24_01_09.png" />
          <figcaption>Fazendo a mesma construção com os vértices <b>C'</b> e <b>D'</b>, você encontra os vértices <b>G'</b> e <b>H'</b>. Esta construção é possível por causa das propriedades 2 e 3 de projeções cilíndricas.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="slide173" name="slide">
            <label for="slide173">10</label>
-           <img src="prop/24_01_07.png" />
+           <img src="prop/24_01_10.png" />
          <figcaption>Agora você pode "passar a limpo" o desenho do paralelepípedo. Como ainda não estamos trabalhando com as coordenadas dos vértices, você pode escolher uma das visualizações mostradas nos passos 1 e 2.</figcaption>
        </li>
     </ul>
