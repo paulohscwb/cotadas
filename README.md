@@ -1097,7 +1097,7 @@
            <input type="radio" id="slide166" name="slide">
            <label for="slide166">3</label>
            <img src="prop/24_01_03.png" />
-         <figcaption>Vamos começar construindo a reta paralela a <b>B'C'</b> que passa por <b>A'</b> para encontrar o vértice <b>D'<b> da base do paralelepípedo. Podemos usar o esquadro de 45<sup>o</sup> para alinhar com o segmento.</figcaption>
+         <figcaption>Vamos começar construindo a reta paralela a <b>B'C'</b> que passa por <b>A'</b> para encontrar o vértice <b>D'</b> da base do paralelepípedo. Podemos usar o esquadro de 45<sup>o</sup> para alinhar com o segmento.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide167" name="slide">
