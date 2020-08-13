@@ -997,7 +997,7 @@
            <input type="radio" id="slide152" name="slide" checked>
            <label for="slide152">passos: 1</label>
            <img src="prop/23_01_01.png" />
-        <figcaption>Usando as propriedades do losango, temos que os lados são iguais <b>AB = BC = CD = AD</b> e as diagonais <b>AC</b> e <b>BD</b> são perpendiculares. Podemos usar a propriedade 7 de projeções ortogonais.</figcaption>
+        <figcaption>Usando as propriedades do losango, temos que as medidas dos lados são iguais <b>AB = BC = CD = AD</b> e as diagonais <b>AC</b> e <b>BD</b> são perpendiculares. Podemos usar a propriedade 7 de projeções ortogonais.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide153" name="slide">
@@ -1028,7 +1028,56 @@
     <a href="vr/p_ex1_losango.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
   </details>
   <hr>
-  
+  <details class="sub"><summary>Exercício 2 da pág. 23</summary>
+  <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="slide157" name="slide" checked>
+           <label for="slide157">passos: 1</label>
+           <img src="prop/23_02_01.png" />
+        <figcaption>Usando as propriedades do retângulo, temos que os vértices pertencem a uma circunferência com centro no encontro das diagonais <b>M</b>. Esta circunferência é chamada de arco capaz de 90<sup>o</sup>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide158" name="slide">
+           <label for="slide158">2</label>
+           <img src="prop/23_02_02.png" />
+         <figcaption>Como o segmento <b>AB</b> é paralelo a <b>&pi;'</b>, sua projeção <b>A'B'</b> está em verdadeira grandeza (vg). Podemos construir a circunferência com centro em <b>A'</b> e raio 3cm.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide159" name="slide">
+           <label for="slide159">3</label>
+           <img src="prop/23_02_03.png" />
+         <figcaption>Vamos começar construindo a mediatriz de <b>A'C'</b> para desenhar o arco capaz de 90<sup>o</sup>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide160" name="slide">
+           <label for="slide160">4</label>
+           <img src="prop/23_02_04.png" />
+         <figcaption>Com o centro em <b>M'</b>, podemos construir a circunferência de raio <b>M'A' = M'C'</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide161" name="slide">
+           <label for="slide161">5</label>
+           <img src="prop/23_02_05.png" />
+         <figcaption>Agora podemos desenhar a circunferência com centro em <b>A'</b> e raio 3cm. A interseção desta circunferência com o arco capaz de 90<sup>o</sup> é o vértice <b>B'</b>. Escolha uma das interseções para este vértice <b>B'</b></figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide162" name="slide">
+           <label for="slide162">6</label>
+           <img src="prop/23_02_06.png" />
+         <figcaption>Como os lados <b>AB</b> e <b>CD</b> são paralelos, podemos desenhar a circunferência com centro em <b>C'</b> e raio 3cm para encontrar o vértice <b>D'</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide163" name="slide">
+           <label for="slide163">7</label>
+           <img src="prop/23_02_07.png" />
+         <figcaption>Pronto, a projeção do retângulo está construída. Veja no link abaixo a representação em 3D deste exercício.</figcaption>
+       </li>
+    </ul>
+	<img src="prop/23_02_00.png" class="fundo" />
+    <a href="vr/p_ex2_retangulo.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+  </details>
+  <hr>
 <br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
