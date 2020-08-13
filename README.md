@@ -1145,6 +1145,12 @@
 	<img src="prop/24_01_00.png" class="fundo" />
   </details>
   <hr>
+  <details class="sub"><summary>Exercício 4 da pág. 24</summary>
+  <p> Você pode utilizar o compasso e os esquadros para resolver este exercício. Lembre-se das propriedades de projeções cilíndricas 2 e 3.</p>
+	<img src="prop/24_02_00.png">
+	<figcaption>Tente encontrar o centro da circunferência da base dos vertices <b>A'</b> e <b>B'</b>. Use as propriedades do hexágono regular.</figcaption>
+  </details>
+  <hr>
 <br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
