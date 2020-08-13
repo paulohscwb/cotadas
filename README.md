@@ -1162,115 +1162,115 @@
 <details>
   <summary id="pontos">Pontos, retas e segmentos em épura</summary>
 	<details class="sub"><summary>Representação de pontos em épura, pág. 26</summary>
-	<img src="vr/26_ponto.png">
-	<figcaption>Para representar um ponto em épura, basta marcar as coordenadas x(abscissa), y(ordenada) e indicar o valor da cota <b>a</b> do ponto. Use o link abaixo para visualizar em 3D.</figcaption>
-	<a href="vr/rep_ponto.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+		<img src="vr/26_ponto.png">
+		<figcaption>Para representar um ponto em épura, basta marcar as coordenadas x(abscissa), y(ordenada) e indicar o valor da cota <b>a</b> do ponto. Use o link abaixo para visualizar em 3D.</figcaption>
+		<a href="vr/rep_ponto.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
 	</details>
     <hr>
-	<details class="sub"><summary>Exemplo de pontos em épura, pág. 27</summary>
-	<img src="vr/049_epura.PNG">
-	<figcaption>Visualização do exercício da página 27 com RV e RA.</figcaption>
-		<a href="https://paulohscwb.github.io/cotadas/vr/exerc_epura.html"><img src="vr/RVaframe.png" width="200px"></a>
+	<details class="sub"><summary>Representação de pontos em épura, pág. 27</summary>
+		<img src="vr/049_epura.PNG">
+		<figcaption>Visualização em 3D do exercício da página 27.</figcaption>
+		<a href="vr/exerc_epura.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
 	</details>
     <hr>
     <details class="sub"><summary>Verdadeira grandeza de um segmento, pág. 28</summary>
-	<img src="vr/050_vg.PNG">
-	<figcaption>Visualização em RA e RV do rebatimento usado para encontrar a verdadeira grandeza de um segmento AB.</figcaption>
-		<a href="https://paulohscwb.github.io/cotadas/vr/vg_segmento.html"><img src="vr/RVaframe.png" width="200px"></a>
+		<img src="vr/050_vg.PNG">
+		<figcaption>Rebatimento usado para encontrar a verdadeira grandeza (vg) de um segmento AB. Neste caso, o segmento é rebatido usando a projeção <b>A'B'</b> como eixo para rebater o segmento em <b>&pi;'</b>.</figcaption>
+		<a href="vr/vg_segmento.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
 	</details>
 	<hr>
-<details class="sub"><summary>Condições de incidência, pág. 47 (5<sup>o</sup> caso)</summary>
-  <p> Vamos verificar se as retas são paralelas ou concorrentes, considerando a reta <b>s</b> qualquer e a reta <b>r</b> vertical. Como pertencem ao mesmo plano projetante, elas são necessariamente concorrentes, basta encontrar o ponto <b>P</b> de concorrência. Usando o método do rebatimento, siga os seguintes passos:</p>
-  <ul class="slider">
-      <li>
-           <input type="radio" id="slide308" name="slide" checked>
-           <label for="slide308">passos: 1</label>
-           <img src="cotadas/47_01_01.png" />
-        <figcaption>: Marcar a cota do ponto <b>A</b></figcaption>
-       </li>
-       <li>
-           <input type="radio" id="slide309" name="slide">
-           <label for="slide309">2</label>
-           <img src="cotadas/47_01_02.png" />
-         <figcaption>Marcar a cota do ponto <b>B</b></figcaption>
-       </li>
-       <li>
-           <input type="radio" id="slide310" name="slide">
-           <label for="slide310">3</label>
-           <img src="cotadas/47_01_03.png" />
-         <figcaption>Representar a reta s rebatida, unindo <b>A'<sub>1</sub></b> e <b>B'<sub>1</sub></b></figcaption>
-       </li>
-       <li>
-           <input type="radio" id="slide311" name="slide">
-           <label for="slide311">4</label>
-           <img src="cotadas/47_01_04.png" />
-         <figcaption>Rebater a reta <b>r</b>.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="slide312" name="slide">
-           <label for="slide312">5</label>
-           <img src="cotadas/47_01_05.png" />
-         <figcaption>Verificar que a cota do ponto <b>P</b>, de intersecção entre as retas tem cota <b>5</b></figcaption>
-       </li>
-	</ul>
-	<img src="cotadas/47_01_00.png" class="fundo" />
-  </details>
-  <hr>
-<details class="sub"><summary>Condições de incidência, pág. 47 (6<sup>o</sup> caso)</summary>
-  <p> Vamos verificar se as retas são paralelas ou concorrentes considerando as retas <b>r</b> e <b>s</b> quaisquer. Devemos verificar o ponto de interseção tem a mesma cota nas duas retas, para isso utilizamos o método do rebatimento.</p>
-  <ul class="slider">
-      <li>
-           <input type="radio" id="slide300" name="slide" checked>
-           <label for="slide300">passos: 1</label>
-           <img src="cotadas/47_02_01.png" />
-        <figcaption>Marcar a cota do ponto <b>A'(2)</b>.</figcaption>
-       </li>
-       <li>
-           <input type="radio" id="slide301" name="slide">
-           <label for="slide301">2</label>
-           <img src="cotadas/47_02_02.png" />
-         <figcaption>Marcar a cota do ponto <b>B'(7)</b></figcaption>
-       </li>
-       <li>
-           <input type="radio" id="slide302" name="slide">
-           <label for="slide302">3</label>
-           <img src="cotadas/47_02_03.png" />
-         <figcaption>Representar a reta rebatida unindo <b>A'<sub>1</sub></b> e <b>B'<sub>1</sub></b></figcaption>
-       </li>
-       <li>
-           <input type="radio" id="slide303" name="slide">
-           <label for="slide303">4</label>
-           <img src="cotadas/47_02_04.png" />
-         <figcaption>Verificar qual é a cota do ponto <b>P</b> na reta <b>r</b> rebatida. A cota do ponto <b>P</b> na reta <b>r</b> é <b>4</b>.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="slide304" name="slide">
-           <label for="slide304">5</label>
-           <img src="cotadas/47_02_05.png" />
-         <figcaption>Rebater a reta <b>s</b>, marcando a cota do ponto <b>C'(1)</b></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="slide305" name="slide">
-           <label for="slide305">6</label>
-           <img src="cotadas/47_02_06.png" />
-         <figcaption>Marcar a cota do ponto <b>D'(6)</b></figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="slide306" name="slide">
-           <label for="slide306">7</label>
-           <img src="cotadas/47_02_07.png" />
-         <figcaption>Representar a reta <b>s</b> rebatida</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="slide307" name="slide">
-           <label for="slide307">8</label>
-           <img src="cotadas/47_02_08.png" />
-         <figcaption>Verificar que a cota do ponto <b>P</b> na reta <b>s</b> também é <b>4</b>. Portanto as retas <b>r</b> e <b>s</b> são concorrentes no ponto <b>P</b> de cota <b>4</b></figcaption>
-       </li>
-    </ul>
-	<img src="cotadas/47_02_00.png" class="fundo" />
-  </details>
-  <hr>
+	<details class="sub"><summary>Condições de incidência, pág. 47 (5<sup>o</sup> caso)</summary>
+	  <p> Vamos verificar se as retas são paralelas ou concorrentes, considerando a reta <b>s</b> qualquer e a reta <b>r</b> vertical. Como pertencem ao mesmo plano projetante, elas são necessariamente concorrentes, basta encontrar o ponto <b>P</b> de concorrência. Usando o método do rebatimento, siga os seguintes passos:</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="slide308" name="slide" checked>
+			   <label for="slide308">passos: 1</label>
+			   <img src="cotadas/47_01_01.png" />
+			<figcaption>: Marcar a cota do ponto <b>A</b></figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide309" name="slide">
+			   <label for="slide309">2</label>
+			   <img src="cotadas/47_01_02.png" />
+			 <figcaption>Marcar a cota do ponto <b>B</b></figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide310" name="slide">
+			   <label for="slide310">3</label>
+			   <img src="cotadas/47_01_03.png" />
+			 <figcaption>Representar a reta s rebatida, unindo <b>A'<sub>1</sub></b> e <b>B'<sub>1</sub></b></figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide311" name="slide">
+			   <label for="slide311">4</label>
+			   <img src="cotadas/47_01_04.png" />
+			 <figcaption>Rebater a reta <b>r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide312" name="slide">
+			   <label for="slide312">5</label>
+			   <img src="cotadas/47_01_05.png" />
+			 <figcaption>Verificar que a cota do ponto <b>P</b>, de intersecção entre as retas tem cota <b>5</b></figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/47_01_00.png" class="fundo" />
+	</details>
+	<hr>
+	<details class="sub"><summary>Condições de incidência, pág. 47 (6<sup>o</sup> caso)</summary>
+	  <p> Vamos verificar se as retas são paralelas ou concorrentes considerando as retas <b>r</b> e <b>s</b> quaisquer. Devemos verificar o ponto de interseção tem a mesma cota nas duas retas, para isso utilizamos o método do rebatimento.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="slide300" name="slide" checked>
+			   <label for="slide300">passos: 1</label>
+			   <img src="cotadas/47_02_01.png" />
+			<figcaption>Marcar a cota do ponto <b>A'(2)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide301" name="slide">
+			   <label for="slide301">2</label>
+			   <img src="cotadas/47_02_02.png" />
+			 <figcaption>Marcar a cota do ponto <b>B'(7)</b></figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide302" name="slide">
+			   <label for="slide302">3</label>
+			   <img src="cotadas/47_02_03.png" />
+			 <figcaption>Representar a reta rebatida unindo <b>A'<sub>1</sub></b> e <b>B'<sub>1</sub></b></figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide303" name="slide">
+			   <label for="slide303">4</label>
+			   <img src="cotadas/47_02_04.png" />
+			 <figcaption>Verificar qual é a cota do ponto <b>P</b> na reta <b>r</b> rebatida. A cota do ponto <b>P</b> na reta <b>r</b> é <b>4</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide304" name="slide">
+			   <label for="slide304">5</label>
+			   <img src="cotadas/47_02_05.png" />
+			 <figcaption>Rebater a reta <b>s</b>, marcando a cota do ponto <b>C'(1)</b></figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide305" name="slide">
+			   <label for="slide305">6</label>
+			   <img src="cotadas/47_02_06.png" />
+			 <figcaption>Marcar a cota do ponto <b>D'(6)</b></figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide306" name="slide">
+			   <label for="slide306">7</label>
+			   <img src="cotadas/47_02_07.png" />
+			 <figcaption>Representar a reta <b>s</b> rebatida</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide307" name="slide">
+			   <label for="slide307">8</label>
+			   <img src="cotadas/47_02_08.png" />
+			 <figcaption>Verificar que a cota do ponto <b>P</b> na reta <b>s</b> também é <b>4</b>. Portanto as retas <b>r</b> e <b>s</b> são concorrentes no ponto <b>P</b> de cota <b>4</b></figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/47_02_00.png" class="fundo" />
+	  </details>
+	  <hr>
   <br><a href="#pontos"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
