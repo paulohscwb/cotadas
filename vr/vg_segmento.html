@@ -9,6 +9,7 @@
 <body>
 	<a-scene>
 		<a-assets>
+			<a-mixin id="imagem" material="side: double; transparent: true; depthTest: false;" rotation="-25 0 0"></a-mixin>
 			<a-mixin id="mtl0" material="opacity: 0.5; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
 			<a-mixin id="mtl1" material="color: #4b97ee;"></a-mixin>
 			<a-mixin id="mtl2" material="color: #ee514b"></a-mixin>
@@ -30,7 +31,6 @@
 		<a-entity gearvr-controls></a-entity>
 
 		<a-entity scale="0.7 0.7 0.7" position="0 0 0">
-			<a-text position="4.5 0.32 4.8" value="pi'" mixin="texto"></a-text>
 			<a-entity position="0 0 -1">
 				<a-entity rotation="0 45 0">
 					<a-sphere mixin="ponto" position="0 5 0"></a-sphere>
@@ -42,8 +42,8 @@
 					
 					<a-entity line="start: 0 5 0; end: -4 2 0; color: #6E6E6E" 
 					line__2="start: -4 2 0; end: 0 2 0; color: #6E6E6E"
-					line__5="start: 0 5 0; end: 0 0 0; color: #6E6E6E"
-					line__6="start: -4 2 0; end: -4 0 0; color: #6E6E6E"></a-entity>
+					line__5="start: 0 5 0; end: 0 0 0; color: green"
+					line__6="start: -4 2 0; end: -4 0 0; color: blue"></a-entity>
 				</a-entity>
 				
 				<a-entity rotation="0 45 0"
@@ -57,8 +57,8 @@
 					
 					<a-entity line="start: 0 5 0; end: -4 2 0; color: #6E6E6E" 
 					line__2="start: -4 2 0; end: 0 2 0; color: #6E6E6E"
-					line__5="start: 0 5 0; end: 0 0 0; color: #6E6E6E"
-					line__6="start: -4 2 0; end: -4 0 0; color: #6E6E6E"></a-entity>
+					line__5="start: 0 5 0; end: 0 0 0; color: green"
+					line__6="start: -4 2 0; end: -4 0 0; color: blue"></a-entity>
 				</a-entity>
 				
 				<a-entity rotation="0 45 0">
@@ -71,6 +71,7 @@
 				</a-entity>
 			</a-entity>
 			<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0 mtl2"></a-entity>
+			<a-image src="pi1.png" height="0.6" width="0.6" position="4.5 0.32 4.8" mixin="imagem"></a-image>
 		</a-entity>
 		
 		<a-entity camera="fov:1; near:5; zoom:0.9;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 100 250 500"></a-entity>
