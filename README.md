@@ -990,6 +990,45 @@
       <a href="vr/p7.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização da propriedade em 3D</a>
   </details>
   <hr>
+  <details class="sub"><summary>Exercício 1 da pág. 23</summary>
+  <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="slide152" name="slide" checked>
+           <label for="slide152">passos: 1</label>
+           <img src="prop/23_01_01.png" />
+        <figcaption>Usando as propriedades do losango, temos que os lados são iguais <b>AB = BC = CD = AD</b> e as diagonais <b>AC</b> e <b>BD</b> são perpendiculares. Podemos usar a propriedade 7 de projeções ortogonais.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide153" name="slide">
+           <label for="slide153">2</label>
+           <img src="prop/23_01_02.png" />
+         <figcaption>Como a reta <b>AC</b> é paralela a <b>&pi;'</b>, o ângulo de 90<sup>o</sup> está projetado em verdadeira grandeza (vg). Podemos construir a mediatriz da projeção da diagonal <b>A'C'</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide154" name="slide">
+           <label for="slide154">3</label>
+           <img src="prop/23_01_03.png" />
+         <figcaption>A interseção da mediatriz de <b>A'C'</b> com a reta <b>r'</b> é o vértice <b>B'</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide155" name="slide">
+           <label for="slide155">4</label>
+           <img src="prop/23_01_04.png" />
+         <figcaption>Como <b>BM = MD</b>, pela propriedade 3 temos que <b>B'M' = M'D'</b>. Podemos marcar com o compasso a medida <b>B'M'</b> a partir do ponto <b>M'</b>, encontrando o vértice <b>D'</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide156" name="slide">
+           <label for="slide156">5</label>
+           <img src="prop/23_01_05.png" />
+         <figcaption>Pronto, a projeção do losango está construída. Veja no link abaixo a representação em 3D deste exercício.</figcaption>
+       </li>
+    </ul>
+	<img src="prop/23_01_00.png" class="fundo" />
+    <a href="vr/p_ex1_losango.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+  </details>
+  <hr>
+  
 <br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
