@@ -184,18 +184,18 @@
 	   <a-link mixin="lnk" href="vr/p2a.html"></a-link>
 	   <a-entity position="3.5 0.5 0.7" id="prop2a" scale="0.5 0.5 0.5">		
 		<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0p mtl2"></a-entity>
-		<a-text position="4.5 0.32 4.8" value="pi'" mixin="texto"></a-text>
-
-		<a-text position="-4 6 0.58" value="s" mixin="texto"></a-text>
-		<a-text position="-3.8 4 1" value="r" mixin="texto"></a-text>
-		<a-text position="-3.6 0.25 3" value="r'=s'" mixin="texto"></a-text>
+		<a-image src="vr/pi1.png" height="0.6" width="0.6" position="4.5 0.32 4.8" mixin="imagem"></a-image>
+		
+		<a-text position="-5.16 5.11 2.67" value="s" mixin="texto"></a-text>
+		<a-text position="-4.54 3.11 3.42" value="r" mixin="texto"></a-text>
+		<a-text position="-3.52 0.25 3.98" value="r'=s'" mixin="texto"></a-text>
 
 		<a-text position="4.7 4 0" value="d" mixin="texto"></a-text>
 
-		<a-entity line="start: -4 4 1; end: 0 1.9 -4.95; color: #6E6E6E" 
-		line__2="start: -4.3 6 0.58; end: -0.22 3.83 -5.53; color: #6E6E6E"
-		line__3="start: -4 0 3; end: 0 0 -4; color: #6E6E6E"
-		line__5="start: 5.5 0 1; end: 4.5 4 0; color: #6E6E6E"></a-entity>
+		<a-entity line="start: -5.47 4.97 3.76; end: 0.22 3.13 -5.78; color: red" 
+		line__2="start: 0.71 1.15 -5.29; end: -4.97 2.99 4.25; color: blue"
+		line__3="start: -4.22 0 5; end: 1 0 -5; color: #6E6E6E"
+		line__5="start: 5.5 0 1; end: 4.5 4 0; color: #6E6E6E"></a-entity>   
 	   </a-entity>
   	</a-marker>
 
@@ -203,7 +203,7 @@
 	   <a-link mixin="lnk" href="vr/p_ex5a_hexagono.html"></a-link>
 	   <a-entity position="-4 0.5 -0.8" id="p_ex5a_hexagono" scale="0.5 0.5 0.5">		
 		<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0p mtl2"></a-entity>
-		<a-text position="4.5 0.32 4.8" value="pi'" mixin="texto"></a-text>
+		<a-image src="vr/pi1.png" height="0.6" width="0.6" position="4.5 0.32 4.8" mixin="imagem"></a-image>
 
 		<a-entity position="-1 0 -3">
 			<a-entity id="hexagono" faceset="vertices: -1.68 2.63 2.6  1.14 1.89 1.93  3.4 3.15 3.4  2.86 5.15 5.55  0.05 5.89 6.22  -2.22 4.63 4.74" mixin="mtl0 mtl5"></a-entity>
@@ -240,12 +240,12 @@
 
 			<a-text position="5.45 6 -0.58" value="d" mixin="texto"></a-text>
 
-			<a-entity line="start: 5.41 0 -1.07; end: 5.37 6 -0.58; color: #6E6E6E" 
-			line__2="start: -1.66 0 2.38; end: -1.68 2.63 2.6; color: #6E6E6E"
-			line__3="start: 1.15 0 1.77; end: 1.14 1.89 1.93; color: #6E6E6E"
-			line__5="start: 3.42 0 3.14; end: 3.4 3.15 3.4; color: #6E6E6E"
-			line__6="start: 2.89 0 5.12; end: 2.86 5.15 5.55; color: #6E6E6E"
-			line__7="start: 0.08 0 5.73; end: 0.05 5.89 6.22; color: #6E6E6E"
+			<a-entity line="start: 5.41 0 -1.07; end: 5.37 6 -0.58; color: #6E6E6E" line__10="start: -1.68 2.63 2.6; end: 2.86 5.15 5.55; color: grey"
+			line__2="start: -1.66 0 2.38; end: -1.68 2.63 2.6; color: #6E6E6E" line__11="start: 1.14 1.89 1.93; end: 0.05 5.89 6.22; color: grey"
+			line__3="start: 1.15 0 1.77; end: 1.14 1.89 1.93; color: #6E6E6E" line__12="start: 3.4 3.15 3.4; end: -2.22 4.63 4.74; color: grey"
+			line__5="start: 3.42 0 3.14; end: 3.4 3.15 3.4; color: #6E6E6E" line__13="start: -1.66 0 2.38; end: 2.89 0 5.12; color: grey"
+			line__6="start: 2.89 0 5.12; end: 2.86 5.15 5.55; color: #6E6E6E" line__14="start: 1.15 0 1.77; end: 0.08 0 5.73; color: grey"
+			line__7="start: 0.08 0 5.73; end: 0.05 5.89 6.22; color: #6E6E6E" line__15="start: 3.42 0 3.14; end: -2.19 0 4.36; color: grey"
 			line__8="start: -2.19 0 4.36; end: -2.22 4.63 4.74; color: #6E6E6E"
 			line__9="start: 0.61 0 3.75; end: 0.59 3.89 4.07; color: #6E6E6E"></a-entity>
 		</a-entity>
@@ -293,9 +293,9 @@
 			<a-text position="4.5 1.7 -4.3" value="d" mixin="texto"></a-text>
 
 			<a-entity line="start: 6.72 0 -3.14; end: 1.52 3.66 -5.67; color: #6E6E6E" 
-			line__2="start: -4.63 2.43 -0.4; end: -1.19 0 1.23; color: #6E6E6E" line__11="start: -4.63 2.43 -0.4; end: -0.34 3.94 -4.59; color: white"
-			line__3="start: -1.79 1.26 -0.2; end: 0 0 0.66; color: #6E6E6E" line__12="start: -1.79 1.26 -0.2; end: -3.18 5.11 -4.82; color: white"
-			line__5="start: 0.36 2.02 -2.292; end: 3.22 0 -0.9; color: #6E6E6E" line__13="start: 0.36 2.02 -2.292; end: -5.33 4.35 -2.75; color: white"
+			line__2="start: -4.63 2.43 -0.4; end: -1.19 0 1.23; color: #6E6E6E" line__11="start: -4.63 2.43 -0.4; end: -0.34 3.94 -4.59; color: #6E6E6E"
+			line__3="start: -1.79 1.26 -0.2; end: 0 0 0.66; color: #6E6E6E" line__12="start: -1.79 1.26 -0.2; end: -3.18 5.11 -4.82; color: #6E6E6E"
+			line__5="start: 0.36 2.02 -2.292; end: 3.22 0 -0.9; color: #6E6E6E" line__13="start: 0.36 2.02 -2.292; end: -5.33 4.35 -2.75; color: #6E6E6E"
 			line__6="start: -0.34 3.94 -4.59; end: 5.25 0 -1.88; color: #6E6E6E"
 			line__7="start: -3.18 5.11 -4.82; end: 4.06 0 -1.3; color: #6E6E6E"
 			line__8="start: -5.33 4.35 -2.75; end: 0.84 0 0.25; color: #6E6E6E"
