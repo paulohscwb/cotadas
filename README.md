@@ -1078,6 +1078,73 @@
     <a href="vr/p_ex2_retangulo.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
   </details>
   <hr>
+  <details class="sub"><summary>Exercício 3 da pág. 24</summary>
+  <p> Vamos utilizar o compasso e os esquadros para resolver este exercício.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="slide164" name="slide" checked>
+           <label for="slide164">passos: 1</label>
+           <img src="prop/24_01_01.png" />
+        <figcaption>Um paralelepípedo tem todas as faces com paralelogramos. Supondo-se que o vértice <b>F</b> está mais próximo do observador, temos as arestas determinadas por <b>F</b> visíveis</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide165" name="slide">
+           <label for="slide165">2</label>
+           <img src="prop/24_01_02.png" />
+         <figcaption>Outra maneira de construir o paralelepípedo é considerando que o vértice <b>F</b> está mais distante do observador. Neste caso, suas arestas tornam-se invisíveis. Neste exercício você pode escolher uma das visibilidades apresentadas.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide166" name="slide">
+           <label for="slide166">3</label>
+           <img src="prop/24_01_03.png" />
+         <figcaption>Vamos começar construindo a reta paralela a <b>B'C'</b> que passa por <b>A'</b> para encontrar o vértice <b>D'<b> da base do paralelepípedo. Podemos usar o esquadro de 45<sup>o</sup> para alinhar com o segmento.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide167" name="slide">
+           <label for="slide167">4</label>
+           <img src="prop/24_01_04.png" />
+         <figcaption>Deslizando o esquadro com o outro esquadro apoiado, podemos desenhar a reta paralela a <b>B'C'</b> pelo vértice <b>A'</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide168" name="slide">
+           <label for="slide168">5</label>
+           <img src="prop/24_01_05.png" />
+         <figcaption>Fazendo a mesma construção, podemos desenhar a reta paralela ao segmento <b>A'B'</b> que passa por <b>C'</b>. O encontro destas paralelas é o vértice <b>D'</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide169" name="slide">
+           <label for="slide169">6</label>
+           <img src="prop/24_01_06.png" />
+         <figcaption>Agora podemos desenhar as arestas laterais. Basta desenhar as retas paralelas à aresta lateral <b>A'E'</b> que passam pelos vértices <b>B'</b>, <b>C'</b> e <b>D'</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide170" name="slide">
+           <label for="slide170">7</label>
+           <img src="prop/24_01_07.png" />
+         <figcaption>Com o compasso, você pode "pegar" a medida <b>A'E'</b>...</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide171" name="slide">
+           <label for="slide171">8</label>
+           <img src="prop/24_01_07.png" />
+         <figcaption>... e marcar com a ponta seca em <b>B'</b> para encontrar o vértice <b>F'</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide172" name="slide">
+           <label for="slide172">9</label>
+           <img src="prop/24_01_07.png" />
+         <figcaption>Fazendo a mesma construção com os vértices <b>C'</b> e <b>D'</b>, você encontra os vértices <b>G'</b> e <b>H'</b>. Esta construção é possível por causa das propriedades 2 e 3 de projeções cilíndricas.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide173" name="slide">
+           <label for="slide173">10</label>
+           <img src="prop/24_01_07.png" />
+         <figcaption>Agora você pode "passar a limpo" o desenho do paralelepípedo. Como ainda não estamos trabalhando com as coordenadas dos vértices, você pode escolher uma das visualizações mostradas nos passos 1 e 2.</figcaption>
+       </li>
+    </ul>
+	<img src="prop/24_01_00.png" class="fundo" />
+  </details>
+  <hr>
 <br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
