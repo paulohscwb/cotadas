@@ -1161,6 +1161,12 @@
 
 <details>
   <summary id="pontos">Pontos, retas e segmentos em épura</summary>
+	<details class="sub"><summary>Representação de pontos em épura, pág. 26</summary>
+	<img src="vr/26_ponto.png">
+	<figcaption>Para representar um ponto em épura, basta marcar as coordenadas x(abscissa), y(ordenada) e indicar o valor da cota <b>a</b> do ponto. Use o link abaixo para visualizar em 3D.</figcaption>
+	<a href="vr/rep_ponto.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+	</details>
+    <hr>
 	<details class="sub"><summary>Exemplo de pontos em épura, pág. 27</summary>
 	<img src="vr/049_epura.PNG">
 	<figcaption>Visualização do exercício da página 27 com RV e RA.</figcaption>
