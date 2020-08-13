@@ -1175,8 +1175,14 @@
     <hr>
     <details class="sub"><summary>Verdadeira grandeza de um segmento, pág. 28</summary>
 		<img src="vr/050_vg.PNG">
-		<figcaption>Rebatimento usado para encontrar a verdadeira grandeza (vg) de um segmento AB. Neste caso, o segmento é rebatido usando a projeção <b>A'B'</b> como eixo para rebater o segmento em <b>&pi;'</b>.</figcaption>
+		<figcaption>Rebatimento usado para encontrar a verdadeira grandeza (vg) de um segmento AB. Neste caso, o segmento é rebatido usando a projeção <b>A'B'</b> como eixo para rebater o segmento em <b>&pi;'</b>. Neste caso, marcamos as cotas dos pontos a partir de suas projeções.</figcaption>
 		<a href="vr/vg_segmento.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+	</details>
+	<hr>
+	<details class="sub"><summary>Verdadeira grandeza de um segmento, pág. 30</summary>
+		<img src="vr/30_vg_horizontal.png">
+		<figcaption>Rebatimento usado para encontrar a verdadeira grandeza (vg) de um segmento AB. Neste caso, o segmento é rebatido usando o segmento <b>AC</b> como eixo para rebater o segmento em um plano horizontal<b>&beta;</b> que passa por <b>A</b>. Neste caso, marcamos a diferença de cotas entre os pontos <b>A</b> e <b>B</b> a partir da projeção <b>B'</b></figcaption>
+		<a href="vr/vg_segmento2.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
 	</details>
 	<hr>
 	<details class="sub"><summary>Condições de incidência, pág. 47 (5<sup>o</sup> caso)</summary>
