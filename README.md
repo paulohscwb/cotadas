@@ -1151,6 +1151,11 @@
 	<figcaption>Tente encontrar o centro da circunferência da base dos vertices <b>A'</b> e <b>B'</b>. Use as propriedades do hexágono regular.</figcaption>
   </details>
   <hr>
+  <details class="sub"><summary>Exercício 5 da pág. 25</summary>
+  <p> Você pode utilizar o compasso e os esquadros para resolver este exercício. Lembre-se de aplicar as propriedades de projeções cilíndricas e cilíndricas ortogonais.</p>
+	<img src="prop/25_01_00.png">
+	<figcaption>Usando as propriedades de projeções cilíndricas ortogonais, verifique quais dos segmentos são projetados em verdadeira grandeza (vg) em <b>&pi;'</b>: <b>AB</b>, <b>AE</b>, <b>HJ</b> e <b>JG</b>.</figcaption>
+  </details>
 <br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
