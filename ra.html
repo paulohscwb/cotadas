@@ -408,7 +408,7 @@
 	   <a-link mixin="lnk" href="vr/vg_segmento.html"></a-link>
 	   <a-entity position="-4 0.5 0" id="vg_segmento" scale="0.5 0.5 0.5">		
 		<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0p mtl2"></a-entity>
-		<a-text position="4.5 0.32 4.8" value="pi'" mixin="texto"></a-text>
+		<a-image src="vr/pi1.png" height="0.6" width="0.6" position="4.5 0.32 4.8" mixin="imagem"></a-image>
 
 		<a-entity position="0 0 -1">
 			<a-entity rotation="0 45 0">
@@ -421,8 +421,8 @@
 
 				<a-entity line="start: 0 5 0; end: -4 2 0; color: #6E6E6E" 
 				line__2="start: -4 2 0; end: 0 2 0; color: #6E6E6E"
-				line__5="start: 0 5 0; end: 0 0 0; color: #6E6E6E"
-				line__6="start: -4 2 0; end: -4 0 0; color: #6E6E6E"></a-entity>
+				line__5="start: 0 5 0; end: 0 0 0; color: green"
+				line__6="start: -4 2 0; end: -4 0 0; color: blue"></a-entity>
 			</a-entity>
 
 			<a-entity rotation="0 45 0">
@@ -435,8 +435,8 @@
 
 				<a-entity line="start: 0 5 0; end: -4 2 0; color: #6E6E6E" 
 				line__2="start: -4 2 0; end: 0 2 0; color: #6E6E6E"
-				line__5="start: 0 5 0; end: 0 0 0; color: #6E6E6E"
-				line__6="start: -4 2 0; end: -4 0 0; color: #6E6E6E"></a-entity>
+				line__5="start: 0 5 0; end: 0 0 0; color: green"
+				line__6="start: -4 2 0; end: -4 0 0; color: blue"></a-entity>
 				<a-animation attribute="rotation" dur="10000" delay="2000" to="90 45 0" repeat="indefinite"></a-animation>					
 			</a-entity>
 
@@ -445,7 +445,6 @@
 				<a-text position="0 0.31 0" value="B'=C'" mixin="texto"></a-text>
 				<a-sphere mixin="ponto" position="-4 0 0"></a-sphere>
 				<a-text position="-4.5 0.31 0 " value="A'" mixin="texto"></a-text>
-
 				<a-entity line__3="start: 0 0 0; end: -4 0 0; color: #6E6E6E"></a-entity>
 			</a-entity>
 		</a-entity>
