@@ -1,3 +1,14 @@
+.visu::before {
+    content: "";
+    display: block;
+    background: url("vr/3d.png") no-repeat;
+	  background-size:cover;
+    width: 25px;
+	  height: 22px;
+    float: left;
+    margin: 0 6px 0 0;
+}
+
 figcaption {
   top: 0px;
   background: rgba(21,153,87,0.12);
