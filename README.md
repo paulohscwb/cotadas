@@ -1395,6 +1395,12 @@
 		<a href="vr/vg_segmento2.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
 	</details>
 	<hr>
+	<details class="sub"><summary>Paralelismo entre retas quaisquer, pág. 44</summary>
+		<img src="vr/44_paralelismo_retas.png">
+		<figcaption>Duas retas quaisquer <b>r</b> e <b>s</b> são paralelas quando suas projeções <b>r'</b> e <b>s'</b> são paralelas, e as graduações destas retas crescem no mesmo sentido. Use o link abaixo para visualizar esta propriedade em 3D.</figcaption>
+		<a href="vr/44_paralelas.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+	</details>
+	<hr>
 	<details class="sub"><summary>Condições de incidência, pág. 47 (5<sup>o</sup> caso)</summary>
 	  <p> Vamos verificar se as retas são paralelas ou concorrentes, considerando a reta <b>s</b> qualquer e a reta <b>r</b> vertical. Como pertencem ao mesmo plano projetante, elas são necessariamente concorrentes, basta encontrar o ponto <b>P</b> de concorrência. Usando o método do rebatimento, siga os seguintes passos:</p>
 	  <ul class="slider">
