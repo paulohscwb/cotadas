@@ -496,6 +496,216 @@
     <img src="dg/03_02_14.png" class="fundo" />
 	</details>
   <hr>
+  <details class="sub"><summary>Exercício 6 da pág. 3: construção de ângulos com régua e esquadros</summary>
+  <p> Vamos utilizar a régua e os esquadros para resolver este exercício. Existem várias maneiras para construir ângulos usando os esquadros. Aqui veremos algumas. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
+  <h4>Ângulos de 60<sup>o</sup> e 30<sup>o</sup>:</h4>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="slide70" name="slide" checked>
+           <label for="slide70">passos: 1</label>
+           <img src="dg/03_02_01e.png" />
+           <figcaption>Para construir o ângulo de <b>60°</b> desenhe uma reta <b>r</b> e encaixe o cateto menor do esquadro de <b>30/60</b> sobre essa reta. O ângulo da esquerda do esquadro mede <b>60°</b> e o de cima mede <b>30°</b>. Já temos o ângulo de <b>60°</b> formado com a reta! Mas não podemos ainda traçar o outro lado do ângulo de <b>60°</b> pois o vértice não estará definido!</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide71" name="slide">
+           <label for="slide71">2</label>
+           <img src="dg/03_02_02e.png" />
+           <figcaption>Use a régua para apoiar o outro cateto desse esquadro (você pode usar também o outro esquadro ao invés da régua).</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide72" name="slide">
+           <label for="slide72">3</label>
+           <img src="dg/03_02_03e.png" />
+           <figcaption>Deslize o esquadro de <b>30/60</b> até que a hipotenusa corte a reta <b>r</b>. Mantenha fixa a régua.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide73" name="slide">
+           <label for="slide73">4</label>
+           <img src="dg/03_02_04e.png" />
+           <figcaption>Desenhe a reta s concorrente com a reta <b>r</b> dada. Pronto! Agora o vértice <b>O</b> do ângulo está definido!</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide74" name="slide">
+           <label for="slide74">5</label>
+           <img src="dg/03_02_05e.png" />
+           <figcaption>Essa construção fornece dois ângulos: o de <b>60°</b> e o seu suplemento de <b>120°</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide75" name="slide">
+           <label for="slide75">6</label>
+           <img src="dg/03_02_06e.png" />
+           <figcaption>Construir o ângulo de <b>30°</b> com os esquadros é muito parecido com o de <b>60°</b>. Desenhe uma reta <b>r</b> e agora encaixe o cateto maior do esquadro de <b>30/60</b> sobre a reta <b>r</b>. O ângulo da esquerda do esquadro mede <b>30°</b> e o de cima mede <b>60°</b>. Já temos o ângulo de <b>30°</b> formado, mas como na construção anterior, não podemos traçar o lado do ângulo ainda!</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide76" name="slide">
+           <label for="slide76">7</label>
+           <img src="dg/03_02_07e.png" />
+           <figcaption>Vamos usar o esquadro de <b>45</b> apoiado no outro cateto. Podemos usar a régua também.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide77" name="slide">
+           <label for="slide77">8</label>
+           <img src="dg/03_02_08e.png" />
+           <figcaption>Deslize o esquadro de <b>30/60</b> até que a hipotenusa corte a reta <b>r</b>. Mantenha fixo o esquadro de <b>45</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide78" name="slide">
+           <label for="slide78">9</label>
+           <img src="dg/03_02_09e.png" />
+           <figcaption>Desenhe a reta s concorrente com a reta <b>r</b> dada. Pronto! Agora o vértice <b>O</b> do ângulo está definido!</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide79" name="slide">
+           <label for="slide79">10</label>
+           <img src="dg/03_02_10e.png" />
+           <figcaption>Essa construção fornece dois ângulos: o de <b>30°</b> e o seu suplemento de <b>150°</b>.</figcaption>
+       </li>
+    </ul>
+    <img src="dg/03_02_00e.png" class="fundo" />
+	<hr>
+	<h4>Ângulos de 90<sup>o</sup> e 45<sup>o</sup>:</h4>
+    <ul class="slider">
+      <li>
+           <input type="radio" id="slide80" name="slide" checked>
+           <label for="slide80">passos: 1</label>
+           <img src="dg/03_02_11e.png" />
+           <figcaption>Lembra quando construímos uma reta perpendicular à outra reta? Então, o ângulo formado é reto, ou seja, de <b>90°</b>. Vamos repetir o processo agora. Desenhe uma reta <b>r</b> e encaixe um cateto do esquadro nessa reta (você pode usar qualquer esquadro agora).</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide81" name="slide">
+           <label for="slide81">2</label>
+           <img src="dg/03_02_12e.png" />
+           <figcaption>Use a régua para apoiar a hipotenusa desse esquadro (você pode usar também o outro esquadro ao invés da régua).</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide82" name="slide">
+           <label for="slide82">3</label>
+           <img src="dg/03_02_13e.png" />
+           <figcaption>Deslize o esquadro até que o outro cateto corte a reta <b>r</b>. Mantenha fixa a régua.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide83" name="slide">
+           <label for="slide83">4</label>
+           <img src="dg/03_02_14e.png" />
+           <figcaption>Desenhe a reta <b>s</b> concorrente com a reta <b>r</b> dada. Pronto! Agora o vértice <b>O</b> do ângulo está definido!</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide84" name="slide">
+           <label for="slide84">5</label>
+           <img src="dg/03_02_15e.png" />
+           <figcaption>Essa construção fornece dois ângulos retos.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide85" name="slide">
+           <label for="slide85">6</label>
+           <img src="dg/03_02_16e.png" />
+           <figcaption>Construir o ângulo de <b>45°</b> com os esquadros é muito parecido com o de <b>30°</b> e o de <b>60°</b>. Desenhe uma reta <b>r</b> e agora encaixe o cateto do esquadro de <b>45</b> sobre a reta <b>r</b>. Já temos o ângulo de <b>45°</b> formado, mas não podemos traçar o lado do ângulo ainda! Lembra o porquê?</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide86" name="slide">
+           <label for="slide86">7</label>
+           <img src="dg/03_02_17e.png" />
+           <figcaption>Use o outro esquadro ou a régua para apoiar o outro cateto.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide87" name="slide">
+           <label for="slide87">8</label>
+           <img src="dg/03_02_18e.png" />
+           <figcaption>Deslize o esquadro de <b>45</b> até que a hipotenusa corte a reta <b>r</b>. Mantenha fixo o esquadro de <b>30/60</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide88" name="slide">
+           <label for="slide88">9</label>
+           <img src="dg/03_02_19e.png" />
+           <figcaption>Desenhe a reta <b>s</b> concorrente com a reta <b>r</b> dada. Pronto! Agora o vértice O do ângulo está definido!</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide89" name="slide">
+           <label for="slide89">10</label>
+           <img src="dg/03_02_20e.png" />
+           <figcaption>Essa construção fornece dois ângulos: o de <b>45°</b> e o seu suplemento de <b>135°</b>.</figcaption>
+       </li>
+    </ul>
+    <img src="dg/03_02_10e.png" class="fundo" />
+  <hr>
+  <h4>Ângulos de 75<sup>o</sup> e 15<sup>o</sup>:</h4>
+    <ul class="slider">
+      <li>
+           <input type="radio" id="slide90" name="slide" checked>
+           <label for="slide90">passos: 1</label>
+           <img src="dg/03_02_21e.png" />
+           <figcaption>Para construir o ângulo de <b>75°</b> basta lembrar que ele é a soma de <b>30°</b> com <b>45°</b>. Desenhe uma reta <b>r</b> e agora encaixe o cateto maior do esquadro de <b>30/60</b> sobre a reta <b>r</b>, já temos um ângulo de <b>30°</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide91" name="slide">
+           <label for="slide91">2</label>
+           <img src="dg/03_02_22e.png" />
+           <figcaption>Agora encaixe a hipotenusa do esquadro de <b>45</b> na hipotenusa do esquadro de <b>30/60</b>. A soma dos dois ângulos da esquerda é <b>75°</b>, mas não podemos traçar o lado do ângulo ainda!</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide92" name="slide">
+           <label for="slide92">3</label>
+           <img src="dg/03_02_23e.png" />
+           <figcaption>Deslize o esquadro de <b>45</b> até que o cateto corte a reta <b>r</b>. Mantenha fixo o esquadro de <b>30/60</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide93" name="slide">
+           <label for="slide93">4</label>
+           <img src="dg/03_02_24e.png" />
+           <figcaption>Desenhe a reta <b>s</b> concorrente com a reta <b>r</b> dada utilizando o cateto do esquadro de <b>45</b>. Pronto! Agora o vértice <b>O</b> do ângulo está definido!</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide94" name="slide">
+           <label for="slide94">5</label>
+           <img src="dg/03_02_25e.png" />
+           <figcaption>Essa construção fornece dois ângulos: o de <b>75°</b> e o seu suplemento de <b>105°</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide95" name="slide">
+           <label for="slide95">6</label>
+           <img src="dg/03_02_26e.png" />
+           <figcaption>A construção do ângulo de <b>15°</b> é parecida com a de <b>75°</b>. Desenhe uma reta <b>r</b> e agora encaixe o cateto menor do esquadro de <b>30/60</b> sobre a reta <b>r</b>, já temos um ângulo de <b>60°</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide96" name="slide">
+           <label for="slide96">7</label>
+           <img src="dg/03_02_27e.png" />
+           <figcaption>Agora encaixe a hipotenusa do esquadro de <b>45</b> na hipotenusa do esquadro de <b>30/60</b>. A soma dos dois ângulos da esquerda é <b>105°</b>. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide97" name="slide">
+           <label for="slide97">8</label>
+           <img src="dg/03_02_28e.png" />
+           <figcaption>Deslize o esquadro de <b>45</b> até que o cateto corte a reta <b>r</b>. Mantenha fixo o esquadro de <b>30/60</b>. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide98" name="slide">
+           <label for="slide98">9</label>
+           <img src="dg/03_02_29e.png" />
+           <figcaption>Segure agora o esquadro de <b>45</b> e deslize o de <b>30/60</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide99" name="slide">
+           <label for="slide99">10</label>
+           <img src="dg/03_02_30e.png" />
+           <figcaption>Mantenha fixo agora o de <b>30/60</b> e deslize o de <b>45</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide001" name="slide">
+           <label for="slide001">11</label>
+           <img src="dg/03_02_31e.png" />
+           <figcaption>Pronto! Só traçar a reta <b>s</b> utilizando o cateto de cima do esquadro de <b>45</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide002" name="slide">
+           <label for="slide002">12</label>
+           <img src="dg/03_02_32e.png" />
+           <figcaption>Essa construção fornece dois ângulos: o de <b>15°</b> e o seu suplemento de <b>165°</b>.</figcaption>
+       </li>
+    </ul>
+    <img src="dg/03_02_20e.png" class="fundo" />
+	</details>
+  <hr>
   <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
