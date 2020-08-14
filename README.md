@@ -1398,7 +1398,9 @@
 	<details class="sub"><summary>Paralelismo entre retas quaisquer, pág. 44</summary>
 		<img src="vr/44_paralelismo_retas.png">
 		<figcaption>Duas retas quaisquer <b>r</b> e <b>s</b> são paralelas quando suas projeções <b>r'</b> e <b>s'</b> são paralelas, e as graduações destas retas crescem no mesmo sentido. Use o link abaixo para visualizar esta propriedade em 3D.</figcaption>
-		<a href="vr/44_paralelas.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+		<a href="vr/44_paralelas.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D do 1<sup>o</sup> exemplo</a>
+		<a href="vr/44_paralelas2.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D do 2<sup>o</sup> exemplo</a>
+		<a href="vr/44_paralelas3.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D do 3<sup>o</sup> exemplo</a>
 	</details>
 	<hr>
 	<details class="sub"><summary>Condições de incidência, pág. 47 (5<sup>o</sup> caso)</summary>
@@ -1544,34 +1546,121 @@
 
 <details>
   <summary id="solidos">Sólidos em Projeções Cotadas</summary>
-<h3>Pirâmide de base hexagonal, pág. 53</h3>
-  <img src="vr/075_piramide1.PNG">
-  <figcaption>Visualização em RA e RV do Exercício 2.</figcaption>
-  <a href="https://paulohscwb.github.io/cotadas/vr/piramide1.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Pirâmide de base quadrada, pág. 56</h3>
-  <img src="vr/078_piramide2.PNG">
-  <figcaption>Visualização em RA e RV do Exercício 1.</figcaption>
-  <a href="https://paulohscwb.github.io/cotadas/vr/piramide2.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Prisma de base hexagonal, pág. 56</h3>
-  <img src="vr/078_prisma1.PNG">
-  <figcaption>Visualização em RA e RV do Exercício 2.</figcaption>
-  <a href="https://paulohscwb.github.io/cotadas/vr/prisma1.html"><img src="vr/RVaframe.png" width="200px"></a>
-<br><a href="#solidos"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+	<details class="sub"><summary>Pirâmide de base hexagonal, pág. 53</summary>
+		<img src="vr/075_piramide1.PNG">
+		<figcaption>Visualização em 3D do Exercício 2.</figcaption>
+		<a href="vr/piramide1.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+	</details>
+	<hr>
+	<details class="sub"><summary>Pirâmide de base quadrada, pág. 56</summary>
+		<img src="vr/078_piramide2.PNG">
+		<figcaption>Visualização em 3D do Exercício 1.</figcaption>
+		<a href="vr/piramide2.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+	</details>
+	<hr>
+	<details class="sub"><summary>Prisma de base hexagonal, pág. 56</summary>
+		<img src="vr/078_prisma1.PNG">
+		<figcaption>Visualização em 3D do Exercício 2.</figcaption>
+		<a href="vr/prisma1.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+	</details>
+	<hr>
+	<br><a href="#solidos"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
 <details>
   <summary id="rebatimento">Reta de declive e Rebatimento de um plano qualquer</summary>
-<h3>Exemplo da pág. 63</h3>
-  <img src="vr/reta-declive-pag63.PNG">
-  <figcaption>Visualização em RA e RV da representação da reta de declive de um plano qualquer.</figcaption>
-  <a href="https://paulohscwb.github.io/cotadas/vr/reta_declive.html"><img src="vr/RVaframe.png" width="200px"></a>
-<h3>Exemplo da pág. 66</h3>
-<img src="vr/088_rebatimento.PNG">
-  <figcaption>Visualização em RA e RV do rebatimento de um plano qualquer no plano horizontal de projeções.</figcaption>
-  <a href="https://paulohscwb.github.io/cotadas/vr/rebatimento.html"><img src="vr/RVaframe.png" width="200px"></a>
-<br><a href="#rebatimento"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+	<details class="sub"><summary>Reta de declive, pág. 63</summary>
+		<img src="vr/reta-declive-pag63.PNG">
+		<figcaption>Visualização em 3D da reta de declive de um plano.</figcaption>
+		<a href="vr/reta_declive.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+	</details>
+	<hr>
+  	<details class="sub"><summary>Exercício 1, pág. 63</summary>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="slide400" name="slide" checked>
+			   <label for="slide400">passos: 1</label>
+			   <img src="cotadas/63_01_01.png" />
+			<figcaption>Representar uma reta do plano, por exemplo a reta <b>a(A,B)</b>. Obs: para garantir que o resultado esteja dentro da folha de trabalho recomenda-se escolher a reta definida pelos ponto de maior e menor cota.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide401" name="slide">
+			   <label for="slide401">2</label>
+			   <img src="cotadas/63_01_02.png" />
+			 <figcaption>Graduar a reta <b>a(A,B)</b> utilizando, por exemplo, o Teorema de Tales.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide402" name="slide">
+			   <label for="slide402">3</label>
+			   <img src="cotadas/63_01_03.png" />
+			 <figcaption>Definir o ponto de cota <b>4</b> da reta <b>a(A,B): D(4)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide403" name="slide">
+			   <label for="slide403">4</label>
+			   <img src="cotadas/63_01_04.png" />
+			 <figcaption>Encontrar a reta horizontal de cota <b>4</b> do plano <b>&alpha;</b> unindo os pontos <b>C</b> e <b>D</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide404" name="slide">
+			   <label for="slide404">5</label>
+			   <img src="cotadas/63_01_05.png" />
+			 <figcaption>Representar as horizontais de cota <b>3</b> e <b>5</b> do plano <b>&alpha;</b>. Obs: as horizontais de um plano são paralelas entre si.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide405" name="slide">
+			   <label for="slide405">6</label>
+			   <img src="cotadas/63_01_06.png" />
+			 <figcaption>Traçar uma reta perpendicular às horizontais do plano. Esta reta é a reta de maior declive. Obs. Não esqueça de marcar no mínimo 2 pontos desta reta para defini-la.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/63_01_00.png" class="fundo" />
+	</details>
+	<hr>
+	<details class="sub"><summary>Exercício 2, pág. 63</summary>
+		<p>Num plano existem infinitas retas, se o plano for qualquer estas retas podem ser horizontais ou quaisquer.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="slide406" name="slide" checked>
+			   <label for="slide406">passos: 1</label>
+			   <img src="cotadas/63_02_01.png" />
+			<figcaption>Sabemos que as retas horizontais de um plano são perpendiculares as suas retas de maior declive, portanto para encontrar a horizontal de cota 2(<b>h<sub>2</sub></b>) basta encontrar uma reta perpendicular à reta <b>d&alpha;</b> pelo ponto <b>A(2)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide407" name="slide">
+			   <label for="slide407">2</label>
+			   <img src="cotadas/63_02_02.png" />
+			 <figcaption>Se conduzirmos pelo ponto <b>B(4)</b> uma reta perpendicular à reta <b>d&alpha;</b> teremos a horizontal de cota 4(<b>h<sub>4</sub></b>) do plano <b>&alpha;</b>. figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide408" name="slide">
+			   <label for="slide408">3</label>
+			   <img src="cotadas/63_02_03.png" />
+			 <figcaption>Podemos definir um ponto <b>C(2)</b> do plano. Ele deve pertencer à reta <b>h<sub>2</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide409" name="slide">
+			   <label for="slide409">4</label>
+			   <img src="cotadas/63_02_04.png" />
+			 <figcaption>Podemos definir um ponto <b>D(4)</b> do plano. Ele deve pertencer à reta <b>h<sub>4</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide410" name="slide">
+			   <label for="slide410">5</label>
+			   <img src="cotadas/63_02_05.png" />
+			 <figcaption>Unindo os pontos <b>C(2)</b> e <b>D(4)</b> temos uma reta qualquer no plano, <b>r(C,D)</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/63_02_00.png" class="fundo" />
+	</details>
+	<hr>
+	<details class="sub"><summary>Rebatimento de um plano qualquer, pág. 66</summary>
+		<img src="vr/088_rebatimento.PNG">
+		<figcaption>Visualização em 3D do rebatimento de um plano qualquer <b>&alpha;</b> sobre <b>&pi;</b>.</figcaption>
+		<a href="vr/rebatimento.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+	</details>
+	<hr>
+	<br><a href="#rebatimento"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
 <details>
