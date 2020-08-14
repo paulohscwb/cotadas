@@ -3,10 +3,10 @@
     display: block;
     background: url("../vr/3d.png") no-repeat;
     background-size: contain;
-    width: 22px;
-    height: 25px;
+    width: 25px;
+    height: 22px;
     float: left;
-    margin: 0 6px 0 0;
+    margin: 0 8px 0 0;
 }
 
 figcaption {
