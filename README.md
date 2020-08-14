@@ -715,14 +715,14 @@
   <details class="sub"><summary>Projeção Cônica, pág. 14</summary>
     <img src="prop/14_proj_conica.PNG">
     <figcaption>Para projetar um ponto <b>A</b> qualquer do espaço usando a projeção cônica, basta definir a reta projetante <b>a</b>, que passa pelo centro de projeção <b>O</b> e pelo ponto <b>A</b>. A interseção desta reta com o plano <b>&pi;'</b> é a projeção <b>A'</b> do ponto <b>A</b>.</figcaption>
-    <a href="vr/proj_conica.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+    <a href="vr/proj_conica.html" target="_blank" class="visu"> Visualização em 3D</a>
   </details>
   <hr>
   <details class="sub"><summary>Projeção Cilíndrica, pág. 14</summary>
     <img src="prop/14_proj_cilindrica.PNG">
     <figcaption>Para projetar um ponto <b>A</b> qualquer do espaço usando a projeção cilíndrica, basta definir a reta projetante <b>a</b>, paralela à direção <b>d</b> e que passa pelo ponto <b>A</b>. A interseção desta reta com o plano <b>&pi;'</b> é a projeção <b>A'</b> do ponto <b>A</b>. Se a reta <b>d</b> formar ângulo <b>0 < &theta; < 90<sup>o</sup></b>, a projeção é chamada <b>oblíqua</b>. Quando <b>&theta; = 90<sup>o</sup></b>, temos a projeção <b>ortogonal</b>.</figcaption>
     <a href="vr/proj_cilindrica.html" target="_blank"><img src="vr/3d.png" width="25px"> Projeção cilíndrica <b>oblíqua</b> em 3D</a>
-    <br><a href="vr/proj_cilindrica_orto.html" target="_blank"><img src="vr/3d.png" width="25px"> Projeção cilíndrica <b>ortogonal</b> em 3D</a>
+    <br><a href="vr/proj_cilindrica_orto.html" target="_blank" class="visu"> Projeção cilíndrica <b>ortogonal</b> em 3D</a>
   </details>
   <hr>
   <details class="sub"><summary>Recursos de Realidade Aumentada e Realidade Virtual</summary>
