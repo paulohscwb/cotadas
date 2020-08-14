@@ -4,9 +4,9 @@
     background: url("../vr/3d.png") no-repeat;
     background-size:cover;
     width: 25px;
-    height: 22px;
+    height: 25px;
     float: left;
-    margin: 0 6px 0 0;
+    margin: 0 10px 0 0;
 }
 
 figcaption {
