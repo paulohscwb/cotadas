@@ -1630,7 +1630,7 @@
 			   <input type="radio" id="slide407" name="slide">
 			   <label for="slide407">2</label>
 			   <img src="cotadas/63_02_02.png" />
-			 <figcaption>Se conduzirmos pelo ponto <b>B(4)</b> uma reta perpendicular à reta <b>d&alpha;</b> teremos a horizontal de cota 4(<b>h<sub>4</sub></b>) do plano <b>&alpha;</b>. <figcaption>
+			 <figcaption>Se conduzirmos pelo ponto <b>B(4)</b> uma reta perpendicular à reta <b>d&alpha;</b> teremos a horizontal de cota 4(<b>h<sub>4</sub></b>) do plano <b>&alpha;</b>. </figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide408" name="slide">
