@@ -740,52 +740,52 @@
   <details class="sub"><summary>Propriedade 1, pág. 15</summary>
     <img src="vr/037_prop1a.PNG">
       <figcaption>Quando a reta <b>r</b> não é paralela à direção <b>d</b>, a sua projeção <b>r'</b> é uma reta.</figcaption>
-      <a href="vr/p1.html" target="_blank"><img src="vr/3d.png" width="25px"> Propriedade em 3D: projeção <b>oblíqua</b></a>
-	  <br><a href="vr/p1_orto.html" target="_blank"><img src="vr/3d.png" width="25px"> Propriedade em 3D: projeção <b>ortogonal</b></a>
+      <a href="vr/p1.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
+	  <br><a href="vr/p1_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
     <hr><img src="vr/037_prop1b.PNG">
       <figcaption>No caso em que as retas <b>r</b> e <b>d</b> são paralelas, a projeção <b>r'</b> é um ponto.</figcaption>
-      <a href="vr/p1a.html" target="_blank"><img src="vr/3d.png" width="25px"> Propriedade em 3D: projeção <b>oblíqua</b></a>
-	  <br><a href="vr/p1a_orto.html" target="_blank"><img src="vr/3d.png" width="25px"> Propriedade em 3D: projeção <b>ortogonal</b></a>
+      <a href="vr/p1a.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
+	  <br><a href="vr/p1a_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
   </details>
   <hr>
   <details class="sub"><summary>Propriedade 2, pág. 16</summary>
     <img src="vr/038_prop2a.PNG">
       <figcaption>Considerando <b>r</b> e <b>s</b> estão em planos projetantes distintos, as projeções <b>r'</b> e <b>s'</b> são paralelas.</figcaption>
-      <a href="vr/p2.html" target="_blank"><img src="vr/3d.png" width="25px"> Propriedade em 3D: projeção <b>oblíqua</b></a>
-	  <br><a href="vr/p2_orto.html" target="_blank"><img src="vr/3d.png" width="25px"> Propriedade em 3D: projeção <b>ortogonal</b></a>
+      <a href="vr/p2.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
+	  <br><a href="vr/p2_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
     <hr><img src="vr/038_prop2b.PNG">
       <figcaption>Se <b>r</b> e <b>s</b> estão em um mesmo plano projetante, as projeções <b>r'</b> e <b>s'</b> são coincidentes.</figcaption>
-      <a href="vr/p2a.html" target="_blank"><img src="vr/3d.png" width="25px"> Propriedade em 3D: projeção <b>oblíqua</b></a>
-	  <br><a href="vr/p2a_orto.html" target="_blank"><img src="vr/3d.png" width="25px"> Propriedade em 3D: projeção <b>ortogonal</b></a>
+      <a href="vr/p2a.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
+	  <br><a href="vr/p2a_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
     <hr><img src="prop/16_prop2c.PNG">
       <figcaption>Quando as retas <b>r</b> e <b>s</b> são paralelas à direção <b>d</b>, suas projeções <b>r'</b> e <b>s'</b> são pontos.</figcaption>
-      <a href="vr/p2c.html" target="_blank"><img src="vr/3d.png" width="25px"> Propriedade em 3D: projeção <b>oblíqua</b></a>
-	  <br><a href="vr/p2c_orto.html" target="_blank"><img src="vr/3d.png" width="25px"> Propriedade em 3D: projeção <b>ortogonal</b></a>
+      <a href="vr/p2c.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
+	  <br><a href="vr/p2c_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
   </details>
   <hr>
   <details class="sub"><summary>Propriedade 3, pág. 17</summary>
     <img src="prop/17_prop3a.PNG">
       <figcaption>A proporção entre as medidas dos segmentos paralelos <b>AB</b> e <b>CD</b> é a mesma de suas projeções, ou seja: <b>AB/CD = A'B'/C'D'</b>.</figcaption>
-      <a href="vr/p3a.html" target="_blank"><img src="vr/3d.png" width="25px"> Propriedade em 3D: projeção <b>oblíqua</b></a>
-	  <br><a href="vr/p3a_orto.html" target="_blank"><img src="vr/3d.png" width="25px"> Propriedade em 3D: projeção <b>ortogonal</b></a>
+      <a href="vr/p3a.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
+	  <br><a href="vr/p3a_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
     <hr><img src="prop/17_prop3b.PNG">
       <figcaption>Se os segmentos <b>AB</b> e <b>CD</b> são colineares, a mesma proporção entre as medidas é válida: <b>AB/CD = A'B'/C'D'</b>.</figcaption>
-      <a href="vr/p3b.html" target="_blank"><img src="vr/3d.png" width="25px"> Propriedade em 3D: projeção <b>oblíqua</b></a>
-	  <br><a href="vr/p3b_orto.html" target="_blank"><img src="vr/3d.png" width="25px"> Propriedade em 3D: projeção <b>ortogonal</b></a>
+      <a href="vr/p3b.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
+	  <br><a href="vr/p3b_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
   </details>
   <hr>
   <details class="sub"><summary>Propriedade 4, pág. 18</summary>
       <img src="prop/18_prop4.PNG">
       <figcaption>Uma figura pertencente a um plano paralelo ao plano de projeções <b>&pi;'</b> fica projetada com o mesmo tamanho, sem redução ou ampliação de tamanho.</figcaption>
-      <a href="vr/p4.html" target="_blank"><img src="vr/3d.png" width="25px"> Propriedade em 3D: projeção <b>oblíqua</b></a>
-	  <br><a href="vr/p4_orto.html" target="_blank"><img src="vr/3d.png" width="25px"> Propriedade em 3D: projeção <b>ortogonal</b></a>
+      <a href="vr/p4.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
+	  <br><a href="vr/p4_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
   </details>
   <hr>
   <details class="sub"><summary>Propriedade 5, pág. 18</summary>
       <img src="prop/18_prop5.PNG">
       <figcaption>Uma figura que pertence a um plano <b>&alpha;</b> paralelo à direção <b>d</b> de projeções tem projeção reduzida a um segmento.</figcaption>
-      <a href="vr/p5.html" target="_blank"><img src="vr/3d.png" width="25px"> Propriedade em 3D: projeção <b>oblíqua</b></a>
-	  <br><a href="vr/p5_orto.html" target="_blank"><img src="vr/3d.png" width="25px"> Propriedade em 3D: projeção <b>ortogonal</b></a>
+      <a href="vr/p5.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
+	  <br><a href="vr/p5_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
   </details>
   <hr>
   <details class="sub"><summary>Exercício 1 da pág. 19</summary>
@@ -973,7 +973,7 @@
        </li>
     </ul>
     <img src="prop/20_03_00b.png" class="fundo" />
-    <a href="vr/20_03b.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D para o item b</a>
+    <a href="vr/20_03b.html" target="_blank" class="visu">Visualização em 3D para o item b</a>
 	<hr>
 	<h4>Solução do item c</h4>
 	<img src="prop/20_03_00c.png">
@@ -1064,12 +1064,12 @@
        </li>
     </ul>
 	<img src="prop/20_04_00_b.png" class="fundo" />
-    <a href="vr/20_04b.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+    <a href="vr/20_04b.html" target="_blank" class="visu">Visualização em 3D</a>
     <hr>
 	<h4>Solução do item c.</h4>
   	<img src="prop/20_04_00c.png"/>
 	<figcaption>Utilizando as mesmas propriedades dos itens anteriores, você consegue construir este triângulo. Use o link abaixo para te ajudar na visualização em 3D.</figcaption>
-    <a href="vr/p_ex4c_triangulo.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D do item c</a>
+    <a href="vr/p_ex4c_triangulo.html" target="_blank" class="visu">Visualização em 3D do item c</a>
   </details>
   <hr>
   <details class="sub"><summary>Exercício 5 da pág. 21 (itens a e b)</summary>
@@ -1131,7 +1131,7 @@
        </li>
     </ul>
 	<img src="prop/21_05_00a.png" class="fundo" />
-    <a href="vr/p_ex5a_hexagono.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+    <a href="vr/p_ex5a_hexagono.html" target="_blank" class="visu">Visualização em 3D</a>
 	<hr>
 	<h4>Solução do item b</h4>
 	<img src="prop/21_05_00b.png">
@@ -1185,19 +1185,19 @@
        </li>
     </ul>
 	<img src="prop/21_05_00c.png" class="fundo" />
-    <a href="vr/p_ex5c_hexagono.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+    <a href="vr/p_ex5c_hexagono.html" target="_blank" class="visu">Visualização em 3D</a>
   </details>
   <hr>
   <details class="sub"><summary>Propriedade 6, pág. 22</summary>
       <img src="vr/p6.png">
       <figcaption>Os segmentos oblíquos ao plano de projeções <b>&pi;'</b> são projetados com tamanho reduzido, ou seja, <b>AB > A'B'</b></figcaption>
-      <a href="vr/p6.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização da propriedade em 3D</a>
+      <a href="vr/p6.html" target="_blank" class="visu">Visualização da propriedade em 3D</a>
   </details>
   <hr>
   <details class="sub"><summary>Propriedade 7, pág. 22</summary>
       <img src="vr/044_prop7.PNG">
       <figcaption>Quando a reta <b>r // &pi;'</b> e as retas <b>r</b> e <b>s</b> são perpendiculares ou ortogonais, as retas <b>r'</b> e <b>s'</b> são perpendiculares.</figcaption>
-      <a href="vr/p7.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização da propriedade em 3D</a>
+      <a href="vr/p7.html" target="_blank" class="visu">Visualização da propriedade em 3D</a>
   </details>
   <hr>
   <details class="sub"><summary>Exercício 1 da pág. 23</summary>
@@ -1235,7 +1235,7 @@
        </li>
     </ul>
 	<img src="prop/23_01_00.png" class="fundo" />
-    <a href="vr/p_ex1_losango.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+    <a href="vr/p_ex1_losango.html" target="_blank" class="visu">Visualização em 3D</a>
   </details>
   <hr>
   <details class="sub"><summary>Exercício 2 da pág. 23</summary>
@@ -1285,7 +1285,7 @@
        </li>
     </ul>
 	<img src="prop/23_02_00.png" class="fundo" />
-    <a href="vr/p_ex2_retangulo.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+    <a href="vr/p_ex2_retangulo.html" target="_blank" class="visu">Visualização em 3D</a>
   </details>
   <hr>
   <details class="sub"><summary>Exercício 3 da pág. 24</summary>
@@ -1374,33 +1374,33 @@
 	<details class="sub"><summary>Representação de pontos em épura, pág. 26</summary>
 		<img src="vr/26_ponto.png">
 		<figcaption>Para representar um ponto em épura, basta marcar as coordenadas x(abscissa), y(ordenada) e indicar o valor da cota <b>a</b> do ponto. Use o link abaixo para visualizar em 3D.</figcaption>
-		<a href="vr/rep_ponto.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+		<a href="vr/rep_ponto.html" target="_blank" class="visu">Visualização em 3D</a>
 	</details>
     <hr>
 	<details class="sub"><summary>Representação de pontos em épura, pág. 27</summary>
 		<img src="vr/049_epura.PNG">
 		<figcaption>Visualização em 3D do exercício da página 27.</figcaption>
-		<a href="vr/exerc_epura.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+		<a href="vr/exerc_epura.html" target="_blank" class="visu">Visualização em 3D</a>
 	</details>
     <hr>
     <details class="sub"><summary>Verdadeira grandeza de um segmento, pág. 28</summary>
 		<img src="vr/050_vg.PNG">
 		<figcaption>Rebatimento usado para encontrar a verdadeira grandeza (vg) de um segmento AB. Neste caso, o segmento é rebatido usando a projeção <b>A'B'</b> como eixo para rebater o segmento em <b>&pi;'</b>. Neste caso, marcamos as cotas dos pontos a partir de suas projeções.</figcaption>
-		<a href="vr/vg_segmento.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+		<a href="vr/vg_segmento.html" target="_blank" class="visu">Visualização em 3D</a>
 	</details>
 	<hr>
 	<details class="sub"><summary>Verdadeira grandeza de um segmento, pág. 30</summary>
 		<img src="vr/30_vg_horizontal.png">
 		<figcaption>Rebatimento usado para encontrar a verdadeira grandeza (vg) de um segmento AB. Neste caso, o segmento é rebatido usando o segmento <b>AC</b> como eixo para rebater o segmento em um plano horizontal<b>&beta;</b> que passa por <b>A</b>. Neste caso, marcamos a diferença de cotas entre os pontos <b>A</b> e <b>B</b> a partir da projeção <b>B'</b></figcaption>
-		<a href="vr/vg_segmento2.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+		<a href="vr/vg_segmento2.html" target="_blank" class="visu">Visualização em 3D</a>
 	</details>
 	<hr>
 	<details class="sub"><summary>Paralelismo entre retas quaisquer, pág. 44</summary>
 		<img src="vr/44_paralelismo_retas.png">
 		<figcaption>Duas retas quaisquer <b>r</b> e <b>s</b> são paralelas quando suas projeções <b>r'</b> e <b>s'</b> são paralelas, e as graduações destas retas crescem no mesmo sentido. Use o link abaixo para visualizar esta propriedade em 3D.</figcaption>
-		<a href="vr/44_paralelas.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D do 1<sup>o</sup> exemplo</a>
-		<br><a href="vr/44_paralelas2.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D do 2<sup>o</sup> exemplo</a>
-		<br><a href="vr/44_paralelas3.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D do 3<sup>o</sup> exemplo</a>
+		<a href="vr/44_paralelas.html" target="_blank" class="visu">Visualização em 3D do 1<sup>o</sup> exemplo</a>
+		<br><a href="vr/44_paralelas2.html" target="_blank" class="visu">Visualização em 3D do 2<sup>o</sup> exemplo</a>
+		<br><a href="vr/44_paralelas3.html" target="_blank" class="visu">Visualização em 3D do 3<sup>o</sup> exemplo</a>
 	</details>
 	<hr>
 	<details class="sub"><summary>Condições de incidência, pág. 47 (5<sup>o</sup> caso)</summary>
@@ -1549,19 +1549,19 @@
 	<details class="sub"><summary>Pirâmide de base hexagonal, pág. 53</summary>
 		<img src="vr/075_piramide1.PNG">
 		<figcaption>Visualização em 3D do Exercício 2.</figcaption>
-		<a href="vr/piramide1.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+		<a href="vr/piramide1.html" target="_blank" class="visu">Visualização em 3D</a>
 	</details>
 	<hr>
 	<details class="sub"><summary>Pirâmide de base quadrada, pág. 56</summary>
 		<img src="vr/078_piramide2.PNG">
 		<figcaption>Visualização em 3D do Exercício 1.</figcaption>
-		<a href="vr/piramide2.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+		<a href="vr/piramide2.html" target="_blank" class="visu">Visualização em 3D</a>
 	</details>
 	<hr>
 	<details class="sub"><summary>Prisma de base hexagonal, pág. 56</summary>
 		<img src="vr/078_prisma1.PNG">
 		<figcaption>Visualização em 3D do Exercício 2.</figcaption>
-		<a href="vr/prisma1.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+		<a href="vr/prisma1.html" target="_blank" class="visu">Visualização em 3D</a>
 	</details>
 	<hr>
 	<br><a href="#solidos"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
@@ -1572,7 +1572,7 @@
 	<details class="sub"><summary>Reta de declive, pág. 63</summary>
 		<img src="vr/reta-declive-pag63.PNG">
 		<figcaption>Visualização em 3D da reta de declive de um plano.</figcaption>
-		<a href="vr/reta_declive.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+		<a href="vr/reta_declive.html" target="_blank" class="visu">Visualização em 3D</a>
 	</details>
 	<hr>
   	<details class="sub"><summary>Exercício 1, pág. 63</summary>
@@ -1658,7 +1658,7 @@
 	<details class="sub"><summary>Rebatimento de um plano qualquer, pág. 66</summary>
 		<img src="vr/088_rebatimento.PNG">
 		<figcaption>Visualização em 3D do rebatimento de um plano qualquer <b>&alpha;</b> sobre <b>&pi;</b>.</figcaption>
-		<a href="vr/rebatimento.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D</a>
+		<a href="vr/rebatimento.html" target="_blank" class="visu">Visualização em 3D</a>
 	</details>
 	<hr>
 	<br><a href="#rebatimento"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
