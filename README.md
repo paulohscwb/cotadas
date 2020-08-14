@@ -1224,6 +1224,7 @@
 	<hr>
 	<details class="sub"><summary>Condições de incidência, pág. 47 (6<sup>o</sup> caso)</summary>
 	  <p> Vamos verificar se as retas são paralelas ou concorrentes considerando as retas <b>r</b> e <b>s</b> quaisquer. Devemos verificar o ponto de interseção tem a mesma cota nas duas retas, para isso utilizamos o método do rebatimento.</p>
+	  <h4>Planos projetantes distintos e não paralelos</h4>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="slide300" name="slide" checked>
@@ -1275,7 +1276,52 @@
 		   </li>
 		</ul>
 		<img src="cotadas/47_02_00.png" class="fundo" />
-	  </details>
+		<hr>
+		<h4>Segundo exemplo:</h4>
+		<img src="cotadas/47_03_01.png">
+		<figcaption>Neste caso as retas são reversas, pois o ponto <b>P</b> possui cotas diferentes nas retas <b>r</b> e <b>s</b>.</figcaption>
+		<h4>Mesmo plano projetante:</h4>
+		<ul class="slider">
+		  <li>
+			   <input type="radio" id="slide313" name="slide" checked>
+			   <label for="slide313">passos: 1</label>
+			   <img src="cotadas/47_04_01.png" />
+			<figcaption>?</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide314" name="slide">
+			   <label for="slide314">2</label>
+			   <img src="cotadas/47_04_02.png" />
+			 <figcaption>?</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide315" name="slide">
+			   <label for="slide315">3</label>
+			   <img src="cotadas/47_04_03.png" />
+			 <figcaption>?</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide316" name="slide">
+			   <label for="slide316">4</label>
+			   <img src="cotadas/47_04_04.png" />
+			 <figcaption>?</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide317" name="slide">
+			   <label for="slide317">5</label>
+			   <img src="cotadas/47_04_05.png" />
+			 <figcaption>?</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide318" name="slide">
+			   <label for="slide318">6</label>
+			   <img src="cotadas/47_04_06.png" />
+			 <figcaption>?</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/47_04_00.png" class="fundo" />
+	</details>
+
 	  <hr>
   <br><a href="#pontos"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
