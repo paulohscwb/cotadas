@@ -670,7 +670,7 @@
            <input type="radio" id="slide96" name="slide">
            <label for="slide96">7</label>
            <img src="dg/03_02_27e.png" />
-           <figcaption>Agora encaixe a hipotenusa do esquadro de <b>45</b> na hipotenusa do esquadro de <b>30/60</b>. A soma dos dois ângulos da esquerda é <b>105°</b>. </figcaption>
+           <figcaption>Agora encaixe a hipotenusa do esquadro de <b>45</b> na hipotenusa do esquadro de <b>30/60</b>. A soma dos dois ângulos de cima é <b>75°</b> e como o ângulo da direita é de <b>90°</b> então o ângulo que aparecerá no lado esquerdo, após deslizarmos o esquadro de <b>45</b>, será de <b>15°</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="slide97" name="slide">
