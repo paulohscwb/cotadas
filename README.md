@@ -1399,8 +1399,8 @@
 		<img src="vr/44_paralelismo_retas.png">
 		<figcaption>Duas retas quaisquer <b>r</b> e <b>s</b> são paralelas quando suas projeções <b>r'</b> e <b>s'</b> são paralelas, e as graduações destas retas crescem no mesmo sentido. Use o link abaixo para visualizar esta propriedade em 3D.</figcaption>
 		<a href="vr/44_paralelas.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D do 1<sup>o</sup> exemplo</a>
-		<a href="vr/44_paralelas2.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D do 2<sup>o</sup> exemplo</a>
-		<a href="vr/44_paralelas3.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D do 3<sup>o</sup> exemplo</a>
+		<br><a href="vr/44_paralelas2.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D do 2<sup>o</sup> exemplo</a>
+		<br><a href="vr/44_paralelas3.html" target="_blank"><img src="vr/3d.png" width="25px"> Visualização em 3D do 3<sup>o</sup> exemplo</a>
 	</details>
 	<hr>
 	<details class="sub"><summary>Condições de incidência, pág. 47 (5<sup>o</sup> caso)</summary>
@@ -1576,6 +1576,7 @@
 	</details>
 	<hr>
   	<details class="sub"><summary>Exercício 1, pág. 63</summary>
+	  <br>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="slide400" name="slide" checked>
@@ -1618,7 +1619,7 @@
 	</details>
 	<hr>
 	<details class="sub"><summary>Exercício 2, pág. 63</summary>
-		<p>Num plano existem infinitas retas, se o plano for qualquer estas retas podem ser horizontais ou quaisquer.</p>
+	  <p>Num plano existem infinitas retas, se o plano for qualquer estas retas podem ser horizontais ou quaisquer.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="slide406" name="slide" checked>
