@@ -9,28 +9,18 @@
 <body>
 	<a-scene>
 		<a-assets>
+			<a-mixin id="imagem" material="side: double; transparent: true; depthTest: false;" rotation="-25 0 0"></a-mixin>
 			<a-mixin id="mtl0" material="opacity: 0.3; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
-			<a-mixin id="mtl1" material="color: #4b97ee;"></a-mixin>
 			<a-mixin id="mtl2" material="color: #ee514b"></a-mixin>
 			<a-mixin id="mtl3" material="color: #1E9961;"></a-mixin>
-			<a-mixin id="mtl4" material="color: #B404AE;"></a-mixin>
-			<a-mixin id="mtl5" material="color: #82FA58;"></a-mixin>
-			<a-mixin id="mtl6" material="color: #58ACFA;"></a-mixin>
-			<a-mixin id="mtl7" material="color: orange;"></a-mixin>
-			<a-mixin id="mtl8" material="color: #d8ef09;"></a-mixin>
-			<a-mixin id="mtl9" material="color: #6E6E6E;"></a-mixin>
-			<a-mixin id="linhas" material="color: black; wireframe: true; wireframe-linewidth:1;"></a-mixin>
-			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3; side: double;"></a-mixin>
 			<a-mixin id="texto" text="width: 12; side:double; color: black">
-			<a-mixin id="reta" geometry="radius:0.04;" mixin="mtl1"></a-mixin>
-			<a-mixin id="ponto" geometry="radius:0.1;" mixin="mtl8"></a-mixin>
+			<a-mixin id="ponto" geometry="radius:0.1;" material="color: #d8ef09;"></a-mixin><!--#4b97ee; #ee514b; #1E9961; #B404AE; #82FA58; #58ACFA; orange; #d8ef09; #6E6E6E;-->
 		</a-assets>
 
 		<a-entity hand-controls controller-cursor raycaster="far: 2"></a-entity>
 		<a-entity gearvr-controls></a-entity>
 		
 		<a-entity scale="0.6 0.6 0.6" position="0 0 1">
-			<a-text position="4 0.1 4.7" value="pi'" rotation="-90 0 0" mixin="texto"></a-text>
 			<a-entity rotation="0 -30 0">
 			<a-entity animation="property: rotation; to: 0 0 -90; loop: false; dur: 10000; delay:3500;">
 				<a-entity line__2="start: 0 0 0; end: 0 0 -2; color: green"
@@ -65,11 +55,11 @@
 				<a-text position="0.1 4.2 0.1" value="P" mixin="texto"></a-text>
 				<a-sphere mixin="ponto" position="0 0 0"></a-sphere>
 				<a-text position="-0.8 0.31 0.1" value="O'P" mixin="texto"></a-text>
-				<a-text position="4 4.8 0.1" value="alfa" mixin="texto"></a-text>
+				<a-image src="alfa.png" height="0.6" width="0.6" position="4 4.8 0.1" mixin="imagem" rotation="0 0 0"></a-image>
 				
 				<a-entity animation="property: rotation; to: 120 0 0; loop: false; dur: 10000; delay:3500;">
 				<a-entity animation="property: position; from: 0 0 0; to: 0 0 -0.01; loop: false; dur: 10000; delay:3500;">
-					<a-text position="4 4.8 0.1" value="alfa" mixin="texto"></a-text>
+					<a-image src="alfa.png" height="0.6" width="0.6" position="4 4.8 0.1" mixin="imagem" rotation="0 0 0"></a-image>
 					<a-sphere mixin="ponto" position="0 4 0"></a-sphere>
 					<a-text position="0.1 4.2 0.1" value="P" mixin="texto"></a-text>
 					<a-entity line="start: 0 0 0; end: 0 4 0; color: blue"></a-entity>
@@ -80,6 +70,7 @@
 			</a-entity>
 			</a-entity>
 			<a-entity id="planoPI" faceset="vertices: -5 0 5  5 0 5  5 0 -5  -5 0 -5" mixin="mtl0 mtl2"></a-entity>
+			<a-image src="pi1.png" height="0.6" width="0.6" position="4.5 0.32 4.8" mixin="imagem"></a-image>
 		</a-entity>
 		
 		<a-entity camera="fov:1; near:5; zoom:0.9;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 100 250 500"></a-entity>

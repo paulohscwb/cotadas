@@ -9,21 +9,12 @@
 <body>
 	<a-scene>
 		<a-assets>
+			<a-mixin id="imagem" material="side: double; transparent: true; depthTest: false;" rotation="-25 0 0"></a-mixin>
 			<a-mixin id="mtl0" material="opacity: 0.5; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
-			<a-mixin id="mtl1" material="color: #4b97ee;"></a-mixin>
 			<a-mixin id="mtl2" material="color: #ee514b"></a-mixin>
-			<a-mixin id="mtl3" material="color: #1E9961;"></a-mixin>
-			<a-mixin id="mtl4" material="color: #B404AE;"></a-mixin>
 			<a-mixin id="mtl5" material="color: #82FA58;"></a-mixin>
-			<a-mixin id="mtl6" material="color: #58ACFA;"></a-mixin>
-			<a-mixin id="mtl7" material="color: orange;"></a-mixin>
-			<a-mixin id="mtl8" material="color: #d8ef09;"></a-mixin>
-			<a-mixin id="mtl9" material="color: #6E6E6E;"></a-mixin>
-			<a-mixin id="linhas" material="color: black; wireframe: true; wireframe-linewidth:1;"></a-mixin>
-			<a-mixin id="mtl0p" material="opacity: 0.2; roughness: 0.9; metalness: 0.3; side: double;"></a-mixin>
 			<a-mixin id="texto" text="width: 12; side:double; color: black" rotation="-25 0 0">
-			<a-mixin id="reta" geometry="radius:0.04;" mixin="mtl1"></a-mixin>
-			<a-mixin id="ponto" geometry="radius:0.1;" mixin="mtl8"></a-mixin>
+			<a-mixin id="ponto" geometry="radius:0.1;" material="color: #d8ef09;"></a-mixin><!--#4b97ee; #ee514b; #1E9961; #B404AE; #82FA58; #58ACFA; orange; #d8ef09; #6E6E6E;-->
 		</a-assets>
 
 		<a-entity hand-controls controller-cursor raycaster="far: 2"></a-entity>
@@ -42,9 +33,22 @@
 			<a-text position="12.7 8.18 -0.87" value="J" mixin="texto"></a-text>
 			<a-text position="8.2 9.68 -2.27" value="K" mixin="texto"></a-text>
 			<a-text position="5.03 6.84 -3.41" value="L" mixin="texto"></a-text>
+			
+			<a-text position="7.1 0.25 -6.9" value="A'" mixin="texto"></a-text>
+			<a-text position="11.6 0.25 -5.5" value="B'" mixin="texto"></a-text>
+			<a-text position="14.77 0.25 -4.36" value="C'" mixin="texto"></a-text>
+			<a-text position="14.05 0.25 -4.62" value="D'" mixin="texto"></a-text>
+			<a-text position="9.45 0.25 -6.02" value="E'" mixin="texto"></a-text>
+			<a-text position="6.47 0.25 -7.16" value="F'" mixin="texto"></a-text>
+			<a-text position="5.75 0.25 -3.15" value="G'" mixin="texto"></a-text>
+			<a-text position="10.25 0.25 -1.75" value="H'" mixin="texto"></a-text>
+			<a-text position="13.43 0.25 -0.61" value="I'" mixin="texto"></a-text>
+			<a-text position="12.7 0.25 -0.87" value="J'" mixin="texto"></a-text>
+			<a-text position="8.2 0.25 -2.27" value="K'" mixin="texto"></a-text>
+			<a-text position="5.03 0.25 -3.41" value="L'" mixin="texto"></a-text>
 			<a-entity position="9 0 -2">
 				<a-entity id="planoPI" faceset="vertices: -8 0 -9  10 0 -9  10 0 5  -8 0 5" mixin="mtl0 mtl2"></a-entity>
-				<a-text position="9 0.32 4.8" value="pi'" mixin="texto"></a-text>
+				<a-image src="pi1.png" height="0.7" width="0.7" position="9 0.32 4.8" mixin="imagem"></a-image>
 			</a-entity>
 			
 			<a-entity id="base2" faceset="vertices:6.25 2.5 -3.15  10.15 1 -1.75  13.33 3.84 -0.61
@@ -58,15 +62,15 @@
 			<a-entity id="EFLK" faceset="vertices:10.05 9.68 -6.02  6.87 6.84 -7.16  8.7 9.68 -2.27  5.53 6.84 -3.41" mixin="mtl0 mtl5"></a-entity>
 			<a-entity id="FALG" faceset="vertices:7.6 2.5 -6.9  6.87 6.84 -7.16  5.53 6.84 -3.41  6.25 2.5 -3.15" mixin="mtl0 mtl5"></a-entity>
 			
-			<a-entity line="start: 7.6 2.5 -6.9; end: 11.5 1 -5.5; color: #6E6E6E"
-				line__2="start: 11.5 1 -5.5; end: 14.67 3.84 -4.36; color: #6E6E6E"
-				line__3="start: 14.67 3.84 -4.36; end: 13.95 8.18 -4.62; color: #6E6E6E"
-				line__5="start: 13.95 8.18 -4.62; end: 10.05 9.68 -6.02; color: #6E6E6E"
-				line__4="start: 10.05 9.68 -6.02; end: 6.87 6.84 -7.16; color: #6E6E6E"
-				line__1="start: 6.87 6.84 -7.16; end: 7.6 2.5 -6.9; color: #6E6E6E"
+			<a-entity line="start: 7.6 2.5 -6.9; end: 11.5 1 -5.5; color: #6E6E6E"  line__20="start: 6.87 0 -7.16; end: 14.67 0 -4.36; color: #6E6E6E"
+				line__2="start: 11.5 1 -5.5; end: 14.67 3.84 -4.36; color: #6E6E6E"  line__21="start: 5.53 0 -3.41; end: 13.33 0 -0.61; color: #6E6E6E"
+				line__3="start: 14.67 3.84 -4.36; end: 13.95 8.18 -4.62; color: #6E6E6E"  line__22="start: 6.87 0 -7.16; end: 5.53 0 -3.41; color: #6E6E6E"
+				line__5="start: 13.95 8.18 -4.62; end: 10.05 9.68 -6.02; color: #6E6E6E"  line__23="start: 7.6 0 -6.9; end: 6.25 0 -3.15; color: #6E6E6E"
+				line__4="start: 10.05 9.68 -6.02; end: 6.87 6.84 -7.16; color: #6E6E6E"  line__24="start: 10.05 0 -6.02; end: 8.7 0 -2.27; color: #6E6E6E"
+				line__1="start: 6.87 6.84 -7.16; end: 7.6 2.5 -6.9; color: #6E6E6E"  line__25="start: 11.5 0 -5.5; end: 10.15 0 -1.75; color: #6E6E6E"
 
-				line__6="start: 6.25 2.5 -3.15; end: 10.15 1 -1.75; color: #6E6E6E"
-				line__7="start: 10.15 1 -1.75; end: 13.33 3.84 -0.61; color: #6E6E6E"
+				line__6="start: 6.25 2.5 -3.15; end: 10.15 1 -1.75; color: #6E6E6E"  line__27="start: 13.95 0 -4.62; end: 12.6 0 -0.87; color: #6E6E6E"
+				line__7="start: 10.15 1 -1.75; end: 13.33 3.84 -0.61; color: #6E6E6E"  line__26="start: 13.33 0 -0.61; end: 14.67 0 -4.36; color: #6E6E6E"
 				line__8="start: 13.33 3.84 -0.61; end: 12.6 8.18 -0.87; color: #6E6E6E"
 				line__9="start: 12.6 8.18 -0.87; end: 8.7 9.68 -2.27; color: #6E6E6E"
 				line__10="start: 8.7 9.68 -2.27; end: 5.53 6.84 -3.41; color: #6E6E6E"
@@ -80,7 +84,7 @@
 				line__17="start: 5.53 6.84 -3.41; end: 6.87 6.84 -7.16; color: #6E6E6E"></a-entity>
 		</a-entity>
 		
-		<a-entity camera="fov:1; near:0.5; zoom:0.4;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 120 140 300"></a-entity>
+		<a-entity camera="fov:1; near:0.5; zoom:0.9;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 200 500 800"></a-entity>
 		<a-sky color="rgba(150,200,255)"></a-sky>
 
 	</a-scene>
