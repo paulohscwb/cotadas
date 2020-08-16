@@ -9,10 +9,8 @@
 <body>
 	<a-scene>
 		<a-assets>
-			<a-mixin id="imagem" material="side: double; transparent: true; depthTest: false;" rotation="-25 0 0"></a-mixin>
 			<a-asset-item id="modeloa" src="reta_declive.dae"></a-asset-item>
 			<a-asset-item id="modelo" src="reta_declive.glb"></a-asset-item>
-			<a-mixin id="texto" text="width: 3; side:double; color: black" rotation="-25 0 0">
 		</a-assets>
 
 		<a-entity hand-controls controller-cursor raycaster="far: 2"></a-entity>
@@ -21,8 +19,6 @@
 		<a-entity position="0 0 0" scale="3 3 3">
 			<a-entity gltf-model="#modelo"></a-entity>
 			<a-entity collada-model="#modeloa"></a-entity>
-			<a-image src="pi1.png" height="0.2" width="0.2" position="-3.23 -1.15 3.48" mixin="imagem"></a-image>
-			<a-text position="3.37 -1.15 3.48" value="'" mixin="texto"></a-text>
 	    </a-entity>
 		
 		<a-entity camera="fov:1; near:5; zoom:0.9;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 100 250 500"></a-entity>
