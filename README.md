@@ -828,6 +828,73 @@
     <img src="dg/04_02_00.png" class="fundo" />
   </details>
   <hr>
+  <details class="sub"><summary>Exercício 9 da pág. 4: cirunferência que passa por 3 pontos</summary>
+  <p>Para construir a circunferência pertencente aos pontos dados <b>A</b>, <b>B</b> e <b>C</b>, devemos encontrar o centro <b>O</b> da mesma para depois desenhá-la com o compasso. Antes de iniciarmos a construção devemos pensar na estratégia de solução! Acompanhe o desenvolvimento do raciocínio e depois a resolução gráfica!</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="slide021" name="slide" checked>
+           <label for="slide021">passos: 1</label>
+           <img src="dg/04_03_01.png" />
+           <figcaption>Vamos iniciar pensando no exercício resolvido, ou seja, na figura auxiliar da direita temos uma circunferência de centro O que passa pelos pontos <b>A</b>, <b>B</b> e <b>C</b>. Vamos procurar uma relação do centro <b>O</b> com os dados do exercício.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide022" name="slide">
+           <label for="slide022">2</label>
+           <img src="dg/04_03_02.png" />
+           <figcaption>Note que a distância do centro <b>O</b> ao ponto <b>A</b> é <b>r</b>, o mesmo acontece com o ponto <b>C</b>, ou seja, a distância do centro <b>O</b> ao ponto <b>C</b> também é <b>r</b>. Não sabemos quanto mede <b>r</b>, mas conhecemos que <b>O</b> é equidistante de <b>A</b> e <b>C</b>!</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide023" name="slide">
+           <label for="slide023">3</label>
+           <img src="dg/04_03_03.png" />
+           <figcaption>Assim, o ponto <b>O</b> pertence à mediatriz do segmento <b>AC</b>! Lembra que vimos essa propriedade da mediatriz?</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide024" name="slide">
+           <label for="slide024">4</label>
+           <img src="dg/04_03_04.png" />
+           <figcaption>Agora vamos observar que a distância do centro <b>O</b> ao ponto <b>C</b> é <b>r</b>, e que a distância do centro <b>O</b> ao ponto <b>B</b> também é <b>r</b>. Assim, o ponto <b>O</b> é equidistante de <b>B</b> e <b>C</b>! </figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide025" name="slide">
+           <label for="slide025">5</label>
+           <img src="dg/04_03_05.png" />
+           <figcaption>Logo, o ponto O pertence à mediatriz do segmento <b>BC</b>! </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide026" name="slide">
+           <label for="slide026">6</label>
+           <img src="dg/04_03_06.png" />
+           <figcaption>Portanto, já temos a estratégia de solução: para obtermos o centro <b>O</b> basta construir as mediatrizes dos segmentos <b>AC</b> e <b>BC</b>! Agora vamos à construção gráfica!</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide027" name="slide">
+           <label for="slide027">7</label>
+           <img src="dg/04_03_07.png" />
+           <figcaption>Construa a mediatriz do segmento <b>AC</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide028" name="slide">
+           <label for="slide028">8</label>
+           <img src="dg/04_03_08.png" />
+           <figcaption>Construa a mediatriz do segmento <b>BC</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide029" name="slide">
+           <label for="slide029">9</label>
+           <img src="dg/04_03_09.png" />
+           <figcaption>Obtenha o ponto <b>O</b> na interseção da <b>med(AC)</b> com a <b>med(BC)</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide030" name="slide">
+           <label for="slide030">10</label>
+           <img src="dg/04_03_10.png" />
+           <figcaption>Pronto! Agora é só construir a circunferência de centro <b>O</b> que ela passará pelos pontos dados <b>A</b>, <b>B</b> e <b>C</b>. Note que poderíamos ter utilizado também a mediatriz do segmento <b>AB</b> ao invés de alguma outra. Não construímos as três mediatrizes, bastam duas apenas!</figcaption>
+       </li>
+    </ul>
+    <img src="dg/04_03_00.png" class="fundo" />
+  </details>
+  <hr>
   <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
@@ -1560,7 +1627,7 @@
 		   </li>
 		</ul>
 		<img src="cotadas/47_01_00.png" class="fundo" />
-		<br><a href="vr/47_incidencia5.html" target="_blank" class="visu">Visualização em 3D do 5<sup>o</sup> caso de indicência</a>
+		<a href="vr/47_incidencia5.html" target="_blank" class="visu">Visualização em 3D do 5<sup>o</sup> caso de incidência</a>
 	</details>
 	<hr>
 	<details class="sub"><summary>Condições de incidência, pág. 47 (6<sup>o</sup> caso)</summary>
@@ -1635,37 +1702,37 @@
 			   <input type="radio" id="slide313" name="slide" checked>
 			   <label for="slide313">passos: 1</label>
 			   <img src="cotadas/47_04_01.png" />
-			<figcaption>Rebater os pontos <b>A</b>, <b>B</b>, <b>C</b> e <b>D</b>.</figcaption>
+			<figcaption>Rebater os pontos <b>A</b> e <b>B</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide314" name="slide">
 			   <label for="slide314">2</label>
 			   <img src="cotadas/47_04_02.png" />
-			 <figcaption>O ponto de intersecção tem cota 1,7</figcaption>
+			 <figcaption>Representar a reta rebatida <b>r'<sub>1</sub></b> que passa pelos pontos <b>A'<sub>1</sub></b> e <b>B'<sub>1</sub></b></figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide315" name="slide">
 			   <label for="slide315">3</label>
 			   <img src="cotadas/47_04_03.png" />
-			 <figcaption>Como as retas pertencem ao mesmo plano projetante, são concorrentes no Ponto <b>P</b> de cota 1,7.</figcaption>
+			 <figcaption>Rebater os pontos <b>C</b> e <b>D</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide316" name="slide">
 			   <label for="slide316">4</label>
 			   <img src="cotadas/47_04_04.png" />
-			 <figcaption>?</figcaption>
+			 <figcaption> Representar a reta <b>s'<sub>1</sub></b> que passa pelos pontos <b>C'<sub>1</sub></b> e <b>D'<sub>1</sub></b></figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide317" name="slide">
 			   <label for="slide317">5</label>
 			   <img src="cotadas/47_04_05.png" />
-			 <figcaption>?</figcaption>
+			 <figcaption>Representar o ponto de concorrência das retas, <b>P</b></figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide318" name="slide">
 			   <label for="slide318">6</label>
 			   <img src="cotadas/47_04_06.png" />
-			 <figcaption>?</figcaption>
+			 <figcaption>Verificar a cota do ponto <b>P(1,7)</b>. Como as retas pertencem ao mesmo plano projetante, são concorrentes no Ponto <b>P</b> de cota 1,7.</figcaption>
 		   </li>
 		</ul>
 		<img src="cotadas/47_04_00.png" class="fundo" />
@@ -1694,7 +1761,25 @@
 		   </li>
 		</ul>
 		<img src="cotadas/49_01_00.png" class="fundo" />
-		<br><a href="vr/44_paralelas3.html" target="_blank" class="visu">Visualização em 3D do 5<sup>o</sup> caso de indicência</a>
+	</details>
+	<hr>
+	<details class="sub"><summary>Retas perpendiculares ou ortogonais, pág. 49 (retas quaisquer)</summary>
+	  <p>Como as retas são concorrentes, basta verificar se o ângulo entre elas é <b>90<sup>o</sup></b>, se for, elas são perpendiculares. Faremos isso através do método do rebatimento.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="slide322" name="slide" checked>
+			   <label for="slide322">passos: 1</label>
+			   <img src="cotadas/49_02_01.png" />
+			<figcaption>Rebater os pontos: <b>A</b>, <b>B</b>, <b>C</b> e <b>D</b> e representar as retas <b>r</b> e <b>s</b>, rebatidas</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide323" name="slide">
+			   <label for="slide323">2</label>
+			   <img src="cotadas/49_02_02.png" />
+			 <figcaption>Verificar o ângulo entre as retas rebatidas: <b>111<sup>o</sup></b></figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/49_02_00.png" class="fundo" />
 	</details>
 	<hr>
   <br><a href="#pontos"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
