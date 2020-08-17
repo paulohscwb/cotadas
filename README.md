@@ -773,6 +773,61 @@
     <img src="dg/04_01_00.png" class="fundo" />
   </details>
   <hr>
+  <details class="sub"><summary>Exercício 8 da pág. 4: divisão de segmentos</summary>
+  <p>Para dividirmos o segmento <b>AB</b> graficamente em partes proporcionais a números dados vamos aplicar o Teorema de Tales. Temos que construir um feixe de retas concorrentes cortadas por um feixe de paralelas, lembra?</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="slide013" name="slide" checked>
+           <label for="slide013">passos: 1</label>
+           <img src="dg/04_02_01.png" />
+           <figcaption>Comece traçando uma reta auxiliar passando por uma das extremidades do segmento <b>AB</b>, neste caso, foi por <b>A</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide014" name="slide">
+           <label for="slide014">2</label>
+           <img src="dg/04_02_02.png" />
+           <figcaption>Como queremos dividir o segmento dado <b>AB</b> em partes proporcionais aos números dados <b>m</b>, <b>n</b> e <b>p</b>, vamos associá-los a segmentos de comprimentos <b>2cm</b>, <b>4,2cm</b> e <b>5,3cm</b>, respectivamente. Marque sobre a reta auxiliar, a partir do ponto <b>A</b>, um segmento m de medida <b>2cm</b>, obtendo o ponto <b>1</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide015" name="slide">
+           <label for="slide015">3</label>
+           <img src="dg/04_02_03.png" />
+           <figcaption>A partir do ponto <b>1</b>, marque o segmento <b>n</b> de medida <b>4,2cm</b>, obtendo o ponto <b>2</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide016" name="slide">
+           <label for="slide016">4</label>
+           <img src="dg/04_02_04.png" />
+           <figcaption>Marque o segmento <b>p</b> de comprimento <b>5,3cm</b>, a partir do ponto <b>2</b>, obtendo o ponto <b>3</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide017" name="slide">
+           <label for="slide017">5</label>
+           <img src="dg/04_02_05.png" />
+           <figcaption>Desenhe a reta <b>r</b> ligando os pontos <b>3</b> e <b>B</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide018" name="slide">
+           <label for="slide018">6</label>
+           <img src="dg/04_02_06.png" />
+           <figcaption>Trace com os esquadros uma reta <b>s</b> paralela à reta <b>r</b> que passe pelo ponto <b>2</b>, obtendo o ponto <b>D</b> sobre a reta <b>AB</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide019" name="slide">
+           <label for="slide019">7</label>
+           <img src="dg/04_02_07.png" />
+           <figcaption>Trace com os esquadros uma reta <b>t</b> paralela à reta <b>r</b> (ou <b>s</b>) que passe pelo ponto <b>1</b>, obtendo o ponto <b>C</b> sobre a reta <b>AB</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide020" name="slide">
+           <label for="slide020">8</label>
+           <img src="dg/04_02_08.png" />
+           <figcaption>Pelo Teorema de Tales temos que os segmentos <b>AC</b>, <b>CD</b> e <b>DB</b> são proporcionais a <b>A1</b>, <b>12</b> e <b>23</b>, respectivamente. Ou seja, <b>a</b>, <b>b</b> e <b>c</b> são proporcionais a <b>m</b>, <b>n</b> e <b>p</b> nesta ordem. Assim, o segmento <b>AB</b> foi dividido em partes proporcionais pelos pontos <b>C</b> e <b>D</b> como pedido.</figcaption>
+       </li>
+    </ul>
+    <img src="dg/04_02_00.png" class="fundo" />
+  </details>
+  <hr>
   <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
@@ -1477,7 +1532,7 @@
 			   <input type="radio" id="slide308" name="slide" checked>
 			   <label for="slide308">passos: 1</label>
 			   <img src="cotadas/47_01_01.png" />
-			<figcaption>: Marcar a cota do ponto <b>A</b></figcaption>
+			<figcaption>Marcar a cota do ponto <b>A</b></figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide309" name="slide">
@@ -1501,10 +1556,11 @@
 			   <input type="radio" id="slide312" name="slide">
 			   <label for="slide312">5</label>
 			   <img src="cotadas/47_01_05.png" />
-			 <figcaption>Verificar que a cota do ponto <b>P</b>, de intersecção entre as retas tem cota <b>5</b></figcaption>
+			 <figcaption>Verificar que a cota do ponto <b>P</b>, de intersecção entre as retas tem cota <b>5</b>. Use o link abaixo para visualizar este exemplo em 3D.</figcaption>
 		   </li>
 		</ul>
 		<img src="cotadas/47_01_00.png" class="fundo" />
+		<br><a href="vr/44_paralelas3.html" target="_blank" class="visu">Visualização em 3D do 5<sup>o</sup> caso de indicência</a>
 	</details>
 	<hr>
 	<details class="sub"><summary>Condições de incidência, pág. 47 (6<sup>o</sup> caso)</summary>
@@ -1554,36 +1610,44 @@
 			 <figcaption>Representar a reta <b>s</b> rebatida</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="slide307" name="slide">
-			   <label for="slide307">8</label>
+			   <input type="radio" id="slide3071" name="slide">
+			   <label for="slide3071">8</label>
 			   <img src="cotadas/47_02_08.png" />
 			 <figcaption>Verificar que a cota do ponto <b>P</b> na reta <b>s</b> também é <b>4</b>. Portanto as retas <b>r</b> e <b>s</b> são concorrentes no ponto <b>P</b> de cota <b>4</b></figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide307" name="slide">
+			   <label for="slide307">9</label>
+			   <img src="cotadas/47_02_09.png" />
+			 <figcaption>Verificar que a cota do ponto <b>P</b> na reta <b>s</b> também é <b>4</b>. Portanto as retas <b>r</b> e <b>s</b> são concorrentes.</figcaption>
 		   </li>
 		</ul>
 		<img src="cotadas/47_02_00.png" class="fundo" />
 		<hr>
 		<h4>Segundo exemplo:</h4>
+		<p>Agora você pode praticar, resolva o exercício, seguindo o mesmo modelo do exercício anterior. Verificar se as retas são paralelas ou concorrentes.</p> 
 		<img src="cotadas/47_03_01.png">
 		<figcaption>Neste caso as retas são reversas, pois o ponto <b>P</b> possui cotas diferentes nas retas <b>r</b> e <b>s</b>.</figcaption>
 		<h4>Mesmo plano projetante:</h4>
+		<p>Como as retas são concorrentes, basta verificar se o ângulo entre elas é 90<sup>o</sup>. Se for, elas são perpendiculares. Faremos isso através do método do rebatimento.</p>
 		<ul class="slider">
 		  <li>
 			   <input type="radio" id="slide313" name="slide" checked>
 			   <label for="slide313">passos: 1</label>
 			   <img src="cotadas/47_04_01.png" />
-			<figcaption>?</figcaption>
+			<figcaption>Rebater os pontos <b>A</b>, <b>B</b>, <b>C</b> e <b>D</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide314" name="slide">
 			   <label for="slide314">2</label>
 			   <img src="cotadas/47_04_02.png" />
-			 <figcaption>?</figcaption>
+			 <figcaption>O ponto de intersecção tem cota 1,7</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide315" name="slide">
 			   <label for="slide315">3</label>
 			   <img src="cotadas/47_04_03.png" />
-			 <figcaption>?</figcaption>
+			 <figcaption>Como as retas pertencem ao mesmo plano projetante, são concorrentes no Ponto <b>P</b> de cota 1,7.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide316" name="slide">
@@ -1606,8 +1670,32 @@
 		</ul>
 		<img src="cotadas/47_04_00.png" class="fundo" />
 	</details>
-
-	  <hr>
+	<details class="sub"><summary>Retas perpendiculares ou ortogonais, pág. 49 (reta horizontal e reta qualquer)</summary>
+	  <p>Devemos verificar se as retas são concorrentes ou ortogonais, para isso basta verificar se o ponto se o ponto onde as retas se cruzam na projeção, possui cota <b>2</b> na reta <b>s</b>.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="slide319" name="slide" checked>
+			   <label for="slide319">passos: 1</label>
+			   <img src="cotadas/49_01_01.png" />
+			<figcaption>Rebater o ponto <b>A</b></figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide320" name="slide">
+			   <label for="slide320">2</label>
+			   <img src="cotadas/49_01_02.png" />
+			 <figcaption>Rebater o ponto <b>B</b></figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide321" name="slide">
+			   <label for="slide321">3</label>
+			   <img src="cotadas/49_01_03.png" />
+			 <figcaption>Verificar a cota do ponto de intersecção das projeções, medindo o segmento. Verificamos que a cota do ponto <b>P</b> é <b>2,4</b>, portanto as retas são ortogonais.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/49_01_00.png" class="fundo" />
+		<br><a href="vr/44_paralelas3.html" target="_blank" class="visu">Visualização em 3D do 5<sup>o</sup> caso de indicência</a>
+	</details>
+	<hr>
   <br><a href="#pontos"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
