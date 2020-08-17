@@ -101,7 +101,7 @@ h3::after {
      display: block;
      height: 25px;
      position: absolute;
-     width: 20px;
+     width: 25px;
      z-index: 10;
      border-radius: 5px;
      text-align:center;
@@ -111,51 +111,50 @@ h3::after {
 
  .slider li:nth-child(1) label {
      left: 0px;
-     width: 66px;
  }
 
  .slider li:nth-child(2) label {
-     left: 71px;
+     left: 30px;
  }
 
  .slider li:nth-child(3) label {
-     left: 96px;
+     left: 60px;
  }
  
  .slider li:nth-child(4) label {
-     left: 121px;
+     left: 90px;
  }
  
 .slider li:nth-child(5) label {
-     left: 146px;
+     left: 120px;
  }
 
 .slider li:nth-child(6) label {
-     left: 171px;
+     left: 150px;
  }
 
 .slider li:nth-child(7) label {
-     left: 196px;
+     left: 180px;
  }
 
 .slider li:nth-child(8) label {
-     left: 221px;
+     left: 210px;
  }
 
 .slider li:nth-child(9) label {
-     left: 246px;
+     left: 240px;
  }
 
 .slider li:nth-child(10) label {
-     left: 271px;
+     left: 270px;
  }
 
 .slider li:nth-child(11) label {
-     left: 296px;
+     left: 300px;
  }
 
 .slider li:nth-child(12) label {
-     left: 321px;
+     left: 330px;
  }
 
  .slider img {

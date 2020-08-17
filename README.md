@@ -13,7 +13,7 @@
   <ul class="slider">
       <li>
            <input type="radio" id="slide1" name="slide" checked>
-           <label for="slide1">passos: 1</label>
+           <label for="slide1">1</label>
            <img src="dg/01_01_01.png" />
            <figcaption>Com a ponta seca em <b>A</b>, desenhe um arco com raio maior do que a metade de <b>AB</b>.</figcaption>
        </li>
@@ -48,7 +48,7 @@
   <ul class="slider">
        <li>
            <input type="radio" id="slide6" name="slide" checked>
-           <label for="slide6">passos: 1</label>
+           <label for="slide6">1</label>
            <img src="dg/01_01_06.png" />
            <figcaption>Podemos começar desenhando um arco com a ponta seca em <b>A</b> e um raio maior do que a metade de <b>AB</b>.</figcaption>
        </li>
@@ -91,7 +91,7 @@
   <ul class="slider">
       <li>
            <input type="radio" id="slide12" name="slide" checked>
-           <label for="slide12">passos: 1</label>
+           <label for="slide12">1</label>
            <img src="dg/02_01_01.png" />
            <figcaption>Alinhe um dos catetos do esquadro com a reta <b>r</b>.</figcaption>
        </li>
@@ -126,7 +126,7 @@
   <ul class="slider">
       <li>
            <input type="radio" id="slide17" name="slide" checked>
-           <label for="slide17">passos: 1</label>
+           <label for="slide17">1</label>
            <img src="dg/02_01_01c.png" />
            <figcaption>Desenhe um arco com a ponta seca em <b>P</b>, que intercepte a reta <b>r</b> no ponto <b>Q</b>.</figcaption>
        </li>
@@ -163,7 +163,7 @@
   <ul class="slider">
       <li>
            <input type="radio" id="slide22" name="slide" checked>
-           <label for="slide22">passos: 1</label>
+           <label for="slide22">1</label>
            <img src="dg/02_02_01.png" />
            <figcaption>Alinhe um dos catetos do esquadro com a reta <b>r</b>.</figcaption>
        </li>
@@ -228,7 +228,7 @@
   <ul class="slider">
        <li>
            <input type="radio" id="slide32" name="slide" checked>
-           <label for="slide32">passos: 1</label>
+           <label for="slide32">1</label>
            <img src="dg/02_02_01c.png" />
            <figcaption>Com a ponta seca em <b>P</b> desenhe um arco para a esquerda obtendo o ponto <b>Q</b> sobre a reta <b>r</b> e um arco para a direita obtendo o ponto <b>R</b> sobre a reta. Ambos os arcos com o mesmo raio.</figcaption>
        </li>
@@ -283,7 +283,7 @@
   <ul class="slider">
       <li>
            <input type="radio" id="slide40" name="slide" checked>
-           <label for="slide40">passos: 1</label>
+           <label for="slide40">1</label>
            <img src="dg/02_03_01.png" />
            <figcaption>Com a ponta seca no vértice <b>O</b> do ângulo desenhe um arco obtendo os pontos <b>P</b> e <b>Q</b>, cada um em um lado do ângulo.</figcaption>
        </li>
@@ -326,7 +326,7 @@
   <ul class="slider">
       <li>
            <input type="radio" id="slide45" name="slide" checked>
-           <label for="slide45">passos: 1</label>
+           <label for="slide45">1</label>
            <img src="dg/03_01_01.png" />
            <figcaption>Com a ponta seca no vértice <b>O</b> do ângulo desenhe um arco obtendo os pontos <b>R</b> e <b>Q</b>, cada um em um lado do ângulo.</figcaption>
        </li>
@@ -364,7 +364,7 @@
   <ul class="slider">
       <li>
            <input type="radio" id="slide50" name="slide" checked>
-           <label for="slide50">passos: 1</label>
+           <label for="slide50">1</label>
            <img src="dg/03_02_01.png" />
            <figcaption>Desenhe uma reta <b>r</b> e marque dois pontos <b>A</b> e <b>B</b> sobre ela.</figcaption>
        </li>
@@ -411,7 +411,7 @@
     <ul class="slider">
       <li>
            <input type="radio" id="slide57" name="slide" checked>
-           <label for="slide57">passos: 1</label>
+           <label for="slide57">1</label>
            <img src="dg/03_02_08.png" />
            <figcaption>Para construir um ângulo de <b>90°</b> com régua e compasso basta construir uma reta perpendicular. Lembra que já fizemos isso? Vamos repetir então. Desenhe uma reta <b>r</b> e marque um ponto <b>A</b> sobre ela. </figcaption>
        </li>
@@ -458,7 +458,7 @@
     <ul class="slider">
       <li>
            <input type="radio" id="slide64" name="slide" checked>
-           <label for="slide64">passos: 1</label>
+           <label for="slide64">1</label>
            <img src="dg/03_02_15.png" />
            <figcaption>Para construir um ângulo de <b>75°</b> basta dividir um ângulo de <b>150°</b> ao meio. Já sabemos construir um ângulo de <b>150°</b>, lembra? Comece construindo um ângulo <b>BAC</b> de <b>60°</b>. Construa um arco <b>BC</b> de tal forma que intercepte a reta <b>r</b> em dois pontos <b>B</b> e <b>F</b>.</figcaption>
        </li>
@@ -502,7 +502,7 @@
   <ul class="slider">
       <li>
            <input type="radio" id="slide70" name="slide" checked>
-           <label for="slide70">passos: 1</label>
+           <label for="slide70">1</label>
            <img src="dg/03_02_01e.png" />
            <figcaption>Para construir o ângulo de <b>60°</b> desenhe uma reta <b>r</b> e encaixe o cateto menor do esquadro de <b>30/60</b> sobre essa reta. O ângulo da esquerda do esquadro mede <b>60°</b> e o de cima mede <b>30°</b>. Já temos o ângulo de <b>60°</b> formado com a reta! Mas não podemos ainda traçar o outro lado do ângulo de <b>60°</b> pois o vértice não estará definido!</figcaption>
        </li>
@@ -567,7 +567,7 @@
     <ul class="slider">
       <li>
            <input type="radio" id="slide80" name="slide" checked>
-           <label for="slide80">passos: 1</label>
+           <label for="slide80">1</label>
            <img src="dg/03_02_11e.png" />
            <figcaption>Lembra quando construímos uma reta perpendicular à outra reta? Então, o ângulo formado é reto, ou seja, de <b>90°</b>. Vamos repetir o processo agora. Desenhe uma reta <b>r</b> e encaixe um cateto do esquadro nessa reta (você pode usar qualquer esquadro agora).</figcaption>
        </li>
@@ -632,7 +632,7 @@
     <ul class="slider">
       <li>
            <input type="radio" id="slide90" name="slide" checked>
-           <label for="slide90">passos: 1</label>
+           <label for="slide90">1</label>
            <img src="dg/03_02_21e.png" />
            <figcaption>Para construir o ângulo de <b>75°</b> basta lembrar que ele é a soma de <b>30°</b> com <b>45°</b>. Desenhe uma reta <b>r</b> e agora encaixe o cateto maior do esquadro de <b>30/60</b> sobre a reta <b>r</b>, já temos um ângulo de <b>30°</b>.</figcaption>
        </li>
@@ -711,7 +711,7 @@
   <ul class="slider">
       <li>
            <input type="radio" id="slide003" name="slide" checked>
-           <label for="slide003">passos: 1</label>
+           <label for="slide003">1</label>
            <img src="dg/04_01_01.png" />
            <figcaption>Na figura da direita temos o feixe de retas paralelas: <b>r</b>, <b>s</b>, <b>t</b> e <b>u</b>, e o feixe de retas concorrentes em <b>O</b>: <b>f</b> e <b>g</b>. </figcaption>
        </li>
@@ -778,7 +778,7 @@
   <ul class="slider">
       <li>
            <input type="radio" id="slide013" name="slide" checked>
-           <label for="slide013">passos: 1</label>
+           <label for="slide013">1</label>
            <img src="dg/04_02_01.png" />
            <figcaption>Comece traçando uma reta auxiliar passando por uma das extremidades do segmento <b>AB</b>, neste caso, foi por <b>A</b>.</figcaption>
        </li>
@@ -833,7 +833,7 @@
   <ul class="slider">
       <li>
            <input type="radio" id="slide021" name="slide" checked>
-           <label for="slide021">passos: 1</label>
+           <label for="slide021">1</label>
            <img src="dg/04_03_01.png" />
            <figcaption>Vamos iniciar pensando no exercício resolvido, ou seja, na figura auxiliar da direita temos uma circunferência de centro O que passa pelos pontos <b>A</b>, <b>B</b> e <b>C</b>. Vamos procurar uma relação do centro <b>O</b> com os dados do exercício.</figcaption>
        </li>
@@ -982,7 +982,7 @@
   <ul class="slider">
        <li>
            <input type="radio" id="slide100" name="slide">
-           <label for="slide100">passos: 1</label>
+           <label for="slide100">1</label>
 		   <img src="prop/19_01_01.png" />
 		   <figcaption>Com a ponta seca em <b>A'</b>, desenhe um arco com raio maior do que a metade de <b>A'B'</b>.</figcaption>
        </li>
@@ -1019,7 +1019,7 @@
   <ul class="slider">
       <li>
            <input type="radio" id="slide105" name="slide" checked>
-           <label for="slide105">passos: 1</label>
+           <label for="slide105">1</label>
            <img src="prop/19_02_01.png" />
            <figcaption>A projeção do lado <b>C'D'</b> será paralela ao segmento <b>A'B'</b>. Logo, podemos desenhar a reta <b>C'D' // A'B'</b> com o uso de esquadros.</figcaption>
        </li>
@@ -1060,7 +1060,7 @@
   <ul class="slider">
       <li>
            <input type="radio" id="slide110" name="slide" checked>
-           <label for="slide110">passos: 1</label>
+           <label for="slide110">1</label>
            <img src="prop/19_02_01c.png" />
            <figcaption>O vértice <b>C'</b> do paralelogramo estará no prolongamento da reta <b>A'B'</b>.</figcaption>
        </li>
@@ -1095,7 +1095,7 @@
   <ul class="slider">
       <li>
            <input type="radio" id="slide114" name="slide" checked>
-           <label for="slide114">passos: 1</label>
+           <label for="slide114">1</label>
            <img src="prop/20_03_01a.png" />
            <figcaption>Relembrando uma propriedade do paralelogramo: as diagonais interceptam-se em seus respectivos pontos médios. Logo, pela propriedade 3, <b>A'M' = M'C'</b>.</figcaption>
        </li>
@@ -1138,7 +1138,7 @@
   <ul class="slider">
       <li>
            <input type="radio" id="slide120" name="slide" checked>
-           <label for="slide120">passos: 1</label>
+           <label for="slide120">1</label>
            <img src="prop/20_03_00b.png" />
         <figcaption>Como as projeções dos vértices <b>A'</b> e <b>B'</b> são coincidentes, pela propriedade 1, podemos concluir que <b>AB // d</b>. Portanto, temos que <b>C'D' // d</b>.</figcaption>
        </li>
@@ -1174,7 +1174,7 @@
   <ul class="slider">
       <li>
            <input type="radio" id="slide124" name="slide" checked>
-           <label for="slide124">passos: 1</label>
+           <label for="slide124">1</label>
            <img src="prop/20_04_00a.png" />
         <figcaption>Relembrando a propriedade do baricentro: A distância do baricentro a um vértice mede 2/3 da mediana, ou seja, <b>CG = 2CM/3</b> ou <b>GM = CM/3.</b></figcaption>
        </li>
@@ -1223,7 +1223,7 @@
   <ul class="slider">
       <li>
            <input type="radio" id="slide131" name="slide" checked>
-           <label for="slide131">passos: 1</label>
+           <label for="slide131">1</label>
            <img src="prop/20_04_00b.png" />
         <figcaption>Vamos usar a mesma propriedade do item anterior: A distância do baricentro a um vértice mede 2/3 da mediana, ou seja, <b>CG = 2CM/3</b> ou <b>GM = CM/3.</b></figcaption>
        </li>
@@ -1266,7 +1266,7 @@
   <ul class="slider">
       <li>
            <input type="radio" id="slide136" name="slide" checked>
-           <label for="slide136">passos: 1</label>
+           <label for="slide136">1</label>
            <img src="prop/21_05_01a.png" />
         <figcaption>Relembrando as propriedades do hexágono regular: os lados são iguais ao raio da circunferência circunscrita, e os raios são paralelos aos lados.</figcaption>
        </li>
@@ -1332,7 +1332,7 @@
   <ul class="slider">
       <li>
            <input type="radio" id="slide145" name="slide" checked>
-           <label for="slide145">passos: 1</label>
+           <label for="slide145">1</label>
            <img src="prop/21_05_01c.png" />
         <figcaption>Usando as propriedades do hexágono regular, podemos notar que <b>AB = OC</b> e <b>AB // OC</b>. Logo, as projeções desses serão iguais e paralelas.</figcaption>
        </li>
@@ -1394,7 +1394,7 @@
   <ul class="slider">
       <li>
            <input type="radio" id="slide152" name="slide" checked>
-           <label for="slide152">passos: 1</label>
+           <label for="slide152">1</label>
            <img src="prop/23_01_01.png" />
         <figcaption>Usando as propriedades do losango, temos que as medidas dos lados são iguais <b>AB = BC = CD = AD</b> e as diagonais <b>AC</b> e <b>BD</b> são perpendiculares. Podemos usar a propriedade 7 de projeções ortogonais.</figcaption>
        </li>
@@ -1432,7 +1432,7 @@
   <ul class="slider">
       <li>
            <input type="radio" id="slide157" name="slide" checked>
-           <label for="slide157">passos: 1</label>
+           <label for="slide157">1</label>
            <img src="prop/23_02_01.png" />
         <figcaption>Usando as propriedades do retângulo, temos que os vértices pertencem a uma circunferência com centro no encontro das diagonais <b>M</b>. Esta circunferência é chamada de arco capaz de 90<sup>o</sup>.</figcaption>
        </li>
@@ -1482,7 +1482,7 @@
   <ul class="slider">
       <li>
            <input type="radio" id="slide164" name="slide" checked>
-           <label for="slide164">passos: 1</label>
+           <label for="slide164">1</label>
            <img src="prop/24_01_01.png" />
         <figcaption>Um paralelepípedo tem todas as faces com paralelogramos. Supondo-se que o vértice <b>F</b> está mais próximo do observador, temos as arestas determinadas por <b>F</b> visíveis</figcaption>
        </li>
@@ -1597,7 +1597,7 @@
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="slide308" name="slide" checked>
-			   <label for="slide308">passos: 1</label>
+			   <label for="slide308">1</label>
 			   <img src="cotadas/47_01_01.png" />
 			<figcaption>Marcar a cota do ponto <b>A</b></figcaption>
 		   </li>
@@ -1636,7 +1636,7 @@
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="slide300" name="slide" checked>
-			   <label for="slide300">passos: 1</label>
+			   <label for="slide300">1</label>
 			   <img src="cotadas/47_02_01.png" />
 			<figcaption>Marcar a cota do ponto <b>A'(2)</b>.</figcaption>
 		   </li>
@@ -1700,7 +1700,7 @@
 		<ul class="slider">
 		  <li>
 			   <input type="radio" id="slide313" name="slide" checked>
-			   <label for="slide313">passos: 1</label>
+			   <label for="slide313">1</label>
 			   <img src="cotadas/47_04_01.png" />
 			<figcaption>Rebater os pontos <b>A</b> e <b>B</b>.</figcaption>
 		   </li>
@@ -1743,7 +1743,7 @@
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="slide319" name="slide" checked>
-			   <label for="slide319">passos: 1</label>
+			   <label for="slide319">1</label>
 			   <img src="cotadas/49_01_01.png" />
 			<figcaption>Rebater o ponto <b>A</b></figcaption>
 		   </li>
@@ -1768,7 +1768,7 @@
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="slide322" name="slide" checked>
-			   <label for="slide322">passos: 1</label>
+			   <label for="slide322">1</label>
 			   <img src="cotadas/49_02_01.png" />
 			<figcaption>Rebater os pontos: <b>A</b>, <b>B</b>, <b>C</b> e <b>D</b> e representar as retas <b>r</b> e <b>s</b>, rebatidas</figcaption>
 		   </li>
@@ -1821,7 +1821,7 @@
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="slide400" name="slide" checked>
-			   <label for="slide400">passos: 1</label>
+			   <label for="slide400">1</label>
 			   <img src="cotadas/63_01_01.png" />
 			<figcaption>Representar uma reta do plano, por exemplo a reta <b>a(A,B)</b>. Obs: para garantir que o resultado esteja dentro da folha de trabalho recomenda-se escolher a reta definida pelos ponto de maior e menor cota.</figcaption>
 		   </li>
@@ -1864,7 +1864,7 @@
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="slide406" name="slide" checked>
-			   <label for="slide406">passos: 1</label>
+			   <label for="slide406">1</label>
 			   <img src="cotadas/63_02_01.png" />
 			<figcaption>Sabemos que as retas horizontais de um plano são perpendiculares as suas retas de maior declive, portanto para encontrar a horizontal de cota 2(<b>h<sub>2</sub></b>) basta encontrar uma reta perpendicular à reta <b>d&alpha;</b> pelo ponto <b>A(2)</b>.</figcaption>
 		   </li>
@@ -1901,7 +1901,7 @@
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="slide411" name="slide" checked>
-			   <label for="slide411">passos: 1</label>
+			   <label for="slide411">1</label>
 			   <img src="cotadas/64_01_01.png" />
 			<figcaption>Encontrar a projeção auxiliar do ponto <b>A</b>.</figcaption>
 		   </li>
@@ -1932,7 +1932,7 @@
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="slide415" name="slide" checked>
-			   <label for="slide415">passos: 1</label>
+			   <label for="slide415">1</label>
 			   <img src="cotadas/64_02_01.png" />
 			<figcaption>Para garantir que o resultado esteja dentro da folha de trabalho recomenda-se escolher a reta definida pelos pontos de maior e menor cota.</figcaption>
 		   </li>
