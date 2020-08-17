@@ -1560,7 +1560,7 @@
 		   </li>
 		</ul>
 		<img src="cotadas/47_01_00.png" class="fundo" />
-		<br><a href="vr/44_paralelas3.html" target="_blank" class="visu">Visualização em 3D do 5<sup>o</sup> caso de indicência</a>
+		<br><a href="vr/47_incidencia5.html" target="_blank" class="visu">Visualização em 3D do 5<sup>o</sup> caso de indicência</a>
 	</details>
 	<hr>
 	<details class="sub"><summary>Condições de incidência, pág. 47 (6<sup>o</sup> caso)</summary>
@@ -1670,6 +1670,7 @@
 		</ul>
 		<img src="cotadas/47_04_00.png" class="fundo" />
 	</details>
+	<hr>
 	<details class="sub"><summary>Retas perpendiculares ou ortogonais, pág. 49 (reta horizontal e reta qualquer)</summary>
 	  <p>Devemos verificar se as retas são concorrentes ou ortogonais, para isso basta verificar se o ponto se o ponto onde as retas se cruzam na projeção, possui cota <b>2</b> na reta <b>s</b>.</p>
 	  <ul class="slider">
