@@ -706,6 +706,73 @@
     <img src="dg/03_02_20e.png" class="fundo" />
 	</details>
   <hr>
+  <details class="sub"><summary>Exercício 7 da pág. 4: divisão de segmentos</summary>
+  <p>Para dividirmos um segmento graficamente em partes iguais utilizamos o Teorema de Tales que diz que “Um feixe (conjunto) de retas paralelas determina sobre um feixe de retas concorrentes segmentos proporcionais correspondentes”.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="slide003" name="slide" checked>
+           <label for="slide003">passos: 1</label>
+           <img src="dg/04_01_01.png" />
+           <figcaption>Na figura da direita temos o feixe de retas paralelas: <b>r</b>, <b>s</b>, <b>t</b> e <b>u</b>, e o feixe de retas concorrentes em <b>O</b>: <b>f</b> e <b>g</b>. </figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide004" name="slide">
+           <label for="slide004">2</label>
+           <img src="dg/04_01_02.png" />
+           <figcaption>Essas paralelas determinam sobre as retas concorrentes os segmentos: <b>a</b>, <b>b</b> e <b>c</b>, e os seus correspondentes nesta ordem: <b>m</b>, <b>n</b> e <b>p</b>. Assim, o Teorema de Tales garante que os segmentos <b>a</b>, <b>b</b> e <b>c</b> são proporcionais aos segmentos correspondentes <b>m</b>, <b>n</b> e <b>p</b>. Ou seja, <b>a/m = b/n = c/p</b>. Note que podemos ter variações na forma de montar as proporções, por exemplo, <b>a/m = b/n</b> é análogo a <b>a/b=m/n</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide005" name="slide">
+           <label for="slide005">3</label>
+           <img src="dg/04_01_03.png" />
+           <figcaption>Vamos aplicar esse teorema na divisão gráfica do segmento dado <b>AB</b> em 5 partes iguais. Trace uma reta auxiliar passando por uma das extremidades do segmento <b>AB</b>, neste caso, foi por <b>A</b>. </figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide006" name="slide">
+           <label for="slide006">4</label>
+           <img src="dg/04_01_04.png" />
+           <figcaption>Precisamos marcar 5 unidades iguais sobre a reta auxiliar a partir do ponto <b>A</b>. Então abra o compasso com uma unidade arbitrária <b>u</b> (usamos aqui <b>u=1,5cm</b>).Construa um arco com centro em <b>A</b> e raio <b>u</b>, obtendo o ponto <b>1</b> sobre a reta auxiliar.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide007" name="slide">
+           <label for="slide007">5</label>
+           <img src="dg/04_01_05.png" />
+           <figcaption>Construa um novo arco agora com centro no ponto <b>1</b> e o mesmo raio <b>u</b>, obtendo o ponto <b>2</b> sobre a reta auxiliar.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide008" name="slide">
+           <label for="slide008">6</label>
+           <img src="dg/04_01_06.png" />
+           <figcaption>Continue o processo até obter o ponto <b>5</b>. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide009" name="slide">
+           <label for="slide009">7</label>
+           <img src="dg/04_01_07.png" />
+           <figcaption>Desenhe a reta <b>r</b> ligando os pontos <b>5</b> e <b>B</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide010" name="slide">
+           <label for="slide010">8</label>
+           <img src="dg/04_01_08.png" />
+           <figcaption>Trace com os esquadros uma reta <b>s</b> paralela à reta <b>r</b> que passe pelo ponto <b>4</b>, obtendo o ponto <b>F</b> sobre a reta <b>AB</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide011" name="slide">
+           <label for="slide011">9</label>
+           <img src="dg/04_01_09.png" />
+           <figcaption>Trace com os esquadros as demais retas paralelas passando pelos pontos <b>3</b>, <b>2</b> e <b>1</b>. Determinando sobre a reta <b>AB</b> os pontos <b>E</b>, <b>D</b> e <b>C</b>, respectivamente.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide012" name="slide">
+           <label for="slide012">10</label>
+           <img src="dg/04_01_10.png" />
+           <figcaption>Pelo Teorema de Tales como os segmentos <b>A1</b>, <b>12</b>, <b>23</b>, <b>34</b>, <b>45</b> são proporcionais a <b>u</b> então <b>AC</b>, <b>CD</b>, <b>DE</b>, <b>EF</b> e <b>FB</b> são proporcionais a <b>u’</b>. E, portanto, o segmento <b>AB</b> foi dividido graficamente em 5 partes iguais.</figcaption>
+       </li>
+    </ul>
+    <img src="dg/04_01_00.png" class="fundo" />
+  </details>
+  <hr>
   <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
