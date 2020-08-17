@@ -1655,6 +1655,86 @@
 		<img src="cotadas/63_02_00.png" class="fundo" />
 	</details>
 	<hr>
+	<details class="sub"><summary>Exercício 1, pág. 64</summary>
+	  <p>O ângulo que um plano forma com o plano de projeção é igual à inclinação de uma de suas retas de maior declive.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="slide411" name="slide" checked>
+			   <label for="slide411">passos: 1</label>
+			   <img src="cotadas/64_01_01.png" />
+			<figcaption>Encontrar a projeção auxiliar do ponto <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide412" name="slide">
+			   <label for="slide412">2</label>
+			   <img src="cotadas/64_01_02.png" />
+			 <figcaption>Encontrar a projeção auxiliar do ponto <b>B</b>. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide413" name="slide">
+			   <label for="slide413">3</label>
+			   <img src="cotadas/64_01_03.png" />
+			 <figcaption>Unindo <b>A<sub>1</sub></b> e <b>B<sub>1</sub></b> temos a reta <b>d'&alpha;<sub>1</sub></b> que corresponde a projeção auxiliar da reta <b>d&alpha;</b></figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide414" name="slide">
+			   <label for="slide414">4</label>
+			   <img src="cotadas/64_01_04.png" />
+			 <figcaption>O ângulo formado pela projeção da reta de maior declive <b>d'&alpha;</b> com sua projeção auxiliar <b>d'&alpha;<sub>1</sub></b> é o ângulo que o plano <b>&alpha;</b> forma com o plano de projeção <b>&pi;'</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/64_01_00.png" class="fundo" />
+	</details>
+	<hr>
+	<details class="sub"><summary>Exercício 2, pág. 64</summary>
+	  <p>Representar uma reta do plano, por exemplo a reta definida pelos pontos <b>B</b> e <b>C</b>.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="slide415" name="slide" checked>
+			   <label for="slide415">passos: 1</label>
+			   <img src="cotadas/64_02_01.png" />
+			<figcaption>Para garantir que o resultado esteja dentro da folha de trabalho recomenda-se escolher a reta definida pelos pontos de maior e menor cota.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide416" name="slide">
+			   <label for="slide416">2</label>
+			   <img src="cotadas/64_02_02.png" />
+			 <figcaption>Graduar a reta definida pelos pontos <b>B</b> e <b>C</b> utilizando, por exemplo, o Teorema de Tales.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide417" name="slide">
+			   <label for="slide417">3</label>
+			   <img src="cotadas/64_02_03.png" />
+			 <figcaption>Unindo o ponto de cota 3 desta reta com o ponto <b>A</b>, também de cota 3, temos a horizontal de cota 3 do plano <b>&alpha;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide418" name="slide">
+			   <label for="slide418">4</label>
+			   <img src="cotadas/64_02_04.png" />
+			 <figcaption>Representar as horizontais de cota 5 e -2 do plano <b>&alpha;</b>. Obs. As horizontais de um plano são paralelas entre si.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide419" name="slide">
+			   <label for="slide419">5</label>
+			   <img src="cotadas/64_02_05.png" />
+			 <figcaption>Traçar uma reta de maior declive do plano <b>(d'&alpha;)</b> e identificar no mínimo dois pontos desta reta. Os pontos <b>D</b>, <b>E</b> e <b>F</b> são pontos desta reta. Obs: As retas de maior declive de um plano são perpendiculares às horizontais do plano.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide420" name="slide">
+			   <label for="slide420">6</label>
+			   <img src="cotadas/64_02_06.png" />
+			 <figcaption>Encontrar a projeção auxiliar da reta de maior declive.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide421" name="slide">
+			   <label for="slide421">7</label>
+			   <img src="cotadas/64_02_07.png" />
+			 <figcaption>O ângulo  que o plano <b>&alpha;(A, B, C)</b> forma com o plano <b>&pi;'</b> é o ângulo formado pela projeção da reta de maior declive com sua projeção auxiliar.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/64_02_00.png" class="fundo" />
+	</details>
+	<hr>
 	<details class="sub"><summary>Rebatimento de um plano qualquer, pág. 66</summary>
 		<img src="vr/088_rebatimento.PNG">
 		<figcaption>Visualização em 3D do rebatimento de um plano qualquer <b>&alpha;</b> sobre <b>&pi;</b>.</figcaption>
