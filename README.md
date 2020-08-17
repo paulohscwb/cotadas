@@ -1686,10 +1686,12 @@
 			   <input type="radio" id="slide307" name="slide">
 			   <label for="slide307">9</label>
 			   <img src="cotadas/47_02_09.png" />
-			 <figcaption>Verificar que a cota do ponto <b>P</b> na reta <b>s</b> também é <b>4</b>. Portanto as retas <b>r</b> e <b>s</b> são concorrentes.</figcaption>
+			 <figcaption>Verificar que a cota do ponto <b>P</b> na reta <b>s</b> também é <b>4</b>. Portanto as retas <b>r</b> e <b>s</b> são concorrentes. Use o link abaixo para visualizar este exemplo em 3D.</figcaption>
 		   </li>
 		</ul>
 		<img src="cotadas/47_02_00.png" class="fundo" />
+		<a href="vr/47_incidencia6a.html" target="_blank" class="visu">Visualização em 3D do 6<sup>o</sup> caso de incidência</a>
+		
 		<hr>
 		<h4>Segundo exemplo:</h4>
 		<p>Agora você pode praticar, resolva o exercício, seguindo o mesmo modelo do exercício anterior. Verificar se as retas são paralelas ou concorrentes.</p> 
