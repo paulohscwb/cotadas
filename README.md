@@ -129,6 +129,7 @@
     </ul>
     <img src="dg/02_01_00.png" class="fundo" />
   </div>
+  </details>
   <details class="sub" style="position: relative; top:-630px; float:left;"><summary>&#x1f4cf; &#x1f4d0; Resolução com compasso</summary>
   <div class="sub1"><p> Agora veja os passos da construção feita com régua e compasso.</p>
   <ul class="slider">
