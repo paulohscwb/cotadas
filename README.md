@@ -1735,10 +1735,11 @@
 			   <input type="radio" id="slide318" name="slide">
 			   <label for="slide318">6</label>
 			   <img src="cotadas/47_04_06.png" />
-			 <figcaption>Verificar a cota do ponto <b>P(1,7)</b>. Como as retas pertencem ao mesmo plano projetante, são concorrentes no Ponto <b>P</b> de cota 1,7.</figcaption>
+			 <figcaption>Verificar a cota do ponto <b>P(1,7)</b>. Como as retas pertencem ao mesmo plano projetante, são concorrentes no Ponto <b>P</b> de cota 1,7. Use o link abaixo para visualizar este exemplo em 3D.</figcaption>
 		   </li>
 		</ul>
 		<img src="cotadas/47_04_00.png" class="fundo" />
+		<a href="vr/47_incidencia6c.html" target="_blank" class="visu">Visualização em 3D do 6<sup>o</sup> caso de incidência</a>
 	</details>
 	<hr>
 	<details class="sub"><summary>Retas perpendiculares ou ortogonais, pág. 49 (reta horizontal e reta qualquer)</summary>
