@@ -18,13 +18,13 @@ figcaption {
   background: rgba(21,153,87,0.12);
   padding: 5px;
   border-radius: 7px;
-  font-size: 15px;
+  font-size: 13px;
   position: relative;
   height:auto;
   margin-top: 5px;
 }
 summary {
-  font-size: 21px;
+  font-size: 18px;
   color: #159957;
   font-weight: bold;
   cursor: pointer;
@@ -49,7 +49,7 @@ details {
 }
 
 .sub summary{
-  font-size: 18px;
+  font-size: 16px;
   font-weight: normal;
   margin-bottom: 5px;
   margin-left:5px;
@@ -59,7 +59,7 @@ h3 {
   font-size: 19px;
 }
 p {
-  font-size: 17px;
+  font-size: 13px;
 }
 h5 {
   top: -20px;

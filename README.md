@@ -1088,84 +1088,76 @@
 
 <details>
   <summary id="propriedades">Propriedades das projeções cilíndricas</summary>
-  <p>Leia o conteúdo das páginas 12 e 13 da apostila. Agora vamos começar a trabalhar com as projeções de objetos e figuras em um plano <b>&pi;'</b>.</p> 
-  <details class="sub"><summary>Projeção Cônica, pág. 14</summary>
-    <img src="prop/14_proj_conica.PNG">
+  <div class="pagina">
+	<p>Leia o conteúdo das páginas 11, 12 e 13 da apostila. Agora vamos começar a trabalhar com as projeções de objetos e figuras em um plano <b>&pi;'</b>.</p> 	
+	<img src="prop/Cotadas_2020_0011.png" />
+	<br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+	<img src="prop/Cotadas_2020_0012.png" />
+	<br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+	<img src="prop/Cotadas_2020_0013.png" />
+	<br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+	<img src="prop/Cotadas_2020_0014.png" />
     <figcaption>Para projetar um ponto <b>A</b> qualquer do espaço usando a projeção cônica, basta definir a reta projetante <b>a</b>, que passa pelo centro de projeção <b>O</b> e pelo ponto <b>A</b>. A interseção desta reta com o plano <b>&pi;'</b> é a projeção <b>A'</b> do ponto <b>A</b>.</figcaption>
     <a href="vr/proj_conica.html" target="_blank" class="visu">Visualização em 3D</a>
-  </details>
-  <hr>
-  <details class="sub"><summary>Projeção Cilíndrica, pág. 14</summary>
-    <img src="prop/14_proj_cilindrica.PNG">
-    <figcaption>Para projetar um ponto <b>A</b> qualquer do espaço usando a projeção cilíndrica, basta definir a reta projetante <b>a</b>, paralela à direção <b>d</b> e que passa pelo ponto <b>A</b>. A interseção desta reta com o plano <b>&pi;'</b> é a projeção <b>A'</b> do ponto <b>A</b>. Se a reta <b>d</b> formar ângulo <b>0 < &theta; < 90<sup>o</sup></b>, a projeção é chamada <b>oblíqua</b>. Quando <b>&theta; = 90<sup>o</sup></b>, temos a projeção <b>ortogonal</b>.</figcaption>
+	<img src="prop/Cotadas_2020_0014a.png" />
+    <figcaption>Para projetar um ponto <b>A</b> qualquer do espaço usando a projeção cilíndrica, basta definir a reta projetante <b>a</b>, paralela à direção <b>d</b> e que passa pelo ponto <b>A</b>. A interseção desta reta com o plano <b>&pi;'</b> é a projeção <b>A'</b> do ponto <b>A</b>. Se a reta <b>d</b> formar ângulo <b>0 < &theta; < 90<sup>o</sup></b>, a projeção é chamada <b>oblíqua</b>.</figcaption>
     <a href="vr/proj_cilindrica.html" target="_blank" class="visu">Projeção cilíndrica <b>oblíqua</b> em 3D</a>
-    <br><a href="vr/proj_cilindrica_orto.html" target="_blank" class="visu">Projeção cilíndrica <b>ortogonal</b> em 3D</a>
-  </details>
-  <hr>
-  <details class="sub"><summary>Recursos de Realidade Aumentada e Realidade Virtual</summary>
-    <p>Esta apostila tem recursos programados em Realidade Aumentada e Realidade Virtal. Você pode acessar estes recursos usando o seguinte endereço:</p>
-    <center><a href="https://paulohscwb.github.io/cotadas/ra.html"> https://paulohscwb.github.io/cotadas/ra.html</a></center>
-    Os ambientes podem ser acessados em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
-    <br>O acesso aos sites de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.
-    <br><br><center><img src="https://paulohscwb.github.io/cotadas/vr/exemplo.jpg" width="80%"></center>  
-    Veja o vídeo de demonstração do uso destes recursos:
-    <div class="embed-container">
-      <iframe src="https://drive.google.com/file/d/1Tg2c6pOoDNESEAvl9kvXgRGv81D-U0Kw/preview" width="100%"></iframe>
-    </div>
-  </details>
-  <hr>
-  <details class="sub"><summary>Propriedade 1, pág. 15</summary>
-    <img src="vr/037_prop1a.PNG">
-      <figcaption>Quando a reta <b>r</b> não é paralela à direção <b>d</b>, a sua projeção <b>r'</b> é uma reta.</figcaption>
-      <a href="vr/p1.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
-	  <br><a href="vr/p1_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
-    <hr><img src="vr/037_prop1b.PNG">
-      <figcaption>No caso em que as retas <b>r</b> e <b>d</b> são paralelas, a projeção <b>r'</b> é um ponto.</figcaption>
-      <a href="vr/p1a.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
-	  <br><a href="vr/p1a_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
-  </details>
-  <hr>
-  <details class="sub"><summary>Propriedade 2, pág. 16</summary>
-    <img src="vr/038_prop2a.PNG">
-      <figcaption>Considerando <b>r</b> e <b>s</b> estão em planos projetantes distintos, as projeções <b>r'</b> e <b>s'</b> são paralelas.</figcaption>
-      <a href="vr/p2.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
-	  <br><a href="vr/p2_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
-    <hr><img src="vr/038_prop2b.PNG">
-      <figcaption>Se <b>r</b> e <b>s</b> estão em um mesmo plano projetante, as projeções <b>r'</b> e <b>s'</b> são coincidentes.</figcaption>
-      <a href="vr/p2a.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
-	  <br><a href="vr/p2a_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
-    <hr><img src="prop/16_prop2c.PNG">
-      <figcaption>Quando as retas <b>r</b> e <b>s</b> são paralelas à direção <b>d</b>, suas projeções <b>r'</b> e <b>s'</b> são pontos.</figcaption>
-      <a href="vr/p2c.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
-	  <br><a href="vr/p2c_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
-  </details>
-  <hr>
-  <details class="sub"><summary>Propriedade 3, pág. 17</summary>
-    <img src="prop/17_prop3a.PNG">
-      <figcaption>A proporção entre as medidas dos segmentos paralelos <b>AB</b> e <b>CD</b> é a mesma de suas projeções, ou seja: <b>AB/CD = A'B'/C'D'</b>.</figcaption>
-      <a href="vr/p3a.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
-	  <br><a href="vr/p3a_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
-    <hr><img src="prop/17_prop3b.PNG">
-      <figcaption>Se os segmentos <b>AB</b> e <b>CD</b> são colineares, a mesma proporção entre as medidas é válida: <b>AB/CD = A'B'/C'D'</b>.</figcaption>
-      <a href="vr/p3b.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
-	  <br><a href="vr/p3b_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
-  </details>
-  <hr>
-  <details class="sub"><summary>Propriedade 4, pág. 18</summary>
-      <img src="prop/18_prop4.PNG">
-      <figcaption>Uma figura pertencente a um plano paralelo ao plano de projeções <b>&pi;'</b> fica projetada com o mesmo tamanho, sem redução ou ampliação de tamanho.</figcaption>
-      <a href="vr/p4.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
-	  <br><a href="vr/p4_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
-  </details>
-  <hr>
-  <details class="sub"><summary>Propriedade 5, pág. 18</summary>
-      <img src="prop/18_prop5.PNG">
-      <figcaption>Uma figura que pertence a um plano <b>&alpha;</b> paralelo à direção <b>d</b> de projeções tem projeção reduzida a um segmento.</figcaption>
-      <a href="vr/p5.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
-	  <br><a href="vr/p5_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
-  </details>
-  <hr>
-  <details class="sub"><summary>Exercício 1 da pág. 19</summary>
+    <figcaption>Quando <b>&theta; = 90<sup>o</sup></b>, temos a projeção <b>ortogonal</b>.</figcaption>
+	<br><a href="vr/proj_cilindrica_orto.html" target="_blank" class="visu">Projeção cilíndrica <b>ortogonal</b> em 3D</a>
+	<br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+	<img src="prop/Cotadas_2020_0015.png" />
+    <figcaption>Quando a reta <b>r</b> não é paralela à direção <b>d</b>, a sua projeção <b>r'</b> é uma reta.</figcaption>
+    <a href="vr/p1.html" target="_blank" class="visu">Visualização em 3D da projeção <b>oblíqua</b></a>
+	<br><a href="vr/p1_orto.html" target="_blank" class="visu">Visualização em 3D da projeção <b>ortogonal</b></a>
+	<img src="prop/Cotadas_2020_0015a.png" />
+    <figcaption>No caso em que as retas <b>r</b> e <b>d</b> são paralelas, a projeção <b>r'</b> é um ponto.</figcaption>
+	<a href="vr/p1a.html" target="_blank" class="visu">Visualização em 3D da projeção <b>oblíqua</b></a>
+	<br><a href="vr/p1a_orto.html" target="_blank" class="visu">Visualização em 3D da projeção <b>ortogonal</b></a>
+	  <details class="sub"><summary>&#x1f453; Realidade Aumentada e Realidade Virtual</summary>
+		<p>Esta apostila tem recursos programados em Realidade Aumentada e Realidade Virtal. Você pode acessar estes recursos usando o seguinte endereço:</p>
+		<center><a href="https://paulohscwb.github.io/cotadas/ra.html"> https://paulohscwb.github.io/cotadas/ra.html</a></center>
+		Os ambientes podem ser acessados em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
+		<br>O acesso aos sites de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.
+		<br><br><center><img src="https://paulohscwb.github.io/cotadas/vr/exemplo.jpg" width="80%"></center>  
+		Veja o vídeo de demonstração do uso destes recursos:
+		<div class="embed-container">
+		  <iframe src="https://drive.google.com/file/d/1Tg2c6pOoDNESEAvl9kvXgRGv81D-U0Kw/preview" width="100%"></iframe>
+		</div>
+	  </details>
+	<br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+	<img src="prop/Cotadas_2020_0016.png" />  
+    <figcaption>Considerando <b>r</b> e <b>s</b> estão em planos projetantes distintos, as projeções <b>r'</b> e <b>s'</b> são paralelas.</figcaption>
+    <a href="vr/p2.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
+	<br><a href="vr/p2_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
+    <img src="prop/Cotadas_2020_0016a.png" />  
+	<figcaption>Se <b>r</b> e <b>s</b> estão em um mesmo plano projetante, as projeções <b>r'</b> e <b>s'</b> são coincidentes.</figcaption>
+    <a href="vr/p2a.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
+	<br><a href="vr/p2a_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
+    <img src="prop/Cotadas_2020_0016b.png" />  
+    <figcaption>Quando as retas <b>r</b> e <b>s</b> são paralelas à direção <b>d</b>, suas projeções <b>r'</b> e <b>s'</b> são pontos.</figcaption>
+    <a href="vr/p2c.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
+	<br><a href="vr/p2c_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
+	<br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+    <img src="prop/Cotadas_2020_0017.png" /> 
+    <figcaption>A proporção entre as medidas dos segmentos paralelos <b>AB</b> e <b>CD</b> é a mesma de suas projeções, ou seja: <b>AB/CD = A'B'/C'D'</b>.</figcaption>
+    <a href="vr/p3a.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
+	<br><a href="vr/p3a_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
+    <img src="prop/Cotadas_2020_0017a.png" /> 
+    <figcaption>Se os segmentos <b>AB</b> e <b>CD</b> são colineares, a mesma proporção entre as medidas é válida: <b>AB/CD = A'B'/C'D'</b>.</figcaption>
+    <a href="vr/p3b.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
+	<br><a href="vr/p3b_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
+	<br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+	<img src="prop/Cotadas_2020_0018.png" /> 
+    <figcaption>Uma figura pertencente a um plano paralelo ao plano de projeções <b>&pi;'</b> fica projetada com o mesmo tamanho, sem redução ou ampliação de tamanho.</figcaption>
+    <a href="vr/p4.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
+	<br><a href="vr/p4_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
+	<img src="prop/Cotadas_2020_0018a.png" /> 
+    <figcaption>Uma figura que pertence a um plano <b>&alpha;</b> paralelo à direção <b>d</b> de projeções tem projeção reduzida a um segmento.</figcaption>
+    <a href="vr/p5.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
+	<br><a href="vr/p5_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
+	<br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+  <img src="prop/Cotadas_2020_0019.png" />
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício. De acordo com a propriedade 3, podemos encontrar a projeção do ponto médio de <b>AB</b> construindo a mediatriz da projeção deste segmento. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <ul class="slider">
        <li>
@@ -1201,8 +1193,8 @@
     </ul>
     <img src="prop/19_01_00.png" class="fundo" />
   </details>
-  <hr>
-  <details class="sub"><summary>Exercício 2 da pág. 19 (itens a e b)</summary>
+  <img src="prop/Cotadas_2020_0019a.png" />
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: itens a e b</summary>
   <p> Vamos utilizar a régua, o compasso e os esquadros para resolver este exercício. De acordo com a propriedade 2, podemos encontrar a projeção dos lados de um paralelogramo utilizando a construção de retas paralelas.</p>
   <ul class="slider">
       <li>
@@ -1242,8 +1234,7 @@
 	<img src="prop/19_02_00b.png">
 	<figcaption>A construção é parecida com a que fizemos no item a.</figcaption>
   </details>
-  <hr>
-  <details class="sub"><summary>Exercício 2 da pág. 19 (itens c e d)</summary>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: itens c e d</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício. De acordo com a propriedade 5, o paralelogramo está em um plano paralelo à direção <b>d</b> das projetantes.</p>
   <ul class="slider">
       <li>
@@ -1277,8 +1268,9 @@
 	<img src="prop/19_02_00d.png">
 	<figcaption>Usando as mesmas propriedades usadas nos itens anteriores, podemos concluir que os vértices <b>A</b> e <b>D</b> coincidem.</figcaption>
   </details>
-  <hr>
-  <details class="sub"><summary>Exercício 3 da pág. 20 (item a)</summary>
+  <br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+  <img src="prop/Cotadas_2020_0020.png" />
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: item a</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
@@ -1320,8 +1312,7 @@
     </ul>
     <img src="prop/20_03_00a.png" class="fundo" />
   </details>
-  <hr>
-  <details class="sub"><summary>Exercício 3 da pág. 20 (item b)</summary>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: itens b e c</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
@@ -1356,8 +1347,8 @@
 	<img src="prop/20_03_00c.png">
 	<figcaption>Usando as propriedades dos itens a e b, você consegue fazer a construção deste paralelogramo.</figcaption>
   </details>
-  <hr>
-  <details class="sub"><summary>Exercício 4 da pág. 20 (item a)</summary>
+  <img src="prop/Cotadas_2020_0020a.png" />
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: item a</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
@@ -1405,8 +1396,7 @@
     </ul>
     <img src="prop/20_04_00_a.png" class="fundo" />
   </details>
-  <hr>
-<details class="sub"><summary>Exercício 4 da pág. 20 (itens b e c)</summary>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: itens b e c</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
@@ -1448,8 +1438,9 @@
 	<figcaption>Utilizando as mesmas propriedades dos itens anteriores, você consegue construir este triângulo. Use o link abaixo para te ajudar na visualização em 3D.</figcaption>
     <a href="vr/p_ex4c_triangulo.html" target="_blank" class="visu">Visualização em 3D do item c</a>
   </details>
-  <hr>
-  <details class="sub"><summary>Exercício 5 da pág. 21 (itens a e b)</summary>
+  <br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+  <img src="prop/Cotadas_2020_0021.png" />
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: itens a e b</summary>
   <p> Vamos utilizar a régua, o compasso e os esquadros para resolver este exercício.</p>
   <ul class="slider">
       <li>
@@ -1514,8 +1505,7 @@
 	<img src="prop/21_05_00b.png">
 	<figcaption>Com as propriedades que usamos no item a, você consegue fazer a construção deste hexágono do item b.</figcaption>
   </details>
-  <hr>
-  <details class="sub"><summary>Exercício 5 da pág. 21 (item c)</summary>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: item c</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
@@ -1564,20 +1554,17 @@
 	<img src="prop/21_05_00c.png" class="fundo" />
     <a href="vr/p_ex5c_hexagono.html" target="_blank" class="visu">Visualização em 3D</a>
   </details>
-  <hr>
-  <details class="sub"><summary>Propriedade 6, pág. 22</summary>
-      <img src="vr/p6.png">
-      <figcaption>Os segmentos oblíquos ao plano de projeções <b>&pi;'</b> são projetados com tamanho reduzido, ou seja, <b>AB > A'B'</b></figcaption>
-      <a href="vr/p6.html" target="_blank" class="visu">Visualização da propriedade em 3D</a>
-  </details>
-  <hr>
-  <details class="sub"><summary>Propriedade 7, pág. 22</summary>
-      <img src="vr/044_prop7.PNG">
-      <figcaption>Quando a reta <b>r // &pi;'</b> e as retas <b>r</b> e <b>s</b> são perpendiculares ou ortogonais, as retas <b>r'</b> e <b>s'</b> são perpendiculares.</figcaption>
-      <a href="vr/p7.html" target="_blank" class="visu">Visualização da propriedade em 3D</a>
-  </details>
-  <hr>
-  <details class="sub"><summary>Exercício 1 da pág. 23</summary>
+  <img src="prop/Cotadas_2020_0021a.png" />
+  <br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+  <img src="prop/Cotadas_2020_0022.png" />
+  <figcaption>Os segmentos oblíquos ao plano de projeções <b>&pi;'</b> são projetados com tamanho reduzido, ou seja, <b>AB > A'B'</b></figcaption>
+  <a href="vr/p6.html" target="_blank" class="visu">Visualização da propriedade em 3D</a>
+  <img src="prop/Cotadas_2020_0022a.png" />
+  <figcaption>Quando a reta <b>r // &pi;'</b> e as retas <b>r</b> e <b>s</b> são perpendiculares ou ortogonais, as retas <b>r'</b> e <b>s'</b> são perpendiculares.</figcaption>
+  <a href="vr/p7.html" target="_blank" class="visu">Visualização da propriedade em 3D</a>
+  <br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+  <img src="prop/Cotadas_2020_0023.png" />
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
@@ -1614,8 +1601,8 @@
 	<img src="prop/23_01_00.png" class="fundo" />
     <a href="vr/p_ex1_losango.html" target="_blank" class="visu">Visualização em 3D</a>
   </details>
-  <hr>
-  <details class="sub"><summary>Exercício 2 da pág. 23</summary>
+  <img src="prop/Cotadas_2020_0023a.png" />
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
@@ -1664,8 +1651,9 @@
 	<img src="prop/23_02_00.png" class="fundo" />
     <a href="vr/p_ex2_retangulo.html" target="_blank" class="visu">Visualização em 3D</a>
   </details>
-  <hr>
-  <details class="sub"><summary>Exercício 3 da pág. 24</summary>
+  <br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+  <img src="prop/Cotadas_2020_0024.png" />
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar o compasso e os esquadros para resolver este exercício.</p>
   <ul class="slider">
       <li>
@@ -1731,14 +1719,15 @@
     </ul>
 	<img src="prop/24_01_00.png" class="fundo" />
   </details>
-  <hr>
-  <details class="sub"><summary>Exercício 4 da pág. 24</summary>
+  <img src="prop/Cotadas_2020_0024a.png" />
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p> Você pode utilizar o compasso e os esquadros para resolver este exercício. Lembre-se das propriedades de projeções cilíndricas 2 e 3.</p>
 	<img src="prop/24_02_00.png">
 	<figcaption>Tente encontrar o centro da circunferência da base dos vertices <b>A'</b> e <b>B'</b>. Use as propriedades do hexágono regular.</figcaption>
   </details>
-  <hr>
-  <details class="sub"><summary>Exercício 5 da pág. 25</summary>
+  <br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+  <img src="prop/Cotadas_2020_0025.png" />
+  <details class="sub"><summary><img src="prop/Cotadas_2020_0024.png" /></summary>
   <p> Você pode utilizar o compasso e os esquadros para resolver este exercício. Lembre-se de aplicar as propriedades de projeções cilíndricas e cilíndricas ortogonais.</p>
 	<img src="prop/25_01_00.png">
 	<figcaption>Usando as propriedades de projeções cilíndricas ortogonais, verifique quais dos segmentos são projetados em verdadeira grandeza (vg) em <b>&pi;'</b>: <b>AB</b>, <b>AE</b>, <b>HJ</b> e <b>JG</b>.</figcaption>
