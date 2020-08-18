@@ -10,7 +10,7 @@
   <summary id="desenho">Desenho Geométrico</summary>
   <div class="pagina">
 	<img src="dg/Cotadas_2020_0001.png" class="fundo" />  
-  <details class="sub" style="position: absolute; top:50%; left:0px; float:left;"><summary>Exercício 1 da pág. 1: mediatriz</summary>
+  <details class="sub" style="position: relative; top:500px; left:120px; float:left;"><summary>Exercício 1 da pág. 1: mediatriz</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <ul class="slider">
       <li>
