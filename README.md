@@ -8,7 +8,9 @@
 
 <details>
   <summary id="desenho">Desenho Geométrico</summary>
-  <details class="sub"><summary>Exercício 1 da pág. 1: mediatriz</summary>
+  <div class="pagina">
+	<img src="dg/Cotadas_2020_0001.png" class="fundo" />  
+  <details class="sub" style="position: absolute; top:50%; left:0px; float:left;"><summary>Exercício 1 da pág. 1: mediatriz</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <ul class="slider">
       <li>
@@ -86,6 +88,7 @@
   <img src="dg/01_01_00.png" class="fundo"/>
   </details>
   <hr>
+  </div>
   <details class="sub"><summary>Exercício 2 da pág. 2: reta paralela</summary>
   <p> Podemos utilizar a régua e um dos esquadros ou a régua e o compasso para resolver este exercício. Primeiro, veja como é a construção com a régua e o esquadro de 45<sup>o</sup>.</p>
   <ul class="slider">

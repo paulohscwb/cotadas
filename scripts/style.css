@@ -9,6 +9,10 @@
     margin: 0 8px 0 0;
 }
 
+.pagina {
+	width:100%;
+}
+
 figcaption {
   top: 0px;
   background: rgba(21,153,87,0.12);
