@@ -44,7 +44,7 @@
            <figcaption>Pronto! A mediatriz do segmento <b>AB</b> está construída.</figcaption>
        </li>
     </ul>
-    <img src="dg/01_01_00.png" class="fundo" /></span>
+    <img src="dg/01_01_00.png" class="fundo" /></div>
   </details>
   <a href="vr/rebatimento.html" target="_blank" class="visu" style="position: relative; top:-25vh; left:80%; float:left;"></a>
   <details class="sub" style="position: relative; top:-485px; float:left;"><summary>&#x1f4cf; &#x1f4d0; </summary>
