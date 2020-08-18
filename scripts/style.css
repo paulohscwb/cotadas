@@ -51,6 +51,7 @@ details {
   font-weight: normal;
   margin-bottom: 5px;
   margin-left:10px;
+  with:200px;
 }
 
 h3 {
@@ -90,7 +91,6 @@ h3::after {
      width: 100%;
      top: 25px;
      position: relative;
-	 background:white;
  }
 
  .slider li {
