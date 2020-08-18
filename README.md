@@ -1088,7 +1088,6 @@
 
 <details>
   <summary id="propriedades">Propriedades das projeções cilíndricas</summary>
-  <div class="pagina">
 	<p>Leia o conteúdo das páginas 11, 12 e 13 da apostila. Agora vamos começar a trabalhar com as projeções de objetos e figuras em um plano <b>&pi;'</b>.</p> 	
 	<img src="prop/Cotadas_2020_0011.png" />
 	<br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
