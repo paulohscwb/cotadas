@@ -46,6 +46,7 @@
     </ul>
     <img src="dg/01_01_00.png" class="fundo" />
   </details>
+  <a href="vr/rebatimento.html" target="_blank" class="visu" style="position: relative; top:-25vh; left:80%; float:left;"></a>
   <details class="sub" style="position: relative; top:-50vh; float:left;"><summary>&#x1f4cf; &#x1f4d0; </summary>
   <p>Agora veja como fica a construção da mediatriz do segmento <b>AB</b> próximo da margem da folha.</p>
   <ul class="slider">
