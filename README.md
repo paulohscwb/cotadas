@@ -10,7 +10,7 @@
   <summary id="desenho">Desenho Geométrico</summary>
   <div class="pagina">
 	<img src="dg/Cotadas_2020_0001.png" />  
-  <details class="sub" style="position:relative; top: calc(-0.5 * (50vmin + 50vmax));"><summary>&#x1f4cf; &#x1f4d0; Resolução do exercício 1</summary>
+  <details class="sub" style="position:relative; top: calc(-0.25 * (50vmin + 50vmax));"><summary>&#x1f4cf; &#x1f4d0; Resolução do exercício 1</summary>
 	<div class="sub1"><p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
 	  <ul class="slider">
 		  <li>
