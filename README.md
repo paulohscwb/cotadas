@@ -10,7 +10,7 @@
   <summary id="desenho">Desenho Geométrico</summary>
   <div class="pagina">
 	<img src="dg/Cotadas_2020_0001.png" class="fundo" />  
-  <details class="sub" style="position: relative; top:-270px; left:70px; float:left;"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução do exercício 1</summary>
 	<div class="sub1"><p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
 	  <ul class="slider">
 		  <li>
@@ -47,7 +47,7 @@
 		<img src="dg/01_01_00.png" class="fundo" />
 	</div>
   </details>
-  <details class="sub" style="position: relative; top:-200px; left:70px; float:left;"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução do exercício 1, segundo caso</summary>
   <div class="sub1"><p>Agora veja como fica a construção da mediatriz do segmento <b>AB</b> próximo da margem da folha.</p>
   <ul class="slider">
        <li>
@@ -93,7 +93,7 @@
   </div>
   <div class="pagina">
 	<img src="dg/Cotadas_2020_0002.png" class="fundo" />
-  <details class="sub" style="position: relative; top:-700px; float:left;"><summary>&#x1f4cf; &#x1f4d0; Resolução com esquadros</summary>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução do exercício 2 (esquadros)</summary>
   <div class="sub1"><p>Podemos utilizar a régua e um dos esquadros ou a régua e o compasso para resolver este exercício. Primeiro, veja como é a construção com a régua e o esquadro de 45<sup>o</sup>.</p>
   <ul class="slider">
       <li>
@@ -130,7 +130,7 @@
     <img src="dg/02_01_00.png" class="fundo" />
   </div>
   </details>
-  <details class="sub" style="position: relative; top:-630px; float:left;"><summary>&#x1f4cf; &#x1f4d0; Resolução com compasso</summary>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução do exercício 2 (compasso)</summary>
   <div class="sub1"><p> Agora veja os passos da construção feita com régua e compasso.</p>
   <ul class="slider">
       <li>
@@ -167,7 +167,7 @@
     <img src="dg/02_01_05c.png" class="fundo" />
 	</div>
   </details>
-  <details class="sub" style="position: relative; top:-500px; float:left;"><summary>&#x1f4cf; &#x1f4d0; Resolução com esquadros</summary>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução do exercício 3 (esquadros)</summary>
   <div class="sub1"><p> Vamos utilizar a régua e um dos esquadros para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <ul class="slider">
       <li>
@@ -234,7 +234,7 @@
     <img src="dg/02_02_00.png" class="fundo" />
 	</div>
   </details>
-  <details class="sub" style="position: relative; top:-430px; float:left;"><summary>&#x1f4cf; &#x1f4d0; Resolução com compasso</summary>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução do exercício 3 (compasso)</summary>
     <div class="sub1"><p>Agora veja como fica a construção da reta perpendicular à reta <b>r</b> que passa por <b>P</b> usando régua e compasso.</p>
 	<ul class="slider">
        <li>
@@ -289,7 +289,7 @@
   <img src="dg/02_02_00c.png" class="fundo"/>
   </div>
   </details>
-  <details class="sub" style="position: relative; top:-300px; float:left;"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução do exercício 4</summary>
   <div class="sub1"><p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <ul class="slider">
       <li>
