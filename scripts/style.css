@@ -40,12 +40,14 @@ details {
 .sub {
   border: none;
   padding: 3px;
+  background: white;
 }
 .sub summary{
   font-size: 19px;
   font-weight: normal;
   margin-bottom: 5px;
   margin-left:10px;
+  background: none;
 }
 
 h3 {
