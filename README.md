@@ -10,45 +10,45 @@
   <summary id="desenho">Desenho Geométrico</summary>
   <div class="pagina">
 	<img src="dg/Cotadas_2020_0001.png" class="fundo" />  
-  <details class="sub" style="position: relative; top:-250px; float:left;"><summary>&#x1f4cf; &#x1f4d0; </summary>
-  <div class="sub1"><p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
-  <ul class="slider">
-      <li>
-           <input type="radio" id="slide1" name="slide" checked>
-           <label for="slide1">1</label>
-           <img src="dg/01_01_01.png" />
-           <figcaption>Com a ponta seca em <b>A</b>, desenhe um arco com raio maior do que a metade de <b>AB</b>.</figcaption>
-       </li>
-       <li>
-           <input type="radio" id="slide2" name="slide">
-           <label for="slide2">2</label>
-           <img src="dg/01_01_02.png" />
-           <figcaption>Com a ponta seca em <b>B</b>, desenhe um arco com o mesmo raio usado no passo anterior.</figcaption>
-       </li>
-       <li>
-           <input type="radio" id="slide3" name="slide">
-           <label for="slide3">3</label>
-           <img src="dg/01_01_03.png" />
-           <figcaption>Os pontos de interseção dos arcos são <b>P</b> e <b>Q</b>.</figcaption>
-       </li>
-       <li>
-           <input type="radio" id="slide4" name="slide">
-           <label for="slide4">4</label>
-           <img src="dg/01_01_04.png" />
-           <figcaption>Desenhe a reta que passa pelos pontos de interseção dos arcos.</figcaption>
-       </li>
-       <li>
-           <input type="radio" id="slide5" name="slide">
-           <label for="slide5">5</label>
-           <img src="dg/01_01_05.png" />
-           <figcaption>Pronto! A mediatriz do segmento <b>AB</b> está construída.</figcaption>
-       </li>
-    </ul>
-    <img src="dg/01_01_00.png" class="fundo" /></div>
+  <details class="sub" style="position: relative; top:-270px; left:70px; float:left;"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="sub1"><p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="slide1" name="slide" checked>
+			   <label for="slide1">1</label>
+			   <img src="dg/01_01_01.png" />
+			   <figcaption>Com a ponta seca em <b>A</b>, desenhe um arco com raio maior do que a metade de <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide2" name="slide">
+			   <label for="slide2">2</label>
+			   <img src="dg/01_01_02.png" />
+			   <figcaption>Com a ponta seca em <b>B</b>, desenhe um arco com o mesmo raio usado no passo anterior.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide3" name="slide">
+			   <label for="slide3">3</label>
+			   <img src="dg/01_01_03.png" />
+			   <figcaption>Os pontos de interseção dos arcos são <b>P</b> e <b>Q</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide4" name="slide">
+			   <label for="slide4">4</label>
+			   <img src="dg/01_01_04.png" />
+			   <figcaption>Desenhe a reta que passa pelos pontos de interseção dos arcos.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide5" name="slide">
+			   <label for="slide5">5</label>
+			   <img src="dg/01_01_05.png" />
+			   <figcaption>Pronto! A mediatriz do segmento <b>AB</b> está construída.</figcaption>
+		   </li>
+		</ul>
+		<img src="dg/01_01_00.png" class="fundo" />
+	</div>
   </details>
-  <a href="vr/rebatimento.html" target="_blank" class="visu" style="position: relative; top:-25vmin; left:80%; float:left;"></a>
-  <details class="sub" style="position: relative; top:-200px; float:left;"><summary>&#x1f4cf; &#x1f4d0; </summary>
-  <p>Agora veja como fica a construção da mediatriz do segmento <b>AB</b> próximo da margem da folha.</p>
+  <details class="sub" style="position: relative; top:-200px; left:70px; float:left;"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="sub1"><p>Agora veja como fica a construção da mediatriz do segmento <b>AB</b> próximo da margem da folha.</p>
   <ul class="slider">
        <li>
            <input type="radio" id="slide6" name="slide" checked>
@@ -88,11 +88,13 @@
        </li>
   </ul>
   <img src="dg/01_01_00.png" class="fundo"/>
-  </details>
-  <hr>
   </div>
-  <details class="sub"><summary>Exercício 2 da pág. 2: reta paralela</summary>
-  <p> Podemos utilizar a régua e um dos esquadros ou a régua e o compasso para resolver este exercício. Primeiro, veja como é a construção com a régua e o esquadro de 45<sup>o</sup>.</p>
+  </details>
+  </div>
+  <div class="pagina">
+	<img src="dg/Cotadas_2020_0002.png" class="fundo" />
+  <details class="sub" style="position: relative; top:-700px; float:left;"><summary>&#x1f4cf; &#x1f4d0; Resolução com esquadros</summary>
+  <div class="sub1"><p>Podemos utilizar a régua e um dos esquadros ou a régua e o compasso para resolver este exercício. Primeiro, veja como é a construção com a régua e o esquadro de 45<sup>o</sup>.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="slide12" name="slide" checked>
@@ -126,8 +128,9 @@
        </li>
     </ul>
     <img src="dg/02_01_00.png" class="fundo" />
-  <hr>
-  <p> Agora veja os passos da construção feita com régua e compasso.</p>
+  </div>
+  <details class="sub" style="position: relative; top:-630px; float:left;"><summary>&#x1f4cf; &#x1f4d0; Resolução com compasso</summary>
+  <div class="sub1"><p> Agora veja os passos da construção feita com régua e compasso.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="slide17" name="slide" checked>
@@ -161,10 +164,10 @@
        </li>
     </ul>
     <img src="dg/02_01_05c.png" class="fundo" />
+	</div>
   </details>
-  <hr>
-  <details class="sub"><summary>Exercício 3 da pág. 2: reta perpendicular</summary>
-  <p> Vamos utilizar a régua e um dos esquadros para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
+  <details class="sub" style="position: relative; top:-500px; float:left;"><summary>&#x1f4cf; &#x1f4d0; Resolução com esquadros</summary>
+  <div class="sub1"><p> Vamos utilizar a régua e um dos esquadros para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="slide22" name="slide" checked>
@@ -228,9 +231,11 @@
        </li>
     </ul>
     <img src="dg/02_02_00.png" class="fundo" />
-  <hr>
-    <p>Agora veja como fica a construção da reta perpendicular à reta <b>r</b> que passa por <b>P</b> usando régua e compasso.</p>
-  <ul class="slider">
+	</div>
+  </details>
+  <details class="sub" style="position: relative; top:-430px; float:left;"><summary>&#x1f4cf; &#x1f4d0; Resolução com compasso</summary>
+    <div class="sub1"><p>Agora veja como fica a construção da reta perpendicular à reta <b>r</b> que passa por <b>P</b> usando régua e compasso.</p>
+	<ul class="slider">
        <li>
            <input type="radio" id="slide32" name="slide" checked>
            <label for="slide32">1</label>
@@ -281,10 +286,10 @@
        </li>
   </ul>
   <img src="dg/02_02_00c.png" class="fundo"/>
+  </div>
   </details>
-  <hr>
-  <details class="sub"><summary>Exercício 4 da pág. 2: bissetriz</summary>
-  <p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
+  <details class="sub" style="position: relative; top:-300px; float:left;"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="sub1"><p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="slide40" name="slide" checked>
@@ -324,8 +329,9 @@
        </li>
     </ul>
     <img src="dg/02_03_00.png" class="fundo" />
+	</div>
   </details>
-  <hr>
+  </div>
   <details class="sub"><summary>Exercício 5 da pág. 3: transporte de ângulos</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <ul class="slider">
