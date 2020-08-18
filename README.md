@@ -93,7 +93,7 @@
   </div>
   <div class="pagina">
 	<img src="dg/Cotadas_2020_0002.png" />
-  <details class="sub" style="position:relative; top: max(calc(-177vmax * 1.41), calc(-177vmin * 0.71));"><summary>&#x1f4cf; &#x1f4d0; resolução com esquadros</summary>
+  <details class="sub" style="position:relative; top: max(calc(-100vmax * 1.41), calc(-100vmin * 0.71));"><summary>&#x1f4cf; &#x1f4d0; resolução com esquadros</summary>
   <div class="sub1"><p>Podemos utilizar a régua e um dos esquadros ou a régua e o compasso para resolver este exercício. Primeiro, veja como é a construção com a régua e o esquadro de 45<sup>o</sup>.</p>
   <ul class="slider">
       <li>
@@ -130,7 +130,7 @@
     <img src="dg/02_01_00.png" class="fundo" />
   </div>
   </details>
-  <details class="sub" style="position:relative; top: max(calc(-164vmax * 1.41), calc(-164vmin * 0.71));"><summary>&#x1f4cf; &#x1f4d0; resolução com compasso</summary>
+  <details class="sub" style="position:relative; top: max(calc(-0vmax * 1.41), calc(-0vmin * 0.71));"><summary>&#x1f4cf; &#x1f4d0; resolução com compasso</summary>
   <div class="sub1"><p> Agora veja os passos da construção feita com régua e compasso.</p>
   <ul class="slider">
       <li>
