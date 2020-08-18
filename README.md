@@ -11,7 +11,7 @@
   <div class="pagina">
 	<img src="dg/Cotadas_2020_0001.png" class="fundo" />  
   <details class="sub" style="position: relative; top:-65vh; float:left;"><summary>&#x1f4cf; &#x1f4d0; </summary>
-  <p class="sub1"> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
+  <span class="sub1"><p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="slide1" name="slide" checked>
@@ -44,7 +44,7 @@
            <figcaption>Pronto! A mediatriz do segmento <b>AB</b> está construída.</figcaption>
        </li>
     </ul>
-    <img src="dg/01_01_00.png" class="fundo" />
+    <img src="dg/01_01_00.png" class="fundo" /></span>
   </details>
   <a href="vr/rebatimento.html" target="_blank" class="visu" style="position: relative; top:-25vh; left:80%; float:left;"></a>
   <details class="sub" style="position: relative; top:-50vh; float:left;"><summary>&#x1f4cf; &#x1f4d0; </summary>
