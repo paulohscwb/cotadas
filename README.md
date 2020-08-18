@@ -10,8 +10,8 @@
   <summary id="desenho">Desenho Geométrico</summary>
   <div class="pagina">
 	<img src="dg/Cotadas_2020_0001.png" class="fundo" />  
-  <details class="sub" style="position: relative; top:-50vh; float:left;"><summary>Exercício 1 da pág. 1: mediatriz</summary>
-  <p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
+  <details class="sub" style="position: relative; top:-60vh; float:left;"><summary>&#x1f4cf; &#x1f4d0; </summary>
+  <p class="sub1"> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="slide1" name="slide" checked>
@@ -1700,6 +1700,7 @@
 		<img src="cotadas/47_03_01.png" />
 		<figcaption>Neste caso as retas são reversas, pois o ponto <b>P</b> possui cotas diferentes nas retas <b>r</b> e <b>s</b>. Use o link abaixo para visualizar este exemplo em 3D.</figcaption>
 		<a href="vr/47_incidencia6b.html" target="_blank" class="visu">Visualização em 3D do 6<sup>o</sup> caso de incidência</a>
+		<hr>
 		<h4>Mesmo plano projetante:</h4>
 		<p>Como as retas são concorrentes, basta verificar se o ângulo entre elas é 90<sup>o</sup>. Se for, elas são perpendiculares. Faremos isso através do método do rebatimento.</p>
 		<ul class="slider">
