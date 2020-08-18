@@ -10,7 +10,7 @@
   <summary id="desenho">Desenho Geométrico</summary>
   <div class="pagina">
 	<img src="dg/Cotadas_2020_0001.png" class="fundo" />  
-  <details class="sub" style="position: relative; top:-585px; float:left;"><summary>&#x1f4cf; &#x1f4d0; </summary>
+  <details class="sub" style="position: relative; top:calc(-1170/827*100%); float:left;"><summary>&#x1f4cf; &#x1f4d0; </summary>
   <div class="sub1"><p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <ul class="slider">
       <li>
