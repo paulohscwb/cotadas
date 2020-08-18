@@ -9,7 +9,7 @@
 <details>
   <summary id="desenho">Desenho Geométrico</summary>
   <div class="pagina">
-	<img src="dg/Cotadas_2020_0001.png" class="fundo" />  
+	<img src="dg/Cotadas_2020_0001.png" />  
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução do exercício 1</summary>
 	<div class="sub1"><p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
 	  <ul class="slider">
@@ -92,7 +92,7 @@
   </details>
   </div>
   <div class="pagina">
-	<img src="dg/Cotadas_2020_0002.png" class="fundo" />
+	<img src="dg/Cotadas_2020_0002.png" />
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução do exercício 2 (esquadros)</summary>
   <div class="sub1"><p>Podemos utilizar a régua e um dos esquadros ou a régua e o compasso para resolver este exercício. Primeiro, veja como é a construção com a régua e o esquadro de 45<sup>o</sup>.</p>
   <ul class="slider">
