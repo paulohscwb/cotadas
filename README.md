@@ -373,7 +373,6 @@
     <img src="dg/03_01_00.png" class="fundo" />
 	</div>
   </details>
-  <hr>
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Exercício 6 com régua e compasso</summary>
   <div class="sub1"><p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <h4>Ângulos de 60<sup>o</sup> e 30<sup>o</sup>:</h4>
@@ -512,7 +511,6 @@
     <img src="dg/03_02_14.png" class="fundo" />
 	</div>
 	</details>
-  <hr>
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Exercício 6 com régua e esquadros</summary>
   <div class="sub1"><p> Vamos utilizar a régua e os esquadros para resolver este exercício. Existem várias maneiras para construir ângulos usando os esquadros. Aqui veremos algumas. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <h4>Ângulos de 60<sup>o</sup> e 30<sup>o</sup>:</h4>
