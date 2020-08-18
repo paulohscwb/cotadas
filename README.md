@@ -7,10 +7,10 @@
 <hr>
 
 <details>
-  <summary id="desenho">Desenho Geométrico</summary>
+  <summary id="desenho">Desenho Geométrico: pág. 1-10</summary>
   <div class="pagina">
 	<img src="dg/Cotadas_2020_0001.png" />  
-   <details class="sub" style="position:relative; top: -200px; float:left"><summary>&#x1f4cf; &#x1f4d0; resolução: 1<sup>o</sup> segmento</summary>
+   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; resolução: 1<sup>o</sup> segmento</summary>
 	<div class="sub1"><p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
 	  <ul class="slider">
 		  <li>
@@ -93,7 +93,7 @@
   </div>
   <div class="pagina">
 	<img src="dg/Cotadas_2020_0002.png" />
-  <details class="sub" style="position:relative; top: -200px; float:left"><summary>&#x1f4cf; &#x1f4d0; Exercício 2 com esquadros</summary>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Exercício 2 com esquadros</summary>
   <div class="sub1"><p>Podemos utilizar a régua e um dos esquadros ou a régua e o compasso para resolver este exercício. Primeiro, veja como é a construção com a régua e o esquadro de 45<sup>o</sup>.</p>
   <ul class="slider">
       <li>
@@ -333,8 +333,11 @@
 	</div>
   </details>
   </div>
-  <details class="sub"><summary>Exercício 5 da pág. 3: transporte de ângulos</summary>
-  <p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
+  <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+  <div class="pagina">
+	<img src="dg/Cotadas_2020_0003.png" />
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Exercício 5</summary>
+  <div class="sub1"><p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="slide45" name="slide" checked>
@@ -368,10 +371,11 @@
        </li>
     </ul>
     <img src="dg/03_01_00.png" class="fundo" />
+	</div>
   </details>
   <hr>
-  <details class="sub"><summary>Exercício 6 da pág. 3: construção de ângulos com régua e compasso</summary>
-  <p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Exercício 6 com régua e compasso</summary>
+  <div class="sub1"><p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <h4>Ângulos de 60<sup>o</sup> e 30<sup>o</sup>:</h4>
   <ul class="slider">
       <li>
@@ -506,10 +510,11 @@
        </li>
     </ul>
     <img src="dg/03_02_14.png" class="fundo" />
+	</div>
 	</details>
   <hr>
-  <details class="sub"><summary>Exercício 6 da pág. 3: construção de ângulos com régua e esquadros</summary>
-  <p> Vamos utilizar a régua e os esquadros para resolver este exercício. Existem várias maneiras para construir ângulos usando os esquadros. Aqui veremos algumas. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Exercício 6 com régua e esquadros</summary>
+  <div class="sub1"><p> Vamos utilizar a régua e os esquadros para resolver este exercício. Existem várias maneiras para construir ângulos usando os esquadros. Aqui veremos algumas. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <h4>Ângulos de 60<sup>o</sup> e 30<sup>o</sup>:</h4>
   <ul class="slider">
       <li>
@@ -716,10 +721,14 @@
        </li>
     </ul>
     <img src="dg/03_02_20e.png" class="fundo" />
+	</div>
 	</details>
-  <hr>
-  <details class="sub"><summary>Exercício 7 da pág. 4: divisão de segmentos</summary>
-  <p>Para dividirmos um segmento graficamente em partes iguais utilizamos o Teorema de Tales que diz que “Um feixe (conjunto) de retas paralelas determina sobre um feixe de retas concorrentes segmentos proporcionais correspondentes”.</p>
+  </div>
+  <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+  <div class="pagina">
+	<img src="dg/Cotadas_2020_0004.png" />
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Exercício 7</summary>
+  <div class="sub1"><p>Para dividirmos um segmento graficamente em partes iguais utilizamos o Teorema de Tales que diz que “Um feixe (conjunto) de retas paralelas determina sobre um feixe de retas concorrentes segmentos proporcionais correspondentes”.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="slide003" name="slide" checked>
@@ -783,10 +792,10 @@
        </li>
     </ul>
     <img src="dg/04_01_00.png" class="fundo" />
+	</div>
   </details>
-  <hr>
-  <details class="sub"><summary>Exercício 8 da pág. 4: divisão de segmentos</summary>
-  <p>Para dividirmos o segmento <b>AB</b> graficamente em partes proporcionais a números dados vamos aplicar o Teorema de Tales. Temos que construir um feixe de retas concorrentes cortadas por um feixe de paralelas, lembra?</p>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Exercício 8</summary>
+  <div class="sub1"><p>Para dividirmos o segmento <b>AB</b> graficamente em partes proporcionais a números dados vamos aplicar o Teorema de Tales. Temos que construir um feixe de retas concorrentes cortadas por um feixe de paralelas, lembra?</p>
   <ul class="slider">
       <li>
            <input type="radio" id="slide013" name="slide" checked>
@@ -838,10 +847,10 @@
        </li>
     </ul>
     <img src="dg/04_02_00.png" class="fundo" />
+	</div>
   </details>
-  <hr>
-  <details class="sub"><summary>Exercício 9 da pág. 4: cirunferência que passa por 3 pontos</summary>
-  <p>Para construir a circunferência pertencente aos pontos dados <b>A</b>, <b>B</b> e <b>C</b>, devemos encontrar o centro <b>O</b> da mesma para depois desenhá-la com o compasso. Antes de iniciarmos a construção devemos pensar na estratégia de solução! Acompanhe o desenvolvimento do raciocínio e depois a resolução gráfica!</p>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Exercício 9</summary>
+  <div class="sub1"><p>Para construir a circunferência pertencente aos pontos dados <b>A</b>, <b>B</b> e <b>C</b>, devemos encontrar o centro <b>O</b> da mesma para depois desenhá-la com o compasso. Antes de iniciarmos a construção devemos pensar na estratégia de solução! Acompanhe o desenvolvimento do raciocínio e depois a resolução gráfica!</p>
   <ul class="slider">
       <li>
            <input type="radio" id="slide021" name="slide" checked>
@@ -905,8 +914,177 @@
        </li>
     </ul>
     <img src="dg/04_03_00.png" class="fundo" />
+	</div>
   </details>
-  <hr>
+  </div>
+  <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+  <div class="pagina">
+	<img src="dg/Cotadas_2020_0005.png" />
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Exercício 10</summary>
+  <div class="sub1"><p>Num triângulo <b>ABC</b>, o lado oposto ao vértice <b>A</b> é denotado por <b>a=BC</b>, o lado oposto ao <b>B</b> é denotado por <b>b=AC</b> e o lado oposto ao <b>C</b> é denotado por <b>c=AB</b>. Para construir um triângulo <b>ABC</b> dados os lados é necessário determinar a posição dos seus vértices <b>A</b>, <b>B</b> e <b>C</b>. Vamos à construção!</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="slide031" name="slide" checked>
+           <label for="slide031">1</label>
+           <img src="dg/05_01_01.png" />
+           <figcaption>Construa uma reta suporte <b>r</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide032" name="slide">
+           <label for="slide032">2</label>
+           <img src="dg/05_01_02.png" />
+           <figcaption>Marque um ponto <b>B</b> sobre a mesma. Esse será o primeiro vértice do triângulo que queremos construir.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide033" name="slide">
+           <label for="slide033">3</label>
+           <img src="dg/05_01_03.png" />
+           <figcaption>Vamos agora obter o vértice <b>C</b>! Sabemos que a distância entre <b>B</b> e <b>C</b> mede <b>a=7cm</b>. Basta então construir o arco de centro em <b>B</b> e raio <b>a=7cm</b>, na interseção com a reta <b>r</b> teremos <b>C</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide034" name="slide">
+           <label for="slide034">4</label>
+           <img src="dg/05_01_04.png" />
+           <figcaption>Falta somente o vértice <b>A</b>! Sabemos que a distância entre <b>B</b> e <b>A</b> mede <b>c=9cm</b>. Logo, A estará sobre uma circunferência de centro <b>B</b> e raio <b>c=9cm</b>! Construa essa primeira circunferência!</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide035" name="slide">
+           <label for="slide035">5</label>
+           <img src="dg/05_01_05.png" />
+           <figcaption>Sabemos que a distância entre <b>C</b> e A mede <b>b=6cm</b>. Assim, A estará sobre uma circunferência de centro <b>C</b> e raio <b>b=6cm</b>! Construa essa segunda circunferência! Na interseção dessas duas circunferências obtemos o vértice <b>A</b> do triângulo!</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide036" name="slide">
+           <label for="slide036">6</label>
+           <img src="dg/05_01_06.png" />
+           <figcaption>Pronto! Com os três vértices determinados podemos representar agora o triângulo <b>ABC</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide037" name="slide">
+           <label for="slide037">7</label>
+           <img src="dg/05_01_07.png" />
+           <figcaption>Para obter o circuncentro <b>O</b> basta construir as mediatrizes dos lados do triângulo <b>ABC</b>. Temos três lados e, portanto, três mediatrizes. Basta construir duas apenas. Construa a mediatriz do lado <b>AB</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide038" name="slide">
+           <label for="slide038">8</label>
+           <img src="dg/05_01_08.png" />
+           <figcaption>Construa a mediatriz do lado <b>AC</b>. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide039" name="slide">
+           <label for="slide039">9</label>
+           <img src="dg/05_01_09.png" />
+           <figcaption>Essas duas mediatrizes se encontram no ponto <b>O</b> denominado de Circuncentro do triângulo <b>ABC</b>. Note que esse ponto é equidistante das extremidades dos segmentos <b>AB</b> e <b>AC</b> e, portanto, é equidistante dos três pontos ao mesmo tempo!</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide040" name="slide">
+           <label for="slide040">10</label>
+           <img src="dg/05_01_10.png" />
+           <figcaption>Logo, o circuncentro <b>O</b> é o centro da circunferência circunscrita ao triângulo <b>ABC</b>!</figcaption>
+       </li>
+    </ul>
+    <img src="dg/05_01_00.png" class="fundo" />
+	</div>
+  </details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Exercício 11</summary>
+  <div class="sub1"><p>Para obter o baricentro <b>G</b> do triângulo precisamos construir as medianas do mesmo. Uma mediana é um segmento que une um vértice do triângulo ao ponto médio do lado oposto. Veja como resolver o exercício.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="slide041" name="slide" checked>
+           <label for="slide041">1</label>
+           <img src="dg/05_02_01.png" />
+           <figcaption>Vamos nomear os vértices do triângulo como <b>A</b>, <b>B</b> e <b>C</b>. Construa as mediatrizes dos lados <b>AB</b> e <b>AC</b>, obtendo também os pontos médios <b>Mc</b> e <b>Mb</b>, respectivamente.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide043" name="slide">
+           <label for="slide043">2</label>
+           <img src="dg/05_02_02.png" />
+           <figcaption>Desenhe o segmentomb ligando o ponto <b>B</b> ao ponto médio <b>Mb</b> do lado oposto, este é a mediana relativa ao lado <b>b</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide042" name="slide">
+           <label for="slide042">3</label>
+           <img src="dg/05_02_03.png" />
+           <figcaption>Agora desenhe o segmento mcligando o ponto <b>C</b> ao ponto médio <b>Mc</b> do lado oposto, este é a mediana relativa ao lado <b>c</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide044" name="slide">
+           <label for="slide044">4</label>
+           <img src="dg/05_02_04.png" />
+           <figcaption>A interseção das duas medianas <b>mb</b> e <b>mc</b> nos dá o baricentro <b>G</b> Note que não é preciso desenhar a terceira mediana <b>ma</b>!  O baricentro possui uma propriedade importante: ele divide cada mediana em duas partes, sendo que a parte que contém o vértice tem o dobro do tamanho da parte que contém o ponto médio. Meça no desenho para verificar!</figcaption>
+       </li>
+    </ul>
+    <img src="dg/05_02_00.png" class="fundo" />
+	</div>
+  </details>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Exercício 12</summary>
+  <div class="sub1"><p>Para obter o Incentro <b>I</b> do triângulo precisamos construir as bissetrizes internas do mesmo. Veja como resolver o exercício.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="slide045" name="slide" checked>
+           <label for="slide045">1</label>
+           <img src="dg/05_03_01.png" />
+           <figcaption>Vamos nomear os vértices do triângulo como <b>A</b>, <b>B</b> e <b>C</b>. Construa a bissetriz <b>b<sub>b</sub></b> do ângulo interno <b>B</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide046" name="slide">
+           <label for="slide046">2</label>
+           <img src="dg/05_03_02.png" />
+           <figcaption>Construa a bissetriz <b>b<sub>c</sub></b> do ângulo interno <b>b<sub>b</sub></b>C</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide047" name="slide">
+           <label for="slide047">3</label>
+           <img src="dg/05_03_03.png" />
+           <figcaption>A interseção duas bissetrizes nos dá o Incentro <b>I</b> do triângulo <b>ABC</b>. Esse ponto <b>I</b> é equidistante dos três lados do triângulo e, portanto, ele é o centro de circunferência inscrita ao triângulo. Vamos obter essa circunferência!</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide048" name="slide">
+           <label for="slide048">4</label>
+           <img src="dg/05_03_04.png" />
+           <figcaption>Construa por <b>I</b> retas perpendiculares aos lados do triângulo, obtendo os pontos <b>Ta</b>, <b>Tb</b> e <b>Tc</b>. </figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide049" name="slide">
+           <label for="slide049">5</label>
+           <img src="dg/05_03_05.png" />
+           <figcaption>Construa a circunferência de centro no Incentro <b>I</b> e raio de <b>I</b> até <b>Ta</b>. Essa circunferência é tangente aos lados do triângulo <b>ABC</b>. </figcaption>
+       </li>
+    </ul>
+    <img src="dg/05_03_00.png" class="fundo" />
+	</div>
+  </details>
+  </div>
+  <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+  <div class="pagina">
+	<img src="dg/Cotadas_2020_0006.png" />
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Exercício 13</summary>
+  <div class="sub1"><p>Para obtermos o Ortocentro <b>H</b> do triângulo precisamos construir suas alturas.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="slide050" name="slide" checked>
+           <label for="slide050">1</label>
+           <img src="dg/06_01_01.png" />
+           <figcaption>Construa pelo vértice <b>B</b> uma reta perpendicular ao lado oposto <b>b</b>, obtendo o ponto <b>Hb</b> sobre a reta <b>AC</b>. Essa reta é denominada de reta suporte da altura. E a altura relativa ao lado <b>b</b> é o segmento <b>BHb</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide051" name="slide">
+           <label for="slide051">2</label>
+           <img src="dg/06_01_02.png" />
+           <figcaption>Agora construa pelo vértice <b>C</b> uma reta perpendicular ao lado oposto <b>c</b>, obtendo o ponto <b>Hc</b> sobre a reta <b>AB</b>. A altura relativa ao lado <b>c</b> é o segmento <b>CHc</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide052" name="slide">
+           <label for="slide052">3</label>
+           <img src="dg/06_01_03.png" />
+           <figcaption>A interseção das retas suportes das alturas nos fornece o Ortocentro <b>H</b> do triângulo <b>ABC</b>.</figcaption>
+       </li>
+    </ul>
+    <img src="dg/06_01_00.png" class="fundo" />
+	</div>
+  </details>
+  </div>
   <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
