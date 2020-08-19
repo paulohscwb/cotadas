@@ -1803,7 +1803,7 @@
 	  </details>
 	  <img src="cotadas/Cotadas_2020_0029a.png" />
 	  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<p>Usando os mesmos conceitos do item a, encontre a vg do segmento <b>CD</b>.
+		<p>Usando os mesmos conceitos do item a, encontre a vg do segmento <b>CD</b>.</p>
 		<img src="cotadas/29_02_00.png"/>
 	  </details>
 	  <img src="cotadas/Cotadas_2020_0029b.png" />
