@@ -8,10 +8,9 @@
 
 <details>
   <summary id="desenho">Desenho Geométrico: pág. 1-10</summary>
-  <div class="pagina">
-	<img src="dg/Cotadas_2020_0001.png" />  
+   <img src="dg/Cotadas_2020_0001.png" />  
    <details class="sub"><summary>&#x1f4cf; &#x1f4d0; resolução: 1<sup>o</sup> segmento</summary>
-	<div class="sub1"><p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
+	<p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="slide1" name="slide" checked>
@@ -45,10 +44,9 @@
 		   </li>
 		</ul>
 		<img src="dg/01_01_00.png" class="fundo" />
-	</div>
   </details>
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; resolução: 2<sup>o</sup> segmento</summary>
-  <div class="sub1"><p>Agora veja como fica a construção da mediatriz do segmento <b>AB</b> próximo da margem da folha.</p>
+  <p>Agora veja como fica a construção da mediatriz do segmento <b>AB</b> próximo da margem da folha.</p>
   <ul class="slider">
        <li>
            <input type="radio" id="slide6" name="slide" checked>
@@ -88,13 +86,10 @@
        </li>
   </ul>
   <img src="dg/01_01_00.png" class="fundo"/>
-  </div>
   </details>
-  </div>
-  <div class="pagina">
-	<img src="dg/Cotadas_2020_0002.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Exercício 2 com esquadros</summary>
-  <div class="sub1"><p>Podemos utilizar a régua e um dos esquadros ou a régua e o compasso para resolver este exercício. Primeiro, veja como é a construção com a régua e o esquadro de 45<sup>o</sup>.</p>
+  <img src="dg/Cotadas_2020_0002.png" />
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução com esquadros</summary>
+  <p>Podemos utilizar a régua e um dos esquadros ou a régua e o compasso para resolver este exercício. Primeiro, veja como é a construção com a régua e o esquadro de 45<sup>o</sup>.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="slide12" name="slide" checked>
@@ -128,10 +123,9 @@
        </li>
     </ul>
     <img src="dg/02_01_00.png" class="fundo" />
-  </div>
   </details>
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Exercício 2 com compasso</summary>
-  <div class="sub1"><p> Agora veja os passos da construção feita com régua e compasso.</p>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução com régua e compasso</summary>
+  <p> Agora veja os passos da construção feita com régua e compasso.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="slide17" name="slide" checked>
@@ -165,10 +159,10 @@
        </li>
     </ul>
     <img src="dg/02_01_05c.png" class="fundo" />
-	</div>
   </details>
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Exercício 3 com esquadros</summary>
-  <div class="sub1"><p> Vamos utilizar a régua e um dos esquadros para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
+  <img src="dg/Cotadas_2020_0002a.png" />
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução com esquadros</summary>
+  <p> Vamos utilizar a régua e um dos esquadros para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="slide22" name="slide" checked>
@@ -232,10 +226,9 @@
        </li>
     </ul>
     <img src="dg/02_02_00.png" class="fundo" />
-	</div>
   </details>
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Exercício 3 com compasso</summary>
-    <div class="sub1"><p>Agora veja como fica a construção da reta perpendicular à reta <b>r</b> que passa por <b>P</b> usando régua e compasso.</p>
+    <p>Agora veja como fica a construção da reta perpendicular à reta <b>r</b> que passa por <b>P</b> usando régua e compasso.</p>
 	<ul class="slider">
        <li>
            <input type="radio" id="slide32" name="slide" checked>
@@ -287,10 +280,10 @@
        </li>
   </ul>
   <img src="dg/02_02_00c.png" class="fundo"/>
-  </div>
   </details>
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Exercício 4</summary>
-  <div class="sub1"><p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
+  <img src="dg/Cotadas_2020_0002b.png" />
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="slide40" name="slide" checked>
@@ -330,14 +323,11 @@
        </li>
     </ul>
     <img src="dg/02_03_00.png" class="fundo" />
-	</div>
   </details>
-  </div>
   <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
-  <div class="pagina">
 	<img src="dg/Cotadas_2020_0003.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Exercício 5</summary>
-  <div class="sub1"><p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="slide45" name="slide" checked>
@@ -371,10 +361,10 @@
        </li>
     </ul>
     <img src="dg/03_01_00.png" class="fundo" />
-	</div>
   </details>
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Exercício 6 com régua e compasso</summary>
-  <div class="sub1"><p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
+  <img src="dg/Cotadas_2020_0003a.png" />
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução com régua e compasso</summary>
+  <p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <h4>Ângulos de 60<sup>o</sup> e 30<sup>o</sup>:</h4>
   <ul class="slider">
       <li>
@@ -509,10 +499,9 @@
        </li>
     </ul>
     <img src="dg/03_02_14.png" class="fundo" />
-	</div>
 	</details>
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Exercício 6 com régua e esquadros</summary>
-  <div class="sub1"><p> Vamos utilizar a régua e os esquadros para resolver este exercício. Existem várias maneiras para construir ângulos usando os esquadros. Aqui veremos algumas. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução com esquadros</summary>
+  <p> Vamos utilizar a régua e os esquadros para resolver este exercício. Existem várias maneiras para construir ângulos usando os esquadros. Aqui veremos algumas. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <h4>Ângulos de 60<sup>o</sup> e 30<sup>o</sup>:</h4>
   <ul class="slider">
       <li>
@@ -719,14 +708,11 @@
        </li>
     </ul>
     <img src="dg/03_02_20e.png" class="fundo" />
-	</div>
 	</details>
-  </div>
   <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
-  <div class="pagina">
-	<img src="dg/Cotadas_2020_0004.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Exercício 7</summary>
-  <div class="sub1"><p>Para dividirmos um segmento graficamente em partes iguais utilizamos o Teorema de Tales que diz que “Um feixe (conjunto) de retas paralelas determina sobre um feixe de retas concorrentes segmentos proporcionais correspondentes”.</p>
+  <img src="dg/Cotadas_2020_0004.png" />
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Para dividirmos um segmento graficamente em partes iguais utilizamos o Teorema de Tales que diz que “Um feixe (conjunto) de retas paralelas determina sobre um feixe de retas concorrentes segmentos proporcionais correspondentes”.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="slide003" name="slide" checked>
@@ -790,10 +776,10 @@
        </li>
     </ul>
     <img src="dg/04_01_00.png" class="fundo" />
-	</div>
   </details>
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Exercício 8</summary>
-  <div class="sub1"><p>Para dividirmos o segmento <b>AB</b> graficamente em partes proporcionais a números dados vamos aplicar o Teorema de Tales. Temos que construir um feixe de retas concorrentes cortadas por um feixe de paralelas, lembra?</p>
+  <img src="dg/Cotadas_2020_0004a.png" />
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Para dividirmos o segmento <b>AB</b> graficamente em partes proporcionais a números dados vamos aplicar o Teorema de Tales. Temos que construir um feixe de retas concorrentes cortadas por um feixe de paralelas, lembra?</p>
   <ul class="slider">
       <li>
            <input type="radio" id="slide013" name="slide" checked>
@@ -845,10 +831,10 @@
        </li>
     </ul>
     <img src="dg/04_02_00.png" class="fundo" />
-	</div>
   </details>
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Exercício 9</summary>
-  <div class="sub1"><p>Para construir a circunferência pertencente aos pontos dados <b>A</b>, <b>B</b> e <b>C</b>, devemos encontrar o centro <b>O</b> da mesma para depois desenhá-la com o compasso. Antes de iniciarmos a construção devemos pensar na estratégia de solução! Acompanhe o desenvolvimento do raciocínio e depois a resolução gráfica!</p>
+  <img src="dg/Cotadas_2020_0004b.png" />
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Para construir a circunferência pertencente aos pontos dados <b>A</b>, <b>B</b> e <b>C</b>, devemos encontrar o centro <b>O</b> da mesma para depois desenhá-la com o compasso. Antes de iniciarmos a construção devemos pensar na estratégia de solução! Acompanhe o desenvolvimento do raciocínio e depois a resolução gráfica!</p>
   <ul class="slider">
       <li>
            <input type="radio" id="slide021" name="slide" checked>
@@ -912,14 +898,11 @@
        </li>
     </ul>
     <img src="dg/04_03_00.png" class="fundo" />
-	</div>
   </details>
-  </div>
   <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
-  <div class="pagina">
-	<img src="dg/Cotadas_2020_0005.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Exercício 10</summary>
-  <div class="sub1"><p>Num triângulo <b>ABC</b>, o lado oposto ao vértice <b>A</b> é denotado por <b>a=BC</b>, o lado oposto ao <b>B</b> é denotado por <b>b=AC</b> e o lado oposto ao <b>C</b> é denotado por <b>c=AB</b>. Para construir um triângulo <b>ABC</b> dados os lados é necessário determinar a posição dos seus vértices <b>A</b>, <b>B</b> e <b>C</b>. Vamos à construção!</p>
+  <img src="dg/Cotadas_2020_0005.png" />
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Num triângulo <b>ABC</b>, o lado oposto ao vértice <b>A</b> é denotado por <b>a=BC</b>, o lado oposto ao <b>B</b> é denotado por <b>b=AC</b> e o lado oposto ao <b>C</b> é denotado por <b>c=AB</b>. Para construir um triângulo <b>ABC</b> dados os lados é necessário determinar a posição dos seus vértices <b>A</b>, <b>B</b> e <b>C</b>. Vamos à construção!</p>
   <ul class="slider">
       <li>
            <input type="radio" id="slide031" name="slide" checked>
@@ -983,10 +966,10 @@
        </li>
     </ul>
     <img src="dg/05_01_00.png" class="fundo" />
-	</div>
   </details>
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Exercício 11</summary>
-  <div class="sub1"><p>Para obter o baricentro <b>G</b> do triângulo precisamos construir as medianas do mesmo. Uma mediana é um segmento que une um vértice do triângulo ao ponto médio do lado oposto. Veja como resolver o exercício.</p>
+  <img src="dg/Cotadas_2020_0005a.png" />
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Para obter o baricentro <b>G</b> do triângulo precisamos construir as medianas do mesmo. Uma mediana é um segmento que une um vértice do triângulo ao ponto médio do lado oposto. Veja como resolver o exercício.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="slide041" name="slide" checked>
@@ -1014,10 +997,10 @@
        </li>
     </ul>
     <img src="dg/05_02_00.png" class="fundo" />
-	</div>
   </details>
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Exercício 12</summary>
-  <div class="sub1"><p>Para obter o Incentro <b>I</b> do triângulo precisamos construir as bissetrizes internas do mesmo. Veja como resolver o exercício.</p>
+  <img src="dg/Cotadas_2020_0005b.png" />
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Para obter o Incentro <b>I</b> do triângulo precisamos construir as bissetrizes internas do mesmo. Veja como resolver o exercício.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="slide045" name="slide" checked>
@@ -1051,14 +1034,11 @@
        </li>
     </ul>
     <img src="dg/05_03_00.png" class="fundo" />
-	</div>
   </details>
-  </div>
   <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
-  <div class="pagina">
-	<img src="dg/Cotadas_2020_0006.png" />
+  <img src="dg/Cotadas_2020_0006.png" />
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Exercício 13</summary>
-  <div class="sub1"><p>Para obtermos o Ortocentro <b>H</b> do triângulo precisamos construir suas alturas.</p>
+  <p>Para obtermos o Ortocentro <b>H</b> do triângulo precisamos construir suas alturas.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="slide050" name="slide" checked>
@@ -1080,9 +1060,7 @@
        </li>
     </ul>
     <img src="dg/06_01_00.png" class="fundo" />
-	</div>
   </details>
-  </div>
   <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
 </details>
 
