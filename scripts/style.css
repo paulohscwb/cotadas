@@ -33,6 +33,11 @@ details {
   border-radius: 7px;
   width:100%;
 }
+
+details img {
+	width:100%;
+}
+
 .sub {
   border: none;
   padding: 3px;
@@ -99,6 +104,7 @@ h3::after {
  .slider img {
      width: 100%;
  }
+ 
 .slider input {
     display: none;
 }
