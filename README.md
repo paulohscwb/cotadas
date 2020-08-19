@@ -2623,9 +2623,9 @@
   <br><a href="#superficies" class="topo">voltar ao topo</a>
 </details>
 
-
+<center>
 <br><b>site desenvolvido por:</b> Paulo Henrique Siqueira 
-<br><b>construções geométricas feitas pelos professores do Grupo de Estudos em Expressão Gráfica da Universidade Federal do Paraná:</b>
+<br><b>construções geométricas feitas pelos professores do Grupo de Estudos em Expressão Gráfica (GEEGRAF) da Universidade Federal do Paraná (UFPR):</b>
 <br>Deise Maria Bertholdi Costa
 <br>Emerson Rolkouski
 <br>Luzia Vidal de Souza
@@ -2634,10 +2634,10 @@
 <br><b>Objetos 3D programados em RA e RV:</b> Paulo Henrique Siqueira 
 <br><b>contato:</b> paulohscwb@gmail.com 
 <br>Para ver os objetos em Realidade Aumentada, visite o site:
-<br><center><a href="https://paulohscwb.github.io/cotadas/ra.html"> https://paulohscwb.github.io/cotadas/ra.html</a></center>
-<br>em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
-<br>O acesso aos sites de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.
-<br><br><center><img src="https://paulohscwb.github.io/cotadas/vr/exemplo.jpg" width="80%"></center>
+<br><a href="https://paulohscwb.github.io/cotadas/ra.html"> https://paulohscwb.github.io/cotadas/ra.html</a>
+<p>em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).</p>
+<p>O acesso aos sites de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.</p>
+<br><br><img src="https://paulohscwb.github.io/cotadas/vr/exemplo.jpg" width="80%"></center>
 
 <br><br><b>Referências:</b>
 <br>O ambiente Realidade Aumentada foi criado com os scripts de <b>Jerome Etienne</b>: <a href="https://github.com/jeromeetienne/AR.js"> AR.js - Augmented Reality for the Web</a>.
