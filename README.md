@@ -227,7 +227,7 @@
     </ul>
     <img src="dg/02_02_00.png" class="fundo" />
   </details>
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Exercício 3 com compasso</summary>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução com régua e compasso</summary>
     <p>Agora veja como fica a construção da reta perpendicular à reta <b>r</b> que passa por <b>P</b> usando régua e compasso.</p>
 	<ul class="slider">
        <li>
@@ -1037,7 +1037,7 @@
   </details>
   <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
   <img src="dg/Cotadas_2020_0006.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Exercício 13</summary>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para obtermos o Ortocentro <b>H</b> do triângulo precisamos construir suas alturas.</p>
   <ul class="slider">
       <li>
