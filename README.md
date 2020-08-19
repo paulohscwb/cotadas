@@ -1063,7 +1063,80 @@
     <img src="dg/06_01_00.png" class="fundo" />
   </details>
   <img src="dg/Cotadas_2020_0006a.png" />
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Quando dividimos uma circunferência em partes iguais estamos dividindo o ângulo central de <b>360°</b> em partes iguais e também estamos construindo polígonos regulares inscritos nessa circunferência. É importante observar que se a circunferência for dividida em <b>n</b> partes iguais, também será facilmente dividida em <b>2n</b> partes, bastando traçar bissetrizes dos ângulos centrais.</p> 
+  <p>Vamos dividir a circunferência em <b>3</b> partes iguais, ou seja, construir o polígono regular de <b>3</b> lados inscrito na circunferência dada. Esse será o <b>triângulo equilátero</b>!</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="slide053" name="slide" checked>
+           <label for="slide053">1</label>
+           <img src="dg/06_02_01.png" />
+           <figcaption>Marque um ponto <b>A</b> qualquer sobre a circunferência dada.Coloque a ponta seca do compasso no ponto <b>A</b> e abra até chegar ao centro <b>O</b> da circunferência dada. Estamos “pegando” o raio <b>OA</b> com o compasso. </figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide054" name="slide">
+           <label for="slide054">2</label>
+           <img src="dg/06_02_02.png" />
+           <figcaption>Construa dois arcos de circunferência, um para a esquerda e outro para a direita, com centro em <b>A</b> e raio <b>OA</b>, obtendo os pontos <b>B</b> e <b>F</b>, respectivamente.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide055" name="slide">
+           <label for="slide055">3</label>
+           <img src="dg/06_02_03.png" />
+           <figcaption>Agora com centro em <b>B</b> e raio <b>OA</b> construa mais um arco obtendo o ponto <b>C</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide056" name="slide">
+           <label for="slide056">4</label>
+           <img src="dg/06_02_04.png" />
+           <figcaption>Com centro em <b>F</b> e raio <b>OA</b> construa mais um arco obtendo o ponto <b>E</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide057" name="slide">
+           <label for="slide057">5</label>
+           <img src="dg/06_02_05.png" />
+           <figcaption>Com centro ou em <b>E</b> ou em <b>C</b>, construa mais um arco obtendo um ponto <b>D</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide058" name="slide">
+           <label for="slide058">6</label>
+           <img src="dg/06_02_06.png" />
+           <figcaption>Acabamos de dividir a circunferência em 6 partes iguais obtendo o hexágono regular inscrito na circunferência! Pois construímos 6 triângulos: <b>OAB</b>, <b>OBC</b>, <b>OCD</b>, <b>ODE</b>, <b>OEF</b> e <b>OFA</b>, todos equiláteros de lado <b>OA</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide059" name="slide">
+           <label for="slide059">7</label>
+           <img src="dg/06_02_07.png" />
+           <figcaption>Finalmente para obter o triângulo equilátero inscrito nessa circunferência basta unir os vértices <b>B</b>, <b>D</b> e <b>F</b>, por exemplo.</figcaption>
+       </li>
+    </ul>
+    <img src="dg/06_02_00.png" class="fundo" />
+  </details>
   <img src="dg/Cotadas_2020_0006b.png" />
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos dividir a circunferência em <b>4</b> partes iguais, ou seja, construir o polígono regular de <b>4</b> lados inscrito na circunferência dada. Esse será o quadrado!</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="slide060" name="slide" checked>
+           <label for="slide060">1</label>
+           <img src="dg/06_03_01.png" />
+           <figcaption>Marque um ponto <b>A</b> qualquer sobre a circunferência dada. Construa a reta <b>OA</b> obtendo o ponto <b>C</b> sobre a circunferência.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide061" name="slide">
+           <label for="slide061">2</label>
+           <img src="dg/06_03_02.png" />
+           <figcaption>Usando os esquadros construa uma reta perpendicular à reta <b>OA</b> passando pelo centro <b>O</b>, obtendo os pontos <b>B</b> e <b>D</b> sobre a circunferência. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide062" name="slide">
+           <label for="slide062">3</label>
+           <img src="dg/06_03_03.png" />
+           <figcaption>Agora desenhe o polígono <b>ABCD</b>. Ele é um quadrado pois os ângulos centrais formados são de <b>90°</b>.</figcaption>
+       </li>
+    </ul>
+    <img src="dg/06_03_00.png" class="fundo" />
+  </details>
   <br><a href="#desenho" class="topo">voltar ao topo</a>
   <img src="dg/Cotadas_2020_0007.png" />
   <img src="dg/Cotadas_2020_0007a.png" />
@@ -1918,7 +1991,34 @@
 	  </details>
 	<br><a href="#pontos" class="topo">voltar ao topo</a>
 	<img src="cotadas/Cotadas_2020_0031.png" />
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="slide521" name="slide" checked>
+			   <label for="slide521">1</label>
+			   <img src="cotadas/31_03_01.png" />
+			<figcaption>Usando o seu esquadro, trace paralelas aos eixos nas coordenadas indicadas marcando as projeções <b>A’</b> e <b>B’</b>. Indique suas cotas e trace o segmento <b>A’B’</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide522" name="slide">
+			   <label for="slide522">2</label>
+			   <img src="cotadas/31_03_02.png" />
+			 <figcaption>Traça-se um segmento perpendicular a <b>A’B’</b>, por <b>A’</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide523" name="slide">
+			   <label for="slide523">3</label>
+			   <img src="cotadas/31_03_03.png" />
+			 <figcaption>Mede-se a diferença de cota entre os pontos <b>A</b> e <b>B</b>, marcando-se o ponto auxiliar <b>A’<sub>1</sub></b>. A VG do segmento <b>AB</b> é o segmento <b>A’<sub>1</sub>B’<b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/31_03_00.png" class="fundo" />
+	  </details>
 	<img src="cotadas/Cotadas_2020_0031a.png" />
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>Solução do item b</p>
+		<img src="cotadas/31_02_00.png" class="fundo" />
+	  </details>
 	<br><a href="#pontos" class="topo">voltar ao topo</a>
 	<img src="cotadas/Cotadas_2020_0032.png" />
 	<img src="cotadas/Cotadas_2020_0032a.png" />
