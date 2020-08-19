@@ -1837,10 +1837,10 @@
 		<img src="cotadas/29_03_00.png" class="fundo" />
 	  </details>
 	  <br><a href="#pontos" class="topo">voltar ao topo</a>
-	  <img src="cotadas/Cotadas_2020_030.png" />
+	  <img src="cotadas/Cotadas_2020_0030.png" />
 	  <figcaption>Rebatimento usado para encontrar a verdadeira grandeza (vg) de um segmento <b>AB</b>. Neste caso, o segmento é rebatido usando o segmento <b>AC</b> como eixo para rebater o segmento em um plano horizontal<b>&beta;</b> que passa por <b>A</b>. Neste caso, marcamos a diferença de cotas entre os pontos <b>A</b> e <b>B</b> a partir da projeção <b>B'</b></figcaption>
 	  <a href="vr/vg_segmento2.html" target="_blank" class="visu">Visualização em 3D</a>
-	  <img src="cotadas/Cotadas_2020_030a.png" />
+	  <img src="cotadas/Cotadas_2020_0030a.png" />
 	  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
 		  <li>
@@ -1874,7 +1874,7 @@
 		<img src="cotadas/30_02_00.png" />
 		<figcaption>?</figcaption>
 	  </details>
-	  <img src="cotadas/Cotadas_2020_030b.png" />
+	  <img src="cotadas/Cotadas_2020_0030b.png" />
 	  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
 		  <li>
