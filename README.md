@@ -1186,7 +1186,7 @@
 		<center><a href="https://paulohscwb.github.io/cotadas/ra.html"> https://paulohscwb.github.io/cotadas/ra.html</a></center>
 		<p>Os ambientes podem ser acessados em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).</p>
 		<p>O acesso aos sites de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.</p>
-		<br><br><center><img src="https://paulohscwb.github.io/cotadas/vr/exemplo.jpg" width="80%"></center>  
+		<center><img src="https://paulohscwb.github.io/cotadas/vr/exemplo.jpg" width="80%"></center>  
 		<p>Veja o vídeo de demonstração do uso destes recursos:</p>
 		<div class="embed-container">
 		  <iframe src="https://drive.google.com/file/d/1Tg2c6pOoDNESEAvl9kvXgRGv81D-U0Kw/preview" width="100%"></iframe>
@@ -2735,10 +2735,10 @@
 <p><b>Objetos 3D programados em RA e RV:</b></p> 
 <p>Paulo Henrique Siqueira</p> 
 <p><b>contato:</b> paulohscwb@gmail.com </p> 
-<p><center>Para ver os objetos em Realidade Aumentada, visite o site:</center></p> 
+<p>Para ver os objetos em Realidade Aumentada, visite o site:</p> 
 <p><center><a href="https://paulohscwb.github.io/cotadas/ra.html"> https://paulohscwb.github.io/cotadas/ra.html</a></center></p> 
-<p><center>em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).</center></p>
-<p><center>O acesso aos sites de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.</center></p>
+<p>em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).</p>
+<p>O acesso aos sites de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.</p>
 <p><center><img src="https://paulohscwb.github.io/cotadas/vr/exemplo.jpg" width="80%"></center>
 
 <p><br><b>Referências:</b></p>
