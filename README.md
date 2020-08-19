@@ -1061,6 +1061,23 @@
     </ul>
     <img src="dg/06_01_00.png" class="fundo" />
   </details>
+  <img src="dg/Cotadas_2020_0006a.png" />
+  <img src="dg/Cotadas_2020_0006b.png" />
+  <br><a href="#desenho" class="topo">voltar ao topo</a>
+  <img src="dg/Cotadas_2020_0007.png" />
+  <img src="dg/Cotadas_2020_0007a.png" />
+  <img src="dg/Cotadas_2020_0007b.png" />
+  <br><a href="#desenho" class="topo">voltar ao topo</a>
+  <img src="dg/Cotadas_2020_0008.png" />
+  <img src="dg/Cotadas_2020_0008a.png" />
+  <img src="dg/Cotadas_2020_0008b.png" />
+  <br><a href="#desenho" class="topo">voltar ao topo</a>
+  <img src="dg/Cotadas_2020_0009.png" />
+  <img src="dg/Cotadas_2020_0009a.png" />
+  <img src="dg/Cotadas_2020_0009b.png" />
+  <br><a href="#desenho" class="topo">voltar ao topo</a>
+  <img src="dg/Cotadas_2020_0010.png" />
+  <img src="dg/Cotadas_2020_0010a.png" />
   <br><a href="#desenho" class="topo">voltar ao topo</a>
 </details>
 
@@ -1899,6 +1916,45 @@
 		<img src="cotadas/30_03_00.png" class="fundo" />
 	  </details>
 	<br><a href="#pontos" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0031.png" />
+	<img src="cotadas/Cotadas_2020_0031a.png" />
+	<br><a href="#pontos" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0032.png" />
+	<img src="cotadas/Cotadas_2020_0032a.png" />
+	<img src="cotadas/Cotadas_2020_0032b.png" />
+	<br><a href="#pontos" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0033.png" />
+	<img src="cotadas/Cotadas_2020_0033a.png" />
+	<br><a href="#pontos" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0034.png" />
+	<img src="cotadas/Cotadas_2020_0034a.png" />
+	<br><a href="#pontos" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0035.png" />
+	<br><a href="#pontos" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0036.png" />
+	<br><a href="#pontos" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0037.png" />
+	<br><a href="#pontos" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0038.png" />
+	<img src="cotadas/Cotadas_2020_0038a.png" />
+	<br><a href="#pontos" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0039.png" />
+	<img src="cotadas/Cotadas_2020_0039a.png" />
+	<img src="cotadas/Cotadas_2020_0039b.png" />
+	<br><a href="#pontos" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0040.png" />
+	<img src="cotadas/Cotadas_2020_0040a.png" />
+	<br><a href="#pontos" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0041.png" />
+	<br><a href="#pontos" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0042.png" />
+	<img src="cotadas/Cotadas_2020_0042a.png" />
+	<img src="cotadas/Cotadas_2020_0042b.png" />
+	<br><a href="#pontos" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0043.png" />
+	<img src="cotadas/Cotadas_2020_0043a.png" />
+	<img src="cotadas/Cotadas_2020_0043b.png" />
+	<br><a href="#pontos" class="topo">voltar ao topo</a>
 </details>
 
 <details>
@@ -2114,25 +2170,47 @@
 	</details>
 	<img src="cotadas/Cotadas_2020_0049b.png" />
 	<br><a href="#retas" class="topo">voltar ao topo</a>
-	
-	<details class="sub"><summary>Pirâmide de base hexagonal, pág. 53</summary>
-		<img src="vr/075_piramide1.PNG">
-		<figcaption>Visualização em 3D do Exercício 2.</figcaption>
-		<a href="vr/piramide1.html" target="_blank" class="visu">Visualização em 3D</a>
-	</details>
-	<hr>
-	<details class="sub"><summary>Pirâmide de base quadrada, pág. 56</summary>
-		<img src="vr/078_piramide2.PNG">
-		<figcaption>Visualização em 3D do Exercício 1.</figcaption>
-		<a href="vr/piramide2.html" target="_blank" class="visu">Visualização em 3D</a>
-	</details>
-	<hr>
-	<details class="sub"><summary>Prisma de base hexagonal, pág. 56</summary>
-		<img src="vr/078_prisma1.PNG">
-		<figcaption>Visualização em 3D do Exercício 2.</figcaption>
-		<a href="vr/prisma1.html" target="_blank" class="visu">Visualização em 3D</a>
-	</details>
-	<hr>
+	<img src="cotadas/Cotadas_2020_0050.png" />
+	<img src="cotadas/Cotadas_2020_0050a.png" />
+	<br><a href="#retas" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0051.png" />
+	<img src="cotadas/Cotadas_2020_0051a.png" />
+	<img src="cotadas/Cotadas_2020_0051b.png" />
+	<br><a href="#retas" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0052.png" />
+	<br><a href="#retas" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0053.png" />
+	<img src="cotadas/Cotadas_2020_0053a.png" />
+	<figcaption>Use o link abaixo para a visualização em 3D do sólido projetado.</figcaption>
+	<a href="vr/piramide1.html" target="_blank" class="visu">Visualização em 3D</a>
+	<br><a href="#retas" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0054.png" />
+	<br><a href="#retas" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0055.png" />
+	<br><a href="#retas" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0056.png" />
+	<figcaption>Use o link abaixo para a visualização em 3D do sólido projetado.</figcaption>
+	<a href="vr/piramide2.html" target="_blank" class="visu">Visualização em 3D</a>
+	<img src="cotadas/Cotadas_2020_0056a.png" />
+	<figcaption>Use o link abaixo para a visualização em 3D do sólido projetado.</figcaption>
+	<a href="vr/prisma1.html" target="_blank" class="visu">Visualização em 3D</a>
+	<br><a href="#retas" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0057.png" />
+	<br><a href="#retas" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0058.png" />
+	<img src="cotadas/Cotadas_2020_0058a.png" />
+	<br><a href="#retas" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0059.png" />
+	<img src="cotadas/Cotadas_2020_0059a.png" />
+	<br><a href="#retas" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0060.png" />
+	<img src="cotadas/Cotadas_2020_0060a.png" />
+	<br><a href="#retas" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0061.png" />
+	<img src="cotadas/Cotadas_2020_0061a.png" />
+	<br><a href="#retas" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0062.png" />
+	<img src="cotadas/Cotadas_2020_0062a.png" />
 	<br><a href="#retas" class="topo">voltar ao topo</a>
 </details>
 
@@ -2376,24 +2454,47 @@
 	<figcaption>Use o link abaixo para visualizar em 3D o processo do rebatimento de um plano qualquer <b>&alpha;</b> sobre <b>&pi;</b>.</figcaption>
 	<a href="vr/rebatimento.html" target="_blank" class="visu">Visualização em 3D</a>
 	<br><a href="#rebatimento" class="topo">voltar ao topo</a>
-	<hr>
-
-	<h3>Exemplo da pág. 74</h3>
-	  <img src="vr/int-pv-ph-pag74.PNG">
-	  <figcaption>Visualização em RA e RV da interseção de um plano horizontal e um plano vertical.</figcaption>
-	  <a href="https://paulohscwb.github.io/cotadas/vr/int_pv_ph.html"><img src="vr/RVaframe.png" width="200px"></a>
-	<h3>Exemplo da pág. 74</h3>
-	<img src="vr/int-pq-ph-pag74.PNG">
-	  <figcaption>Visualização em RA e RV da interseção entre um plano qualquer e um plano horizontal.</figcaption>
-	  <a href="https://paulohscwb.github.io/cotadas/vr/int_pq_ph.html"><img src="vr/RVaframe.png" width="200px"></a>
-	<h3>Exemplo da pág. 75</h3>
-	<img src="vr/int-pq-pv-pag75.PNG">
-	  <figcaption>Visualização em RA e RV da interseção de um plano qualquer e um plano vertical.</figcaption>
-	  <a href="https://paulohscwb.github.io/cotadas/vr/int_pq_pv.html"><img src="vr/RVaframe.png" width="200px"></a>
-	<h3>Exemplo da pág. 75</h3>
-	<img src="vr/int-pq-pq-pag75.PNG">
-	  <figcaption>Visualização em RA e RV da interseção entre dois planos quaisquer.</figcaption>
-	  <a href="https://paulohscwb.github.io/cotadas/vr/int_pq_pq.html"><img src="vr/RVaframe.png" width="200px"></a>
+	<img src="cotadas/Cotadas_2020_0067.png" />
+	<img src="cotadas/Cotadas_2020_0067a.png" />
+	<br><a href="#rebatimento" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0068.png" />
+	<img src="cotadas/Cotadas_2020_0068a.png" />
+	<br><a href="#rebatimento" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0069.png" />
+	<img src="cotadas/Cotadas_2020_0069a.png" />
+	<br><a href="#rebatimento" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0070.png" />
+	<img src="cotadas/Cotadas_2020_0070a.png" />
+	<br><a href="#rebatimento" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0071.png" />
+	<br><a href="#rebatimento" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0072.png" />
+	<br><a href="#rebatimento" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0073.png" />
+	<img src="cotadas/Cotadas_2020_0073a.png" />
+	<br><a href="#rebatimento" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0074.png" />
+	<figcaption>Use o link abaixo para visualizar em 3D a interseção entre plano horizontal e um plano vertical</figcaption>
+	<a href="vr/int_pv_ph.html" target="_blank" class="visu">Visualização em 3D</a>
+	<img src="cotadas/Cotadas_2020_0074a.png" />
+	<figcaption>Use o link abaixo para visualizar em 3D a interseção entre plano qualquer e um plano horizontal</figcaption>
+	<a href="vr/int_pq_ph.html" target="_blank" class="visu">Visualização em 3D</a>
+	<br><a href="#rebatimento" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0075.png" />
+	<img src="cotadas/Cotadas_2020_0075a.png" />
+	<figcaption>Use o link abaixo para visualizar em 3D a interseção entre plano qualquer e um plano vertical</figcaption>
+	<a href="vr/int_pq_pv.html" target="_blank" class="visu">Visualização em 3D</a>
+	<img src="cotadas/Cotadas_2020_0075b.png" />
+	<figcaption>Use o link abaixo para visualizar em 3D a interseção entre dois planos quaisquer</figcaption>
+	<a href="vr/int_pq_pq.html" target="_blank" class="visu">Visualização em 3D</a>
+	<br><a href="#rebatimento" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0076.png" />
+	<img src="cotadas/Cotadas_2020_0076a.png" />
+	<img src="cotadas/Cotadas_2020_0076b.png" />
+	<br><a href="#rebatimento" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0077.png" />
+	<img src="cotadas/Cotadas_2020_0077a.png" />
+	<img src="cotadas/Cotadas_2020_0077b.png" />
 	<br><a href="#rebatimento" class="topo">voltar ao topo</a>
 </details>
 
