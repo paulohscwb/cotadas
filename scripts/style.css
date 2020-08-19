@@ -20,6 +20,10 @@
     margin: 0 8px 0 0;
 }
 
+topo.a {
+	text-align: right;
+}
+
 figcaption {
   top: 0px;
   background: rgba(21,153,87,0.12);
@@ -45,7 +49,7 @@ details {
   width:100%;
 }
 
-li img{
+li.img{
 	width:100%;
 }
 
