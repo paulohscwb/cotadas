@@ -2094,7 +2094,7 @@
 		<img src="cotadas/49_01_00.png" class="fundo" />
 	</details>
 	<img src="cotadas/Cotadas_2020_0049a.png" />
-	<details class="sub"><summary>Retas perpendiculares ou ortogonais, pág. 49 (retas quaisquer)</summary>
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Como as retas são concorrentes, basta verificar se o ângulo entre elas é <b>90<sup>o</sup></b>, se for, elas são perpendiculares. Faremos isso através do método do rebatimento.</p>
 	  <ul class="slider">
 		  <li>
@@ -2137,15 +2137,12 @@
 </details>
 
 <details>
-  <summary id="rebatimento">Reta de declive e rebatimento: pág. 63-77</summary>
-	<details class="sub"><summary>Reta de declive, pág. 63</summary>
-		<img src="vr/reta-declive-pag63.PNG">
-		<figcaption>Visualização em 3D da reta de declive de um plano.</figcaption>
-		<a href="vr/reta_declive.html" target="_blank" class="visu">Visualização em 3D</a>
-	</details>
-	<hr>
-  	<details class="sub"><summary>Exercício 1, pág. 63</summary>
-	  <br>
+  <summary id="rebatimento">Reta de declive, rebatimento e interseções: pág. 63-77</summary>
+	<img src="cotadas/Cotadas_2020_0063.png" />
+	<figcaption>Use o link abaixo para visualizar em 3D a reta de declive de um plano.</figcaption>
+	<a href="vr/reta_declive.html" target="_blank" class="visu">Visualização em 3D</a>
+	<img src="cotadas/Cotadas_2020_0063a.png" />
+  	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="slide400" name="slide" checked>
@@ -2186,8 +2183,8 @@
 		</ul>
 		<img src="cotadas/63_01_00.png" class="fundo" />
 	</details>
-	<hr>
-	<details class="sub"><summary>Exercício 2, pág. 63</summary>
+	<img src="cotadas/Cotadas_2020_0063b.png" />
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Num plano existem infinitas retas, se o plano for qualquer estas retas podem ser horizontais ou quaisquer.</p>
 	  <ul class="slider">
 		  <li>
@@ -2223,8 +2220,9 @@
 		</ul>
 		<img src="cotadas/63_02_00.png" class="fundo" />
 	</details>
-	<hr>
-	<details class="sub"><summary>Exercício 1, pág. 64</summary>
+	<br><a href="#rebatimento" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0064.png" />
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>O ângulo que um plano forma com o plano de projeção é igual à inclinação de uma de suas retas de maior declive.</p>
 	  <ul class="slider">
 		  <li>
@@ -2254,8 +2252,8 @@
 		</ul>
 		<img src="cotadas/64_01_00.png" class="fundo" />
 	</details>
-	<hr>
-	<details class="sub"><summary>Exercício 2, pág. 64</summary>
+	<img src="cotadas/Cotadas_2020_0064a.png" />
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Representar uma reta do plano, por exemplo a reta definida pelos pontos <b>B</b> e <b>C</b>.</p>
 	  <ul class="slider">
 		  <li>
@@ -2303,35 +2301,100 @@
 		</ul>
 		<img src="cotadas/64_02_00.png" class="fundo" />
 	</details>
-	<hr>
-	<details class="sub"><summary>Rebatimento de um plano qualquer, pág. 66</summary>
-		<img src="vr/088_rebatimento.PNG">
-		<figcaption>Visualização em 3D do rebatimento de um plano qualquer <b>&alpha;</b> sobre <b>&pi;</b>.</figcaption>
-		<a href="vr/rebatimento.html" target="_blank" class="visu">Visualização em 3D</a>
-	</details>
-	<hr>
 	<br><a href="#rebatimento" class="topo">voltar ao topo</a>
-</details>
+	<img src="cotadas/Cotadas_2020_0065.png" />
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <p>O ângulo que um plano forma com o plano de projeção (inclinação) é igual a inclinação de uma de suas retas de declive.</p>
+	  <p>Vimos que uma reta de declive de um plano qualquer é suficiente para representá-lo. Neste exercício conhecemos a projeção de uma de suas retas de declive assim como de um de seus pontos, porém para definir uma reta precisamos de um segundo ponto. A solução consiste em encontrar este segundo ponto.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="slide422" name="slide" checked>
+			   <label for="slide422">1</label>
+			   <img src="cotadas/65_01_01.png" />
+			<figcaption>Encontrar uma reta que forma ângulo de <b>60°</b> com a projeção da reta de declive do plano <b>&alpha;</b>. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide423" name="slide">
+			   <label for="slide423">2</label>
+			   <img src="cotadas/65_01_02.png" />
+			 <figcaption>A bissetriz do ângulo de <b>60°</b> corresponde a projeção da reta de declive rebatida <b>d'<sub>&alpha;1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide424" name="slide">
+			   <label for="slide424">3</label>
+			   <img src="cotadas/65_01_03.png" />
+			 <figcaption>Sobre a reta de declive rebatida <b>d'<sub>&alpha;1</sub></b> marcamos um ponto <b>B'<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide425" name="slide">
+			   <label for="slide425">4</label>
+			   <img src="cotadas/65_01_04.png" />
+			 <figcaption>A partir de <b>B'<sub>1</sub></b> traçamos uma reta perpendicular à <b>d'<sub>&alpha;1</sub></b> e encontramos <b>B'</b> sobre <b>d'<sub>&alpha;1</sub></b>. Medimos a distância entre <b>B'</b> e <b>B'<sub>1</sub></b> que corresponde à cota do ponto <b>B</b>. A reta de declive fica então definida pelos pontos <b>A</b> e <b>B</b> e forma <b>30°</b> com <b>&pi;'</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/65_01_00.png" class="fundo" />
+	</details>
+	<img src="cotadas/Cotadas_2020_0065a.png" />
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <p>Vamos resolver o exercício encontrando uma das retas de declive do plano <b>&alpha;</b>. Sabemos que uma reta de declive define um plano qualquer e a sua inclinação corresponde à inclinação do plano.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="slide426" name="slide" checked>
+			   <label for="slide426">1</label>
+			   <img src="cotadas/65_2_01.png" />
+			<figcaption>Sobre a reta <b>h'<sub>2</sub><b> marcamos um ponto <b>A'(2)</b>. Conduzimos por <b>A'(2)</b> a projeção de uma das retas de declive do plano <b>&alpha; d'<sub>&alpha;</sub></b>. Obs: As retas de declive de um plano são perpendiculares às retas horizontais do plano. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide427" name="slide">
+			   <label for="slide427">2</label>
+			   <img src="cotadas/65_2_02.png" />
+			 <figcaption>Encontramos uma reta que forma ângulo de <b>60°</b> com a projeção da reta de declive do plano <b>&alpha; d'<sub>&alpha;</sub></b>. Esta reta é a reta de declive rebatida <b>d'<sub>&alpha;1</sub></b>. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide428" name="slide">
+			   <label for="slide428">3</label>
+			   <img src="cotadas/65_2_03.png" />
+			 <figcaption>Sobre <b>d'<sub>&alpha;1</sub></b> definimos um ponto <b>B'<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide429" name="slide">
+			   <label for="slide429">4</label>
+			   <img src="cotadas/65_2_04.png" />
+			 <figcaption>A partir de <b>B'<sub>1</sub></b> traçamos uma reta perpendicular à <b>d'<sub>&alpha;</sub></b> e encontramos <b>B'</b> sobre <b>d'<sub>&alpha;</sub></b>. Medimos a distância entre <b>B'</b> e <b>B'<sub>1</sub></b> que corresponde à cota do ponto <b>B</b>. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide430" name="slide">
+			   <label for="slide430">4</label>
+			   <img src="cotadas/65_2_05.png" />
+			 <figcaption>A reta de declive fica então definida pelos pontos <b>A</b> e </b>B</b> e forma <b>60°</b> com <b>&pi;'</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/65_2_00.png" class="fundo" />
+	</details>
+	<br><a href="#rebatimento" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0066.png" />
+	<figcaption>Use o link abaixo para visualizar em 3D o processo do rebatimento de um plano qualquer <b>&alpha;</b> sobre <b>&pi;</b>.</figcaption>
+	<a href="vr/rebatimento.html" target="_blank" class="visu">Visualização em 3D</a>
+	<br><a href="#rebatimento" class="topo">voltar ao topo</a>
+	<hr>
 
-<details>
-  <summary id="intersecoes">Interseções de planos</summary>
-<h3>Exemplo da pág. 74</h3>
-  <img src="vr/int-pv-ph-pag74.PNG">
-  <figcaption>Visualização em RA e RV da interseção de um plano horizontal e um plano vertical.</figcaption>
-  <a href="https://paulohscwb.github.io/cotadas/vr/int_pv_ph.html"><img src="vr/RVaframe.png" width="200px"></a>
-<h3>Exemplo da pág. 74</h3>
-<img src="vr/int-pq-ph-pag74.PNG">
-  <figcaption>Visualização em RA e RV da interseção entre um plano qualquer e um plano horizontal.</figcaption>
-  <a href="https://paulohscwb.github.io/cotadas/vr/int_pq_ph.html"><img src="vr/RVaframe.png" width="200px"></a>
-<h3>Exemplo da pág. 75</h3>
-<img src="vr/int-pq-pv-pag75.PNG">
-  <figcaption>Visualização em RA e RV da interseção de um plano qualquer e um plano vertical.</figcaption>
-  <a href="https://paulohscwb.github.io/cotadas/vr/int_pq_pv.html"><img src="vr/RVaframe.png" width="200px"></a>
-<h3>Exemplo da pág. 75</h3>
-<img src="vr/int-pq-pq-pag75.PNG">
-  <figcaption>Visualização em RA e RV da interseção entre dois planos quaisquer.</figcaption>
-  <a href="https://paulohscwb.github.io/cotadas/vr/int_pq_pq.html"><img src="vr/RVaframe.png" width="200px"></a>
-<br><a href="#intersecoes" class="topo">voltar ao topo</a>
+	<h3>Exemplo da pág. 74</h3>
+	  <img src="vr/int-pv-ph-pag74.PNG">
+	  <figcaption>Visualização em RA e RV da interseção de um plano horizontal e um plano vertical.</figcaption>
+	  <a href="https://paulohscwb.github.io/cotadas/vr/int_pv_ph.html"><img src="vr/RVaframe.png" width="200px"></a>
+	<h3>Exemplo da pág. 74</h3>
+	<img src="vr/int-pq-ph-pag74.PNG">
+	  <figcaption>Visualização em RA e RV da interseção entre um plano qualquer e um plano horizontal.</figcaption>
+	  <a href="https://paulohscwb.github.io/cotadas/vr/int_pq_ph.html"><img src="vr/RVaframe.png" width="200px"></a>
+	<h3>Exemplo da pág. 75</h3>
+	<img src="vr/int-pq-pv-pag75.PNG">
+	  <figcaption>Visualização em RA e RV da interseção de um plano qualquer e um plano vertical.</figcaption>
+	  <a href="https://paulohscwb.github.io/cotadas/vr/int_pq_pv.html"><img src="vr/RVaframe.png" width="200px"></a>
+	<h3>Exemplo da pág. 75</h3>
+	<img src="vr/int-pq-pq-pag75.PNG">
+	  <figcaption>Visualização em RA e RV da interseção entre dois planos quaisquer.</figcaption>
+	  <a href="https://paulohscwb.github.io/cotadas/vr/int_pq_pq.html"><img src="vr/RVaframe.png" width="200px"></a>
+	<br><a href="#rebatimento" class="topo">voltar ao topo</a>
 </details>
 
 <details>
