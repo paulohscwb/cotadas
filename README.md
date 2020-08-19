@@ -1996,23 +1996,23 @@
 		  <li>
 			   <input type="radio" id="slide521" name="slide" checked>
 			   <label for="slide521">1</label>
-			   <img src="cotadas/31_03_01.png" />
+			   <img src="cotadas/31_01_01.png" />
 			<figcaption>Usando o seu esquadro, trace paralelas aos eixos nas coordenadas indicadas marcando as projeções <b>A’</b> e <b>B’</b>. Indique suas cotas e trace o segmento <b>A’B’</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide522" name="slide">
 			   <label for="slide522">2</label>
-			   <img src="cotadas/31_03_02.png" />
+			   <img src="cotadas/31_01_02.png" />
 			 <figcaption>Traça-se um segmento perpendicular a <b>A’B’</b>, por <b>A’</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide523" name="slide">
 			   <label for="slide523">3</label>
-			   <img src="cotadas/31_03_03.png" />
-			 <figcaption>Mede-se a diferença de cota entre os pontos <b>A</b> e <b>B</b>, marcando-se o ponto auxiliar <b>A’<sub>1</sub></b>. A VG do segmento <b>AB</b> é o segmento <b>A’<sub>1</sub>B’<b>.</figcaption>
+			   <img src="cotadas/31_01_03.png" />
+			 <figcaption>Mede-se a diferença de cota entre os pontos <b>A</b> e <b>B</b>, marcando-se o ponto auxiliar <b>A’<sub>1</sub></b>. A VG do segmento <b>AB</b> é o segmento <b>A’<sub>1</sub>B’</b>.</figcaption>
 		   </li>
 		</ul>
-		<img src="cotadas/31_03_00.png" class="fundo" />
+		<img src="cotadas/31_01_00.png" class="fundo" />
 	  </details>
 	<img src="cotadas/Cotadas_2020_0031a.png" />
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
