@@ -34,10 +34,6 @@ details {
   width:100%;
 }
 
-details img {
-	width:100%;
-}
-
 .sub {
   border: none;
   padding: 3px;
@@ -87,6 +83,7 @@ h3::after {
    margin: 25px 0 110px 0;
    z-index: 0;
    visibility: visible;
+   width: 100%;
 }
 .slider {
      display: block;
