@@ -1796,7 +1796,7 @@
 			   <input type="radio" id="slide509" name="slide">
 			   <label for="slide509">6</label>
 			   <img src="cotadas/29_01_06.png" />
-			 <figcaption>O triângulo <b>A’<sub>1</sub>B’<sub>1</sub><b>C’<sub>1</sub></b> é o triângulo <b>ABC</b> rebatido sobre o plano <b>&pi;’</b>. </figcaption>
+			 <figcaption>O triângulo <b>A’<sub>1</sub>B’<sub>1</sub>C’<sub>1</sub></b> é o triângulo <b>ABC</b> rebatido sobre o plano <b>&pi;’</b>. </figcaption>
 		   </li>
 		</ul>
 		<img src="cotadas/29_01_00.png" class="fundo" />
@@ -1838,7 +1838,7 @@
 	  </details>
 	  <br><a href="#pontos" class="topo">voltar ao topo</a>
 	  <img src="cotadas/Cotadas_2020_030.png" />
-	  <figcaption>Rebatimento usado para encontrar a verdadeira grandeza (vg) de um segmento AB. Neste caso, o segmento é rebatido usando o segmento <b>AC</b> como eixo para rebater o segmento em um plano horizontal<b>&beta;</b> que passa por <b>A</b>. Neste caso, marcamos a diferença de cotas entre os pontos <b>A</b> e <b>B</b> a partir da projeção <b>B'</b></figcaption>
+	  <figcaption>Rebatimento usado para encontrar a verdadeira grandeza (vg) de um segmento <b>AB</b>. Neste caso, o segmento é rebatido usando o segmento <b>AC</b> como eixo para rebater o segmento em um plano horizontal<b>&beta;</b> que passa por <b>A</b>. Neste caso, marcamos a diferença de cotas entre os pontos <b>A</b> e <b>B</b> a partir da projeção <b>B'</b></figcaption>
 	  <a href="vr/vg_segmento2.html" target="_blank" class="visu">Visualização em 3D</a>
 	  <img src="cotadas/Cotadas_2020_030a.png" />
 	  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
