@@ -1065,7 +1065,7 @@
 </details>
 
 <details>
-  <summary id="propriedades">Propriedades das projeções cilíndricas</summary>
+  <summary id="propriedades">Propriedades das projeções cilíndricas: pág. 11-25</summary>
 	<p>Leia o conteúdo das páginas 11, 12 e 13 da apostila. Agora vamos começar a trabalhar com as projeções de objetos e figuras em um plano <b>&pi;'</b>.</p> 	
 	<img src="prop/Cotadas_2020_0011.png" />
 	<br><a href="#propriedades" class="topo">voltar ao topo</a>
@@ -1719,29 +1719,187 @@
 
 <details>
   <summary id="pontos">Pontos, retas e segmentos em épura</summary>
-	<details class="sub"><summary>Representação de pontos em épura, pág. 26</summary>
-		<img src="vr/26_ponto.png">
-		<figcaption>Para representar um ponto em épura, basta marcar as coordenadas x(abscissa), y(ordenada) e indicar o valor da cota <b>a</b> do ponto. Use o link abaixo para visualizar em 3D.</figcaption>
-		<a href="vr/rep_ponto.html" target="_blank" class="visu">Visualização em 3D</a>
-	</details>
-    <hr>
-	<details class="sub"><summary>Representação de pontos em épura, pág. 27</summary>
-		<img src="vr/049_epura.PNG">
-		<figcaption>Visualização em 3D do exercício da página 27.</figcaption>
+	<img src="cotadas/Cotadas_2020_0026.png" />
+	<figcaption>Para representar um ponto em épura, basta marcar as coordenadas x(abscissa), y(ordenada) e indicar o valor da cota <b>a</b> do ponto. Use o link abaixo para visualizar em 3D.</figcaption>
+	<a href="vr/rep_ponto.html" target="_blank" class="visu">Visualização em 3D</a>
+	<br><a href="#pontos" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0027.png" />
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="slide500" name="slide" checked>
+			   <label for="slide500">1</label>
+			   <img src="cotadas/27_01_01.png" />
+			<figcaption>Para marcar o ponto <b>A</b>, devemos traçar uma paralela ao eixo <b>y</b>, pelo ponto <b>x=40</b>, já que a abscissa do ponto <b>A</b> é 40.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide501" name="slide">
+			   <label for="slide501">2</label>
+			   <img src="cotadas/27_01_02.png" />
+			 <figcaption>Traçando uma paralela ao eixo <b>x</b>, pelo ponto <b>y=30</b>, marcamos a ordenada do ponto <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide502" name="slide">
+			   <label for="slide502">3</label>
+			   <img src="cotadas/27_01_03.png" />
+			 <figcaption>Na interseção das duas retas, temos a projeção do ponto <b>A</b>, aonde deve ser indicada a cota de <b>20</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide503" name="slide">
+			   <label for="slide503">4</label>
+			   <img src="cotadas/27_01_04.png" />
+			 <figcaption>Os pontos <b>B</b>, <b>C</b> e <b>D</b> são feitos de maneira análoga. Use o link abaixo para a visualização em 3D destes pontos.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/27_01_00.png" class="fundo" />
 		<a href="vr/exerc_epura.html" target="_blank" class="visu">Visualização em 3D</a>
-	</details>
-    <hr>
-    <details class="sub"><summary>Verdadeira grandeza de um segmento, pág. 28</summary>
-		<img src="vr/050_vg.PNG">
-		<figcaption>Rebatimento usado para encontrar a verdadeira grandeza (vg) de um segmento AB. Neste caso, o segmento é rebatido usando a projeção <b>A'B'</b> como eixo para rebater o segmento em <b>&pi;'</b>. Neste caso, marcamos as cotas dos pontos a partir de suas projeções.</figcaption>
-		<a href="vr/vg_segmento.html" target="_blank" class="visu">Visualização em 3D</a>
-	</details>
-	<hr>
-	<details class="sub"><summary>Verdadeira grandeza de um segmento, pág. 30</summary>
-		<img src="vr/30_vg_horizontal.png">
-		<figcaption>Rebatimento usado para encontrar a verdadeira grandeza (vg) de um segmento AB. Neste caso, o segmento é rebatido usando o segmento <b>AC</b> como eixo para rebater o segmento em um plano horizontal<b>&beta;</b> que passa por <b>A</b>. Neste caso, marcamos a diferença de cotas entre os pontos <b>A</b> e <b>B</b> a partir da projeção <b>B'</b></figcaption>
-		<a href="vr/vg_segmento2.html" target="_blank" class="visu">Visualização em 3D</a>
-	</details>
+	  </details>
+	  <br><a href="#pontos" class="topo">voltar ao topo</a>
+    <img src="cotadas/Cotadas_2020_0028.png" />
+   	<figcaption>Usamos o rebatimento encontrar a verdadeira grandeza (vg) de um segmento AB. Neste caso, o segmento é rebatido usando a projeção <b>A'B'</b> como eixo para rebater o segmento em <b>&pi;'</b>. Neste caso, marcamos as cotas dos pontos a partir de suas projeções.</figcaption>
+	<a href="vr/vg_segmento.html" target="_blank" class="visu">Visualização em 3D</a>
+	<br><a href="#pontos" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0029.png" />
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="slide504" name="slide" checked>
+			   <label for="slide504">1</label>
+			   <img src="cotadas/29_01_01.png" />
+			<figcaption>Traça-se o segmento <b>A’B’</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide505" name="slide">
+			   <label for="slide505">2</label>
+			   <img src="cotadas/29_01_02.png" />
+			 <figcaption>Traça-se um segmento perpendicular a <b>A’B’</b>, por <b>A’</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide506" name="slide">
+			   <label for="slide506">3</label>
+			   <img src="cotadas/29_01_03.png" />
+			 <figcaption>Para se rebater o ponto <b>A</b> no plano <b>&pi;’</b>, mede-se a cota do ponto <b>A</b>, marcando-se o ponto auxiliar <b>A’<sub>1</sub></b>. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide507" name="slide">
+			   <label for="slide507">4</label>
+			   <img src="cotadas/29_01_04.png" />
+			 <figcaption>De modo análogo marca-se o ponto auxiliar <b>B’<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide508" name="slide">
+			   <label for="slide508">5</label>
+			   <img src="cotadas/29_01_05.png" />
+			 <figcaption>A VG do segmento é o segmento <b>A’<sub>1</sub>B’<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide509" name="slide">
+			   <label for="slide509">6</label>
+			   <img src="cotadas/29_01_06.png" />
+			 <figcaption>O triângulo <b>A’<sub>1</sub>B’<sub>1</sub><b>C’<sub>1</sub></b> é o triângulo <b>ABC</b> rebatido sobre o plano <b>&pi;’</b>. </figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/29_01_00.png" class="fundo" />
+	  </details>
+	  <img src="cotadas/Cotadas_2020_0029a.png" />
+	  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>Usando os mesmos conceitos do item a, encontre a vg do segmento <b>CD</b>.
+		<img src="cotadas/29_02_00.png"/>
+	  </details>
+	  <img src="cotadas/Cotadas_2020_0029b.png" />
+	  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="slide510" name="slide" checked>
+			   <label for="slide510">1</label>
+			   <img src="cotadas/29_03_01.png" />
+			<figcaption>Traça-se o segmento <b>E’F’</b> e um segmento perpendicular a <b>E’F’</b>, por <b>E’</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide511" name="slide">
+			   <label for="slide511">2</label>
+			   <img src="cotadas/29_03_02.png" />
+			 <figcaption>Para se rebater o ponto <b>E</b> no plano <b>&pi;’</b>, mede-se a cota do ponto <b>E</b>, marcando-se o ponto auxiliar <b>E’<sub>1</sub></b>. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide512" name="slide">
+			   <label for="slide512">3</label>
+			   <img src="cotadas/29_03_03.png" />
+			 <figcaption>De modo análogo marca-se o ponto auxiliar <b>F’<sub>1</sub></b>. Observe que <b>F’<sub>1</sub></b> foi marcado no sentido oposto à <b>E’<sub>1</sub></b> já que as cotas de <b>E</b> e <b>F</b> têm sinais contrários.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide513" name="slide">
+			   <label for="slide513">4</label>
+			   <img src="cotadas/29_03_04.png" />
+			 <figcaption>A VG do segmento é o segmento <b>E’<sub>1</sub>F’<sub>1</sub></b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/29_03_00.png" class="fundo" />
+	  </details>
+	  <br><a href="#pontos" class="topo">voltar ao topo</a>
+	  <img src="cotadas/Cotadas_2020_030.png" />
+	  <figcaption>Rebatimento usado para encontrar a verdadeira grandeza (vg) de um segmento AB. Neste caso, o segmento é rebatido usando o segmento <b>AC</b> como eixo para rebater o segmento em um plano horizontal<b>&beta;</b> que passa por <b>A</b>. Neste caso, marcamos a diferença de cotas entre os pontos <b>A</b> e <b>B</b> a partir da projeção <b>B'</b></figcaption>
+	  <a href="vr/vg_segmento2.html" target="_blank" class="visu">Visualização em 3D</a>
+	  <img src="cotadas/Cotadas_2020_030a.png" />
+	  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="slide514" name="slide" checked>
+			   <label for="slide514">1</label>
+			   <img src="cotadas/30_01_01.png" />
+			<figcaption>?</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide515" name="slide">
+			   <label for="slide515">2</label>
+			   <img src="cotadas/30_01_02.png" />
+			 <figcaption>?</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide516" name="slide">
+			   <label for="slide516">3</label>
+			   <img src="cotadas/30_01_03.png" />
+			 <figcaption>?</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide517" name="slide">
+			   <label for="slide517">4</label>
+			   <img src="cotadas/30_01_04.png" />
+			 <figcaption>?</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/30_01_00.png" class="fundo" />
+		<hr>
+		<h4>Solução do item b</h4>
+		<img src="cotadas/30_02_00.png" />
+		<figcaption>?</figcaption>
+	  </details>
+	  <img src="cotadas/Cotadas_2020_030b.png" />
+	  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="slide518" name="slide" checked>
+			   <label for="slide518">1</label>
+			   <img src="cotadas/30_03_01.png" />
+			<figcaption>?</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide519" name="slide">
+			   <label for="slide519">2</label>
+			   <img src="cotadas/30_03_02.png" />
+			 <figcaption>?</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide520" name="slide">
+			   <label for="slide520">3</label>
+			   <img src="cotadas/30_03_03.png" />
+			 <figcaption>?</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/30_03_00.png" class="fundo" />
+	  </details>
+	<br><a href="#pontos" class="topo">voltar ao topo</a>
+	
 	<hr>
 	<details class="sub"><summary>Paralelismo entre retas quaisquer, pág. 44</summary>
 		<img src="vr/44_paralelismo_retas.png">
