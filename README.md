@@ -2635,11 +2635,11 @@
 <p><b>Objetos 3D programados em RA e RV:</b></p> 
 <p>Paulo Henrique Siqueira</p> 
 <p><b>contato:</b> paulohscwb@gmail.com </p> 
-<p><center>Para ver os objetos em Realidade Aumentada, visite o site:</p> 
-<p><a href="https://paulohscwb.github.io/cotadas/ra.html"> https://paulohscwb.github.io/cotadas/ra.html</a></center></p> 
-<p>em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).</p>
-<p>O acesso aos sites de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.</p>
-<br><img src="https://paulohscwb.github.io/cotadas/vr/exemplo.jpg" width="80%"></center>
+<p><center>Para ver os objetos em Realidade Aumentada, visite o site:</center></p> 
+<p><center><a href="https://paulohscwb.github.io/cotadas/ra.html"> https://paulohscwb.github.io/cotadas/ra.html</a></center></p> 
+<p><center>em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).</center></p>
+<p><center>O acesso aos sites de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.</center></p>
+<p><center><img src="https://paulohscwb.github.io/cotadas/vr/exemplo.jpg" width="80%"></center>
 
 <br><br><b>Referências:</b>
 <br>O ambiente Realidade Aumentada foi criado com os scripts de <b>Jerome Etienne</b>: <a href="https://github.com/jeromeetienne/AR.js"> AR.js - Augmented Reality for the Web</a>.
