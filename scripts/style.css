@@ -9,6 +9,17 @@
     margin: 0 8px 0 0;
 }
 
+.topo::before {
+    content: "";
+    display: block;
+    background: url("../vr/topo.png") no-repeat;
+    background-size: contain;
+    width: 18px;
+    height: 18px;
+    float: left;
+    margin: 0 8px 0 0;
+}
+
 figcaption {
   top: 0px;
   background: rgba(21,153,87,0.12);
@@ -32,6 +43,10 @@ details {
   padding: 3px;
   border-radius: 7px;
   width:100%;
+}
+
+details img{
+	width:100%;
 }
 
 .sub {
@@ -96,10 +111,6 @@ h3::after {
  .slider li {
      list-style: none;
      position: absolute;
- }
-
- .slider li img {
-     width: 100%;
  }
  
 .slider input {

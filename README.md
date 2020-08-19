@@ -324,7 +324,7 @@
     </ul>
     <img src="dg/02_03_00.png" class="fundo" />
   </details>
-  <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+  <br><a href="#desenho" class="topo">voltar ao topo</a>
 	<img src="dg/Cotadas_2020_0003.png" />
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
@@ -709,7 +709,7 @@
     </ul>
     <img src="dg/03_02_20e.png" class="fundo" />
 	</details>
-  <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+  <br><a href="#desenho" class="topo">voltar ao topo</a>
   <img src="dg/Cotadas_2020_0004.png" />
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para dividirmos um segmento graficamente em partes iguais utilizamos o Teorema de Tales que diz que “Um feixe (conjunto) de retas paralelas determina sobre um feixe de retas concorrentes segmentos proporcionais correspondentes”.</p>
@@ -899,7 +899,7 @@
     </ul>
     <img src="dg/04_03_00.png" class="fundo" />
   </details>
-  <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+  <br><a href="#desenho" class="topo">voltar ao topo</a>
   <img src="dg/Cotadas_2020_0005.png" />
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Num triângulo <b>ABC</b>, o lado oposto ao vértice <b>A</b> é denotado por <b>a=BC</b>, o lado oposto ao <b>B</b> é denotado por <b>b=AC</b> e o lado oposto ao <b>C</b> é denotado por <b>c=AB</b>. Para construir um triângulo <b>ABC</b> dados os lados é necessário determinar a posição dos seus vértices <b>A</b>, <b>B</b> e <b>C</b>. Vamos à construção!</p>
@@ -1035,7 +1035,7 @@
     </ul>
     <img src="dg/05_03_00.png" class="fundo" />
   </details>
-  <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+  <br><a href="#desenho" class="topo">voltar ao topo</a>
   <img src="dg/Cotadas_2020_0006.png" />
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para obtermos o Ortocentro <b>H</b> do triângulo precisamos construir suas alturas.</p>
@@ -1061,18 +1061,18 @@
     </ul>
     <img src="dg/06_01_00.png" class="fundo" />
   </details>
-  <br><a href="#desenho"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+  <br><a href="#desenho" class="topo">voltar ao topo</a>
 </details>
 
 <details>
   <summary id="propriedades">Propriedades das projeções cilíndricas</summary>
 	<p>Leia o conteúdo das páginas 11, 12 e 13 da apostila. Agora vamos começar a trabalhar com as projeções de objetos e figuras em um plano <b>&pi;'</b>.</p> 	
 	<img src="prop/Cotadas_2020_0011.png" />
-	<br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+	<br><a href="#propriedades" class="topo">voltar ao topo</a>
 	<img src="prop/Cotadas_2020_0012.png" />
-	<br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+	<br><a href="#propriedades" class="topo">voltar ao topo</a>
 	<img src="prop/Cotadas_2020_0013.png" />
-	<br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+	<br><a href="#propriedades" class="topo">voltar ao topo</a>
 	<img src="prop/Cotadas_2020_0014.png" />
     <figcaption>Para projetar um ponto <b>A</b> qualquer do espaço usando a projeção cônica, basta definir a reta projetante <b>a</b>, que passa pelo centro de projeção <b>O</b> e pelo ponto <b>A</b>. A interseção desta reta com o plano <b>&pi;'</b> é a projeção <b>A'</b> do ponto <b>A</b>.</figcaption>
     <a href="vr/proj_conica.html" target="_blank" class="visu">Visualização em 3D</a>
@@ -1080,8 +1080,8 @@
     <figcaption>Para projetar um ponto <b>A</b> qualquer do espaço usando a projeção cilíndrica, basta definir a reta projetante <b>a</b>, paralela à direção <b>d</b> e que passa pelo ponto <b>A</b>. A interseção desta reta com o plano <b>&pi;'</b> é a projeção <b>A'</b> do ponto <b>A</b>. Se a reta <b>d</b> formar ângulo <b>0 < &theta; < 90<sup>o</sup></b>, a projeção é chamada <b>oblíqua</b>.</figcaption>
     <a href="vr/proj_cilindrica.html" target="_blank" class="visu">Projeção cilíndrica <b>oblíqua</b> em 3D</a>
     <figcaption>Quando <b>&theta; = 90<sup>o</sup></b>, temos a projeção <b>ortogonal</b>.</figcaption>
-	<br><a href="vr/proj_cilindrica_orto.html" target="_blank" class="visu">Projeção cilíndrica <b>ortogonal</b> em 3D</a>
-	<br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+	<a href="vr/proj_cilindrica_orto.html" target="_blank" class="visu">Projeção cilíndrica <b>ortogonal</b> em 3D</a>
+	<br><a href="#propriedades" class="topo">voltar ao topo</a>
 	<img src="prop/Cotadas_2020_0015.png" />
     <figcaption>Quando a reta <b>r</b> não é paralela à direção <b>d</b>, a sua projeção <b>r'</b> é uma reta.</figcaption>
     <a href="vr/p1.html" target="_blank" class="visu">Visualização em 3D da projeção <b>oblíqua</b></a>
@@ -1101,7 +1101,7 @@
 		  <iframe src="https://drive.google.com/file/d/1Tg2c6pOoDNESEAvl9kvXgRGv81D-U0Kw/preview" width="100%"></iframe>
 		</div>
 	  </details>
-	<br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+	<br><a href="#propriedades" class="topo">voltar ao topo</a>
 	<img src="prop/Cotadas_2020_0016.png" />  
     <figcaption>Considerando <b>r</b> e <b>s</b> estão em planos projetantes distintos, as projeções <b>r'</b> e <b>s'</b> são paralelas.</figcaption>
     <a href="vr/p2.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
@@ -1114,7 +1114,7 @@
     <figcaption>Quando as retas <b>r</b> e <b>s</b> são paralelas à direção <b>d</b>, suas projeções <b>r'</b> e <b>s'</b> são pontos.</figcaption>
     <a href="vr/p2c.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
 	<br><a href="vr/p2c_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
-	<br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+	<br><a href="#propriedades" class="topo">voltar ao topo</a>
     <img src="prop/Cotadas_2020_0017.png" /> 
     <figcaption>A proporção entre as medidas dos segmentos paralelos <b>AB</b> e <b>CD</b> é a mesma de suas projeções, ou seja: <b>AB/CD = A'B'/C'D'</b>.</figcaption>
     <a href="vr/p3a.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
@@ -1123,7 +1123,7 @@
     <figcaption>Se os segmentos <b>AB</b> e <b>CD</b> são colineares, a mesma proporção entre as medidas é válida: <b>AB/CD = A'B'/C'D'</b>.</figcaption>
     <a href="vr/p3b.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
 	<br><a href="vr/p3b_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
-	<br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+	<br><a href="#propriedades" class="topo">voltar ao topo</a>
 	<img src="prop/Cotadas_2020_0018.png" /> 
     <figcaption>Uma figura pertencente a um plano paralelo ao plano de projeções <b>&pi;'</b> fica projetada com o mesmo tamanho, sem redução ou ampliação de tamanho.</figcaption>
     <a href="vr/p4.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
@@ -1132,7 +1132,7 @@
     <figcaption>Uma figura que pertence a um plano <b>&alpha;</b> paralelo à direção <b>d</b> de projeções tem projeção reduzida a um segmento.</figcaption>
     <a href="vr/p5.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
 	<br><a href="vr/p5_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
-	<br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+	<br><a href="#propriedades" class="topo">voltar ao topo</a>
   <img src="prop/Cotadas_2020_0019.png" />
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício. De acordo com a propriedade 3, podemos encontrar a projeção do ponto médio de <b>AB</b> construindo a mediatriz da projeção deste segmento. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
@@ -1245,7 +1245,7 @@
 	<img src="prop/19_02_00d.png">
 	<figcaption>Usando as mesmas propriedades usadas nos itens anteriores, podemos concluir que os vértices <b>A</b> e <b>D</b> coincidem.</figcaption>
   </details>
-  <br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+  <br><a href="#propriedades" class="topo">voltar ao topo</a>
   <img src="prop/Cotadas_2020_0020.png" />
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: item a</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
@@ -1415,7 +1415,7 @@
 	<figcaption>Utilizando as mesmas propriedades dos itens anteriores, você consegue construir este triângulo. Use o link abaixo para te ajudar na visualização em 3D.</figcaption>
     <a href="vr/p_ex4c_triangulo.html" target="_blank" class="visu">Visualização em 3D do item c</a>
   </details>
-  <br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+  <br><a href="#propriedades" class="topo">voltar ao topo</a>
   <img src="prop/Cotadas_2020_0021.png" />
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: itens a e b</summary>
   <p> Vamos utilizar a régua, o compasso e os esquadros para resolver este exercício.</p>
@@ -1532,14 +1532,14 @@
     <a href="vr/p_ex5c_hexagono.html" target="_blank" class="visu">Visualização em 3D</a>
   </details>
   <img src="prop/Cotadas_2020_0021a.png" />
-  <br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+  <br><a href="#propriedades" class="topo">voltar ao topo</a>
   <img src="prop/Cotadas_2020_0022.png" />
   <figcaption>Os segmentos oblíquos ao plano de projeções <b>&pi;'</b> são projetados com tamanho reduzido, ou seja, <b>AB > A'B'</b></figcaption>
   <a href="vr/p6.html" target="_blank" class="visu">Visualização da propriedade em 3D</a>
   <img src="prop/Cotadas_2020_0022a.png" />
   <figcaption>Quando a reta <b>r // &pi;'</b> e as retas <b>r</b> e <b>s</b> são perpendiculares ou ortogonais, as retas <b>r'</b> e <b>s'</b> são perpendiculares.</figcaption>
   <a href="vr/p7.html" target="_blank" class="visu">Visualização da propriedade em 3D</a>
-  <br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+  <br><a href="#propriedades" class="topo">voltar ao topo</a>
   <img src="prop/Cotadas_2020_0023.png" />
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
@@ -1628,7 +1628,7 @@
 	<img src="prop/23_02_00.png" class="fundo" />
     <a href="vr/p_ex2_retangulo.html" target="_blank" class="visu">Visualização em 3D</a>
   </details>
-  <br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+  <br><a href="#propriedades" class="topo">voltar ao topo</a>
   <img src="prop/Cotadas_2020_0024.png" />
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar o compasso e os esquadros para resolver este exercício.</p>
@@ -1702,14 +1702,14 @@
 	<img src="prop/24_02_00.png">
 	<figcaption>Tente encontrar o centro da circunferência da base dos vertices <b>A'</b> e <b>B'</b>. Use as propriedades do hexágono regular.</figcaption>
   </details>
-  <br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+  <br><a href="#propriedades" class="topo">voltar ao topo</a>
   <img src="prop/Cotadas_2020_0025.png" />
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p> Você pode utilizar o compasso e os esquadros para resolver este exercício. Lembre-se de aplicar as propriedades de projeções cilíndricas e cilíndricas ortogonais.</p>
 	<img src="prop/25_01_00.png">
 	<figcaption>Usando as propriedades de projeções cilíndricas ortogonais, verifique quais dos segmentos são projetados em verdadeira grandeza (vg) em <b>&pi;'</b>: <b>AB</b>, <b>AE</b>, <b>HJ</b> e <b>JG</b>.</figcaption>
   </details>
-<br><a href="#propriedades"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+<br><a href="#propriedades" class="topo">voltar ao topo</a>
 </details>
 
 <details>
@@ -1940,7 +1940,7 @@
 		<img src="cotadas/49_02_00.png" class="fundo" />
 	</details>
 	<hr>
-  <br><a href="#pontos"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+  <br><a href="#pontos" class="topo">voltar ao topo</a>
 </details>
 
 <details>
@@ -1963,7 +1963,7 @@
 		<a href="vr/prisma1.html" target="_blank" class="visu">Visualização em 3D</a>
 	</details>
 	<hr>
-	<br><a href="#solidos"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+	<br><a href="#solidos" class="topo">voltar ao topo</a>
 </details>
 
 <details>
@@ -2140,7 +2140,7 @@
 		<a href="vr/rebatimento.html" target="_blank" class="visu">Visualização em 3D</a>
 	</details>
 	<hr>
-	<br><a href="#rebatimento"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+	<br><a href="#rebatimento" class="topo">voltar ao topo</a>
 </details>
 
 <details>
@@ -2161,7 +2161,7 @@
 <img src="vr/int-pq-pq-pag75.PNG">
   <figcaption>Visualização em RA e RV da interseção entre dois planos quaisquer.</figcaption>
   <a href="https://paulohscwb.github.io/cotadas/vr/int_pq_pq.html"><img src="vr/RVaframe.png" width="200px"></a>
-<br><a href="#intersecoes"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+<br><a href="#intersecoes" class="topo">voltar ao topo</a>
 </details>
 
 <details>
@@ -2227,7 +2227,7 @@
 <img src="telhados/117_telhado46.PNG">
   <figcaption>Visualização em RA e RV do exercício 4.6: telhado com inclinações e níveis diferentes.</figcaption>
   <a href="https://paulohscwb.github.io/cotadas/telhados/telhado46.html"><img src="vr/RVaframe.png" width="200px"></a>
-<br><a href="#telhados"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+<br><a href="#telhados" class="topo">voltar ao topo</a>
 </details>
 
 <details style="border-bottom: 1px solid #a2dec0;">
@@ -2268,7 +2268,7 @@
 <img src="superficies/136_exerc2.PNG">
 <br><a href="https://paulohscwb.github.io/cotadas/superficies/curva13c.html"><img src="vr/RVaframe.png" width="200px"></a>
   <figcaption>Visualização em RA e RV do exercício 2: seção mista de um terreno (corte e aterro).</figcaption>
-  <a href="#superficies"><img src="vr/topo.png" width="18px"> voltar ao topo</a>
+  <a href="#superficies" class="topo">voltar ao topo</a>
 </details>
 
 <br><b>desenvolvido por:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná 
