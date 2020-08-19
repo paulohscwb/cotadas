@@ -3,8 +3,9 @@
 </head>
 
 <h2 id="inicio">Visualização de propriedades de projeções, sólidos e aplicações</h2> 
-
-<hr>
+<p>Este site contém as construções geométricas e visualizações 3D dos exemplos e exercícios utilizados na disciplina de Expressão Gráfica I</p>
+<p>A apostila está disponível no link: <a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2014/09/Cotadas_2020.pdf" target="_blank">apostila de Projeções Cotadas</a></p>
+<p>Os objetos programados em 3D podem ser visualizados os objetos em Realidade Virtual (RV) e Realidade Aumentada (RA). As propriedades de projeções, os sólidos e as maquetes podem ser vistos em RA com os marcadores indicados, e através dos links criados nos marcadores, os objetos podem ser vistos em RV.</p>
 
 <details>
   <summary id="desenho">Desenho Geométrico: pág. 1-10</summary>
@@ -2499,122 +2500,146 @@
 </details>
 
 <details>
-  <summary id="telhados">Representações de telhados</summary>
-<br>Para ver os telhados em Realidade Aumentada, visite o site:
-<br><center><a href="https://paulohscwb.github.io/cotadas/telhados.html"> https://paulohscwb.github.io/cotadas/telhados.html</a></center>
-<h3>Terminologia, pág. 79</h3>
-<img src="telhados/101_telhados.PNG">
-  <figcaption>Visualização em RA e RV de um telhado com a terminologia utilizada.</figcaption>
-  <a href="https://paulohscwb.github.io/cotadas/telhados/casa.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 3.3, pág. 83</h3>
-<img src="telhados/105_telhado33.PNG">
-  <figcaption>Visualização em RA e RV do exercício 3.3: telhado com inclinações iguais.</figcaption>
-  <a href="https://paulohscwb.github.io/cotadas/telhados/telhado33.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 3.4, pág. 84</h3>
-<img src="telhados/106_telhado34.PNG">
-  <figcaption>Visualização em RA e RV do exercício 3.4: telhado com inclinações iguais.</figcaption>
-  <a href="https://paulohscwb.github.io/cotadas/telhados/telhado34.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 3.5, pág. 85</h3>
-<img src="telhados/107_telhado35.PNG">
-  <figcaption>Visualização em RA e RV do exercício 3.5: telhado com inclinações iguais.</figcaption> 
-  <a href="https://paulohscwb.github.io/cotadas/telhados/telhado35.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 3.6, pág. 86</h3>
-<img src="telhados/108_telhado36.PNG">
-  <figcaption>Visualização em RA e RV do exercício 3.6: telhado com inclinações iguais.</figcaption>
-  <a href="https://paulohscwb.github.io/cotadas/telhados/telhado36.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 3.7, pág. 87</h3>
-<img src="telhados/109_telhado37.PNG">
-  <figcaption>Visualização em RA e RV do exercício 3.7: telhado com inclinações iguais.</figcaption>
-  <a href="https://paulohscwb.github.io/cotadas/telhados/telhado37.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 3.8, pág. 88</h3>
-<img src="telhados/110_telhado38.PNG">
-  <figcaption>Visualização em RA e RV do exercício 3.8: telhado com inclinações iguais.</figcaption>
-  <a href="https://paulohscwb.github.io/cotadas/telhados/telhado38.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 3.9, pág. 89</h3>
-<img src="telhados/111_telhado39.PNG">
-  <figcaption>Visualização em RA e RV do exercício 3.9: telhado com inclinações iguais.</figcaption>
-  <a href="https://paulohscwb.github.io/cotadas/telhados/telhado39.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 4.3, pág. 92</h3>
-<img src="telhados/114_telhado43.PNG">
-  <figcaption>Visualização em RA e RV do exercício 4.3: telhado com inclinações diferentes.</figcaption>
-  <a href="https://paulohscwb.github.io/cotadas/telhados/telhado43.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 4.4, pág. 93</h3>
-<img src="telhados/115_telhado44.PNG">
-  <figcaption>Visualização em RA e RV do exercício 4.4: telhado com inclinações diferentes.</figcaption>
-  <a href="https://paulohscwb.github.io/cotadas/telhados/telhado44.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 4.5, pág. 94</h3>
-<img src="telhados/116_telhado45.PNG">
-  <figcaption>Visualização em RA e RV do exercício 4.5: telhado com inclinações diferentes.</figcaption>
-  <a href="https://paulohscwb.github.io/cotadas/telhados/telhado45.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 4.6, pág. 95</h3>
-<img src="telhados/117_telhado46.PNG">
-  <figcaption>Visualização em RA e RV do exercício 4.6: telhado com inclinações e níveis diferentes.</figcaption>
-  <a href="https://paulohscwb.github.io/cotadas/telhados/telhado46.html"><img src="vr/RVaframe.png" width="200px"></a>
-<br><a href="#telhados" class="topo">voltar ao topo</a>
+  <summary id="telhados">Representações de telhados: pág. 78-95</summary>
+  <p>Para ver os telhados em Realidade Aumentada, visite o site:</p>
+  <br><center><a href="https://paulohscwb.github.io/cotadas/telhados.html"> https://paulohscwb.github.io/cotadas/telhados.html</a></center>
+  <img src="aplicacoes/Cotadas_2020_0078.png" />
+  <br><a href="#telhados" class="topo">voltar ao topo</a>
+  <img src="aplicacoes/Cotadas_2020_0079.png" />
+  <figcaption>Use o link abaixo para visualizar em 3D os elementos de um telhado</figcaption>
+  <a href="telhados/casa.html" target="_blank" class="visu">Visualização em 3D</a>
+  <br><a href="#telhados" class="topo">voltar ao topo</a>
+  <img src="aplicacoes/Cotadas_2020_0080.png" />
+  <br><a href="#telhados" class="topo">voltar ao topo</a>
+  <img src="aplicacoes/Cotadas_2020_0081.png" />
+  <br><a href="#telhados" class="topo">voltar ao topo</a>
+  <img src="aplicacoes/Cotadas_2020_0082.png" />
+  <br><a href="#telhados" class="topo">voltar ao topo</a>
+  <img src="aplicacoes/Cotadas_2020_0083.png" />
+  <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
+  <a href="telhados/telhado33.html" target="_blank" class="visu">Visualização em 3D</a>
+  <br><a href="#telhados" class="topo">voltar ao topo</a>
+  <img src="aplicacoes/Cotadas_2020_0084.png" />
+  <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
+  <a href="telhados/telhado34.html" target="_blank" class="visu">Visualização em 3D</a>
+  <br><a href="#telhados" class="topo">voltar ao topo</a>
+  <img src="aplicacoes/Cotadas_2020_0085.png" />
+  <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
+  <a href="telhados/telhado35.html" target="_blank" class="visu">Visualização em 3D</a>
+  <br><a href="#telhados" class="topo">voltar ao topo</a>
+  <img src="aplicacoes/Cotadas_2020_0086.png" />
+  <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
+  <a href="telhados/telhado36.html" target="_blank" class="visu">Visualização em 3D</a>
+  <br><a href="#telhados" class="topo">voltar ao topo</a>
+  <img src="aplicacoes/Cotadas_2020_0087.png" />
+  <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
+  <a href="telhados/telhado37.html" target="_blank" class="visu">Visualização em 3D</a>
+  <br><a href="#telhados" class="topo">voltar ao topo</a>
+  <img src="aplicacoes/Cotadas_2020_0088.png" />
+  <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
+  <a href="telhados/telhado38.html" target="_blank" class="visu">Visualização em 3D</a>
+  <br><a href="#telhados" class="topo">voltar ao topo</a>
+  <img src="aplicacoes/Cotadas_2020_0089.png" />
+  <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
+  <a href="telhados/telhado39.html" target="_blank" class="visu">Visualização em 3D</a>
+  <br><a href="#telhados" class="topo">voltar ao topo</a>
+  <img src="aplicacoes/Cotadas_2020_0090.png" />
+  <br><a href="#telhados" class="topo">voltar ao topo</a>
+  <img src="aplicacoes/Cotadas_2020_0091.png" />
+  <br><a href="#telhados" class="topo">voltar ao topo</a>
+  <img src="aplicacoes/Cotadas_2020_0092.png" />
+  <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
+  <a href="telhados/telhado43.html" target="_blank" class="visu">Visualização em 3D</a>
+  <br><a href="#telhados" class="topo">voltar ao topo</a>
+  <img src="aplicacoes/Cotadas_2020_0093.png" />
+  <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
+  <a href="telhados/telhado44.html" target="_blank" class="visu">Visualização em 3D</a>
+  <br><a href="#telhados" class="topo">voltar ao topo</a>
+  <img src="aplicacoes/Cotadas_2020_0094.png" />
+  <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
+  <a href="telhados/telhado45.html" target="_blank" class="visu">Visualização em 3D</a>
+  <br><a href="#telhados" class="topo">voltar ao topo</a>
+  <img src="aplicacoes/Cotadas_2020_0095.png" />
+  <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
+  <a href="telhados/telhado46.html" target="_blank" class="visu">Visualização em 3D</a>
+  <br><a href="#telhados" class="topo">voltar ao topo</a>
 </details>
 
 <details style="border-bottom: 1px solid #a2dec0;">
-  <summary id="superficies">Superfícies Topográficas</summary>
-<br>Para ver as superfícies topográficas em Realidade Aumentada, visite o site:
-<br><center><a href="https://paulohscwb.github.io/cotadas/superficies.html"> https://paulohscwb.github.io/cotadas/superficies.html</a></center>
-<h3>Curvas de nível, pág. 97</h3>
-<img src="superficies/119_cnivel.PNG">
-  <figcaption>Visualização em RA e RV da superfície topográfica com suas respectivas curvas de nível.</figcaption>
-  <a href="https://paulohscwb.github.io/cotadas/superficies/curva11.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 1, pág. 99</h3>
-<img src="superficies/121_exerc1.PNG">
-  <figcaption>Visualização em RA e RV do exercício 1 com suas curvas de nível.</figcaption>
-  <a href="https://paulohscwb.github.io/cotadas/superficies/curva2.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 2, pág. 103</h3>
-<img src="superficies/125_exerc2.PNG">
-  <figcaption>Visualização em RA e RV do exercício 2: perfil topográfico de um terreno.</figcaption>
-  <a href="https://paulohscwb.github.io/cotadas/superficies/curva3.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 3, pág. 104</h3>
-<img src="superficies/126_exerc3.PNG">
-  <figcaption>Visualização em RA e RV do exercício 3: perfil topográfico de um terreno.</figcaption>
-  <a href="https://paulohscwb.github.io/cotadas/superficies/curva9.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício da pág. 106</h3>
-<img src="superficies/127_exerc.PNG">
-  <figcaption>Visualização em RA e RV do exercício da página 106: seção plana de um terreno.</figcaption>
-  <a href="https://paulohscwb.github.io/cotadas/superficies/curva10.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício da pág. 111</h3>
-<img src="superficies/133_exerc.PNG">
-  <figcaption>Visualização em RA e RV do exercício da página 111: cortes de um terreno para construção de uma estrada.</figcaption>
-  <a href="https://paulohscwb.github.io/cotadas/superficies/curva15.html"><img src="vr/RVaframe.png" width="200px"></a>
-<hr>
-<h3>Exercício 2, pág. 114</h3>
-<img src="superficies/136_exerc2.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/superficies/curva13c.html"><img src="vr/RVaframe.png" width="200px"></a>
-  <figcaption>Visualização em RA e RV do exercício 2: seção mista de um terreno (corte e aterro).</figcaption>
-  <a href="#superficies" class="topo">voltar ao topo</a>
+  <summary id="superficies">Superfícies Topográficas: pág. 96-114</summary>
+  <p>Para ver as superfícies topográficas em Realidade Aumentada, visite o site:</p>
+  <br><center><a href="https://paulohscwb.github.io/cotadas/superficies.html"> https://paulohscwb.github.io/cotadas/superficies.html</a></center>
+  <img src="aplicacoes/Cotadas_2020_0096.png" />
+  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <img src="aplicacoes/Cotadas_2020_0097.png" />
+  <figcaption>Use o link abaixo para visualizar em 3D uma superfície topográfica com suas respectivas curvas de nível</figcaption>
+  <a href="superficies/curva11.html" target="_blank" class="visu">Visualização em 3D</a>
+  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <img src="aplicacoes/Cotadas_2020_0098.png" />
+  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <img src="aplicacoes/Cotadas_2020_0099.png" />
+  <figcaption>Use o link abaixo para visualizar em 3D uma superfície topográfica com suas respectivas curvas de nível</figcaption>
+  <a href="superficies/curva2.html" target="_blank" class="visu">Visualização em 3D</a>
+  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <img src="aplicacoes/Cotadas_2020_0100.png" />
+  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <img src="aplicacoes/Cotadas_2020_0101.png" />
+  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <img src="aplicacoes/Cotadas_2020_0102.png" />
+  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <img src="aplicacoes/Cotadas_2020_0103.png" />
+  <figcaption>Use o link abaixo para visualizar em 3D do perfil topográfico de um terreno</figcaption>
+  <a href="superficies/curva3.html" target="_blank" class="visu">Visualização em 3D</a>
+  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <img src="aplicacoes/Cotadas_2020_0104.png" />
+  <figcaption>Use o link abaixo para visualizar em 3D do perfil topográfico de um terreno</figcaption>
+  <a href="superficies/curva9.html" target="_blank" class="visu">Visualização em 3D</a>
+  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <img src="aplicacoes/Cotadas_2020_0105.png" />
+  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <img src="aplicacoes/Cotadas_2020_0106.png" />
+  <figcaption>Use o link abaixo para visualizar em 3D da seção plana de um terreno</figcaption>
+  <a href="superficies/curva10.html" target="_blank" class="visu">Visualização em 3D</a>
+  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <img src="aplicacoes/Cotadas_2020_0107.png" />
+  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <img src="aplicacoes/Cotadas_2020_0108.png" />
+  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <img src="aplicacoes/Cotadas_2020_0109.png" />
+  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <img src="aplicacoes/Cotadas_2020_0110.png" />
+  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <img src="aplicacoes/Cotadas_2020_0111.png" />
+  <figcaption>Use o link abaixo para visualizar em 3D dos cortes de um terreno para construção de uma estrada</figcaption>
+  <a href="superficies/curva15.html" target="_blank" class="visu">Visualização em 3D</a>
+  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <img src="aplicacoes/Cotadas_2020_0112.png" />
+  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <img src="aplicacoes/Cotadas_2020_0113.png" />
+  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <img src="aplicacoes/Cotadas_2020_0114.png" />
+  <figcaption>Use o link abaixo para visualizar em 3D da seção mista de um terreno (corte e aterro)</figcaption>
+  <a href="superficies/curva13c.html" target="_blank" class="visu">Visualização em 3D</a>
+  <br><a href="#superficies" class="topo">voltar ao topo</a>
 </details>
 
-<br><b>desenvolvido por:</b> Paulo Henrique Siqueira - Universidade Federal do Paraná 
+
+<br><b>site desenvolvido por:</b> Paulo Henrique Siqueira 
+<br><b>construções geométricas feitas pelos professores do Grupo de Estudos em Expressão Gráfica da Universidade Federal do Paraná:</b>
+<br>Deise Maria Bertholdi Costa
+<br>Emerson Rolkouski
+<br>Luzia Vidal de Souza
+<br>Paulo Henrique Siqueira
+<br>Simone da Silva Soria Medina
+<br><b>Objetos 3D programados em RA e RV:</b> Paulo Henrique Siqueira 
 <br><b>contato:</b> paulohscwb@gmail.com 
-<br><br>Este site contém algumas partes da <a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2014/09/Cotadas_2020.pdf" target="_blank">apostila de Projeções Cotadas</a> usada em sala de aula para visualizar os objetos com Realidade Virtual (RV) e Realidade Aumentada (RA). As propriedades de projeções, os sólidos e as maquetes podem ser vistos em RA com os marcadores indicados, e através dos links criados nos marcadores, os objetos podem ser vistos em RV. 
 <br>Para ver os objetos em Realidade Aumentada, visite o site:
 <br><center><a href="https://paulohscwb.github.io/cotadas/ra.html"> https://paulohscwb.github.io/cotadas/ra.html</a></center>
 <br>em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso aos sites de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.
 <br><br><center><img src="https://paulohscwb.github.io/cotadas/vr/exemplo.jpg" width="80%"></center>
 
-<br><br><b>Referências</b>
+<br><br><b>Referências:</b>
 <br>O ambiente Realidade Aumentada foi criado com os scripts de <b>Jerome Etienne</b>: <a href="https://github.com/jeromeetienne/AR.js"> AR.js - Augmented Reality for the Web</a>.
 <br>Os scripts de órbita desenvolvidos por <b>Kevin Ngo</b> foram usados nas páginas de RV: <a href="https://github.com/supermedium/superframe/tree/master/components/orbit-controls/"> Orbit controls for A-Frame</a>.
 <br>As faces de poliedros foram criadas com a função desenvolvida por <b>Andreas Plesch</b>: <a href="https://github.com/andreasplesch/aframe-faceset-component"> Geometry from vertices and faces</a>.
