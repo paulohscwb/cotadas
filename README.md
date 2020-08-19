@@ -1532,6 +1532,11 @@
     <a href="vr/p_ex5c_hexagono.html" target="_blank" class="visu">Visualização em 3D</a>
   </details>
   <img src="prop/Cotadas_2020_0021a.png" />
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <p> Você pode usar as mesmas propriedades que usamos no exercício 5.</p>
+    <img src="prop/21_06_00.png"/>
+	<figcaption>Encontre a projeção do centro da circunferência em cada item. Lembre-se das propriedades do hexágono regular.</figcaption>
+  </details>
   <br><a href="#propriedades" class="topo">voltar ao topo</a>
   <img src="prop/Cotadas_2020_0022.png" />
   <figcaption>Os segmentos oblíquos ao plano de projeções <b>&pi;'</b> são projetados com tamanho reduzido, ou seja, <b>AB > A'B'</b></figcaption>
