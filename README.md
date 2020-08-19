@@ -1718,7 +1718,7 @@
 </details>
 
 <details>
-  <summary id="pontos">Pontos, retas e segmentos em épura</summary>
+  <summary id="pontos">Pontos e segmentos em épura: pág. 26-43</summary>
 	<img src="cotadas/Cotadas_2020_0026.png" />
 	<figcaption>Para representar um ponto em épura, basta marcar as coordenadas x(abscissa), y(ordenada) e indicar o valor da cota <b>a</b> do ponto. Use o link abaixo para visualizar em 3D.</figcaption>
 	<a href="vr/rep_ponto.html" target="_blank" class="visu">Visualização em 3D</a>
@@ -1899,17 +1899,23 @@
 		<img src="cotadas/30_03_00.png" class="fundo" />
 	  </details>
 	<br><a href="#pontos" class="topo">voltar ao topo</a>
-	
-	<hr>
-	<details class="sub"><summary>Paralelismo entre retas quaisquer, pág. 44</summary>
-		<img src="vr/44_paralelismo_retas.png">
-		<figcaption>Duas retas quaisquer <b>r</b> e <b>s</b> são paralelas quando suas projeções <b>r'</b> e <b>s'</b> são paralelas, e as graduações destas retas crescem no mesmo sentido. Use o link abaixo para visualizar esta propriedade em 3D.</figcaption>
-		<a href="vr/44_paralelas.html" target="_blank" class="visu">Visualização em 3D do 1<sup>o</sup> exemplo</a>
-		<br><a href="vr/44_paralelas2.html" target="_blank" class="visu">Visualização em 3D do 2<sup>o</sup> exemplo</a>
-		<br><a href="vr/44_paralelas3.html" target="_blank" class="visu">Visualização em 3D do 3<sup>o</sup> exemplo</a>
-	</details>
-	<hr>
-	<details class="sub"><summary>Condições de incidência, pág. 47 (5<sup>o</sup> caso)</summary>
+</details>
+
+<details>
+  <summary id="retas">Retas e planos: pág. 44-62</summary>
+	<img src="cotadas/Cotadas_2020_0044.png" />
+	<figcaption>Duas retas quaisquer <b>r</b> e <b>s</b> são paralelas quando suas projeções <b>r'</b> e <b>s'</b> são paralelas, e as graduações destas retas crescem no mesmo sentido. Use o link abaixo para visualizar esta propriedade em 3D.</figcaption>
+	<a href="vr/44_paralelas.html" target="_blank" class="visu">Visualização em 3D do 1<sup>o</sup> exemplo</a>
+	<br><a href="vr/44_paralelas2.html" target="_blank" class="visu">Visualização em 3D do 2<sup>o</sup> exemplo</a>
+	<img src="cotadas/Cotadas_2020_0044a.png" />
+	<br><a href="vr/44_paralelas3.html" target="_blank" class="visu">Visualização em 3D do 3<sup>o</sup> exemplo</a>
+	<br><a href="#retas" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0045.png" />
+	<br><a href="#retas" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0046.png" />
+	<br><a href="#retas" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0047.png" />
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p> Vamos verificar se as retas são paralelas ou concorrentes, considerando a reta <b>s</b> qualquer e a reta <b>r</b> vertical. Como pertencem ao mesmo plano projetante, elas são necessariamente concorrentes, basta encontrar o ponto <b>P</b> de concorrência. Usando o método do rebatimento, siga os seguintes passos:</p>
 	  <ul class="slider">
 		  <li>
@@ -1944,10 +1950,10 @@
 		   </li>
 		</ul>
 		<img src="cotadas/47_01_00.png" class="fundo" />
-		<a href="vr/47_incidencia5.html" target="_blank" class="visu">Visualização em 3D do 5<sup>o</sup> caso de incidência</a>
+		<a href="vr/47_incidencia5.html" target="_blank" class="visu">Visualização em 3D</a>
 	</details>
-	<hr>
-	<details class="sub"><summary>Condições de incidência, pág. 47 (6<sup>o</sup> caso)</summary>
+	<img src="cotadas/Cotadas_2020_0047a.png" />
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1<sup>o</sup> exemplo</summary>
 	  <p> Vamos verificar se as retas são paralelas ou concorrentes considerando as retas <b>r</b> e <b>s</b> quaisquer. Devemos verificar o ponto de interseção tem a mesma cota nas duas retas, para isso utilizamos o método do rebatimento.</p>
 	  <h4>Planos projetantes distintos e não paralelos</h4>
 	  <ul class="slider">
@@ -2007,15 +2013,16 @@
 		   </li>
 		</ul>
 		<img src="cotadas/47_02_00.png" class="fundo" />
-		<a href="vr/47_incidencia6a.html" target="_blank" class="visu">Visualização em 3D do 6<sup>o</sup> caso de incidência</a>
-		<hr>
-		<h4>Segundo exemplo:</h4>
+		<a href="vr/47_incidencia6a.html" target="_blank" class="visu">Visualização em 3D</a>
+	</details>
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução: 2<sup>o</sup> exemplo</summary>
 		<p>Agora você pode praticar, resolva o exercício, seguindo o mesmo modelo do exercício anterior. Verificar se as retas são paralelas ou concorrentes.</p> 
 		<img src="cotadas/47_03_01.png" />
 		<figcaption>Neste caso as retas são reversas, pois o ponto <b>P</b> possui cotas diferentes nas retas <b>r</b> e <b>s</b>. Use o link abaixo para visualizar este exemplo em 3D.</figcaption>
-		<a href="vr/47_incidencia6b.html" target="_blank" class="visu">Visualização em 3D do 6<sup>o</sup> caso de incidência</a>
-		<hr>
-		<h4>Mesmo plano projetante:</h4>
+		<a href="vr/47_incidencia6b.html" target="_blank" class="visu">Visualização em 3D</a>
+	</details>
+	<img src="cotadas/Cotadas_2020_0047b.png" />
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 		<p>Como as retas são concorrentes, basta verificar se o ângulo entre elas é 90<sup>o</sup>. Se for, elas são perpendiculares. Faremos isso através do método do rebatimento.</p>
 		<ul class="slider">
 		  <li>
@@ -2056,10 +2063,13 @@
 		   </li>
 		</ul>
 		<img src="cotadas/47_04_00.png" class="fundo" />
-		<a href="vr/47_incidencia6c.html" target="_blank" class="visu">Visualização em 3D do 6<sup>o</sup> caso de incidência</a>
+		<a href="vr/47_incidencia6c.html" target="_blank" class="visu">Visualização em 3D</a>
 	</details>
-	<hr>
-	<details class="sub"><summary>Retas perpendiculares ou ortogonais, pág. 49 (reta horizontal e reta qualquer)</summary>
+	<br><a href="#retas" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0048.png" />
+	<br><a href="#retas" class="topo">voltar ao topo</a>
+	<img src="cotadas/Cotadas_2020_0049.png" />
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Devemos verificar se as retas são concorrentes ou ortogonais, para isso basta verificar se o ponto se o ponto onde as retas se cruzam na projeção, possui cota <b>2</b> na reta <b>s</b>.</p>
 	  <ul class="slider">
 		  <li>
@@ -2083,7 +2093,7 @@
 		</ul>
 		<img src="cotadas/49_01_00.png" class="fundo" />
 	</details>
-	<hr>
+	<img src="cotadas/Cotadas_2020_0049a.png" />
 	<details class="sub"><summary>Retas perpendiculares ou ortogonais, pág. 49 (retas quaisquer)</summary>
 	  <p>Como as retas são concorrentes, basta verificar se o ângulo entre elas é <b>90<sup>o</sup></b>, se for, elas são perpendiculares. Faremos isso através do método do rebatimento.</p>
 	  <ul class="slider">
@@ -2102,12 +2112,9 @@
 		</ul>
 		<img src="cotadas/49_02_00.png" class="fundo" />
 	</details>
-	<hr>
-  <br><a href="#pontos" class="topo">voltar ao topo</a>
-</details>
-
-<details>
-  <summary id="solidos">Sólidos em Projeções Cotadas</summary>
+	<img src="cotadas/Cotadas_2020_0049b.png" />
+	<br><a href="#retas" class="topo">voltar ao topo</a>
+	
 	<details class="sub"><summary>Pirâmide de base hexagonal, pág. 53</summary>
 		<img src="vr/075_piramide1.PNG">
 		<figcaption>Visualização em 3D do Exercício 2.</figcaption>
@@ -2126,11 +2133,11 @@
 		<a href="vr/prisma1.html" target="_blank" class="visu">Visualização em 3D</a>
 	</details>
 	<hr>
-	<br><a href="#solidos" class="topo">voltar ao topo</a>
+	<br><a href="#retas" class="topo">voltar ao topo</a>
 </details>
 
 <details>
-  <summary id="rebatimento">Reta de declive e Rebatimento de um plano qualquer</summary>
+  <summary id="rebatimento">Reta de declive e rebatimento: pág. 63-77</summary>
 	<details class="sub"><summary>Reta de declive, pág. 63</summary>
 		<img src="vr/reta-declive-pag63.PNG">
 		<figcaption>Visualização em 3D da reta de declive de um plano.</figcaption>
