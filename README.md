@@ -2342,7 +2342,7 @@
 			   <input type="radio" id="slide426" name="slide" checked>
 			   <label for="slide426">1</label>
 			   <img src="cotadas/65_2_01.png" />
-			<figcaption>Sobre a reta <b>h'<sub>2</sub><b> marcamos um ponto <b>A'(2)</b>. Conduzimos por <b>A'(2)</b> a projeção de uma das retas de declive do plano <b>&alpha; d'<sub>&alpha;</sub></b>. Obs: As retas de declive de um plano são perpendiculares às retas horizontais do plano. </figcaption>
+			<figcaption>Sobre a reta <b>h'<sub>2</sub></b> marcamos um ponto <b>A'(2)</b>. Conduzimos por <b>A'(2)</b> a projeção de uma das retas de declive do plano <b>&alpha; d'<sub>&alpha;</sub></b>. Obs: As retas de declive de um plano são perpendiculares às retas horizontais do plano. </figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide427" name="slide">
@@ -2366,7 +2366,7 @@
 			   <input type="radio" id="slide430" name="slide">
 			   <label for="slide430">4</label>
 			   <img src="cotadas/65_2_05.png" />
-			 <figcaption>A reta de declive fica então definida pelos pontos <b>A</b> e </b>B</b> e forma <b>60°</b> com <b>&pi;'</b>.</figcaption>
+			 <figcaption>A reta de declive fica então definida pelos pontos <b>A</b> e <b>B</b> e forma <b>60°</b> com <b>&pi;'</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="cotadas/65_2_00.png" class="fundo" />
