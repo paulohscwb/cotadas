@@ -88,6 +88,7 @@
   </ul>
   <img src="dg/01_01_00.png" class="fundo"/>
   </details>
+  <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Cotadas_2020_0002.png" />
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução com esquadros</summary>
   <p>Podemos utilizar a régua e um dos esquadros ou a régua e o compasso para resolver este exercício. Primeiro, veja como é a construção com a régua e o esquadro de 45<sup>o</sup>.</p>
