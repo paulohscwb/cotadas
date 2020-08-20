@@ -2214,6 +2214,7 @@
 		<img src="cotadas/33_01_00.png" class="fundo" />
 	</details>
 	<img src="cotadas/Cotadas_2020_0033a.png" />
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>A segunda reta que iremos estudar é a reta horizontal.</p>
 	  <ul class="slider">
 		  <li>
