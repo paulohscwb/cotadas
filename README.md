@@ -2152,19 +2152,85 @@
 		   </li>
 		</ul>
 		<img src="cotadas/31_01_00.png" class="fundo" />
-	  </details>
+	</details>
 	<img src="cotadas/Cotadas_2020_0031a.png" />
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p>Solução do item b</p>
 		<img src="cotadas/31_02_00.png" class="fundo" />
-	  </details>
+	</details>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0032.png" />
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>Solução do item c</p>
+		<img src="cotadas/32_01_00.png" class="fundo" />
+	</details>
 	<img src="cotadas/Cotadas_2020_0032a.png" />
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>Solução do item d</p>
+		<img src="cotadas/32_02_00.png" class="fundo" />
+	</details>
 	<img src="cotadas/Cotadas_2020_0032b.png" />
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="slide524" name="slide" checked>
+			   <label for="slide524">1</label>
+			   <img src="cotadas/32_03_01.png" />
+			<figcaption>Conforme o enunciado, localizamos as projeções dos pontos a <b>8cm</b> de distância. A escala do desenho é de <b>1:100</b> isso implica que <b>1cm</b> no desenho, corresponde a <b>100cm</b> ou <b>1m</b> no terreno. Dessa maneira, podemos indicar as cotas de cada um dos pontos na escala considerada.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide525" name="slide">
+			   <label for="slide525">2</label>
+			   <img src="cotadas/32_03_02.png" />
+			 <figcaption>Traça-se uma perpendicular por <b>B’</b>, marcando o ponto auxiliar <b>B’<sub>1</sub></b> à distância de <b>9cm</b> de <b>B’</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide526" name="slide">
+			   <label for="slide526">3</label>
+			   <img src="cotadas/32_03_03.png" />
+			 <figcaption>A VG de <b>AB</b> é dada pela distância entre <b>A’</b> e <b>B’<sub>1</sub></b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/32_03_00.png" class="fundo" />
+	</details>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0033.png" />
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>As retas podem assumir três diferentes posições com relação ao plano de projeção <b>&pi;’</b>. A primeira reta que iremos estudar é a reta vertical. </p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="slide527" name="slide" checked>
+			   <label for="slide527">1</label>
+			   <img src="cotadas/33_01_01.png" />
+			<figcaption>Observe sua representação. Essa reta é perpendicular ao plano de projeção <b>&pi;’</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide528" name="slide">
+			   <label for="slide528">2</label>
+			   <img src="cotadas/33_01_02.png" />
+			 <figcaption>A sua projeção coincide com todos os pontos pertencentes à reta e, por isso, representamos <b>r’</b> coincidente com <b>A’</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/33_01_00.png" class="fundo" />
+	</details>
 	<img src="cotadas/Cotadas_2020_0033a.png" />
+	<p>A segunda reta que iremos estudar é a reta horizontal.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="slide529" name="slide" checked>
+			   <label for="slide529">1</label>
+			   <img src="cotadas/33_01_01.png" />
+			<figcaption>Observe sua representação. Essa reta é paralela ao plano de projeção <b>&pi;’</b>. Isso implica que todos os seus pontos têm mesma cota.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide530" name="slide">
+			   <label for="slide530">2</label>
+			   <img src="cotadas/33_01_02.png" />
+			 <figcaption>Para representarmos a projeção de uma reta horizontal que passa por <b>AB</b>, simplesmente traçamos a sua projeção passando por <b>A’B’</b> e nomeamos <b>r’</b>. Além disso, é preciso indicar a cota de <b>B</b>, que será a mesma de <b>A</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/33_01_00.png" class="fundo" />
+	</details>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0034.png" />
 	<img src="cotadas/Cotadas_2020_0034a.png" />
