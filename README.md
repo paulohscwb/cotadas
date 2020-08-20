@@ -1140,10 +1140,148 @@
   </details>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Cotadas_2020_0007.png" />
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos dividir a circunferência em <b>6</b> partes iguais. Lembra que no item a desse exercício já fizemos isso?</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="slide063" name="slide" checked>
+           <label for="slide063">1</label>
+           <img src="dg/07_01_01.png" />
+           <figcaption>Então basta repetir o processo aqui. Lembre de utilizar como medida no compasso o raio da circunferência dada! Pronto! Temos o hexágono regular inscrito na circunferência!</figcaption>
+       </li>
+    </ul>
+    <img src="dg/07_01_00.png" class="fundo" />
+  </details>
   <img src="dg/Cotadas_2020_0007a.png" />
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos dividir a circunferência em <b>8</b> partes iguais. Para isso, vamos começar dividindo a circunferência em <b>4</b> partes iguais. Lembra? Já fizemos isso no item b desse exercício! </p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="slide064" name="slide" checked>
+           <label for="slide064">1</label>
+           <img src="dg/07_02_01.png" />
+           <figcaption>Comece por um ponto <b>A</b> qualquer da circunferência e trace dois diâmetros <b>AE</b> e <b>CG</b> perpendiculares utilizando os esquadros. Já temos o quadrado <b>ACEG</b> inscrito. Não precisa representar esse quadrado! </figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide065" name="slide">
+           <label for="slide065">2</label>
+           <img src="dg/07_02_02.png" />
+           <figcaption>Construa a bissetriz do ângulo <b>GOE</b> obtendo os pontos <b>B</b> e <b>F</b> sobre a circunferência. Acabamos de obter ângulos centrais de <b>45°</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide066" name="slide">
+           <label for="slide066">3</label>
+           <img src="dg/07_02_03.png" />
+           <figcaption>Construa agora a bissetriz do ângulo <b>COE</b> obtendo sobre a circunferência os pontos <b>D</b> e <b>H</b>. Temos mais 4 ângulos centrais de <b>45°</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide067" name="slide">
+           <label for="slide067">4</label>
+           <img src="dg/07_02_04.png" />
+           <figcaption>Pronto! O polígono <b>ABCDEFG</b> é um octógono regular inscrito na circunferência dada. Agora é só representar. O que é preciso fazer para obtermos o polígono regular de <b>16</b> lados inscrito nessa circunferência?</figcaption>
+       </li>
+    </ul>
+    <img src="dg/07_02_00.png" class="fundo" />
+  </details>
   <img src="dg/Cotadas_2020_0007b.png" />
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos dividir a circunferência em <b>10</b> partes iguais. Acompanhe o procedimento.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="slide068" name="slide" checked>
+           <label for="slide068">1</label>
+           <img src="dg/07_03_01.png" />
+           <figcaption>Desenhe um diâmetro <b>12</b>. </figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide069" name="slide">
+           <label for="slide069">2</label>
+           <img src="dg/07_03_02.png" />
+           <figcaption>Construa um segundo diâmetro <b>34</b> perpendicular ao primeiro.<figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide070" name="slide">
+           <label for="slide070">3</label>
+           <img src="dg/07_03_03.png" />
+           <figcaption>Trace a mediatriz do raio <b>O1</b>, obtendo o ponto <b>5</b>, médio do segmento.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide071" name="slide">
+           <label for="slide071">4</label>
+           <img src="dg/07_03_04.png" />
+           <figcaption>Construa o arco de centro no ponto <b>5</b> e raio <b>53</b>, obtendo o ponto <b>6</b> sobre o diâmetro <b>12</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide072" name="slide">
+           <label for="slide072">5</label>
+           <img src="dg/07_03_05.png" />
+           <figcaption>O segmento <b>O6=l<sub>10</sub></b> é o lado do decágono regular inscrito nessa circunferência. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide073" name="slide">
+           <label for="slide073">6</label>
+           <img src="dg/07_03_06.png" />
+           <figcaption>Marque essa medida <b>l<sub>10</sub></b> no compasso e a partir de um ponto <b>A</b> qualquer da circunferência construa um arco obtendo o ponto <b>B</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide074" name="slide">
+           <label for="slide074">7</label>
+           <img src="dg/07_03_07.png" />
+           <figcaption>Com a mesma medida <b>l<sub>10</sub></b> no compasso, construa um arco de centro em <b>B</b> obtendo o ponto <b>C</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide075" name="slide">
+           <label for="slide075">8</label>
+           <img src="dg/07_03_08.png" />
+           <figcaption>Continue o processo até obter o ponto <b>J</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide076" name="slide">
+           <label for="slide076">9</label>
+           <img src="dg/07_03_09.png" />
+           <figcaption>Pronto! Agora é só unir os pontos <b>A</b>, <b>B</b>, <b>C</b>, ..., <b>J</b> para obter o decágono regular inscrito na circunferência de raio <b>r</b> dada. Por propriedade o <b>l<sub>10</sub></b> é o segmento áureo do raio e, portanto, mede <b>r(√5-1)/2</b>. Para deduzir essa relação basta observar o triângulo retângulo <b>O53</b> e que os segmentos <b>56</b> e <b>53</b> são congruentes!</figcaption>
+       </li>
+    </ul>
+    <img src="dg/07_03_00.png" class="fundo" />
+  </details>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Cotadas_2020_0008.png" />
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Para dividir a circunferência em <b>5</b> partes iguais podemos dividi-la primeiro em <b>10</b> partes iguais e ao invés de unir os vértices um a um, basta unir de dois em dois, ou utilizar uma propriedade geométrica. Veja a seguir qual seria.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="slide077" name="slide" checked>
+           <label for="slide077">1</label>
+           <img src="dg/08_01_01.png" />
+           <figcaption>Repita o processo da divisão da circunferência em <b>10</b> partes iguais visto no item anterior. </figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide078" name="slide">
+           <label for="slide078">2</label>
+           <img src="dg/08_01_02.png" />
+           <figcaption>O segmento <b>63=l<sub>5</sub></b> é o lado do pentágono regular inscrito na circunferência dada.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide079" name="slide">
+           <label for="slide079">3</label>
+           <img src="dg/08_01_03.png" />
+           <figcaption>Marque essa medida <b>l<sub>5</sub></b> no compasso e a partir de um ponto <b>A</b> qualquer da circunferência construa um arco obtendo o ponto <b>B</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide080" name="slide">
+           <label for="slide080">4</label>
+           <img src="dg/08_01_04.png" />
+           <figcaption>Com a mesma medida do <b>l<sub>5</sub></b> no compasso, obtenha os demais vértices.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide081" name="slide">
+           <label for="slide081">5</label>
+           <img src="dg/08_01_05.png" />
+           <figcaption>Pronto! Agora é só unir os pontos <b>A</b>, <b>B</b>, <b>C</b>, <b>D</b> e <b>E</b> para representar o pentágono regular inscrito na circunferência de raio <b>r</b> dada. Por propriedade o <b>l<sub>5</sub></b> é hipotenusa de um triângulo retângulo de catetos <b>l<sub>10</sub></b> e <b>l<sub>6</sub>=r</b>.</figcaption>
+       </li>
+    </ul>
+    <img src="dg/08_01_00.png" class="fundo" />
+  </details>
   <img src="dg/Cotadas_2020_0008a.png" />
   <img src="dg/Cotadas_2020_0008b.png" />
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
