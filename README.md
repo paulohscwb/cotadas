@@ -325,7 +325,7 @@
     </ul>
     <img src="dg/02_03_00.png" class="fundo" />
   </details>
-  <a href="#desenho" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
 	<img src="dg/Cotadas_2020_0003.png" />
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
@@ -710,7 +710,7 @@
     </ul>
     <img src="dg/03_02_20e.png" class="fundo" />
 	</details>
-  <a href="#desenho" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Cotadas_2020_0004.png" />
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para dividirmos um segmento graficamente em partes iguais utilizamos o Teorema de Tales que diz que “Um feixe (conjunto) de retas paralelas determina sobre um feixe de retas concorrentes segmentos proporcionais correspondentes”.</p>
@@ -900,7 +900,7 @@
     </ul>
     <img src="dg/04_03_00.png" class="fundo" />
   </details>
-  <a href="#desenho" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Cotadas_2020_0005.png" />
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Num triângulo <b>ABC</b>, o lado oposto ao vértice <b>A</b> é denotado por <b>a=BC</b>, o lado oposto ao <b>B</b> é denotado por <b>b=AC</b> e o lado oposto ao <b>C</b> é denotado por <b>c=AB</b>. Para construir um triângulo <b>ABC</b> dados os lados é necessário determinar a posição dos seus vértices <b>A</b>, <b>B</b> e <b>C</b>. Vamos à construção!</p>
@@ -1036,7 +1036,7 @@
     </ul>
     <img src="dg/05_03_00.png" class="fundo" />
   </details>
-  <a href="#desenho" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Cotadas_2020_0006.png" />
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para obtermos o Ortocentro <b>H</b> do triângulo precisamos construir suas alturas.</p>
@@ -1137,22 +1137,22 @@
     </ul>
     <img src="dg/06_03_00.png" class="fundo" />
   </details>
-  <a href="#desenho" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Cotadas_2020_0007.png" />
   <img src="dg/Cotadas_2020_0007a.png" />
   <img src="dg/Cotadas_2020_0007b.png" />
-  <a href="#desenho" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Cotadas_2020_0008.png" />
   <img src="dg/Cotadas_2020_0008a.png" />
   <img src="dg/Cotadas_2020_0008b.png" />
-  <a href="#desenho" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Cotadas_2020_0009.png" />
   <img src="dg/Cotadas_2020_0009a.png" />
   <img src="dg/Cotadas_2020_0009b.png" />
-  <a href="#desenho" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Cotadas_2020_0010.png" />
   <img src="dg/Cotadas_2020_0010a.png" />
-  <a href="#desenho" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
 </details>
 
 <details>
