@@ -2220,17 +2220,17 @@
 		  <li>
 			   <input type="radio" id="slide529" name="slide" checked>
 			   <label for="slide529">1</label>
-			   <img src="cotadas/33_01_01.png" />
+			   <img src="cotadas/33_02_01.png" />
 			<figcaption>Observe sua representação. Essa reta é paralela ao plano de projeção <b>&pi;’</b>. Isso implica que todos os seus pontos têm mesma cota.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide530" name="slide">
 			   <label for="slide530">2</label>
-			   <img src="cotadas/33_01_02.png" />
+			   <img src="cotadas/33_02_02.png" />
 			 <figcaption>Para representarmos a projeção de uma reta horizontal que passa por <b>AB</b>, simplesmente traçamos a sua projeção passando por <b>A’B’</b> e nomeamos <b>r’</b>. Além disso, é preciso indicar a cota de <b>B</b>, que será a mesma de <b>A</b>.</figcaption>
 		   </li>
 		</ul>
-		<img src="cotadas/33_01_00.png" class="fundo" />
+		<img src="cotadas/33_02_00.png" class="fundo" />
 	</details>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0034.png" />
