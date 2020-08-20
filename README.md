@@ -1197,7 +1197,7 @@
            <input type="radio" id="slide069" name="slide">
            <label for="slide069">2</label>
            <img src="dg/07_03_02.png" />
-           <figcaption>Construa um segundo diâmetro <b>34</b> perpendicular ao primeiro.<figcaption>
+           <figcaption>Construa um segundo diâmetro <b>34</b> perpendicular ao primeiro.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="slide070" name="slide">
