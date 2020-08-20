@@ -17,11 +17,13 @@
     width: 18px;
     height: 18px;
 	float: right;
-    margin: 0 2px -2px 8px;
+    margin: 0 2px -4px 6px;
 }
 
 .topop {
 	text-align:right;
+	position: relative;
+	top: -7px;
 }
 
 figcaption {
@@ -64,7 +66,7 @@ li.img{
   font-size: 16px;
   font-weight: normal;
   margin-bottom: 5px;
-  margin-left:5px;
+  margin-left:0px;
 }
 
 h4 {

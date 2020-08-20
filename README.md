@@ -1159,11 +1159,11 @@
   <summary id="propriedades">Propriedades das projeções cilíndricas: pág. 11-25</summary>
 	<p>Leia o conteúdo das páginas 11, 12 e 13 da apostila. Agora vamos começar a trabalhar com as projeções de objetos e figuras em um plano <b>&pi;'</b>.</p> 	
 	<img src="prop/Cotadas_2020_0011.png" />
-	<br><a href="#propriedades" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 	<img src="prop/Cotadas_2020_0012.png" />
-	<br><a href="#propriedades" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 	<img src="prop/Cotadas_2020_0013.png" />
-	<br><a href="#propriedades" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 	<img src="prop/Cotadas_2020_0014.png" />
     <figcaption>Para projetar um ponto <b>A</b> qualquer do espaço usando a projeção cônica, basta definir a reta projetante <b>a</b>, que passa pelo centro de projeção <b>O</b> e pelo ponto <b>A</b>. A interseção desta reta com o plano <b>&pi;'</b> é a projeção <b>A'</b> do ponto <b>A</b>.</figcaption>
     <a href="vr/proj_conica.html" target="_blank" class="visu">Visualização em 3D</a>
@@ -1172,7 +1172,7 @@
     <a href="vr/proj_cilindrica.html" target="_blank" class="visu">Projeção cilíndrica <b>oblíqua</b> em 3D</a>
     <figcaption>Quando <b>&theta; = 90<sup>o</sup></b>, temos a projeção <b>ortogonal</b>.</figcaption>
 	<a href="vr/proj_cilindrica_orto.html" target="_blank" class="visu">Projeção cilíndrica <b>ortogonal</b> em 3D</a>
-	<br><a href="#propriedades" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 	<img src="prop/Cotadas_2020_0015.png" />
     <figcaption>Quando a reta <b>r</b> não é paralela à direção <b>d</b>, a sua projeção <b>r'</b> é uma reta.</figcaption>
     <a href="vr/p1.html" target="_blank" class="visu">Visualização em 3D da projeção <b>oblíqua</b></a>
@@ -1192,7 +1192,7 @@
 		  <iframe src="https://drive.google.com/file/d/1Tg2c6pOoDNESEAvl9kvXgRGv81D-U0Kw/preview" width="100%"></iframe>
 		</div>
 	  </details>
-	<br><a href="#propriedades" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 	<img src="prop/Cotadas_2020_0016.png" />  
     <figcaption>Considerando <b>r</b> e <b>s</b> estão em planos projetantes distintos, as projeções <b>r'</b> e <b>s'</b> são paralelas.</figcaption>
     <a href="vr/p2.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
@@ -1205,7 +1205,7 @@
     <figcaption>Quando as retas <b>r</b> e <b>s</b> são paralelas à direção <b>d</b>, suas projeções <b>r'</b> e <b>s'</b> são pontos.</figcaption>
     <a href="vr/p2c.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
 	<br><a href="vr/p2c_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
-	<br><a href="#propriedades" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
     <img src="prop/Cotadas_2020_0017.png" /> 
     <figcaption>A proporção entre as medidas dos segmentos paralelos <b>AB</b> e <b>CD</b> é a mesma de suas projeções, ou seja: <b>AB/CD = A'B'/C'D'</b>.</figcaption>
     <a href="vr/p3a.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
@@ -1214,7 +1214,7 @@
     <figcaption>Se os segmentos <b>AB</b> e <b>CD</b> são colineares, a mesma proporção entre as medidas é válida: <b>AB/CD = A'B'/C'D'</b>.</figcaption>
     <a href="vr/p3b.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
 	<br><a href="vr/p3b_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
-	<br><a href="#propriedades" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 	<img src="prop/Cotadas_2020_0018.png" /> 
     <figcaption>Uma figura pertencente a um plano paralelo ao plano de projeções <b>&pi;'</b> fica projetada com o mesmo tamanho, sem redução ou ampliação de tamanho.</figcaption>
     <a href="vr/p4.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
@@ -1223,7 +1223,7 @@
     <figcaption>Uma figura que pertence a um plano <b>&alpha;</b> paralelo à direção <b>d</b> de projeções tem projeção reduzida a um segmento.</figcaption>
     <a href="vr/p5.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
 	<br><a href="vr/p5_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
-	<br><a href="#propriedades" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/Cotadas_2020_0019.png" />
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício. De acordo com a propriedade 3, podemos encontrar a projeção do ponto médio de <b>AB</b> construindo a mediatriz da projeção deste segmento. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
@@ -1336,7 +1336,7 @@
 	<img src="prop/19_02_00d.png">
 	<figcaption>Usando as mesmas propriedades usadas nos itens anteriores, podemos concluir que os vértices <b>A</b> e <b>D</b> coincidem.</figcaption>
   </details>
-  <br><a href="#propriedades" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/Cotadas_2020_0020.png" />
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: item a</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
@@ -1506,7 +1506,7 @@
 	<figcaption>Utilizando as mesmas propriedades dos itens anteriores, você consegue construir este triângulo. Use o link abaixo para te ajudar na visualização em 3D.</figcaption>
     <a href="vr/p_ex4c_triangulo.html" target="_blank" class="visu">Visualização em 3D do item c</a>
   </details>
-  <br><a href="#propriedades" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/Cotadas_2020_0021.png" />
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: itens a e b</summary>
   <p> Vamos utilizar a régua, o compasso e os esquadros para resolver este exercício.</p>
@@ -1628,14 +1628,14 @@
     <img src="prop/21_06_00.png"/>
 	<figcaption>Encontre a projeção do centro da circunferência em cada item. Lembre-se das propriedades do hexágono regular.</figcaption>
   </details>
-  <br><a href="#propriedades" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/Cotadas_2020_0022.png" />
   <figcaption>Os segmentos oblíquos ao plano de projeções <b>&pi;'</b> são projetados com tamanho reduzido, ou seja, <b>AB > A'B'</b></figcaption>
   <a href="vr/p6.html" target="_blank" class="visu">Visualização da propriedade em 3D</a>
   <img src="prop/Cotadas_2020_0022a.png" />
   <figcaption>Quando a reta <b>r // &pi;'</b> e as retas <b>r</b> e <b>s</b> são perpendiculares ou ortogonais, as retas <b>r'</b> e <b>s'</b> são perpendiculares.</figcaption>
   <a href="vr/p7.html" target="_blank" class="visu">Visualização da propriedade em 3D</a>
-  <br><a href="#propriedades" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/Cotadas_2020_0023.png" />
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
@@ -1724,7 +1724,7 @@
 	<img src="prop/23_02_00.png" class="fundo" />
     <a href="vr/p_ex2_retangulo.html" target="_blank" class="visu">Visualização em 3D</a>
   </details>
-  <br><a href="#propriedades" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/Cotadas_2020_0024.png" />
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar o compasso e os esquadros para resolver este exercício.</p>
@@ -1798,14 +1798,14 @@
 	<img src="prop/24_02_00.png">
 	<figcaption>Tente encontrar o centro da circunferência da base dos vertices <b>A'</b> e <b>B'</b>. Use as propriedades do hexágono regular.</figcaption>
   </details>
-  <br><a href="#propriedades" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/Cotadas_2020_0025.png" />
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p> Você pode utilizar o compasso e os esquadros para resolver este exercício. Lembre-se de aplicar as propriedades de projeções cilíndricas e cilíndricas ortogonais.</p>
 	<img src="prop/25_01_00.png">
 	<figcaption>Usando as propriedades de projeções cilíndricas ortogonais, verifique quais dos segmentos são projetados em verdadeira grandeza (vg) em <b>&pi;'</b>: <b>AB</b>, <b>AE</b>, <b>HJ</b> e <b>JG</b>.</figcaption>
   </details>
-<br><a href="#propriedades" class="topo">voltar ao topo</a>
+<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 </details>
 
 <details>
@@ -1813,7 +1813,7 @@
 	<img src="cotadas/Cotadas_2020_0026.png" />
 	<figcaption>Para representar um ponto em épura, basta marcar as coordenadas x(abscissa), y(ordenada) e indicar o valor da cota <b>a</b> do ponto. Use o link abaixo para visualizar em 3D.</figcaption>
 	<a href="vr/rep_ponto.html" target="_blank" class="visu">Visualização em 3D</a>
-	<br><a href="#pontos" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0027.png" />
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
@@ -1845,11 +1845,11 @@
 		<img src="cotadas/27_01_00.png" class="fundo" />
 		<a href="vr/exerc_epura.html" target="_blank" class="visu">Visualização em 3D</a>
 	  </details>
-	  <br><a href="#pontos" class="topo">voltar ao topo</a>
+	  <p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
     <img src="cotadas/Cotadas_2020_0028.png" />
    	<figcaption>Usamos o rebatimento encontrar a verdadeira grandeza (vg) de um segmento AB. Neste caso, o segmento é rebatido usando a projeção <b>A'B'</b> como eixo para rebater o segmento em <b>&pi;'</b>. Neste caso, marcamos as cotas dos pontos a partir de suas projeções.</figcaption>
 	<a href="vr/vg_segmento.html" target="_blank" class="visu">Visualização em 3D</a>
-	<br><a href="#pontos" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0029.png" />
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
@@ -1927,7 +1927,7 @@
 		</ul>
 		<img src="cotadas/29_03_00.png" class="fundo" />
 	  </details>
-	  <br><a href="#pontos" class="topo">voltar ao topo</a>
+	  <p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	  <img src="cotadas/Cotadas_2020_0030.png" />
 	  <figcaption>Rebatimento usado para encontrar a verdadeira grandeza (vg) de um segmento <b>AB</b>. Neste caso, o segmento é rebatido usando o segmento <b>AC</b> como eixo para rebater o segmento em um plano horizontal<b>&beta;</b> que passa por <b>A</b>. Neste caso, marcamos a diferença de cotas entre os pontos <b>A</b> e <b>B</b> a partir da projeção <b>B'</b></figcaption>
 	  <a href="vr/vg_segmento2.html" target="_blank" class="visu">Visualização em 3D</a>
@@ -1989,7 +1989,7 @@
 		</ul>
 		<img src="cotadas/30_03_00.png" class="fundo" />
 	  </details>
-	<br><a href="#pontos" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0031.png" />
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
@@ -2019,43 +2019,43 @@
 		<p>Solução do item b</p>
 		<img src="cotadas/31_02_00.png" class="fundo" />
 	  </details>
-	<br><a href="#pontos" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0032.png" />
 	<img src="cotadas/Cotadas_2020_0032a.png" />
 	<img src="cotadas/Cotadas_2020_0032b.png" />
-	<br><a href="#pontos" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0033.png" />
 	<img src="cotadas/Cotadas_2020_0033a.png" />
-	<br><a href="#pontos" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0034.png" />
 	<img src="cotadas/Cotadas_2020_0034a.png" />
-	<br><a href="#pontos" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0035.png" />
-	<br><a href="#pontos" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0036.png" />
-	<br><a href="#pontos" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0037.png" />
-	<br><a href="#pontos" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0038.png" />
 	<img src="cotadas/Cotadas_2020_0038a.png" />
-	<br><a href="#pontos" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0039.png" />
 	<img src="cotadas/Cotadas_2020_0039a.png" />
 	<img src="cotadas/Cotadas_2020_0039b.png" />
-	<br><a href="#pontos" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0040.png" />
 	<img src="cotadas/Cotadas_2020_0040a.png" />
-	<br><a href="#pontos" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0041.png" />
-	<br><a href="#pontos" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0042.png" />
 	<img src="cotadas/Cotadas_2020_0042a.png" />
 	<img src="cotadas/Cotadas_2020_0042b.png" />
-	<br><a href="#pontos" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0043.png" />
 	<img src="cotadas/Cotadas_2020_0043a.png" />
 	<img src="cotadas/Cotadas_2020_0043b.png" />
-	<br><a href="#pontos" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 </details>
 
 <details>
@@ -2066,11 +2066,11 @@
 	<br><a href="vr/44_paralelas2.html" target="_blank" class="visu">Visualização em 3D do 2<sup>o</sup> exemplo</a>
 	<img src="cotadas/Cotadas_2020_0044a.png" />
 	<br><a href="vr/44_paralelas3.html" target="_blank" class="visu">Visualização em 3D do 3<sup>o</sup> exemplo</a>
-	<br><a href="#retas" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0045.png" />
-	<br><a href="#retas" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0046.png" />
-	<br><a href="#retas" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0047.png" />
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p> Vamos verificar se as retas são paralelas ou concorrentes, considerando a reta <b>s</b> qualquer e a reta <b>r</b> vertical. Como pertencem ao mesmo plano projetante, elas são necessariamente concorrentes, basta encontrar o ponto <b>P</b> de concorrência. Usando o método do rebatimento, siga os seguintes passos:</p>
@@ -2222,9 +2222,9 @@
 		<img src="cotadas/47_04_00.png" class="fundo" />
 		<a href="vr/47_incidencia6c.html" target="_blank" class="visu">Visualização em 3D</a>
 	</details>
-	<br><a href="#retas" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0048.png" />
-	<br><a href="#retas" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0049.png" />
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Devemos verificar se as retas são concorrentes ou ortogonais, para isso basta verificar se o ponto se o ponto onde as retas se cruzam na projeção, possui cota <b>2</b> na reta <b>s</b>.</p>
@@ -2270,49 +2270,49 @@
 		<img src="cotadas/49_02_00.png" class="fundo" />
 	</details>
 	<img src="cotadas/Cotadas_2020_0049b.png" />
-	<br><a href="#retas" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0050.png" />
 	<img src="cotadas/Cotadas_2020_0050a.png" />
-	<br><a href="#retas" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0051.png" />
 	<img src="cotadas/Cotadas_2020_0051a.png" />
 	<img src="cotadas/Cotadas_2020_0051b.png" />
-	<br><a href="#retas" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0052.png" />
-	<br><a href="#retas" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0053.png" />
 	<img src="cotadas/Cotadas_2020_0053a.png" />
 	<figcaption>Use o link abaixo para a visualização em 3D do sólido projetado.</figcaption>
 	<a href="vr/piramide1.html" target="_blank" class="visu">Visualização em 3D</a>
-	<br><a href="#retas" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0054.png" />
-	<br><a href="#retas" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0055.png" />
-	<br><a href="#retas" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0056.png" />
 	<figcaption>Use o link abaixo para a visualização em 3D do sólido projetado.</figcaption>
 	<a href="vr/piramide2.html" target="_blank" class="visu">Visualização em 3D</a>
 	<img src="cotadas/Cotadas_2020_0056a.png" />
 	<figcaption>Use o link abaixo para a visualização em 3D do sólido projetado.</figcaption>
 	<a href="vr/prisma1.html" target="_blank" class="visu">Visualização em 3D</a>
-	<br><a href="#retas" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0057.png" />
-	<br><a href="#retas" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0058.png" />
 	<img src="cotadas/Cotadas_2020_0058a.png" />
-	<br><a href="#retas" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0059.png" />
 	<img src="cotadas/Cotadas_2020_0059a.png" />
-	<br><a href="#retas" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0060.png" />
 	<img src="cotadas/Cotadas_2020_0060a.png" />
-	<br><a href="#retas" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0061.png" />
 	<img src="cotadas/Cotadas_2020_0061a.png" />
-	<br><a href="#retas" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0062.png" />
 	<img src="cotadas/Cotadas_2020_0062a.png" />
-	<br><a href="#retas" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 </details>
 
 <details>
@@ -2399,7 +2399,7 @@
 		</ul>
 		<img src="cotadas/63_02_00.png" class="fundo" />
 	</details>
-	<br><a href="#rebatimento" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0064.png" />
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>O ângulo que um plano forma com o plano de projeção é igual à inclinação de uma de suas retas de maior declive.</p>
@@ -2480,7 +2480,7 @@
 		</ul>
 		<img src="cotadas/64_02_00.png" class="fundo" />
 	</details>
-	<br><a href="#rebatimento" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0065.png" />
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>O ângulo que um plano forma com o plano de projeção (inclinação) é igual a inclinação de uma de suas retas de declive.</p>
@@ -2550,37 +2550,37 @@
 		</ul>
 		<img src="cotadas/65_2_00.png" class="fundo" />
 	</details>
-	<br><a href="#rebatimento" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0066.png" />
 	<figcaption>Use o link abaixo para visualizar em 3D o processo do rebatimento de um plano qualquer <b>&alpha;</b> sobre <b>&pi;</b>.</figcaption>
 	<a href="vr/rebatimento.html" target="_blank" class="visu">Visualização em 3D</a>
-	<br><a href="#rebatimento" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0067.png" />
 	<img src="cotadas/Cotadas_2020_0067a.png" />
-	<br><a href="#rebatimento" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0068.png" />
 	<img src="cotadas/Cotadas_2020_0068a.png" />
-	<br><a href="#rebatimento" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0069.png" />
 	<img src="cotadas/Cotadas_2020_0069a.png" />
-	<br><a href="#rebatimento" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0070.png" />
 	<img src="cotadas/Cotadas_2020_0070a.png" />
-	<br><a href="#rebatimento" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0071.png" />
-	<br><a href="#rebatimento" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0072.png" />
-	<br><a href="#rebatimento" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0073.png" />
 	<img src="cotadas/Cotadas_2020_0073a.png" />
-	<br><a href="#rebatimento" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0074.png" />
 	<figcaption>Use o link abaixo para visualizar em 3D a interseção entre plano horizontal e um plano vertical</figcaption>
 	<a href="vr/int_pv_ph.html" target="_blank" class="visu">Visualização em 3D</a>
 	<img src="cotadas/Cotadas_2020_0074a.png" />
 	<figcaption>Use o link abaixo para visualizar em 3D a interseção entre plano qualquer e um plano horizontal</figcaption>
 	<a href="vr/int_pq_ph.html" target="_blank" class="visu">Visualização em 3D</a>
-	<br><a href="#rebatimento" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0075.png" />
 	<img src="cotadas/Cotadas_2020_0075a.png" />
 	<figcaption>Use o link abaixo para visualizar em 3D a interseção entre plano qualquer e um plano vertical</figcaption>
@@ -2588,15 +2588,15 @@
 	<img src="cotadas/Cotadas_2020_0075b.png" />
 	<figcaption>Use o link abaixo para visualizar em 3D a interseção entre dois planos quaisquer</figcaption>
 	<a href="vr/int_pq_pq.html" target="_blank" class="visu">Visualização em 3D</a>
-	<br><a href="#rebatimento" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0076.png" />
 	<img src="cotadas/Cotadas_2020_0076a.png" />
 	<img src="cotadas/Cotadas_2020_0076b.png" />
-	<br><a href="#rebatimento" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0077.png" />
 	<img src="cotadas/Cotadas_2020_0077a.png" />
 	<img src="cotadas/Cotadas_2020_0077b.png" />
-	<br><a href="#rebatimento" class="topo">voltar ao topo</a>
+	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 </details>
 
 <details>
@@ -2604,65 +2604,65 @@
   <p>Para ver os telhados em Realidade Aumentada, visite o site:</p>
   <br><center><a href="https://paulohscwb.github.io/cotadas/telhados.html"> https://paulohscwb.github.io/cotadas/telhados.html</a></center>
   <img src="aplicacoes/Cotadas_2020_0078.png" />
-  <br><a href="#telhados" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0079.png" />
   <figcaption>Use o link abaixo para visualizar em 3D os elementos de um telhado</figcaption>
   <a href="telhados/casa.html" target="_blank" class="visu">Visualização em 3D</a>
-  <br><a href="#telhados" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0080.png" />
-  <br><a href="#telhados" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0081.png" />
-  <br><a href="#telhados" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0082.png" />
-  <br><a href="#telhados" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0083.png" />
   <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
   <a href="telhados/telhado33.html" target="_blank" class="visu">Visualização em 3D</a>
-  <br><a href="#telhados" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0084.png" />
   <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
   <a href="telhados/telhado34.html" target="_blank" class="visu">Visualização em 3D</a>
-  <br><a href="#telhados" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0085.png" />
   <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
   <a href="telhados/telhado35.html" target="_blank" class="visu">Visualização em 3D</a>
-  <br><a href="#telhados" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0086.png" />
   <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
   <a href="telhados/telhado36.html" target="_blank" class="visu">Visualização em 3D</a>
-  <br><a href="#telhados" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0087.png" />
   <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
   <a href="telhados/telhado37.html" target="_blank" class="visu">Visualização em 3D</a>
-  <br><a href="#telhados" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0088.png" />
   <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
   <a href="telhados/telhado38.html" target="_blank" class="visu">Visualização em 3D</a>
-  <br><a href="#telhados" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0089.png" />
   <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
   <a href="telhados/telhado39.html" target="_blank" class="visu">Visualização em 3D</a>
-  <br><a href="#telhados" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0090.png" />
-  <br><a href="#telhados" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0091.png" />
-  <br><a href="#telhados" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0092.png" />
   <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
   <a href="telhados/telhado43.html" target="_blank" class="visu">Visualização em 3D</a>
-  <br><a href="#telhados" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0093.png" />
   <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
   <a href="telhados/telhado44.html" target="_blank" class="visu">Visualização em 3D</a>
-  <br><a href="#telhados" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0094.png" />
   <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
   <a href="telhados/telhado45.html" target="_blank" class="visu">Visualização em 3D</a>
-  <br><a href="#telhados" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0095.png" />
   <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
   <a href="telhados/telhado46.html" target="_blank" class="visu">Visualização em 3D</a>
-  <br><a href="#telhados" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
 </details>
 
 <details style="border-bottom: 1px solid #a2dec0;">
@@ -2670,57 +2670,57 @@
   <p>Para ver as superfícies topográficas em Realidade Aumentada, visite o site:</p>
   <br><center><a href="https://paulohscwb.github.io/cotadas/superficies.html"> https://paulohscwb.github.io/cotadas/superficies.html</a></center>
   <img src="aplicacoes/Cotadas_2020_0096.png" />
-  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0097.png" />
   <figcaption>Use o link abaixo para visualizar em 3D uma superfície topográfica com suas respectivas curvas de nível</figcaption>
   <a href="superficies/curva11.html" target="_blank" class="visu">Visualização em 3D</a>
-  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0098.png" />
-  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0099.png" />
   <figcaption>Use o link abaixo para visualizar em 3D uma superfície topográfica com suas respectivas curvas de nível</figcaption>
   <a href="superficies/curva2.html" target="_blank" class="visu">Visualização em 3D</a>
-  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0100.png" />
-  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0101.png" />
-  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0102.png" />
-  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0103.png" />
   <figcaption>Use o link abaixo para visualizar em 3D do perfil topográfico de um terreno</figcaption>
   <a href="superficies/curva3.html" target="_blank" class="visu">Visualização em 3D</a>
-  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0104.png" />
   <figcaption>Use o link abaixo para visualizar em 3D do perfil topográfico de um terreno</figcaption>
   <a href="superficies/curva9.html" target="_blank" class="visu">Visualização em 3D</a>
-  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0105.png" />
-  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0106.png" />
   <figcaption>Use o link abaixo para visualizar em 3D da seção plana de um terreno</figcaption>
   <a href="superficies/curva10.html" target="_blank" class="visu">Visualização em 3D</a>
-  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0107.png" />
-  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0108.png" />
-  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0109.png" />
-  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0110.png" />
-  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0111.png" />
   <figcaption>Use o link abaixo para visualizar em 3D dos cortes de um terreno para construção de uma estrada</figcaption>
   <a href="superficies/curva15.html" target="_blank" class="visu">Visualização em 3D</a>
-  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0112.png" />
-  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0113.png" />
-  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0114.png" />
   <figcaption>Use o link abaixo para visualizar em 3D da seção mista de um terreno (corte e aterro)</figcaption>
   <a href="superficies/curva13c.html" target="_blank" class="visu">Visualização em 3D</a>
-  <br><a href="#superficies" class="topo">voltar ao topo</a>
+  <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
 </details>
 
 <br>
