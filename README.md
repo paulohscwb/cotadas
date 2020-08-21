@@ -1283,10 +1283,214 @@
     <img src="dg/08_01_00.png" class="fundo" />
   </details>
   <img src="dg/Cotadas_2020_0008a.png" />
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos construir o triângulo equilátero de lado <b>l</b> dado! Mas antes reveja o exercício 6 da página 3 em que construímos o ângulo de <b>60°</b>, lá utilizamos dois processos: um com régua e compasso e outro com os esquadros para obtermos o ângulo de <b>60°</b>. Reveja também o exercício 10 da página 5, em que construímos um triângulo dados os tamanhos dos lados. O que já aprendemos iremos utilizar agora. </p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="slide082" name="slide" checked>
+           <label for="slide082">1</label>
+           <img src="dg/08_02_01.png" />
+           <figcaption>Existem várias formas de resolver esse problema. Vamos a uma delas! Construa uma reta suporte <b>r</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide083" name="slide">
+           <label for="slide083">2</label>
+           <img src="dg/08_02_02.png" />
+           <figcaption>Marque um ponto <b>B</b> sobre a mesma. Esse será o primeiro vértice do triângulo que queremos construir.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide084" name="slide">
+           <label for="slide084">3</label>
+           <img src="dg/08_02_03.png" />
+           <figcaption>Vamos agora obter o vértice <b>C</b>! Sabemos que a distância entre <b>B</b> e <b>C</b> mede <b>a=l=4cm</b>. Basta então construir o arco de centro em <b>B</b> e raio <b>a=l=4cm</b>, na interseção com a reta <b>r</b> teremos <b>C</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide085" name="slide">
+           <label for="slide085">4</label>
+           <img src="dg/08_02_04.png" />
+           <figcaption>Falta somente o vértice <b>A</b>! Sabemos que a distância entre <b>B</b> e <b>A</b> mede <b>c=l=4cm</b>. Logo, <b>A</b> estará sobre uma circunferência de centro <b>B</b> e raio <b>c=l=4cm</b>! Construa essa primeira circunferência! Veja que não é preciso construir toda ela, basta um arco somente.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide086" name="slide">
+           <label for="slide086">5</label>
+           <img src="dg/08_02_05.png" />
+           <figcaption>Sabemos que a distância entre <b>C</b> e <b>A</b> mede <b>b=l=4cm</b>. Assim, <b>A</b> estará sobre uma circunferência de centro <b>C</b> e raio <b>b=l=4cm</b>! Construa essa segunda circunferência, ou melhor, esse segundo arco! Na interseção desses doisarcos de circunferência obtemos o vértice <b>A</b> do triângulo!</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide087" name="slide">
+           <label for="slide087">6</label>
+           <img src="dg/08_02_06.png" />
+           <figcaption>Pronto! Com os três vértices determinados podemos representar agora o triângulo <b>ABC</b>. Nessa construção usamos somente régua e compasso! Como seria a construção usando régua e esquadros?</figcaption>
+       </li>
+    </ul>
+    <img src="dg/08_02_00.png" class="fundo" />
+  </details>
   <img src="dg/Cotadas_2020_0008b.png" />
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos construir o quadrado de lado <b>l</b> dado! O quadrado é um polígono que possui os quatro lados congruentes (iguais) e os quatro ângulos internos também congruentes e cada um medindo <b>90°</b>.</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="slide088" name="slide" checked>
+           <label for="slide088">1</label>
+           <img src="dg/08_03_01.png" />
+           <figcaption>Existem várias formas de resolver esse problema. Vamos a uma delas! Construa uma reta suporte <b>r</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide089" name="slide">
+           <label for="slide089">2</label>
+           <img src="dg/08_03_02.png" />
+           <figcaption>Marque um ponto <b>B</b> sobre a mesma. Esse será o primeiro vértice do quadrado que queremos construir.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide090" name="slide">
+           <label for="slide090">3</label>
+           <img src="dg/08_03_03.png" />
+           <figcaption>Vamos agora obter o vértice <b>C</b>! Sabemos que a distância entre <b>B</b> e <b>C</b> mede <b>a=l=4cm</b>. Basta então construir o arco de centro em <b>B</b> e raio <b>a=l=4cm</b>, na interseção com a reta <b>r</b> teremos <b>C</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide091" name="slide">
+           <label for="slide091">4</label>
+           <img src="dg/08_03_04.png" />
+           <figcaption>O ângulo interno do quadrado que queremos construir é <b>90°</b>, então o ponto A estará sobre uma perpendicular à reta <b>r</b> passando pelo ponto <b>B</b>. Use os esquadros ou o compasso para construir essa perpendicular.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide092" name="slide">
+           <label for="slide092">5</label>
+           <img src="dg/08_03_05.png" />
+           <figcaption>Sabemos que a distância entre <b>B</b> e <b>A</b> mede <b>l=4cm</b>. Logo, <b>A</b> estará sobre uma circunferência de centro <b>B</b> e raio <b>l=4cm</b>! Construa essa primeira circunferência! Lembre-se que não é preciso construir toda ela!</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide093" name="slide">
+           <label for="slide093">6</label>
+           <img src="dg/08_03_06.png" />
+           <figcaption>Falta obtermos o último vértice <b>D</b>. Como a distância entre <b>D</b> e <b>C</b> é <b>l=4cm</b>, então <b>D</b> estará sobre uma circunferência de centro <b>C</b> e raio <b>l=4cm</b>. Construa essa circunferência.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide094" name="slide">
+           <label for="slide094">7</label>
+           <img src="dg/08_03_07.png" />
+           <figcaption>E como a distância entre <b>D</b> e <b>A</b> é <b>l=4cm</b>, então <b>D</b> estará sobre uma circunferência de centro <b>A</b> e raio <b>l=4cm</b>. Construa essa circunferência obtendo o ponto <b>D</b> sobre a circunferência obtida no passo anterior.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide095" name="slide">
+           <label for="slide095">8</label>
+           <img src="dg/08_03_08.png" />
+           <figcaption>Pronto! O quadrado está construído. Para obter o ponto <b>D</b> poderíamos ter usado os esquadros e traçado paralelas, tente fazer novamente dessa maneira. </figcaption>
+       </li>
+    </ul>
+    <img src="dg/08_03_00.png" class="fundo" />
+  </details>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Cotadas_2020_0009.png" />
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos construir o pentágono regular de lado <b>l</b> dado! O pentágono regular é um polígono que possui os cinco lados congruentes e os cinco ângulos internos também congruentes. Existem processos de construção exatos e aproximados. Vamos aprender um aproximado que é rápido de ser construído e nos dá um resultado muito bom!</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="slide096" name="slide" checked>
+           <label for="slide096">1</label>
+           <img src="dg/09_01_01.png" />
+           <figcaption>Construa uma reta suporte <b>r</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide097" name="slide">
+           <label for="slide097">2</label>
+           <img src="dg/09_01_02.png" />
+           <figcaption>Marque um ponto <b>1</b> sobre a mesma. Esse será o primeiro vértice do pentágono que queremos construir.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide098" name="slide">
+           <label for="slide098">3</label>
+           <img src="dg/09_01_03.png" />
+           <figcaption>Marque no compasso <b>3</b> centímetros e construa a circunferência de centro <b>1</b> e raio <b>l=3cm</b>, obtendo sobre a reta <b>r</b> o ponto <b>2</b>, que será o segundo vértice do pentágono. Não feche o compasso, vamos usar essa medida mais vezes! </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide099" name="slide">
+           <label for="slide099">4</label>
+           <img src="dg/09_01_04.png" />
+           <figcaption>Construa a circunferência de centro no ponto <b>2</b> e raio <b>l=3cm</b> obtendo sobre a primeira circunferência os pontos <b>3</b> e <b>4</b>. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide0001" name="slide">
+           <label for="slide0001">5</label>
+           <img src="dg/09_01_05.png" />
+           <figcaption>Construa a reta <b>s</b> que passe pelos pontos <b>3</b> e <b>4</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide0002" name="slide">
+           <label for="slide0002">6</label>
+           <img src="dg/09_01_06.png" />
+           <figcaption>Agora com centro no ponto <b>4</b> construa uma terceira circunferência de raio <b>l=3cm</b> obtendo sobre a primeira o ponto <b>5</b>, sobre a segunda o ponto <b>7</b> e sobre a reta <b>s</b> o ponto <b>6</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide0003" name="slide">
+           <label for="slide0003">7</label>
+           <img src="dg/09_01_07.png" />
+           <figcaption>Trace a reta <b>t</b> unindo os pontos <b>5</b> e <b>6</b> obtendo o ponto <b>8</b> sobre a segunda circunferência. Esse ponto será mais um vértice do pentágono.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide0004" name="slide">
+           <label for="slide0004">8</label>
+           <img src="dg/09_01_08.png" />
+           <figcaption>E agora trace a reta <b>u</b> pelos pontos <b>6</b> e <b>7</b> obtendo o ponto <b>9</b> sobre a primeira circunferência. Esse ponto será mais um vértice do pentágono.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide0005" name="slide">
+           <label for="slide0005">9</label>
+           <img src="dg/09_01_09.png" />
+           <figcaption>Para obtermos o último vértice construa um arco de circunferência de centro no ponto <b>8</b> e raio <b>l=3cm</b> e outro arco com centro no ponto <b>9</b> e raio <b>l=3cm</b> encontrando na interseção o último vértice <b>10</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide0006" name="slide">
+           <label for="slide0006">10</label>
+           <img src="dg/09_01_10.png" />
+           <figcaption>Agora é só unir os pontos <b>1</b>, <b>2</b>, <b>8</b>, <b>10</b> e <b>9</b>! Embora essa construção nos dê um polígono com os <b>5</b> lados congruentes, os ângulos internos não são iguais! </figcaption>
+       </li>
+    </ul>
+    <img src="dg/09_01_00.png" class="fundo" />
+  </details>
   <img src="dg/Cotadas_2020_0009a.png" />
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Vamos construir o hexágono regular de lado <b>l</b> dado! Lembra da construção do hexágono regular inscrito numa circunferência? Retorne à página 7 e reveja a construção! Nesse exercício usamos o raio da circunferência para marcar o lado do polígono! Vamos utilizar esse conceito agora!</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="slide0007" name="slide" checked>
+           <label for="slide0007">1</label>
+           <img src="dg/09_02_01.png" />
+           <figcaption>Construa uma reta suporte <b>r</b>. Construa um triângulo equilátero <b>ABO</b>, de lado <b>l=2,5cm</b>, com o lado <b>AB</b> sobre a reta <b>r</b>.</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide0008" name="slide">
+           <label for="slide0008">2</label>
+           <img src="dg/09_02_02.png" />
+           <figcaption>Desenhea circunferência de centro <b>O</b> e raio <b>l=2,5cm</b>. Essa circunferência é circunscrita ao hexágono regular que queremos construir. </figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide0009" name="slide">
+           <label for="slide0009">3</label>
+           <img src="dg/09_02_03.png" />
+           <figcaption>Com a medida <b>l=2,5cm</b> no compasso, construa o arco de circunferência de centro <b>B</b> obtendo o ponto <b>C</b> sobre a circunferência.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide0010" name="slide">
+           <label for="slide0010">4</label>
+           <img src="dg/09_02_04.png" />
+           <figcaption>Com o mesmo raio <b>l=2,5cm</b>, construa o arco de circunferência de centro <b>C</b> obtendo o ponto <b>D</b> sobre a circunferência.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide0011" name="slide">
+           <label for="slide0011">5</label>
+           <img src="dg/09_02_05.png" />
+           <figcaption>Repita o processo, obtendo os pontos <b>E</b> e <b>F</b>.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide0012" name="slide">
+           <label for="slide0012">6</label>
+           <img src="dg/09_02_06.png" />
+           <figcaption>Pronto! O polígono <b>ABCDEF</b> é o hexágono regular de lado <b>l=2,5cm</b>. Note que os triângulos <b>OAB</b>, <b>OBC</b>, <b>OCD</b>, <b>ODE</b>, <b>OEF</b> e <b>OFA</b> são todos equiláteros e, portanto, a soma dos ângulos centrais <b>AOB</b>, <b>BOC</b>, <b>COD</b>, <b>DOE</b>, <b>EOF</b> e <b>FOA</b> é <b>360°</b>.</figcaption>
+       </li>
+    </ul>
+    <img src="dg/09_02_00.png" class="fundo" />
+  </details>
   <img src="dg/Cotadas_2020_0009b.png" />
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Cotadas_2020_0010.png" />
