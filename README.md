@@ -1314,12 +1314,12 @@
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 	<img src="prop/Cotadas_2020_0015.png" />
     <figcaption>Quando a reta <b>r</b> não é paralela à direção <b>d</b>, a sua projeção <b>r'</b> é uma reta.</figcaption>
-    <a href="vr/p1.html" target="_blank" class="visu">Visualização em 3D da projeção <b>oblíqua</b></a>
-	<br><a href="vr/p1_orto.html" target="_blank" class="visu">Visualização em 3D da projeção <b>ortogonal</b></a>
+    <a href="vr/p1.html" target="_blank" class="visu">Visualização em 3D: projeção <b>oblíqua</b></a>
+	<br><a href="vr/p1_orto.html" target="_blank" class="visu">Visualização em 3D: projeção <b>ortogonal</b></a>
 	<img src="prop/Cotadas_2020_0015a.png" />
     <figcaption>No caso em que as retas <b>r</b> e <b>d</b> são paralelas, a projeção <b>r'</b> é um ponto.</figcaption>
-	<a href="vr/p1a.html" target="_blank" class="visu">Visualização em 3D da projeção <b>oblíqua</b></a>
-	<br><a href="vr/p1a_orto.html" target="_blank" class="visu">Visualização em 3D da projeção <b>ortogonal</b></a>
+	<a href="vr/p1a.html" target="_blank" class="visu">Visualização em 3D: projeção <b>oblíqua</b></a>
+	<br><a href="vr/p1a_orto.html" target="_blank" class="visu">Visualização em 3D: projeção <b>ortogonal</b></a>
 	  <details class="sub"><summary>&#x1f453; Realidade Aumentada e Realidade Virtual</summary>
 		<p>Esta apostila tem recursos programados em Realidade Aumentada e Realidade Virtal. Você pode acessar estes recursos usando o seguinte endereço:</p>
 		<center><a href="https://paulohscwb.github.io/cotadas/ra.html"> https://paulohscwb.github.io/cotadas/ra.html</a></center>

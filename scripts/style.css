@@ -33,6 +33,7 @@ figcaption {
   position: relative;
   height:auto;
   box-shadow: 1px 1px 2px LightGray;
+  margin-bottom: 5px;
 }
 summary {
   font-size: 18px;
@@ -70,7 +71,9 @@ li.img{
 }
 
 h4 {
-  font-size: 18px;
+  font-size: 16px;
+  text-shadow: 1px 1px 1px LightGray;
+  margin-top: 0;
 }
 
 h3 {
