@@ -32,7 +32,7 @@ figcaption {
   font-size: 14px;
   position: relative;
   height:auto;
-  margin-top: 5px;
+  box-shadow: 1px 1px 2px LightGray;
 }
 summary {
   font-size: 18px;
@@ -59,7 +59,6 @@ li.img{
   padding: 3px;
   float:left;
   position:relative;
-  box-shadow: 1px 0px 1px LightGray;
 }
 
 .sub summary{
@@ -141,7 +140,7 @@ h3::after {
      vertical-align: middle;
      font-size: 14px;
 	 font-weight: bold;
-	 box-shadow: 1px 1px 3px LightGray;
+	 box-shadow: 1px 1px 3px Silver;
  }
 
  .slider li:nth-child(1) label {
