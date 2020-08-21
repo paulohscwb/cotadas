@@ -40,6 +40,7 @@ summary {
   font-weight: bold;
   cursor: pointer;
   margin-bottom:8px;
+  text-shadow: 1px 1px 1px grey;
 }
 details {
   border: 1px solid #a2dec0;
@@ -58,6 +59,7 @@ li.img{
   padding: 3px;
   float:left;
   position:relative;
+  box-shadow: 1px 1px 1px grey;
 }
 
 .sub summary{
@@ -65,6 +67,7 @@ li.img{
   font-weight: normal;
   margin-bottom: 5px;
   margin-left:0px;
+  text-shadow: 1px 1px 1px grey;
 }
 
 h4 {
@@ -137,6 +140,8 @@ h3::after {
      text-align:center;
      vertical-align: middle;
      font-size: 14px;
+	 font-weight: bold;
+	 box-shadow: 1px 1px 3px grey;
  }
 
  .slider li:nth-child(1) label {
