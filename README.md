@@ -1462,7 +1462,7 @@
            <input type="radio" id="slide0008" name="slide">
            <label for="slide0008">2</label>
            <img src="dg/09_02_02.png" />
-           <figcaption>Desenhea circunferência de centro <b>O</b> e raio <b>l=2,5cm</b>. Essa circunferência é circunscrita ao hexágono regular que queremos construir. </figcaption>
+           <figcaption>Desenhe a circunferência de centro <b>O</b> e raio <b>l=2,5cm</b>. Essa circunferência é circunscrita ao hexágono regular que queremos construir. </figcaption>
        </li>
 	   <li>
            <input type="radio" id="slide0009" name="slide">
