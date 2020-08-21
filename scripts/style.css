@@ -142,6 +142,7 @@ h3::after {
      font-size: 14px;
 	 font-weight: bold;
 	 box-shadow: 1px 1px 3px Silver;
+	 padding-top: 7px;
  }
 
  .slider li:nth-child(1) label {
