@@ -129,11 +129,11 @@ h3::after {
      top: -30px;
      cursor: pointer;
      display: block;
-     height: 25px;
+     height: 27px;
      position: absolute;
-     width: 25px;
+     width: 27px;
      z-index: 10;
-     border-radius: 5px;
+     border-radius: 50%;
      text-align:center;
      vertical-align: middle;
      font-size: 14px;
