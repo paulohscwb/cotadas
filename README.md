@@ -2801,7 +2801,54 @@
 	<img src="cotadas/Cotadas_2020_0049b.png" />
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0050.png" />
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+		<p>Para encontrar o intervalo da reta <b>s</b>, perpendicular à reta <b>r</b>, utilizamos o intervalo inverso. </p>
+		<ul class="slider">
+		  <li>
+			   <input type="radio" id="slide324" name="slide" checked>
+			   <label for="slide324">1</label>
+			   <img src="cotadas/50_01_01.png" />
+			<figcaption>Como a diferença de cotas entre os pontos <b>A</b> e <b>B</b> é <b>1</b>, a distância <b>A'B'</b> é o intervalo da reta <b>r</b>, <b>I'<sub>r</sub></b></figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide325" name="slide">
+			   <label for="slide325">2</label>
+			   <img src="cotadas/50_01_02.png" />
+			 <figcaption>Traçar a perpendicular à reta <b>r'</b> pelo ponto <b>B'</b> e sobre ela marcar uma unidade de cota, obtendo o ponto <b>B'<sub>1</sub></b></figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide326" name="slide">
+			   <label for="slide326">3</label>
+			   <img src="cotadas/50_01_03.png" />
+			 <figcaption>Unir esse ponto ao ponto <b>A'</b>, obtendo a reta <b>r</b> rebatida, <b>r'<sub>1</sub></b> .</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide327" name="slide">
+			   <label for="slide327">4</label>
+			   <img src="cotadas/50_01_04.png" />
+			 <figcaption>Traçar pelo ponto <b>B'<sub>1</sub></b> uma reta perpendicular à <b>r'<sub>1</sub></b>, obtendo o Intervalo da reta <b>s</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide328" name="slide">
+			   <label for="slide328">5</label>
+			   <img src="cotadas/50_01_05.png" />
+			 <figcaption>Pegar com o compasso o intervalo da reta <b>s</b>, <b>I<sub>s</sub></b> para encontrar mais um ponto da reta <b>s</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide329" name="slide">
+			   <label for="slide329">6</label>
+			   <img src="cotadas/50_01_06.png" />
+			 <figcaption>Com a ponta seca em <b>P'</b>,obter o ponto <b>Q'<sub>1</sub>(0)</b>. Lembre-se que nas retas perpendiculares, os intervalos crescem em sentidos opostos, dessa forma, escolhendo-se o ponto à esquerda do ponto <b>P</b>, ele terá conta inferior à cota de <b>P</b>, enquanto que se escolher o ponto à direita de <b>P</b>, ele terá a cota maior do que a cota de <b>P</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/50_01_00.png" class="fundo" />
+	</details>
 	<img src="cotadas/Cotadas_2020_0050a.png" />
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>A resolução da letra b é similar à letra a. Esse exercício fica para você resolver.</p> 
+		<img src="cotadas/50_02_00.png" />
+		<figcaption>Lembre-se que entre as projeções dos pontos <b>A</b> e <b>B</b>, temos 2 intervalos, dessa forma, devemos marcar 2 unidades de cota no ponto <b>B</b> e obteremos 2 intervalos da reta <b>s</b> e como as cotas de retas perpendiculares crescem no sentido oposto, a cota do ponto <b>Q</b> obtido é a cota do ponto <b>P</b> menos duas unidades.</figcaption>
+	</details>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0051.png" />
 	<img src="cotadas/Cotadas_2020_0051a.png" />
