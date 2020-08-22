@@ -2438,11 +2438,130 @@
 	</details>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0034.png" />
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>A terceira reta que iremos estudar é a reta qualquer.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="slide531" name="slide" checked>
+			   <label for="slide531">1</label>
+			   <img src="cotadas/34_01_01.png" />
+			<figcaption>Observe sua representação. Essa reta é oblíqua ao plano de projeção <b>&pi;’</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide532" name="slide">
+			   <label for="slide532">2</label>
+			   <img src="cotadas/34_01_02.png" />
+			 <figcaption>A projeção da reta qualquer que passa pelos pontos <b>A</b> e <b>B</b> é representada como uma reta que passa pelas projeções <b>A’</b> e <b>B’</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/34_01_00.png" class="fundo" />
+	</details>
 	<img src="cotadas/Cotadas_2020_0034a.png" />
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="slide533" name="slide" checked>
+			   <label for="slide533">1</label>
+			   <img src="cotadas/34_02_01.png" />
+			<figcaption>Trata-se de uma reta qualquer, pois observa-se que sua projeção é uma reta e passa por pontos de cotas diferentes;</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide534" name="slide">
+			   <label for="slide534">2</label>
+			   <img src="cotadas/34_02_02.png" />
+			 <figcaption>Trata-se de uma reta vertical, pois sua projeção é pontual, o que indica que a reta é perpendicular ao plano de projeção;</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide535" name="slide">
+			   <label for="slide535">3</label>
+			   <img src="cotadas/34_02_03.png" />
+			 <figcaption>Trata-se de uma reta horizontal, pois todos os pontos possuem a mesma cota, o que indica que a reta é paralela ao plano de projeção;</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide536" name="slide">
+			   <label for="slide536">4</label>
+			   <img src="cotadas/34_02_04.png" />
+			 <figcaption>Se <b>a=b</b>, a reta será horizontal já que todos os pontos possuiriam a mesma cota, o que indica que a reta é paralela ao plano de projeção. Se <b>a≠b</b>, a reta é qualquer, já que sua projeção é uma reta e passa por pontos de cotas diferentes;</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide537" name="slide">
+			   <label for="slide537">5</label>
+			   <img src="cotadas/34_02_05.png" />
+			 <figcaption>Trata-se de uma reta qualquer, pois observa-se que sua projeção é uma reta e passa por pontos de cotas diferentes;</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide538" name="slide">
+			   <label for="slide538">6</label>
+			   <img src="cotadas/34_02_06.png" />
+			 <figcaption>Trata-se de uma reta qualquer, pois observa-se que sua projeção é uma reta e passa por pontos de cotas diferentes;</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide539" name="slide">
+			   <label for="slide539">7</label>
+			   <img src="cotadas/34_02_07.png" />
+			 <figcaption>Trata-se de uma reta qualquer, pois observa-se que sua projeção é uma reta e passa por pontos de cotas diferentes;</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide540" name="slide">
+			   <label for="slide540">8</label>
+			   <img src="cotadas/34_02_08.png" />
+			 <figcaption>Trata-se de uma reta horizontal, pois todos os pontos possuem a mesma cota, o que indica que a reta é paralela ao plano de projeção;</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide541" name="slide">
+			   <label for="slide541">9</label>
+			   <img src="cotadas/34_02_09.png" />
+			 <figcaption>Trata-se de uma reta vertical, pois sua projeção é pontual, o que indica que a reta é perpendicular ao plano de projeção.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/34_02_00.png" class="fundo" />
+	</details>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0035.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0036.png" />
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>Observe o desenho em 3D, nosso objetivo é rebater o triângulo <b>ABC</b> no plano de projeção <b>&pi;'</b>. Com isso obteremos a VG do segmento AB, bem como a VG do ângulo <b>&theta;</b>.</p>
+	<ul class="slider">
+		  <li>
+			   <input type="radio" id="slide542" name="slide" checked>
+			   <label for="slide542">1</label>
+			   <img src="cotadas/36_01_01.png" />
+			<figcaption>Traça-se um segmento perpendicular a <b>A’B’</b>, por <b>A’</b>. Para se rebater o ponto <b>A</b> no plano <b>&pi;'</b> , mede-se a cota do ponto <b>A</b>, marcando-se o ponto auxiliar <b>A’<sub>1</sub></b> . </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide543" name="slide">
+			   <label for="slide543">2</label>
+			   <img src="cotadas/36_01_02.png" />
+			 <figcaption>De modo análogo marca-se o ponto auxiliar <b>B’<sub>1</sub></b>. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide544" name="slide">
+			   <label for="slide544">3</label>
+			   <img src="cotadas/36_01_03.png" />
+			 <figcaption>Traça-se uma paralela a <b>r’</b> passando pelo ponto <b>A’<sub>1</sub></b>, marcando-se o ponto auxiliar <b>C’<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide545" name="slide">
+			   <label for="slide545">4</label>
+			   <img src="cotadas/36_01_04.png" />
+			 <figcaption>Traça-se uma reta passando pelos pontos <b>A’<sub>1</sub>B’<sub>1</sub>C’<sub>1</sub></b>. O triângulo <b>A’<sub>1</sub>B’<sub>1</sub>C’<sub>1</sub></b>. Trata-se do triângulo <b>ABC</b> rebatido sobre o plano <b>&pi;'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide546" name="slide">
+			   <label for="slide546">5</label>
+			   <img src="cotadas/36_01_05.png" />
+			 <figcaption>Com isso, obtemos a Vg de <b>AB</b> e a VG do ângulo <b>&theta;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide547" name="slide">
+			   <label for="slide547">6</label>
+			   <img src="cotadas/36_01_06.png" />
+			 <figcaption>Usando as medidas encontradas calculamos o coeficiente de redução e a declividade.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/36_01_00.png" class="fundo" />
+	</details>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0037.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
