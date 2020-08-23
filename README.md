@@ -2802,6 +2802,8 @@
 		<img src="cotadas/49_02_00.png" class="fundo" />
 	</details>
 	<img src="cotadas/Cotadas_2020_0049b.png" />
+	<a href="vr/49_ortogonais1.html" target="_blank" class="visu">Visualização em 3D: perpendiculares</a>
+	<br><a href="vr/49_ortogonais2.html" target="_blank" class="visu">Visualização em 3D: ortogonais</a>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0050.png" />
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>

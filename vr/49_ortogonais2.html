@@ -1,0 +1,66 @@
+<html>
+  <head>
+	<title>360 Image Browser</title>
+	<meta charset="ISO-8859-1">
+	<script src="https://aframe.io/releases/1.0.0/aframe.js"></script>
+	<script src=".././scripts/aframe-orbit-controls.min.js"></script>
+	<script src=".././scripts/faceset.js"></script>
+  </head>  
+<body>
+	<a-scene>
+		<a-assets>
+			<a-mixin id="imagem" material="side: double; transparent: true; depthTest: false;" rotation="-25 0 0"></a-mixin>
+			<a-mixin id="mtl0" material="opacity: 0.5; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
+			<a-mixin id="mtl2" material="color: #ee514b"></a-mixin>
+			<a-mixin id="texto" text="width: 12; side:double; color: black" rotation="-25 0 0">
+			<a-mixin id="ponto" geometry="radius:0.1;" material="color: #d8ef09;"></a-mixin><!--#4b97ee; #ee514b; #1E9961; #B404AE; #82FA58; #58ACFA; orange; #d8ef09; #6E6E6E;-->
+		</a-assets>
+
+		<a-entity hand-controls controller-cursor raycaster="far: 2"></a-entity>
+		<a-entity gearvr-controls></a-entity>
+		
+		<a-entity scale="0.7 0.7 0.7" position="0 0 0">
+			<a-text position="4.47 0.25 -1.96" value="r'" mixin="texto"></a-text>
+			<a-text position="3.38 5.6 -1.48" value="r" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="-4.09 0 1.23"></a-sphere>
+			<a-text position="-3.8 0.25 1.23" value="A=A'" mixin="texto"></a-text>
+			<a-text position="-1 0.25 0.2" value="Ir" mixin="texto" color="blue"></a-text>
+			<a-sphere mixin="ponto" position="1.97 4.21 -0.94"></a-sphere>
+			<a-text position="2.17 4.21 -0.94" value="D" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="1.97 0 -0.94"></a-sphere>
+			<a-text position="2.07 0.25 -0.94" value="D'" mixin="texto"></a-text>
+			<a-text position="1.97 2.2 -0.94" value="u" mixin="texto" color="#6E6E6E"></a-text>
+			<a-cone rotation="90 109.6 0" position="0.19 0.1 0.9" color="white" radius-bottom="0.11" radius-top="0" height="0.3"></a-cone>
+			
+			<a-entity line="start: -5.12 -0.71 1.59; end: 3.48 5.26 -1.48; color: blue"  line__4="start: 1.97 4.21 -0.94; end: 1.97 0 -0.94; color: #6E6E6E"
+			line__3="start: -5.12 0 1.59; end: 4.57 0 -1.86; color: blue"  line__2="start: 0.19 0.1 0.9; end: -0.83 0.1 1.26; color: white"></a-entity>
+			
+			<a-entity position="0 0 -2.5">
+				<a-text position="-1.27 0.25 0.39" value="s'" mixin="texto"></a-text>
+				<a-text position="1.09 5.81 -0.59" value="s" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="1.97 4.21 -0.94"></a-sphere>
+				<a-text position="2.17 4.21 -0.94" value="B" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="1.97 0 -0.94"></a-sphere>
+				<a-text position="2.07 0.25 -0.94" value="B'" mixin="texto"></a-text>
+				<a-text position="1.97 2.2 -0.94" value="u" mixin="texto" color="#6E6E6E"></a-text>
+				<a-text position="3 0.25 -1.2" value="Is" mixin="texto" color="red"></a-text>
+				<a-sphere mixin="ponto" position="4.57 0 -1.86"></a-sphere>
+				<a-text position="4.57 0.25 -1.76" value="C=C'" mixin="texto"></a-text>
+				<a-cone rotation="90 -70.4 0" position="3.08 0.1 -0.14" color="white" radius-bottom="0.11" radius-top="0" height="0.3"></a-cone>
+				
+				<a-entity line="start: 0.99 5.81 -0.59; end: 5.45 -1.42 -2.18; color: red"
+				line__3="start: -1.47 0 0.29; end: 5.45 0 -2.18; color: red" line__4="start: 1.97 4.21 -0.94; end: 1.97 0 -0.94; color: #6E6E6E"
+				line__2="start: 4.04 0.1 -0.48; end: 3.08 0.1 -0.14; color: white"></a-entity>
+			</a-entity>
+			
+			<a-entity id="planoPI" faceset="vertices: -5.5 0 -5  5.5 0 -5  5.5 0 5  -5.5 0 5" mixin="mtl0 mtl2"></a-entity>
+			<a-image src="pi1.png" height="0.6" width="0.6" position="4 0.32 4.8" mixin="imagem"></a-image>
+			<a-text position="-2 0.32 4.8" value="retas ortogonais" mixin="texto"></a-text>
+		</a-entity>
+		
+		<a-entity camera="fov:1; near:5; zoom:0.9;" orbit-controls="target: 0 0 0; maxPolarAngle: 360; initialPosition: 100 250 500"></a-entity>
+		<a-sky color="rgba(150,200,255)"></a-sky>
+
+	</a-scene>
+</body>
+</html>
