@@ -2862,6 +2862,8 @@
 	<img src="cotadas/Cotadas_2020_0052.png" />
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0053.png" />
+	<figcaption>Use o link abaixo para a visualização em 3D do sólido projetado.</figcaption>
+	<a href="vr/piramide0.html" target="_blank" class="visu">Visualização em 3D</a>
 	<img src="cotadas/Cotadas_2020_0053a.png" />
 	<figcaption>Use o link abaixo para a visualização em 3D do sólido projetado.</figcaption>
 	<a href="vr/piramide1.html" target="_blank" class="visu">Visualização em 3D</a>
