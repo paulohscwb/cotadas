@@ -2576,6 +2576,9 @@
 	<img src="cotadas/Cotadas_2020_0040a.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0041.png" />
+	<a href="vr/41_pertinencia1.html" target="_blank" class="visu">Visualização em 3D do 1<sup>o</sup> exemplo</a>
+	<br><a href="vr/41_pertinencia2.html" target="_blank" class="visu">Visualização em 3D do 2<sup>o</sup> exemplo</a>
+	<img src="cotadas/Cotadas_2020_0041a.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0042.png" />
 	<img src="cotadas/Cotadas_2020_0042a.png" />
