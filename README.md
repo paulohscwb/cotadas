@@ -157,7 +157,7 @@
            <input type="radio" id="slide21" name="slide">
            <label for="slide21"></label>
            <img src="dg/02_01_05c.png" />
-           <figcaption>Pronto! A reta paralela <b>s // r</b> está construída.</figcaption>
+           <figcaption>Pronto! A reta paralela <b>s // r</b> está construída. Note que a figura <b>PQRS</b> é um losango e, portanto, seus lados opostos são paralelos.</figcaption>
        </li>
     </ul>
     <img src="dg/02_01_05c.png" class="fundo" />
@@ -2886,6 +2886,12 @@
 		<img src="cotadas/49_02_00.png" class="fundo" />
 	</details>
 	<img src="cotadas/Cotadas_2020_0049b.png" />
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Compreenda a construção:</summary>
+		<p>Das relações métricas no triângulo retângulo, temos que:</p>
+		<img src="cotadas/49_03_00.png" class="fundo" />
+		<p><b>h<sup>2</sup>=n.m</b>, analogamente, no triângulo da figura abaixo: <b>u<sup>2</sup>=I<sub>r</sub>.I<sub>s</sub></b>, sendo a unidade de cota igual a <b>1</b>, temos que: <b>1<sup>2</sup>=I<sub>r</sub>.I<sub>s</sub></b>, ou seja <b>I<sub>r</sub>=1/I<sub>s</sub></b>.
+		<img src="cotadas/49_03_01.png" class="fundo" />
+	</details>
 	<a href="vr/49_ortogonais1.html" target="_blank" class="visu">Visualização em 3D: perpendiculares</a>
 	<br><a href="vr/49_ortogonais2.html" target="_blank" class="visu">Visualização em 3D: ortogonais</a>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
