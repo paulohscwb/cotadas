@@ -156,6 +156,14 @@ h3::after {
      left: 30px;
  }
 
+.slider li:nth-child(1) label::before {
+     content: "1";
+ }
+
+ .slider li:nth-child(2) label::before {
+     content: "&#x1f4cf;";
+ }
+
  .slider li:nth-child(3) label {
      left: 60px;
  }
