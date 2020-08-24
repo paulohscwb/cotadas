@@ -41,7 +41,7 @@
 			   <input type="radio" id="slide5" name="slide">
 			   <label for="slide5"></label>
 			   <img src="dg/01_01_05.png" />
-			   <figcaption>Pronto! A mediatriz do segmento <b>AB</b> está construída.</figcaption>
+			   <figcaption>Pronto! A mediatriz do segmento <b>AB</b> está construída. Note que a figura <b>PAQB</b> é um losango e, portanto, suas diagonais são perpendiculares e se encontram no ponto médio das mesmas.</figcaption>
 		   </li>
 		</ul>
 		<img src="dg/01_01_00.png" class="fundo" />
@@ -1574,7 +1574,7 @@
            <input type="radio" id="slide0024" name="slide">
            <label for="slide0024"></label>
            <img src="dg/10_02_02.png" />
-           <figcaption>Usando os esquadros ou o compasso a reta <b>t</b> passando pelo ponto <b>T</b> e perpendicular à reta <b>s</b>. Pronto! A reta <b>t</b> é tangente à circunferência dada pois o ângulo formado entre ela e o raio no ponto <b>T</b> é <b>90°</b>.</figcaption>
+           <figcaption>Usando os esquadros ou o compasso construa a reta <b>t</b> passando pelo ponto <b>T</b> e perpendicular à reta <b>s</b>. Pronto! A reta <b>t</b> é tangente à circunferência dada pois o ângulo formado entre ela e o raio no ponto <b>T</b> é <b>90°</b>.</figcaption>
        </li>
     </ul>
     <img src="dg/10_02_00.png" class="fundo" />
