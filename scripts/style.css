@@ -196,6 +196,15 @@ h3::after {
      left: 330px;
  }
 
+.slider {
+	counter-reset: contador;
+}
+.slider li label:before {
+	content: counter(contador);
+	counter-increment: contador;
+}
+
+/*
 .slider li:nth-child(1) label::before {
      content: "1";
  }
@@ -243,7 +252,7 @@ h3::after {
 .slider li:nth-child(12) label::before {
      content: "12";
  }
-
+*/
  .slider img {
      opacity: 0;
      visibility: hidden;
