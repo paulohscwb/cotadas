@@ -130,7 +130,8 @@ h3::after {
 .slider input {
     display: none;
 }
- .slider label {
+
+.slider label {
      background-color: #DCDCDC;
      top: -30px;
      cursor: pointer;
@@ -147,7 +148,7 @@ h3::after {
 	 box-shadow: 1px 1px 3px Silver;
 	 padding-top: 2px;
  }
- 
+
  .slider li:nth-child(1) label {
      left: 0px;
  }
