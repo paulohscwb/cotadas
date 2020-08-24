@@ -1492,6 +1492,48 @@
     <img src="dg/09_02_00.png" class="fundo" />
   </details>
   <img src="dg/Cotadas_2020_0009b.png" />
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <p>Para determinar a reta tangente à circunferência dada basta encontrar o ponto <b>T</b> de tangência! Antes de iniciarmos a construção vamos aprender duas propriedades importantes!</p>
+  <ul class="slider">
+      <li>
+           <input type="radio" id="slide0013" name="slide" checked>
+           <label for="slide0013"></label>
+           <img src="dg/09_03_01.png" />
+           <figcaption>Veja a primeira figura auxiliar.Por definição uma reta tangente possui um único ponto <b>T</b> em comum com a circunferência! E por propriedade a reta tangente forma com o raio <b>r=OT</b> no ponto <b>T</b> um ângulo de <b>90°</b>!</figcaption>
+       </li>
+       <li>
+           <input type="radio" id="slide0014" name="slide">
+           <label for="slide0014"></label>
+           <img src="dg/09_03_02.png" />
+           <figcaption>Na segunda figura auxiliar temos que o segmento <b>QR</b> é um diâmetro da circunferência de centro <b>M</b>, assim, temos a seguinte propriedade: qualquer ponto <b>P</b> da mesma sempre “enxerga” esse diâmetro segundo um ângulo reto, ou seja, o ângulo <b>QPR=90°</b>. Dizemos que a semicircunferência é um Arco Capaz de <b>90°</b> do segmento <b>QR</b>. Temos dois Arcos Capazes de <b>90°</b>!</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide0015" name="slide">
+           <label for="slide0015"></label>
+           <img src="dg/09_03_03.png" />
+           <figcaption>Agora é a resolução gráfica!  Nomeie o centro da circunferência dada como <b>O</b>. Construa a reta <b>AO</b>. Vamos obter o ponto <b>T</b> de tangência para obter a reta tangente.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide0016" name="slide">
+           <label for="slide0016"></label>
+           <img src="dg/09_03_04.png" />
+           <figcaption>Como o ângulo <b>OTA=90°</b> então <b>T</b> pertence ao Arco Capaz de <b>90°</b> do segmento <b>AO</b>. Ou seja, pertence à circunferência de diâmetro <b>AO</b>. Construa a mediatriz do segmento <b>OA</b> obtendo o ponto <b>M</b> médio do segmento.</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide0017" name="slide">
+           <label for="slide0017"></label>
+           <img src="dg/09_03_05.png" />
+           <figcaption>Construa a circunferência de centro <b>M</b> e raio <b>OM</b>, obtendo sobre a circunferência dada dois pontos de tangência <b>T<sub>1</sub></b> e <b>T<sub>2</sub></b>. Note que são duas soluções para o ponto de tangência!</figcaption>
+       </li>
+	   <li>
+           <input type="radio" id="slide0018" name="slide">
+           <label for="slide0018"></label>
+           <img src="dg/09_03_06.png" />
+           <figcaption>Desenhe as retas <b>AT<sub>1</sub></b> e <b>AT<sub>2</sub></b> que são as retas tangentes à circunferência dada passando pelo ponto dado <b>A</b>. Pronto! Você consegue agora identificar as propriedades vistas nas figuras auxiliares?</figcaption>
+       </li>
+    </ul>
+    <img src="dg/09_03_00.png" class="fundo" />
+  </details>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Cotadas_2020_0010.png" />
   <img src="dg/Cotadas_2020_0010a.png" />
