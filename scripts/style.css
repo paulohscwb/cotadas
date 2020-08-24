@@ -134,7 +134,7 @@ h3::after {
      background-color: #DCDCDC;
      top: -30px;
      cursor: pointer;
-     display: block;
+	 display: block;
      height: 27px;
      position: absolute;
      width: 27px;
@@ -147,7 +147,7 @@ h3::after {
 	 box-shadow: 1px 1px 3px Silver;
 	 padding-top: 2px;
  }
-
+ 
  .slider li:nth-child(1) label {
      left: 0px;
  }
@@ -199,60 +199,12 @@ h3::after {
 .slider {
 	counter-reset: contador;
 }
-.slider li label:before {
+
+.slider li label::before {
 	content: counter(contador);
 	counter-increment: contador;
 }
 
-/*
-.slider li:nth-child(1) label::before {
-     content: "1";
- }
-
- .slider li:nth-child(2) label::before {
-     content: "2";
- }
-
- .slider li:nth-child(3) label::before {
-     content: "3";
- }
- 
- .slider li:nth-child(4) label::before {
-     content: "4";
- }
- 
-.slider li:nth-child(5) label::before {
-     content: "5";
- }
-
-.slider li:nth-child(6) label::before {
-     content: "6";
- }
-
-.slider li:nth-child(7) label::before {
-     content: "7";
- }
-
-.slider li:nth-child(8) label::before {
-     content: "8";
- }
-
-.slider li:nth-child(9) label::before {
-     content: "9";
- }
-
-.slider li:nth-child(10) label::before {
-     content: "10";
- }
-
-.slider li:nth-child(11) label::before {
-     content: "11";
- }
-
-.slider li:nth-child(12) label::before {
-     content: "12";
- }
-*/
  .slider img {
      opacity: 0;
      visibility: hidden;

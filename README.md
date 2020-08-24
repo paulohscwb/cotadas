@@ -50,7 +50,7 @@
   <p>Agora veja como fica a construção da mediatriz do segmento <b>AB</b> próximo da margem da folha.</p>
   <ul class="slider">
        <li>
-           <input type="radio" id="slide6" name="slide" checked>
+           <input type="radio" id="slide6" name="slide">
            <label for="slide6"></label>
            <img src="dg/01_01_06.png" />
            <figcaption>Podemos começar desenhando um arco com a ponta seca em <b>A</b> e um raio maior do que a metade de <b>AB</b>.</figcaption>
@@ -94,7 +94,7 @@
   <p>Podemos utilizar a régua e um dos esquadros ou a régua e o compasso para resolver este exercício. Primeiro, veja como é a construção com a régua e o esquadro de 45<sup>o</sup>.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide12" name="slide" checked>
+           <input type="radio" id="slide12" name="slide">
            <label for="slide12"></label>
            <img src="dg/02_01_01.png" />
            <figcaption>Alinhe um dos catetos do esquadro com a reta <b>r</b>.</figcaption>
@@ -130,7 +130,7 @@
   <p> Agora veja os passos da construção feita com régua e compasso.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide17" name="slide" checked>
+           <input type="radio" id="slide17" name="slide">
            <label for="slide17"></label>
            <img src="dg/02_01_01c.png" />
            <figcaption>Desenhe um arco com a ponta seca em <b>P</b>, que intercepte a reta <b>r</b> no ponto <b>Q</b>.</figcaption>
@@ -167,7 +167,7 @@
   <p> Vamos utilizar a régua e um dos esquadros para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide22" name="slide" checked>
+           <input type="radio" id="slide22" name="slide">
            <label for="slide22"></label>
            <img src="dg/02_02_01.png" />
            <figcaption>Alinhe um dos catetos do esquadro com a reta <b>r</b>.</figcaption>
@@ -197,7 +197,7 @@
            <figcaption>Pronto! A reta perpendicular <b>p</b> está construída.</figcaption>
        </li>
        <li>
-           <input type="radio" id="slide27" name="slide" checked>
+           <input type="radio" id="slide27" name="slide">
            <label for="slide27"></label>
            <img src="dg/02_02_06.png" />
            <figcaption>Alinhe um dos catetos do esquadro com a reta <b>r</b>.</figcaption>
@@ -233,7 +233,7 @@
     <p>Agora veja como fica a construção da reta perpendicular à reta <b>r</b> que passa por <b>P</b> usando régua e compasso.</p>
 	<ul class="slider">
        <li>
-           <input type="radio" id="slide32" name="slide" checked>
+           <input type="radio" id="slide32" name="slide">
            <label for="slide32"></label>
            <img src="dg/02_02_01c.png" />
            <figcaption>Com a ponta seca em <b>P</b> desenhe um arco para a esquerda obtendo o ponto <b>Q</b> sobre a reta <b>r</b> e um arco para a direita obtendo o ponto <b>R</b> sobre a reta. Ambos os arcos com o mesmo raio.</figcaption>
@@ -288,7 +288,7 @@
   <p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide40" name="slide" checked>
+           <input type="radio" id="slide40" name="slide">
            <label for="slide40"></label>
            <img src="dg/02_03_01.png" />
            <figcaption>Com a ponta seca no vértice <b>O</b> do ângulo desenhe um arco obtendo os pontos <b>P</b> e <b>Q</b>, cada um em um lado do ângulo.</figcaption>
@@ -332,7 +332,7 @@
   <p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide45" name="slide" checked>
+           <input type="radio" id="slide45" name="slide">
            <label for="slide45"></label>
            <img src="dg/03_01_01.png" />
            <figcaption>Com a ponta seca no vértice <b>O</b> do ângulo desenhe um arco obtendo os pontos <b>R</b> e <b>Q</b>, cada um em um lado do ângulo.</figcaption>
@@ -370,7 +370,7 @@
   <h4>Ângulos de 60<sup>o</sup> e 30<sup>o</sup>:</h4>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide50" name="slide" checked>
+           <input type="radio" id="slide50" name="slide">
            <label for="slide50"></label>
            <img src="dg/03_02_01.png" />
            <figcaption>Desenhe uma reta <b>r</b> e marque dois pontos <b>A</b> e <b>B</b> sobre ela.</figcaption>
@@ -417,7 +417,7 @@
 	<h4>Ângulos de 90<sup>o</sup> e 45<sup>o</sup>:</h4>
     <ul class="slider">
       <li>
-           <input type="radio" id="slide57" name="slide" checked>
+           <input type="radio" id="slide57" name="slide">
            <label for="slide57"></label>
            <img src="dg/03_02_08.png" />
            <figcaption>Para construir um ângulo de <b>90°</b> com régua e compasso basta construir uma reta perpendicular. Lembra que já fizemos isso? Vamos repetir então. Desenhe uma reta <b>r</b> e marque um ponto <b>A</b> sobre ela. </figcaption>
@@ -464,7 +464,7 @@
   <h4>Ângulos de 75<sup>o</sup> e 15<sup>o</sup>:</h4>
     <ul class="slider">
       <li>
-           <input type="radio" id="slide64" name="slide" checked>
+           <input type="radio" id="slide64" name="slide">
            <label for="slide64"></label>
            <img src="dg/03_02_15.png" />
            <figcaption>Para construir um ângulo de <b>75°</b> basta dividir um ângulo de <b>150°</b> ao meio. Já sabemos construir um ângulo de <b>150°</b>, lembra? Comece construindo um ângulo <b>BAC</b> de <b>60°</b>. Construa um arco <b>BC</b> de tal forma que intercepte a reta <b>r</b> em dois pontos <b>B</b> e <b>F</b>.</figcaption>
@@ -507,7 +507,7 @@
   <h4>Ângulos de 60<sup>o</sup> e 30<sup>o</sup>:</h4>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide70" name="slide" checked>
+           <input type="radio" id="slide70" name="slide">
            <label for="slide70"></label>
            <img src="dg/03_02_01e.png" />
            <figcaption>Para construir o ângulo de <b>60°</b> desenhe uma reta <b>r</b> e encaixe o cateto menor do esquadro de <b>30/60</b> sobre essa reta. O ângulo da esquerda do esquadro mede <b>60°</b> e o de cima mede <b>30°</b>. Já temos o ângulo de <b>60°</b> formado com a reta! Mas não podemos ainda traçar o outro lado do ângulo de <b>60°</b> pois o vértice não estará definido!</figcaption>
@@ -572,7 +572,7 @@
 	<h4>Ângulos de 90<sup>o</sup> e 45<sup>o</sup>:</h4>
     <ul class="slider">
       <li>
-           <input type="radio" id="slide80" name="slide" checked>
+           <input type="radio" id="slide80" name="slide">
            <label for="slide80"></label>
            <img src="dg/03_02_11e.png" />
            <figcaption>Lembra quando construímos uma reta perpendicular à outra reta? Então, o ângulo formado é reto, ou seja, de <b>90°</b>. Vamos repetir o processo agora. Desenhe uma reta <b>r</b> e encaixe um cateto do esquadro nessa reta (você pode usar qualquer esquadro agora).</figcaption>
@@ -637,7 +637,7 @@
   <h4>Ângulos de 75<sup>o</sup> e 15<sup>o</sup>:</h4>
     <ul class="slider">
       <li>
-           <input type="radio" id="slide90" name="slide" checked>
+           <input type="radio" id="slide90" name="slide">
            <label for="slide90"></label>
            <img src="dg/03_02_21e.png" />
            <figcaption>Para construir o ângulo de <b>75°</b> basta lembrar que ele é a soma de <b>30°</b> com <b>45°</b>. Desenhe uma reta <b>r</b> e agora encaixe o cateto maior do esquadro de <b>30/60</b> sobre a reta <b>r</b>, já temos um ângulo de <b>30°</b>.</figcaption>
@@ -717,7 +717,7 @@
   <p>Para dividirmos um segmento graficamente em partes iguais utilizamos o Teorema de Tales que diz que “Um feixe (conjunto) de retas paralelas determina sobre um feixe de retas concorrentes segmentos proporcionais correspondentes”.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide003" name="slide" checked>
+           <input type="radio" id="slide003" name="slide">
            <label for="slide003"></label>
            <img src="dg/04_01_01.png" />
            <figcaption>Na figura da direita temos o feixe de retas paralelas: <b>r</b>, <b>s</b>, <b>t</b> e <b>u</b>, e o feixe de retas concorrentes em <b>O</b>: <b>f</b> e <b>g</b>. </figcaption>
@@ -784,7 +784,7 @@
   <p>Para dividirmos o segmento <b>AB</b> graficamente em partes proporcionais a números dados vamos aplicar o Teorema de Tales. Temos que construir um feixe de retas concorrentes cortadas por um feixe de paralelas, lembra?</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide013" name="slide" checked>
+           <input type="radio" id="slide013" name="slide">
            <label for="slide013"></label>
            <img src="dg/04_02_01.png" />
            <figcaption>Comece traçando uma reta auxiliar passando por uma das extremidades do segmento <b>AB</b>, neste caso, foi por <b>A</b>.</figcaption>
@@ -839,7 +839,7 @@
   <p>Para construir a circunferência pertencente aos pontos dados <b>A</b>, <b>B</b> e <b>C</b>, devemos encontrar o centro <b>O</b> da mesma para depois desenhá-la com o compasso. Antes de iniciarmos a construção devemos pensar na estratégia de solução! Acompanhe o desenvolvimento do raciocínio e depois a resolução gráfica!</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide021" name="slide" checked>
+           <input type="radio" id="slide021" name="slide">
            <label for="slide021"></label>
            <img src="dg/04_03_01.png" />
            <figcaption>Vamos iniciar pensando no exercício resolvido, ou seja, na figura auxiliar da direita temos uma circunferência de centro O que passa pelos pontos <b>A</b>, <b>B</b> e <b>C</b>. Vamos procurar uma relação do centro <b>O</b> com os dados do exercício.</figcaption>
@@ -907,7 +907,7 @@
   <p>Num triângulo <b>ABC</b>, o lado oposto ao vértice <b>A</b> é denotado por <b>a=BC</b>, o lado oposto ao <b>B</b> é denotado por <b>b=AC</b> e o lado oposto ao <b>C</b> é denotado por <b>c=AB</b>. Para construir um triângulo <b>ABC</b> dados os lados é necessário determinar a posição dos seus vértices <b>A</b>, <b>B</b> e <b>C</b>. Vamos à construção!</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide031" name="slide" checked>
+           <input type="radio" id="slide031" name="slide">
            <label for="slide031"></label>
            <img src="dg/05_01_01.png" />
            <figcaption>Construa uma reta suporte <b>r</b>.</figcaption>
@@ -974,7 +974,7 @@
   <p>Para obter o baricentro <b>G</b> do triângulo precisamos construir as medianas do mesmo. Uma mediana é um segmento que une um vértice do triângulo ao ponto médio do lado oposto. Veja como resolver o exercício.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide041" name="slide" checked>
+           <input type="radio" id="slide041" name="slide">
            <label for="slide041"></label>
            <img src="dg/05_02_01.png" />
            <figcaption>Vamos nomear os vértices do triângulo como <b>A</b>, <b>B</b> e <b>C</b>. Construa as mediatrizes dos lados <b>AB</b> e <b>AC</b>, obtendo também os pontos médios <b>Mc</b> e <b>Mb</b>, respectivamente.</figcaption>
@@ -1005,7 +1005,7 @@
   <p>Para obter o Incentro <b>I</b> do triângulo precisamos construir as bissetrizes internas do mesmo. Veja como resolver o exercício.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide045" name="slide" checked>
+           <input type="radio" id="slide045" name="slide">
            <label for="slide045"></label>
            <img src="dg/05_03_01.png" />
            <figcaption>Vamos nomear os vértices do triângulo como <b>A</b>, <b>B</b> e <b>C</b>. Construa a bissetriz <b>b<sub>b</sub></b> do ângulo interno <b>B</b>.</figcaption>
@@ -1043,7 +1043,7 @@
   <p>Para obtermos o Ortocentro <b>H</b> do triângulo precisamos construir suas alturas.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide050" name="slide" checked>
+           <input type="radio" id="slide050" name="slide">
            <label for="slide050"></label>
            <img src="dg/06_01_01.png" />
            <figcaption>Construa pelo vértice <b>B</b> uma reta perpendicular ao lado oposto <b>b</b>, obtendo o ponto <b>Hb</b> sobre a reta <b>AC</b>. Essa reta é denominada de reta suporte da altura. E a altura relativa ao lado <b>b</b> é o segmento <b>BHb</b>.</figcaption>
@@ -1069,7 +1069,7 @@
   <p>Vamos dividir a circunferência em <b>3</b> partes iguais, ou seja, construir o polígono regular de <b>3</b> lados inscrito na circunferência dada. Esse será o <b>triângulo equilátero</b>!</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide053" name="slide" checked>
+           <input type="radio" id="slide053" name="slide">
            <label for="slide053"></label>
            <img src="dg/06_02_01.png" />
            <figcaption>Marque um ponto <b>A</b> qualquer sobre a circunferência dada.Coloque a ponta seca do compasso no ponto <b>A</b> e abra até chegar ao centro <b>O</b> da circunferência dada. Estamos “pegando” o raio <b>OA</b> com o compasso. </figcaption>
@@ -1118,7 +1118,7 @@
   <p>Vamos dividir a circunferência em <b>4</b> partes iguais, ou seja, construir o polígono regular de <b>4</b> lados inscrito na circunferência dada. Esse será o quadrado!</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide060" name="slide" checked>
+           <input type="radio" id="slide060" name="slide">
            <label for="slide060"></label>
            <img src="dg/06_03_01.png" />
            <figcaption>Marque um ponto <b>A</b> qualquer sobre a circunferência dada. Construa a reta <b>OA</b> obtendo o ponto <b>C</b> sobre a circunferência.</figcaption>
@@ -1144,7 +1144,7 @@
   <p>Vamos dividir a circunferência em <b>6</b> partes iguais. Lembra que no item a desse exercício já fizemos isso?</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide063" name="slide" checked>
+           <input type="radio" id="slide063" name="slide">
            <label for="slide063"></label>
            <img src="dg/07_01_01.png" />
            <figcaption>Então basta repetir o processo aqui. Lembre de utilizar como medida no compasso o raio da circunferência dada! Pronto! Temos o hexágono regular inscrito na circunferência!</figcaption>
@@ -1157,7 +1157,7 @@
   <p>Vamos dividir a circunferência em <b>8</b> partes iguais. Para isso, vamos começar dividindo a circunferência em <b>4</b> partes iguais. Lembra? Já fizemos isso no item b desse exercício! </p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide064" name="slide" checked>
+           <input type="radio" id="slide064" name="slide">
            <label for="slide064"></label>
            <img src="dg/07_02_01.png" />
            <figcaption>Comece por um ponto <b>A</b> qualquer da circunferência e trace dois diâmetros <b>AE</b> e <b>CG</b> perpendiculares utilizando os esquadros. Já temos o quadrado <b>ACEG</b> inscrito. Não precisa representar esse quadrado! </figcaption>
@@ -1188,7 +1188,7 @@
   <p>Vamos dividir a circunferência em <b>10</b> partes iguais. Acompanhe o procedimento.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide068" name="slide" checked>
+           <input type="radio" id="slide068" name="slide">
            <label for="slide068"></label>
            <img src="dg/07_03_01.png" />
            <figcaption>Desenhe um diâmetro <b>12</b>. </figcaption>
@@ -1250,7 +1250,7 @@
   <p>Para dividir a circunferência em <b>5</b> partes iguais podemos dividi-la primeiro em <b>10</b> partes iguais e ao invés de unir os vértices um a um, basta unir de dois em dois, ou utilizar uma propriedade geométrica. Veja a seguir qual seria.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide077" name="slide" checked>
+           <input type="radio" id="slide077" name="slide">
            <label for="slide077"></label>
            <img src="dg/08_01_01.png" />
            <figcaption>Repita o processo da divisão da circunferência em <b>10</b> partes iguais visto no item anterior. </figcaption>
@@ -1287,7 +1287,7 @@
   <p>Vamos construir o triângulo equilátero de lado <b>l</b> dado! Mas antes reveja o exercício 6 da página 3 em que construímos o ângulo de <b>60°</b>, lá utilizamos dois processos: um com régua e compasso e outro com os esquadros para obtermos o ângulo de <b>60°</b>. Reveja também o exercício 10 da página 5, em que construímos um triângulo dados os tamanhos dos lados. O que já aprendemos iremos utilizar agora. </p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide082" name="slide" checked>
+           <input type="radio" id="slide082" name="slide">
            <label for="slide082"></label>
            <img src="dg/08_02_01.png" />
            <figcaption>Existem várias formas de resolver esse problema. Vamos a uma delas! Construa uma reta suporte <b>r</b>.</figcaption>
@@ -1330,7 +1330,7 @@
   <p>Vamos construir o quadrado de lado <b>l</b> dado! O quadrado é um polígono que possui os quatro lados congruentes (iguais) e os quatro ângulos internos também congruentes e cada um medindo <b>90°</b>.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide088" name="slide" checked>
+           <input type="radio" id="slide088" name="slide">
            <label for="slide088"></label>
            <img src="dg/08_03_01.png" />
            <figcaption>Existem várias formas de resolver esse problema. Vamos a uma delas! Construa uma reta suporte <b>r</b>.</figcaption>
@@ -1386,7 +1386,7 @@
   <p>Vamos construir o pentágono regular de lado <b>l</b> dado! O pentágono regular é um polígono que possui os cinco lados congruentes e os cinco ângulos internos também congruentes. Existem processos de construção exatos e aproximados. Vamos aprender um aproximado que é rápido de ser construído e nos dá um resultado muito bom!</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide096" name="slide" checked>
+           <input type="radio" id="slide096" name="slide">
            <label for="slide096"></label>
            <img src="dg/09_01_01.png" />
            <figcaption>Construa uma reta suporte <b>r</b>.</figcaption>
@@ -1453,7 +1453,7 @@
   <p>Vamos construir o hexágono regular de lado <b>l</b> dado! Lembra da construção do hexágono regular inscrito numa circunferência? Retorne à página 7 e reveja a construção! Nesse exercício usamos o raio da circunferência para marcar o lado do polígono! Vamos utilizar esse conceito agora!</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide0007" name="slide" checked>
+           <input type="radio" id="slide0007" name="slide">
            <label for="slide0007"></label>
            <img src="dg/09_02_01.png" />
            <figcaption>Construa uma reta suporte <b>r</b>. Construa um triângulo equilátero <b>ABO</b>, de lado <b>l=2,5cm</b>, com o lado <b>AB</b> sobre a reta <b>r</b>.</figcaption>
@@ -1496,7 +1496,7 @@
   <p>Para determinar a reta tangente à circunferência dada basta encontrar o ponto <b>T</b> de tangência! Antes de iniciarmos a construção vamos aprender duas propriedades importantes!</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide0013" name="slide" checked>
+           <input type="radio" id="slide0013" name="slide">
            <label for="slide0013"></label>
            <img src="dg/09_03_01.png" />
            <figcaption>Veja a primeira figura auxiliar.Por definição uma reta tangente possui um único ponto <b>T</b> em comum com a circunferência! E por propriedade a reta tangente forma com o raio <b>r=OT</b> no ponto <b>T</b> um ângulo de <b>90°</b>!</figcaption>
@@ -1540,7 +1540,7 @@
   <p>Vamos lembrar que para que uma reta seja tangente à uma circunferência quando o ângulo formado entre o raio e a reta no ponto de tangência mede <b>90°</b>! Vamos à construção.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide0019" name="slide" checked>
+           <input type="radio" id="slide0019" name="slide">
            <label for="slide0019"></label>
            <img src="dg/10_01_01.png" />
            <figcaption>Construa usando os esquadros ou o compasso uma reta <b>s</b> passando pelo ponto <b>T</b> e perpendicular à reta <b>t</b>.</figcaption>
@@ -1565,7 +1565,7 @@
   <p>Lembre-se que para que uma reta seja tangente à uma circunferência devemos ter que o ângulo formado entre o raio e a reta no ponto de tangência mede <b>90°</b>! Vamos à construção.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide0022" name="slide" checked>
+           <input type="radio" id="slide0022" name="slide">
            <label for="slide0022"></label>
            <img src="dg/10_02_01.png" />
            <figcaption>Construa a reta <b>OT</b>.</figcaption>
@@ -1693,7 +1693,7 @@
   <p> Vamos utilizar a régua, o compasso e os esquadros para resolver este exercício. De acordo com a propriedade 2, podemos encontrar a projeção dos lados de um paralelogramo utilizando a construção de retas paralelas.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide105" name="slide" checked>
+           <input type="radio" id="slide105" name="slide">
            <label for="slide105"></label>
            <img src="prop/19_02_01.png" />
            <figcaption>A projeção do lado <b>C'D'</b> será paralela ao segmento <b>A'B'</b>. Logo, podemos desenhar a reta <b>C'D' // A'B'</b> com o uso de esquadros.</figcaption>
@@ -1733,7 +1733,7 @@
   <p> Vamos utilizar a régua e o compasso para resolver este exercício. De acordo com a propriedade 5, o paralelogramo está em um plano paralelo à direção <b>d</b> das projetantes.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide110" name="slide" checked>
+           <input type="radio" id="slide110" name="slide">
            <label for="slide110"></label>
            <img src="prop/19_02_01c.png" />
            <figcaption>O vértice <b>C'</b> do paralelogramo estará no prolongamento da reta <b>A'B'</b>.</figcaption>
@@ -1769,7 +1769,7 @@
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide114" name="slide" checked>
+           <input type="radio" id="slide114" name="slide">
            <label for="slide114"></label>
            <img src="prop/20_03_01a.png" />
            <figcaption>Relembrando uma propriedade do paralelogramo: as diagonais interceptam-se em seus respectivos pontos médios. Logo, pela propriedade 3, <b>A'M' = M'C'</b>.</figcaption>
@@ -1811,7 +1811,7 @@
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide120" name="slide" checked>
+           <input type="radio" id="slide120" name="slide">
            <label for="slide120"></label>
            <img src="prop/20_03_00b.png" />
         <figcaption>Como as projeções dos vértices <b>A'</b> e <b>B'</b> são coincidentes, pela propriedade 1, podemos concluir que <b>AB // d</b>. Portanto, temos que <b>C'D' // d</b>.</figcaption>
@@ -1847,7 +1847,7 @@
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide124" name="slide" checked>
+           <input type="radio" id="slide124" name="slide">
            <label for="slide124"></label>
            <img src="prop/20_04_00a.png" />
         <figcaption>Relembrando a propriedade do baricentro: A distância do baricentro a um vértice mede 2/3 da mediana, ou seja, <b>CG = 2CM/3</b> ou <b>GM = CM/3.</b></figcaption>
@@ -1895,7 +1895,7 @@
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide131" name="slide" checked>
+           <input type="radio" id="slide131" name="slide">
            <label for="slide131"></label>
            <img src="prop/20_04_00b.png" />
         <figcaption>Vamos usar a mesma propriedade do item anterior: A distância do baricentro a um vértice mede 2/3 da mediana, ou seja, <b>CG = 2CM/3</b> ou <b>GM = CM/3.</b></figcaption>
@@ -1939,7 +1939,7 @@
   <p> Vamos utilizar a régua, o compasso e os esquadros para resolver este exercício.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide136" name="slide" checked>
+           <input type="radio" id="slide136" name="slide">
            <label for="slide136"></label>
            <img src="prop/21_05_01a.png" />
         <figcaption>Relembrando as propriedades do hexágono regular: os lados são iguais ao raio da circunferência circunscrita, e os raios são paralelos aos lados.</figcaption>
@@ -2004,7 +2004,7 @@
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide145" name="slide" checked>
+           <input type="radio" id="slide145" name="slide">
            <label for="slide145"></label>
            <img src="prop/21_05_01c.png" />
         <figcaption>Usando as propriedades do hexágono regular, podemos notar que <b>AB = OC</b> e <b>AB // OC</b>. Logo, as projeções desses serão iguais e paralelas.</figcaption>
@@ -2068,7 +2068,7 @@
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide152" name="slide" checked>
+           <input type="radio" id="slide152" name="slide">
            <label for="slide152"></label>
            <img src="prop/23_01_01.png" />
         <figcaption>Usando as propriedades do losango, temos que as medidas dos lados são iguais <b>AB = BC = CD = AD</b> e as diagonais <b>AC</b> e <b>BD</b> são perpendiculares. Podemos usar a propriedade 7 de projeções ortogonais.</figcaption>
@@ -2106,7 +2106,7 @@
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide157" name="slide" checked>
+           <input type="radio" id="slide157" name="slide">
            <label for="slide157"></label>
            <img src="prop/23_02_01.png" />
         <figcaption>Usando as propriedades do retângulo, temos que os vértices pertencem a uma circunferência com centro no encontro das diagonais <b>M</b>. Esta circunferência é chamada de arco capaz de 90<sup>o</sup>.</figcaption>
@@ -2157,7 +2157,7 @@
   <p> Vamos utilizar o compasso e os esquadros para resolver este exercício.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="slide164" name="slide" checked>
+           <input type="radio" id="slide164" name="slide">
            <label for="slide164"></label>
            <img src="prop/24_01_01.png" />
         <figcaption>Um paralelepípedo tem todas as faces com paralelogramos. Supondo-se que o vértice <b>F</b> está mais próximo do observador, temos as arestas determinadas por <b>F</b> visíveis</figcaption>
@@ -2245,7 +2245,7 @@
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="slide500" name="slide" checked>
+			   <input type="radio" id="slide500" name="slide">
 			   <label for="slide500"></label>
 			   <img src="cotadas/27_01_01.png" />
 			<figcaption>Para marcar o ponto <b>A</b>, devemos traçar uma paralela ao eixo <b>y</b>, pelo ponto <b>x=40</b>, já que a abscissa do ponto <b>A</b> é 40.</figcaption>
@@ -2281,7 +2281,7 @@
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="slide504" name="slide" checked>
+			   <input type="radio" id="slide504" name="slide">
 			   <label for="slide504"></label>
 			   <img src="cotadas/29_01_01.png" />
 			<figcaption>Traça-se o segmento <b>A’B’</b>.</figcaption>
@@ -2328,7 +2328,7 @@
 	  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="slide510" name="slide" checked>
+			   <input type="radio" id="slide510" name="slide">
 			   <label for="slide510"></label>
 			   <img src="cotadas/29_03_01.png" />
 			<figcaption>Traça-se o segmento <b>E’F’</b> e um segmento perpendicular a <b>E’F’</b>, por <b>E’</b>.</figcaption>
@@ -2362,7 +2362,7 @@
 	  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="slide514" name="slide" checked>
+			   <input type="radio" id="slide514" name="slide">
 			   <label for="slide514"></label>
 			   <img src="cotadas/30_01_01.png" />
 			<figcaption>?</figcaption>
@@ -2396,7 +2396,7 @@
 	  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="slide518" name="slide" checked>
+			   <input type="radio" id="slide518" name="slide">
 			   <label for="slide518"></label>
 			   <img src="cotadas/30_03_01.png" />
 			<figcaption>?</figcaption>
@@ -2421,7 +2421,7 @@
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="slide521" name="slide" checked>
+			   <input type="radio" id="slide521" name="slide">
 			   <label for="slide521"></label>
 			   <img src="cotadas/31_01_01.png" />
 			<figcaption>Usando o seu esquadro, trace paralelas aos eixos nas coordenadas indicadas marcando as projeções <b>A’</b> e <b>B’</b>. Indique suas cotas e trace o segmento <b>A’B’</b>.</figcaption>
@@ -2461,7 +2461,7 @@
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="slide524" name="slide" checked>
+			   <input type="radio" id="slide524" name="slide">
 			   <label for="slide524"></label>
 			   <img src="cotadas/32_03_01.png" />
 			<figcaption>Conforme o enunciado, localizamos as projeções dos pontos a <b>8cm</b> de distância. A escala do desenho é de <b>1:100</b> isso implica que <b>1cm</b> no desenho, corresponde a <b>100cm</b> ou <b>1m</b> no terreno. Dessa maneira, podemos indicar as cotas de cada um dos pontos na escala considerada.</figcaption>
@@ -2487,7 +2487,7 @@
 	<p>As retas podem assumir três diferentes posições com relação ao plano de projeção <b>&pi;’</b>. A primeira reta que iremos estudar é a reta vertical. </p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="slide527" name="slide" checked>
+			   <input type="radio" id="slide527" name="slide">
 			   <label for="slide527"></label>
 			   <img src="cotadas/33_01_01.png" />
 			<figcaption>Observe sua representação. Essa reta é perpendicular ao plano de projeção <b>&pi;’</b>.</figcaption>
@@ -2506,7 +2506,7 @@
 	<p>A segunda reta que iremos estudar é a reta horizontal.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="slide529" name="slide" checked>
+			   <input type="radio" id="slide529" name="slide">
 			   <label for="slide529"></label>
 			   <img src="cotadas/33_02_01.png" />
 			<figcaption>Observe sua representação. Essa reta é paralela ao plano de projeção <b>&pi;’</b>. Isso implica que todos os seus pontos têm mesma cota.</figcaption>
@@ -2526,7 +2526,7 @@
 	<p>A terceira reta que iremos estudar é a reta qualquer.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="slide531" name="slide" checked>
+			   <input type="radio" id="slide531" name="slide">
 			   <label for="slide531"></label>
 			   <img src="cotadas/34_01_01.png" />
 			<figcaption>Observe sua representação. Essa reta é oblíqua ao plano de projeção <b>&pi;’</b>.</figcaption>
@@ -2544,7 +2544,7 @@
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="slide533" name="slide" checked>
+			   <input type="radio" id="slide533" name="slide">
 			   <label for="slide533"></label>
 			   <img src="cotadas/34_02_01.png" />
 			<figcaption>Trata-se de uma reta qualquer, pois observa-se que sua projeção é uma reta e passa por pontos de cotas diferentes;</figcaption>
@@ -2608,7 +2608,7 @@
 	<p>Observe o desenho em 3D, nosso objetivo é rebater o triângulo <b>ABC</b> no plano de projeção <b>&pi;'</b>. Com isso obteremos a VG do segmento AB, bem como a VG do ângulo <b>&theta;</b>.</p>
 	<ul class="slider">
 		  <li>
-			   <input type="radio" id="slide542" name="slide" checked>
+			   <input type="radio" id="slide542" name="slide">
 			   <label for="slide542"></label>
 			   <img src="cotadas/36_01_01.png" />
 			<figcaption>Traça-se um segmento perpendicular a <b>A’B’</b>, por <b>A’</b>. Para se rebater o ponto <b>A</b> no plano <b>&pi;'</b> , mede-se a cota do ponto <b>A</b>, marcando-se o ponto auxiliar <b>A’<sub>1</sub></b> . </figcaption>
@@ -2692,7 +2692,7 @@
 	  <p> Vamos verificar se as retas são paralelas ou concorrentes, considerando a reta <b>s</b> qualquer e a reta <b>r</b> vertical. Como pertencem ao mesmo plano projetante, elas são necessariamente concorrentes, basta encontrar o ponto <b>P</b> de concorrência. Usando o método do rebatimento, siga os seguintes passos:</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="slide308" name="slide" checked>
+			   <input type="radio" id="slide308" name="slide">
 			   <label for="slide308"></label>
 			   <img src="cotadas/47_01_01.png" />
 			<figcaption>Marcar a cota do ponto <b>A</b></figcaption>
@@ -2731,7 +2731,7 @@
 	  <h4>Planos projetantes distintos e não paralelos</h4>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="slide300" name="slide" checked>
+			   <input type="radio" id="slide300" name="slide">
 			   <label for="slide300"></label>
 			   <img src="cotadas/47_02_01.png" />
 			<figcaption>Marcar a cota do ponto <b>A'(2)</b>.</figcaption>
@@ -2799,7 +2799,7 @@
 		<p>Como as retas são concorrentes, basta verificar se o ângulo entre elas é 90<sup>o</sup>. Se for, elas são perpendiculares. Faremos isso através do método do rebatimento.</p>
 		<ul class="slider">
 		  <li>
-			   <input type="radio" id="slide313" name="slide" checked>
+			   <input type="radio" id="slide313" name="slide">
 			   <label for="slide313"></label>
 			   <img src="cotadas/47_04_01.png" />
 			<figcaption>Rebater os pontos <b>A</b> e <b>B</b>.</figcaption>
@@ -2846,7 +2846,7 @@
 	  <p>Devemos verificar se as retas são concorrentes ou ortogonais, para isso basta verificar se o ponto se o ponto onde as retas se cruzam na projeção, possui cota <b>2</b> na reta <b>s</b>.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="slide319" name="slide" checked>
+			   <input type="radio" id="slide319" name="slide">
 			   <label for="slide319"></label>
 			   <img src="cotadas/49_01_01.png" />
 			<figcaption>Rebater o ponto <b>A</b></figcaption>
@@ -2871,7 +2871,7 @@
 	  <p>Como as retas são concorrentes, basta verificar se o ângulo entre elas é <b>90<sup>o</sup></b>, se for, elas são perpendiculares. Faremos isso através do método do rebatimento.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="slide322" name="slide" checked>
+			   <input type="radio" id="slide322" name="slide">
 			   <label for="slide322"></label>
 			   <img src="cotadas/49_02_01.png" />
 			<figcaption>Rebater os pontos: <b>A</b>, <b>B</b>, <b>C</b> e <b>D</b> e representar as retas <b>r</b> e <b>s</b>, rebatidas</figcaption>
@@ -2900,7 +2900,7 @@
 		<p>Para encontrar o intervalo da reta <b>s</b>, perpendicular à reta <b>r</b>, utilizamos o intervalo inverso. </p>
 		<ul class="slider">
 		  <li>
-			   <input type="radio" id="slide324" name="slide" checked>
+			   <input type="radio" id="slide324" name="slide">
 			   <label for="slide324"></label>
 			   <img src="cotadas/50_01_01.png" />
 			<figcaption>Como a diferença de cotas entre os pontos <b>A</b> e <b>B</b> é <b>1</b>, a distância <b>A'B'</b> é o intervalo da reta <b>r</b>, <b>I'<sub>r</sub></b></figcaption>
@@ -2997,7 +2997,7 @@
   	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="slide400" name="slide" checked>
+			   <input type="radio" id="slide400" name="slide">
 			   <label for="slide400"></label>
 			   <img src="cotadas/63_01_01.png" />
 			<figcaption>Representar uma reta do plano, por exemplo a reta <b>a(A,B)</b>. Obs: para garantir que o resultado esteja dentro da folha de trabalho recomenda-se escolher a reta definida pelos ponto de maior e menor cota.</figcaption>
@@ -3040,7 +3040,7 @@
 	  <p>Num plano existem infinitas retas, se o plano for qualquer estas retas podem ser horizontais ou quaisquer.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="slide406" name="slide" checked>
+			   <input type="radio" id="slide406" name="slide">
 			   <label for="slide406"></label>
 			   <img src="cotadas/63_02_01.png" />
 			<figcaption>Sabemos que as retas horizontais de um plano são perpendiculares as suas retas de maior declive, portanto para encontrar a horizontal de cota 2(<b>h<sub>2</sub></b>) basta encontrar uma reta perpendicular à reta <b>d&alpha;</b> pelo ponto <b>A(2)</b>.</figcaption>
@@ -3078,7 +3078,7 @@
 	  <p>O ângulo que um plano forma com o plano de projeção é igual à inclinação de uma de suas retas de maior declive.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="slide411" name="slide" checked>
+			   <input type="radio" id="slide411" name="slide">
 			   <label for="slide411"></label>
 			   <img src="cotadas/64_01_01.png" />
 			<figcaption>Encontrar a projeção auxiliar do ponto <b>A</b>.</figcaption>
@@ -3109,7 +3109,7 @@
 	  <p>Representar uma reta do plano, por exemplo a reta definida pelos pontos <b>B</b> e <b>C</b>.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="slide415" name="slide" checked>
+			   <input type="radio" id="slide415" name="slide">
 			   <label for="slide415"></label>
 			   <img src="cotadas/64_02_01.png" />
 			<figcaption>Para garantir que o resultado esteja dentro da folha de trabalho recomenda-se escolher a reta definida pelos pontos de maior e menor cota.</figcaption>
@@ -3160,7 +3160,7 @@
 	  <p>Vimos que uma reta de declive de um plano qualquer é suficiente para representá-lo. Neste exercício conhecemos a projeção de uma de suas retas de declive assim como de um de seus pontos, porém para definir uma reta precisamos de um segundo ponto. A solução consiste em encontrar este segundo ponto.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="slide422" name="slide" checked>
+			   <input type="radio" id="slide422" name="slide">
 			   <label for="slide422"></label>
 			   <img src="cotadas/65_01_01.png" />
 			<figcaption>Encontrar uma reta que forma ângulo de <b>60°</b> com a projeção da reta de declive do plano <b>&alpha;</b>. </figcaption>
@@ -3191,7 +3191,7 @@
 	  <p>Vamos resolver o exercício encontrando uma das retas de declive do plano <b>&alpha;</b>. Sabemos que uma reta de declive define um plano qualquer e a sua inclinação corresponde à inclinação do plano.</p>
 	  <ul class="slider">
 		  <li>
-			   <input type="radio" id="slide426" name="slide" checked>
+			   <input type="radio" id="slide426" name="slide">
 			   <label for="slide426"></label>
 			   <img src="cotadas/65_2_01.png" />
 			<figcaption>Sobre a reta <b>h'<sub>2</sub></b> marcamos um ponto <b>A'(2)</b>. Conduzimos por <b>A'(2)</b> a projeção de uma das retas de declive do plano <b>&alpha; d'<sub>&alpha;</sub></b>. Obs: As retas de declive de um plano são perpendiculares às retas horizontais do plano. </figcaption>
