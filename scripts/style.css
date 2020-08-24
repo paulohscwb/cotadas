@@ -156,14 +156,6 @@ h3::after {
      left: 30px;
  }
 
-.slider li:nth-child(1) label::before {
-     content: "1";
- }
-
- .slider li:nth-child(2) label::before {
-     content: "&#x1f4cf;";
- }
-
  .slider li:nth-child(3) label {
      left: 60px;
  }
@@ -202,6 +194,54 @@ h3::after {
 
 .slider li:nth-child(12) label {
      left: 330px;
+ }
+
+.slider li:nth-child(1) label::before {
+     content: "1";
+ }
+
+ .slider li:nth-child(2) label::before {
+     content: "2";
+ }
+
+ .slider li:nth-child(3) label::before {
+     content: "3";
+ }
+ 
+ .slider li:nth-child(4) label::before {
+     content: "4";
+ }
+ 
+.slider li:nth-child(5) label::before {
+     content: "5";
+ }
+
+.slider li:nth-child(6) label::before {
+     content: "6";
+ }
+
+.slider li:nth-child(7) label::before {
+     content: "7";
+ }
+
+.slider li:nth-child(8) label::before {
+     content: "8";
+ }
+
+.slider li:nth-child(9) label::before {
+     content: "9";
+ }
+
+.slider li:nth-child(10) label::before {
+     content: "10";
+ }
+
+.slider li:nth-child(11) label::before {
+     content: "11";
+ }
+
+.slider li:nth-child(12) label::before {
+     content: "12";
  }
 
  .slider img {

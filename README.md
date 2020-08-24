@@ -698,13 +698,13 @@
        </li>
 	   <li>
            <input type="radio" id="slide001" name="slide">
-           <label for="slide001">11</label>
+           <label for="slide001"></label>
            <img src="dg/03_02_31e.png" />
            <figcaption>Pronto! Só traçar a reta <b>s</b> utilizando o cateto de cima do esquadro de <b>45</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="slide002" name="slide">
-           <label for="slide002">12</label>
+           <label for="slide002"></label>
            <img src="dg/03_02_32e.png" />
            <figcaption>Essa construção fornece dois ângulos: o de <b>15°</b> e o seu suplemento de <b>165°</b>.</figcaption>
        </li>
