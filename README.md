@@ -1566,7 +1566,7 @@
   <ul class="slider">
       <li>
            <input type="radio" id="slide0022" name="slide" checked>
-           <label for="slide0023"></label>
+           <label for="slide0022"></label>
            <img src="dg/10_02_01.png" />
            <figcaption>Construa a reta <b>OT</b>.</figcaption>
        </li>
