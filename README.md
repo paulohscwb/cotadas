@@ -2238,11 +2238,11 @@
 <details>
   <summary id="pontos">Pontos e segmentos em épura: pág. 26-43</summary>
 	<img src="cotadas/Cotadas_2020_0026.png" />
-	<figcaption>Para representar um ponto em épura, basta marcar as coordenadas x(abscissa), y(ordenada) e indicar o valor da cota <b>a</b> do ponto. Use o link abaixo para visualizar em 3D.</figcaption>
-	<a href="vr/rep_ponto.html" target="_blank" class="visu">Visualização em 3D</a>
+	<div class="combo"><figcaption>Para representar um ponto em épura, basta marcar as coordenadas x(abscissa), y(ordenada) e indicar o valor da cota <b>a</b> do ponto. Use o link abaixo para visualizar em 3D.</figcaption>
+	<a href="vr/rep_ponto.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0027.png" />
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="slide500" name="slide">
@@ -2271,14 +2271,14 @@
 		</ul>
 		<img src="cotadas/27_01_00.png" class="fundo" />
 	  </details>
-	  <a href="vr/exerc_epura.html" target="_blank" class="visu">Visualização em 3D</a>
+	  <a href="vr/exerc_epura.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	  <p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
     <img src="cotadas/Cotadas_2020_0028.png" />
-   	<figcaption>Usamos o rebatimento encontrar a verdadeira grandeza (vg) de um segmento AB. Neste caso, o segmento é rebatido usando a projeção <b>A'B'</b> como eixo para rebater o segmento em <b>&pi;'</b>. Neste caso, marcamos as cotas dos pontos a partir de suas projeções.</figcaption>
-	<a href="vr/vg_segmento.html" target="_blank" class="visu">Visualização em 3D</a>
+   	<div class="combo"><figcaption>Usamos o rebatimento encontrar a verdadeira grandeza (vg) de um segmento AB. Neste caso, o segmento é rebatido usando a projeção <b>A'B'</b> como eixo para rebater o segmento em <b>&pi;'</b>. Neste caso, marcamos as cotas dos pontos a partir de suas projeções.</figcaption>
+	<a href="vr/vg_segmento.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0029.png" />
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="slide504" name="slide">
@@ -2318,14 +2318,14 @@
 		   </li>
 		</ul>
 		<img src="cotadas/29_01_00.png" class="fundo" />
-	  </details>
+	  </details></div>
 	  <img src="cotadas/Cotadas_2020_0029a.png" />
-	  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p>Usando os mesmos conceitos do item a, encontre a vg do segmento <b>CD</b>.</p>
 		<img src="cotadas/29_02_00.png"/>
-	  </details>
+	  </details></div>
 	  <img src="cotadas/Cotadas_2020_0029b.png" />
-	  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="slide510" name="slide">
@@ -2353,13 +2353,13 @@
 		   </li>
 		</ul>
 		<img src="cotadas/29_03_00.png" class="fundo" />
-	  </details>
+	  </details></div>
 	  <p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	  <img src="cotadas/Cotadas_2020_0030.png" />
-	  <figcaption>Rebatimento usado para encontrar a verdadeira grandeza (vg) de um segmento <b>AB</b>. Neste caso, o segmento é rebatido usando o segmento <b>AC</b> como eixo para rebater o segmento em um plano horizontal<b>&beta;</b> que passa por <b>A</b>. Neste caso, marcamos a diferença de cotas entre os pontos <b>A</b> e <b>B</b> a partir da projeção <b>B'</b></figcaption>
-	  <a href="vr/vg_segmento2.html" target="_blank" class="visu">Visualização em 3D</a>
+	  <div class="combo"><figcaption>Rebatimento usado para encontrar a verdadeira grandeza (vg) de um segmento <b>AB</b>. Neste caso, o segmento é rebatido usando o segmento <b>AC</b> como eixo para rebater o segmento em um plano horizontal<b>&beta;</b> que passa por <b>A</b>. Neste caso, marcamos a diferença de cotas entre os pontos <b>A</b> e <b>B</b> a partir da projeção <b>B'</b></figcaption>
+	  <a href="vr/vg_segmento2.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	  <img src="cotadas/Cotadas_2020_0030a.png" />
-	  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="slide514" name="slide">
@@ -2391,9 +2391,9 @@
 		<h4>Solução do item b</h4>
 		<img src="cotadas/30_02_00.png" />
 		<figcaption>?</figcaption>
-	  </details>
+	  </details></div>
 	  <img src="cotadas/Cotadas_2020_0030b.png" />
-	  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="slide518" name="slide">
@@ -2415,10 +2415,10 @@
 		   </li>
 		</ul>
 		<img src="cotadas/30_03_00.png" class="fundo" />
-	  </details>
+	  </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0031.png" />
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="slide521" name="slide">
@@ -2440,25 +2440,25 @@
 		   </li>
 		</ul>
 		<img src="cotadas/31_01_00.png" class="fundo" />
-	</details>
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0031a.png" />
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p>Solução do item b</p>
 		<img src="cotadas/31_02_00.png" class="fundo" />
-	</details>
+	</details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0032.png" />
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p>Solução do item c</p>
 		<img src="cotadas/32_01_00.png" class="fundo" />
-	</details>
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0032a.png" />
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p>Solução do item d</p>
 		<img src="cotadas/32_02_00.png" class="fundo" />
-	</details>
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0032b.png" />
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="slide524" name="slide">
@@ -2480,10 +2480,10 @@
 		   </li>
 		</ul>
 		<img src="cotadas/32_03_00.png" class="fundo" />
-	</details>
+	</details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0033.png" />
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>As retas podem assumir três diferentes posições com relação ao plano de projeção <b>&pi;’</b>. A primeira reta que iremos estudar é a reta vertical. </p>
 	  <ul class="slider">
 		  <li>
@@ -2500,9 +2500,9 @@
 		   </li>
 		</ul>
 		<img src="cotadas/33_01_00.png" class="fundo" />
-	</details>
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0033a.png" />
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>A segunda reta que iremos estudar é a reta horizontal.</p>
 	  <ul class="slider">
 		  <li>
@@ -2519,10 +2519,10 @@
 		   </li>
 		</ul>
 		<img src="cotadas/33_02_00.png" class="fundo" />
-	</details>
+	</details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0034.png" />
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>A terceira reta que iremos estudar é a reta qualquer.</p>
 	  <ul class="slider">
 		  <li>
@@ -2539,9 +2539,9 @@
 		   </li>
 		</ul>
 		<img src="cotadas/34_01_00.png" class="fundo" />
-	</details>
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0034a.png" />
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="slide533" name="slide">
@@ -2599,12 +2599,12 @@
 		   </li>
 		</ul>
 		<img src="cotadas/34_02_00.png" class="fundo" />
-	</details>
+	</details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0035.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0036.png" />
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Observe o desenho em 3D, nosso objetivo é rebater o triângulo <b>ABC</b> no plano de projeção <b>&pi;'</b>. Com isso obteremos a VG do segmento AB, bem como a VG do ângulo <b>&theta;</b>.</p>
 	<ul class="slider">
 		  <li>
@@ -2645,7 +2645,7 @@
 		   </li>
 		</ul>
 		<img src="cotadas/36_01_00.png" class="fundo" />
-	</details>
+	</details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0037.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
@@ -2660,8 +2660,8 @@
 	<img src="cotadas/Cotadas_2020_0040a.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0041.png" />
-	<a href="vr/41_pertinencia1.html" target="_blank" class="visu">Visualização em 3D do 1<sup>o</sup> exemplo</a>
-	<br><a href="vr/41_pertinencia2.html" target="_blank" class="visu">Visualização em 3D do 2<sup>o</sup> exemplo</a>
+	<div class="combo"><a href="vr/41_pertinencia1.html" target="_blank" class="visu">Visualização em 3D do 1<sup>o</sup> exemplo</a>
+	<br><a href="vr/41_pertinencia2.html" target="_blank" class="visu">Visualização em 3D do 2<sup>o</sup> exemplo</a></div>
 	<img src="cotadas/Cotadas_2020_0041a.png" />
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0042.png" />
