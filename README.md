@@ -2793,7 +2793,7 @@
 		<img src="cotadas/47_03_01.png" />
 		<figcaption>Neste caso as retas são reversas, pois o ponto <b>P</b> possui cotas diferentes nas retas <b>r</b> e <b>s</b>. Use o link abaixo para visualizar este exemplo em 3D.</figcaption>
 	</details>
-	<a href="vr/47_incidencia6b.html" target="_blank" class="visu">Visualização em 3D</a>
+	<br><a href="vr/47_incidencia6b.html" target="_blank" class="visu">Visualização em 3D</a>
 	<img src="cotadas/Cotadas_2020_0047b.png" />
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 		<p>Como as retas são concorrentes, basta verificar se o ângulo entre elas é 90<sup>o</sup>. Se for, elas são perpendiculares. Faremos isso através do método do rebatimento.</p>
@@ -3025,7 +3025,6 @@
 		</ul>
 		<img src="cotadas/53_01_00.png" class="fundo" />
 	</details>
-	<figcaption>Use o link abaixo para a visualização em 3D do sólido projetado.</figcaption>
 	<a href="vr/piramide0.html" target="_blank" class="visu">Visualização em 3D</a>
 	<img src="cotadas/Cotadas_2020_0053a.png" />
 	<figcaption>Use o link abaixo para a visualização em 3D do sólido projetado.</figcaption>
