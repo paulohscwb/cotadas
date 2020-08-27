@@ -3515,7 +3515,73 @@
 	<a href="vr/int_pq_pq.html" target="_blank" class="visu">Visualização em 3D</a>
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0076.png" />
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <p>Planos quaisquer paralelos têm retas de declive paralelas, logo, para definir um plano beta paralelo ao plano <b>&alpha;</b> temos que encontrar primeiramente uma das retas de declive de <b>&alpha;</b>.
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="slide432a" name="slide">
+			   <label for="slide432a"></label>
+			   <img src="cotadas/76_01_01.png" />
+			 <figcaption>Encontrar uma reta horizontal do plano <b>&alpha;</b>, por exemplo, a horizontal de cota <b>3</b>. Para isso precisamos encontrar o ponto de cota <b>3</b> da reta definida pelos pontos <b>A</b> e <b>B</b>: <b>D'(3)</b>. Unindo os pontos <b>C'(3)</b> e <b>D'(3)</b> temos a horizontal de alfa de cota <b>3</b>: <b>h<sub>&alpha;3</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide433a" name="slide">
+			   <label for="slide433a"></label>
+			   <img src="cotadas/76_01_02.png" />
+			 <figcaption>Conduzimos uma segunda reta horizontal do plano <b>&alpha;</b>, por exemplo, a reta horizontal que passa pelo ponto <b>B'(4)</b>: <b>h<sub>&alpha;4</sub></b>. Obs: As horizontais de um plano são paralelas entre si.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide431a" name="slide">
+			   <label for="slide431a"></label>
+			   <img src="cotadas/76_01_03.png" />
+			 <figcaption>Sabemos que as retas de declive de um plano são perpendiculares às horizontais deste plano, então <b>d&alpha;</b> é perpendicular às retas <b>h<sub>&alpha;3</sub></b> e <b>h<sub>&alpha;4</sub></b>: <b>d&alpha;(E,F)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide434a" name="slide">
+			   <label for="slide434a"></label>
+			   <img src="cotadas/76_01_04.png" />
+			 <figcaption>Para que duas retas sejam paralelas, seus intervalos devem ser iguais, suas projeções devem ser paralelas e as escalas de declive devem crescer no mesmo sentido. O intervalo da reta de declive do plano alfa <b>d&alpha;</b> é a distância horizontal entre os pontos <b>E'(3)</b> e <b>F'(4)</b>. Obs.: O intervalo de uma reta corresponde a distância horizontal de dois pontos da reta tais que a diferença de suas cotas seja igual a unidade.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/76_01_00.png" class="fundo" />
+	</details>
 	<img src="cotadas/Cotadas_2020_0076a.png" />
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <p>Conforme visto no exercício anterior, para encontrar a reta comum a dois planos quaisquer utilizamos planos horizontais auxiliares e encontramos as retas comuns aos dois planos quaisquer com os planos horizontais auxiliares.
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="slide432b" name="slide">
+			   <label for="slide432b"></label>
+			   <img src="cotadas/76_02_01.png" />
+			 <figcaption>Pelo ponto <b>A</b>, que tem cota <b>3</b>, podemos conduzir a horizontal do plano <b>&alpha;</b> de cota <b>3</b>: <b>h<sub>&alpha;3</sub></b>. Pelo ponto <b>B</b>, que tem cota <b>2</b>, podemos conduzir a horizontal do plano <b>&alpha;</b> de cota <b>2</b>: <b>h<sub>&alpha;2</sub></b>. Obs: As horizontais de um plano são perpendiculares às retas de declive deste plano.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide433b" name="slide">
+			   <label for="slide433b"></label>
+			   <img src="cotadas/76_02_02.png" />
+			 <figcaption>Pelo ponto <b>C</b>, que tem cota <b>2</b>, podemos conduzir a horizontal do plano <b>&beta;</b> de cota <b>2</b>: <b>h<sub>&beta;2</sub></b>. Pelo ponto <b>D</b>, que tem cota <b>3</b>, podemos conduzir a horizontal do plano beta de cota <b>3</b>: <b>h<sub>&beta;3</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide431b" name="slide">
+			   <label for="slide431b"></label>
+			   <img src="cotadas/76_02_03.png" />
+			 <figcaption>As retas <b>h<sub>&alpha;2</sub></b> e <b>h<sub>&beta;2</sub></b> têm um ponto em comum: <b>X'(2)</b>. As retas <b>h<sub>&alpha;3</sub></b> e <b>h<sub>&beta;3</sub></b> têm um ponto em comum: <b>Y'(3)</b>. Obs: Estes pontos pertencem aos dois planos dados.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide434b" name="slide">
+			   <label for="slide434b"></label>
+			   <img src="cotadas/76_02_04.png" />
+			 <figcaption>A reta comum aos planos alfa e beta fica então definida pelos pontos <b>X'(2)</b> e <b>Y'(3)</b>: <b>&alpha;&beta;(X,Y)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide435b" name="slide">
+			   <label for="slide435b"></label>
+			   <img src="cotadas/76_02_05.png" />
+			 <figcaption>Como os intervalos dos dois planos são iguais a projeção da reta comum aos planos vai coincidir com a bissetriz das horizontais.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/76_02_00.png" class="fundo" />
+	</details>
 	<img src="cotadas/Cotadas_2020_0076b.png" />
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0077.png" />
