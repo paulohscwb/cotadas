@@ -30,7 +30,15 @@
 }
 
 figcaption {
+  padding: 5px;
+  font-size: 14px;
+  color: rgb(21,153,87);
+  margin-bottom: 5px 0 5px 0;
+}
+
+li > figcaption {
   top: 0px;
+  color: black;
   background: rgb(227,243,235);
   padding: 5px;
   border-radius: 7px;
