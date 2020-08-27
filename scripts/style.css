@@ -1,17 +1,17 @@
 .visu::before {
     content: "";
-    display: block;
     background: url("../vr/3d.png") no-repeat;
     background-size: contain;
     width: 25px;
     height: 22px;
-    float: left;
-    margin: 0 8px 0 2px;
+    margin: 10px 8px 0 2px;
+	display: block;
+	float:left;
+	top: 50%;
 }
 
 .visu{
-	margin-bottom:5px;
-	padding: 5px 0 5px 0;
+	line-height: 40px;
 }
 
 .topo::after {
