@@ -3412,6 +3412,78 @@
 	</details>
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0068.png" />
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <p>Para representar um triângulo equilátero <b>ABC</b> contido no plano <b>&alpha;(A,B,P)</b> é necessário rebater este plano para que o triângulo apresente VG.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="slide447" name="slide">
+			   <label for="slide447"></label>
+			   <img src="cotadas/68_01_02.png" />
+			 <figcaption>Marcar os pontos <b>A</b>, <b>B</b> e <b>P</b> em épura. Encontrar a reta <b>r(B,P)</b> e definir o ponto <b>Q'(60)</b> desta reta. Obs: O ponto <b>Q</b> foi definido utilizando o Teorema de Tales.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide448" name="slide">
+			   <label for="slide448"></label>
+			   <img src="cotadas/68_01_03.png" />
+			 <figcaption>Definir a horizontal <b>h'<sub>60</sub></b> unindo <b>A'</b> com <b>Q'</b>. Conduzir por <b>P'</b> a horizontal <b>h'<sub>30</sub></b>. Esta horizontal será considerado o eixo de rebatimento. Obs: As horizontais de um plano são paralelas entre si.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide449" name="slide">
+			   <label for="slide449"></label>
+			   <img src="cotadas/68_01_04.png" />
+			 <figcaption>Conduzir por <b>A'</b> uma reta perpendicular ao eixo. Na interseção desta reta com o eixo temos o ponto <b>O'<sub>A</sub></b>. Conduzir por <b>B'</b> uma reta perpendicular ao eixo. Na interseção desta reta com o eixo temos o ponto <b>O'<sub>B</sub></b>. Obs: Pontos que não pertencem ao eixo de rebatimento se deslocam perpendicularmente a este.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide450" name="slide">
+			   <label for="slide450"></label>
+			   <img src="cotadas/68_01_05.png" />
+			 <figcaption>Construir o triângulo de rebatimento para o ponto <b>A</b>: <b>A'A'<sub>0</sub>O'<sub>A</sub></b> e com centro em <b>O'<sub>A</sub></b>, descrever um arco de circunferência de raio igual à hipotenusa do triângulo do rebatimento, ou seja com raio <b>O'<sub>A</sub>A<sub>0</sub></b>. Encontrar o ponto <b>A</b> rebatido <b>A'<sub>1</sub></b> na interseção deste arco com a reta perpendicular ao eixo. Obs: O cateto <b>A'A'<sub>0</sub></b> tem tamanho igual à diferença de cotas entre o ponto <b>A</b> e o eixo do rebatimento.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide451" name="slide">
+			   <label for="slide451"></label>
+			   <img src="cotadas/68_01_07.png" />
+			 <figcaption>Definir uma reta <b>a'(A',B')</b>. Esta reta terá um ponto comum <b>R'</b> com o eixo de rebatimento. Como <b>R'</b> pertence ao eixo, <b>R'≡R'<sub>1</sub></b>. Unir <b>R'<sub>1</sub></b> com <b>A'<sub>1</sub></b> definido assim <b>a'<sub>1</sub></b>. O ponto <b>B</b> rebatido <b>B'<sub>1</sub></b> pertence a reta a rebatida <b>a'<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide452" name="slide">
+			   <label for="slide452"></label>
+			   <img src="cotadas/68_01_08.png" />
+			 <figcaption>Construir o triângulo equilátero <b>A'<sub>1</sub>B'<sub>1</sub>C'<sub>1</sub></b> em VG. Obs: Podemos construir dois triângulos equiláteros distintos, logo o exercício admite duas soluções.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide453" name="slide">
+			   <label for="slide453"></label>
+			   <img src="cotadas/68_01_09.png" />
+			 <figcaption>O próximo passo é encontrar a projeção cotada do ponto <b>C</b>. Traçar por <b>C'<sub>1</sub></b> uma reta perpendicular ao eixo. Obs: Pontos que não pertencem ao eixo de rebatimento se deslocam perpendicularmente a este.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide454" name="slide">
+			   <label for="slide454"></label>
+			   <img src="cotadas/68_01_10.png" />
+			 <figcaption>Definir uma reta <b>b(B,C)</b>. Esta reta terá um ponto comum <b>S</b> com o eixo de rebatimento. Como <b>S</b> pertence ao eixo, <b>S'≡S'<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide455" name="slide">
+			   <label for="slide455"></label>
+			   <img src="cotadas/68_01_11.png" />
+			 <figcaption>Unir <b>S'</b> com <b>B'</b> e definir a projeção cotada da reta <b>b</b>: <b>b'(S',B')</b>. O ponto <b>C</b> pertence a reta <b>b</b>, logo <b>C'</b> estará sobre <b>b'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide456" name="slide">
+			   <label for="slide456"></label>
+			   <img src="cotadas/68_01_12.png" />
+			 <figcaption>Para definir a cota do ponto <b>C</b>, rebatemos o plano projetante da reta <b>b(B,C)</b> ou aplicamos o Teorema de Tales.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide457" name="slide">
+			   <label for="slide457"></label>
+			   <img src="cotadas/68_01_13.png" />
+			 <figcaption>Os pontos <b>A'</b>, <b>B'</b> e <b>C'</b> definem a projeção cotada do triângulo equilátero <b>ABC</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/68_01_00.png" class="fundo" />
+	</details>
 	<img src="cotadas/Cotadas_2020_0068a.png" />
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0069.png" />
