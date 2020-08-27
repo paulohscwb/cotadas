@@ -713,7 +713,7 @@
 	</details></div>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Cotadas_2020_0004.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para dividirmos um segmento graficamente em partes iguais utilizamos o Teorema de Tales que diz que “Um feixe (conjunto) de retas paralelas determina sobre um feixe de retas concorrentes segmentos proporcionais correspondentes”.</p>
   <ul class="slider">
       <li>
@@ -778,9 +778,9 @@
        </li>
     </ul>
     <img src="dg/04_01_00.png" class="fundo" />
-  </details>
+  </details></div>
   <img src="dg/Cotadas_2020_0004a.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para dividirmos o segmento <b>AB</b> graficamente em partes proporcionais a números dados vamos aplicar o Teorema de Tales. Temos que construir um feixe de retas concorrentes cortadas por um feixe de paralelas, lembra?</p>
   <ul class="slider">
       <li>
@@ -833,9 +833,9 @@
        </li>
     </ul>
     <img src="dg/04_02_00.png" class="fundo" />
-  </details>
+  </details></div>
   <img src="dg/Cotadas_2020_0004b.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para construir a circunferência pertencente aos pontos dados <b>A</b>, <b>B</b> e <b>C</b>, devemos encontrar o centro <b>O</b> da mesma para depois desenhá-la com o compasso. Antes de iniciarmos a construção devemos pensar na estratégia de solução! Acompanhe o desenvolvimento do raciocínio e depois a resolução gráfica!</p>
   <ul class="slider">
       <li>
@@ -900,10 +900,10 @@
        </li>
     </ul>
     <img src="dg/04_03_00.png" class="fundo" />
-  </details>
+  </details></div>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Cotadas_2020_0005.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Num triângulo <b>ABC</b>, o lado oposto ao vértice <b>A</b> é denotado por <b>a=BC</b>, o lado oposto ao <b>B</b> é denotado por <b>b=AC</b> e o lado oposto ao <b>C</b> é denotado por <b>c=AB</b>. Para construir um triângulo <b>ABC</b> dados os lados é necessário determinar a posição dos seus vértices <b>A</b>, <b>B</b> e <b>C</b>. Vamos à construção!</p>
   <ul class="slider">
       <li>
@@ -968,9 +968,9 @@
        </li>
     </ul>
     <img src="dg/05_01_00.png" class="fundo" />
-  </details>
+  </details></div>
   <img src="dg/Cotadas_2020_0005a.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para obter o baricentro <b>G</b> do triângulo precisamos construir as medianas do mesmo. Uma mediana é um segmento que une um vértice do triângulo ao ponto médio do lado oposto. Veja como resolver o exercício.</p>
   <ul class="slider">
       <li>
@@ -999,9 +999,9 @@
        </li>
     </ul>
     <img src="dg/05_02_00.png" class="fundo" />
-  </details>
+  </details></div>
   <img src="dg/Cotadas_2020_0005b.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para obter o Incentro <b>I</b> do triângulo precisamos construir as bissetrizes internas do mesmo. Veja como resolver o exercício.</p>
   <ul class="slider">
       <li>
@@ -1036,10 +1036,10 @@
        </li>
     </ul>
     <img src="dg/05_03_00.png" class="fundo" />
-  </details>
+  </details></div>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Cotadas_2020_0006.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para obtermos o Ortocentro <b>H</b> do triângulo precisamos construir suas alturas.</p>
   <ul class="slider">
       <li>
@@ -1062,9 +1062,9 @@
        </li>
     </ul>
     <img src="dg/06_01_00.png" class="fundo" />
-  </details>
+  </details></div>
   <img src="dg/Cotadas_2020_0006a.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Quando dividimos uma circunferência em partes iguais estamos dividindo o ângulo central de <b>360°</b> em partes iguais e também estamos construindo polígonos regulares inscritos nessa circunferência. É importante observar que se a circunferência for dividida em <b>n</b> partes iguais, também será facilmente dividida em <b>2n</b> partes, bastando traçar bissetrizes dos ângulos centrais.</p> 
   <p>Vamos dividir a circunferência em <b>3</b> partes iguais, ou seja, construir o polígono regular de <b>3</b> lados inscrito na circunferência dada. Esse será o <b>triângulo equilátero</b>!</p>
   <ul class="slider">
@@ -1112,9 +1112,9 @@
        </li>
     </ul>
     <img src="dg/06_02_00.png" class="fundo" />
-  </details>
+  </details></div>
   <img src="dg/Cotadas_2020_0006b.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos dividir a circunferência em <b>4</b> partes iguais, ou seja, construir o polígono regular de <b>4</b> lados inscrito na circunferência dada. Esse será o quadrado!</p>
   <ul class="slider">
       <li>
@@ -1137,10 +1137,10 @@
        </li>
     </ul>
     <img src="dg/06_03_00.png" class="fundo" />
-  </details>
+  </details></div>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Cotadas_2020_0007.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos dividir a circunferência em <b>6</b> partes iguais. Lembra que no item a desse exercício já fizemos isso?</p>
   <ul class="slider">
       <li>
@@ -1151,9 +1151,9 @@
        </li>
     </ul>
     <img src="dg/07_01_00.png" class="fundo" />
-  </details>
+  </details></div>
   <img src="dg/Cotadas_2020_0007a.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos dividir a circunferência em <b>8</b> partes iguais. Para isso, vamos começar dividindo a circunferência em <b>4</b> partes iguais. Lembra? Já fizemos isso no item b desse exercício! </p>
   <ul class="slider">
       <li>
@@ -1182,9 +1182,9 @@
        </li>
     </ul>
     <img src="dg/07_02_00.png" class="fundo" />
-  </details>
+  </details></div>
   <img src="dg/Cotadas_2020_0007b.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos dividir a circunferência em <b>10</b> partes iguais. Acompanhe o procedimento.</p>
   <ul class="slider">
       <li>
@@ -1243,10 +1243,10 @@
        </li>
     </ul>
     <img src="dg/07_03_00.png" class="fundo" />
-  </details>
+  </details></div>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Cotadas_2020_0008.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para dividir a circunferência em <b>5</b> partes iguais podemos dividi-la primeiro em <b>10</b> partes iguais e ao invés de unir os vértices um a um, basta unir de dois em dois, ou utilizar uma propriedade geométrica. Veja a seguir qual seria.</p>
   <ul class="slider">
       <li>
@@ -1281,9 +1281,9 @@
        </li>
     </ul>
     <img src="dg/08_01_00.png" class="fundo" />
-  </details>
+  </details></div>
   <img src="dg/Cotadas_2020_0008a.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos construir o triângulo equilátero de lado <b>l</b> dado! Mas antes reveja o exercício 6 da página 3 em que construímos o ângulo de <b>60°</b>, lá utilizamos dois processos: um com régua e compasso e outro com os esquadros para obtermos o ângulo de <b>60°</b>. Reveja também o exercício 10 da página 5, em que construímos um triângulo dados os tamanhos dos lados. O que já aprendemos iremos utilizar agora. </p>
   <ul class="slider">
       <li>
@@ -1324,9 +1324,9 @@
        </li>
     </ul>
     <img src="dg/08_02_00.png" class="fundo" />
-  </details>
+  </details></div>
   <img src="dg/Cotadas_2020_0008b.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos construir o quadrado de lado <b>l</b> dado! O quadrado é um polígono que possui os quatro lados congruentes (iguais) e os quatro ângulos internos também congruentes e cada um medindo <b>90°</b>.</p>
   <ul class="slider">
       <li>
@@ -1379,10 +1379,10 @@
        </li>
     </ul>
     <img src="dg/08_03_00.png" class="fundo" />
-  </details>
+  </details></div>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Cotadas_2020_0009.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos construir o pentágono regular de lado <b>l</b> dado! O pentágono regular é um polígono que possui os cinco lados congruentes e os cinco ângulos internos também congruentes. Existem processos de construção exatos e aproximados. Vamos aprender um aproximado que é rápido de ser construído e nos dá um resultado muito bom!</p>
   <ul class="slider">
       <li>
@@ -1447,9 +1447,9 @@
        </li>
     </ul>
     <img src="dg/09_01_00.png" class="fundo" />
-  </details>
+  </details></div>
   <img src="dg/Cotadas_2020_0009a.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos construir o hexágono regular de lado <b>l</b> dado! Lembra da construção do hexágono regular inscrito numa circunferência? Retorne à página 7 e reveja a construção! Nesse exercício usamos o raio da circunferência para marcar o lado do polígono! Vamos utilizar esse conceito agora!</p>
   <ul class="slider">
       <li>
@@ -1490,9 +1490,9 @@
        </li>
     </ul>
     <img src="dg/09_02_00.png" class="fundo" />
-  </details>
+  </details></div>
   <img src="dg/Cotadas_2020_0009b.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para determinar a reta tangente à circunferência dada basta encontrar o ponto <b>T</b> de tangência! Antes de iniciarmos a construção vamos aprender duas propriedades importantes!</p>
   <ul class="slider">
       <li>
@@ -1533,10 +1533,10 @@
        </li>
     </ul>
     <img src="dg/09_03_00.png" class="fundo" />
-  </details>
+  </details></div>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Cotadas_2020_0010.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos lembrar que para que uma reta seja tangente à uma circunferência quando o ângulo formado entre o raio e a reta no ponto de tangência mede <b>90°</b>! Vamos à construção.</p>
   <ul class="slider">
       <li>
@@ -1559,9 +1559,9 @@
        </li>
     </ul>
     <img src="dg/10_01_00.png" class="fundo" />
-  </details>
+  </details></div>
   <img src="dg/Cotadas_2020_0010a.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Lembre-se que para que uma reta seja tangente à uma circunferência devemos ter que o ângulo formado entre o raio e a reta no ponto de tangência mede <b>90°</b>! Vamos à construção.</p>
   <ul class="slider">
       <li>
@@ -1578,7 +1578,7 @@
        </li>
     </ul>
     <img src="dg/10_02_00.png" class="fundo" />
-  </details>
+  </details></div>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
 </details>
 
@@ -1592,20 +1592,20 @@
 	<img src="prop/Cotadas_2020_0013.png" />
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 	<img src="prop/Cotadas_2020_0014.png" />
-    <figcaption>Para projetar um ponto <b>A</b> qualquer do espaço usando a projeção cônica, basta definir a reta projetante <b>a</b>, que passa pelo centro de projeção <b>O</b> e pelo ponto <b>A</b>. A interseção desta reta com o plano <b>&pi;'</b> é a projeção <b>A'</b> do ponto <b>A</b>.</figcaption>
-    <a href="vr/proj_conica.html" target="_blank" class="visu">Visualização em 3D</a>
+    <div class="combo"><figcaption>Para projetar um ponto <b>A</b> qualquer do espaço usando a projeção cônica, basta definir a reta projetante <b>a</b>, que passa pelo centro de projeção <b>O</b> e pelo ponto <b>A</b>. A interseção desta reta com o plano <b>&pi;'</b> é a projeção <b>A'</b> do ponto <b>A</b>.</figcaption>
+    <a href="vr/proj_conica.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="prop/Cotadas_2020_0014a.png" />
-    <figcaption>Para projetar um ponto <b>A</b> qualquer do espaço usando a projeção cilíndrica, basta definir a reta projetante <b>a</b>, paralela à direção <b>d</b> e que passa pelo ponto <b>A</b>. A interseção desta reta com o plano <b>&pi;'</b> é a projeção <b>A'</b> do ponto <b>A</b>. Se a reta <b>d</b> formar ângulo <b>0 < &theta; < 90<sup>o</sup></b>, a projeção é chamada <b>oblíqua</b>.</figcaption>
+    <div class="combo"><figcaption>Para projetar um ponto <b>A</b> qualquer do espaço usando a projeção cilíndrica, basta definir a reta projetante <b>a</b>, paralela à direção <b>d</b> e que passa pelo ponto <b>A</b>. A interseção desta reta com o plano <b>&pi;'</b> é a projeção <b>A'</b> do ponto <b>A</b>. Se a reta <b>d</b> formar ângulo <b>0 < &theta; < 90<sup>o</sup></b>, a projeção é chamada <b>oblíqua</b>.</figcaption>
     <a href="vr/proj_cilindrica.html" target="_blank" class="visu">Projeção cilíndrica <b>oblíqua</b> em 3D</a>
     <figcaption>Quando <b>&theta; = 90<sup>o</sup></b>, temos a projeção <b>ortogonal</b>.</figcaption>
-	<a href="vr/proj_cilindrica_orto.html" target="_blank" class="visu">Projeção cilíndrica <b>ortogonal</b> em 3D</a>
+	<a href="vr/proj_cilindrica_orto.html" target="_blank" class="visu">Projeção cilíndrica <b>ortogonal</b> em 3D</a></div>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 	<img src="prop/Cotadas_2020_0015.png" />
-    <figcaption>Quando a reta <b>r</b> não é paralela à direção <b>d</b>, a sua projeção <b>r'</b> é uma reta.</figcaption>
+    <div class="combo"><figcaption>Quando a reta <b>r</b> não é paralela à direção <b>d</b>, a sua projeção <b>r'</b> é uma reta.</figcaption>
     <a href="vr/p1.html" target="_blank" class="visu">Visualização em 3D: projeção <b>oblíqua</b></a>
-	<br><a href="vr/p1_orto.html" target="_blank" class="visu">Visualização em 3D: projeção <b>ortogonal</b></a>
+	<br><a href="vr/p1_orto.html" target="_blank" class="visu">Visualização em 3D: projeção <b>ortogonal</b></a></div>
 	<img src="prop/Cotadas_2020_0015a.png" />
-    <figcaption>No caso em que as retas <b>r</b> e <b>d</b> são paralelas, a projeção <b>r'</b> é um ponto.</figcaption>
+    <div class="combo"><figcaption>No caso em que as retas <b>r</b> e <b>d</b> são paralelas, a projeção <b>r'</b> é um ponto.</figcaption>
 	<a href="vr/p1a.html" target="_blank" class="visu">Visualização em 3D: projeção <b>oblíqua</b></a>
 	<br><a href="vr/p1a_orto.html" target="_blank" class="visu">Visualização em 3D: projeção <b>ortogonal</b></a>
 	  <details class="sub"><summary>&#x1f453; Realidade Aumentada e Realidade Virtual</summary>
@@ -1618,41 +1618,41 @@
 		<div class="embed-container">
 		  <iframe src="https://drive.google.com/file/d/1Tg2c6pOoDNESEAvl9kvXgRGv81D-U0Kw/preview" width="100%"></iframe>
 		</div>
-	  </details>
+	  </details></div>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 	<img src="prop/Cotadas_2020_0016.png" />  
-    <figcaption>Considerando <b>r</b> e <b>s</b> estão em planos projetantes distintos, as projeções <b>r'</b> e <b>s'</b> são paralelas.</figcaption>
+    <div class="combo"><figcaption>Considerando <b>r</b> e <b>s</b> estão em planos projetantes distintos, as projeções <b>r'</b> e <b>s'</b> são paralelas.</figcaption>
     <a href="vr/p2.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
-	<br><a href="vr/p2_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
+	<br><a href="vr/p2_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>
     <img src="prop/Cotadas_2020_0016a.png" />  
-	<figcaption>Se <b>r</b> e <b>s</b> estão em um mesmo plano projetante, as projeções <b>r'</b> e <b>s'</b> são coincidentes.</figcaption>
+	<div class="combo"><figcaption>Se <b>r</b> e <b>s</b> estão em um mesmo plano projetante, as projeções <b>r'</b> e <b>s'</b> são coincidentes.</figcaption>
     <a href="vr/p2a.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
-	<br><a href="vr/p2a_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
+	<br><a href="vr/p2a_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>
     <img src="prop/Cotadas_2020_0016b.png" />  
-    <figcaption>Quando as retas <b>r</b> e <b>s</b> são paralelas à direção <b>d</b>, suas projeções <b>r'</b> e <b>s'</b> são pontos.</figcaption>
+    <div class="combo"><figcaption>Quando as retas <b>r</b> e <b>s</b> são paralelas à direção <b>d</b>, suas projeções <b>r'</b> e <b>s'</b> são pontos.</figcaption>
     <a href="vr/p2c.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
-	<br><a href="vr/p2c_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
+	<br><a href="vr/p2c_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
-    <img src="prop/Cotadas_2020_0017.png" /> 
+    <div class="combo"><img src="prop/Cotadas_2020_0017.png" /> 
     <figcaption>A proporção entre as medidas dos segmentos paralelos <b>AB</b> e <b>CD</b> é a mesma de suas projeções, ou seja: <b>AB/CD = A'B'/C'D'</b>.</figcaption>
     <a href="vr/p3a.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
-	<br><a href="vr/p3a_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
+	<br><a href="vr/p3a_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>
     <img src="prop/Cotadas_2020_0017a.png" /> 
-    <figcaption>Se os segmentos <b>AB</b> e <b>CD</b> são colineares, a mesma proporção entre as medidas é válida: <b>AB/CD = A'B'/C'D'</b>.</figcaption>
+    <div class="combo"><figcaption>Se os segmentos <b>AB</b> e <b>CD</b> são colineares, a mesma proporção entre as medidas é válida: <b>AB/CD = A'B'/C'D'</b>.</figcaption>
     <a href="vr/p3b.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
-	<br><a href="vr/p3b_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
+	<br><a href="vr/p3b_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 	<img src="prop/Cotadas_2020_0018.png" /> 
-    <figcaption>Uma figura pertencente a um plano paralelo ao plano de projeções <b>&pi;'</b> fica projetada com o mesmo tamanho, sem redução ou ampliação de tamanho.</figcaption>
+    <div class="combo"><figcaption>Uma figura pertencente a um plano paralelo ao plano de projeções <b>&pi;'</b> fica projetada com o mesmo tamanho, sem redução ou ampliação de tamanho.</figcaption>
     <a href="vr/p4.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
-	<br><a href="vr/p4_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
+	<br><a href="vr/p4_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>
 	<img src="prop/Cotadas_2020_0018a.png" /> 
-    <figcaption>Uma figura que pertence a um plano <b>&alpha;</b> paralelo à direção <b>d</b> de projeções tem projeção reduzida a um segmento.</figcaption>
+    <div class="combo"><figcaption>Uma figura que pertence a um plano <b>&alpha;</b> paralelo à direção <b>d</b> de projeções tem projeção reduzida a um segmento.</figcaption>
     <a href="vr/p5.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
-	<br><a href="vr/p5_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
+	<br><a href="vr/p5_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/Cotadas_2020_0019.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício. De acordo com a propriedade 3, podemos encontrar a projeção do ponto médio de <b>AB</b> construindo a mediatriz da projeção deste segmento. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <ul class="slider">
        <li>
@@ -1687,9 +1687,9 @@
        </li>
     </ul>
     <img src="prop/19_01_00.png" class="fundo" />
-  </details>
+  </details></div>
   <img src="prop/Cotadas_2020_0019a.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: itens a e b</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: itens a e b</summary>
   <p> Vamos utilizar a régua, o compasso e os esquadros para resolver este exercício. De acordo com a propriedade 2, podemos encontrar a projeção dos lados de um paralelogramo utilizando a construção de retas paralelas.</p>
   <ul class="slider">
       <li>
@@ -1762,10 +1762,10 @@
 	<h4>Solução do item d</h4>
 	<img src="prop/19_02_00d.png">
 	<figcaption>Usando as mesmas propriedades usadas nos itens anteriores, podemos concluir que os vértices <b>A</b> e <b>D</b> coincidem.</figcaption>
-  </details>
+  </details></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/Cotadas_2020_0020.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: item a</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: item a</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
@@ -1841,9 +1841,9 @@
 	<img src="prop/20_03_00c.png">
 	<figcaption>Usando as propriedades dos itens a e b, você consegue fazer a construção deste paralelogramo.</figcaption>
   </details>
-  <a href="vr/20_03b.html" target="_blank" class="visu">Visualização em 3D: item b</a>
+  <a href="vr/20_03b.html" target="_blank" class="visu">Visualização em 3D: item b</a></div>
   <img src="prop/Cotadas_2020_0020a.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: item a</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: item a</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
@@ -1932,10 +1932,10 @@
   	<img src="prop/20_04_00c.png"/>
 	<figcaption>Utilizando as mesmas propriedades dos itens anteriores, você consegue construir este triângulo. Use o link abaixo para te ajudar na visualização em 3D.</figcaption>
     <a href="vr/p_ex4c_triangulo.html" target="_blank" class="visu">Visualização em 3D do item c</a>
-  </details>
+  </details></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/Cotadas_2020_0021.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: itens a e b</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: itens a e b</summary>
   <p> Vamos utilizar a régua, o compasso e os esquadros para resolver este exercício.</p>
   <ul class="slider">
       <li>
@@ -2048,23 +2048,23 @@
     </ul>
 	<img src="prop/21_05_00c.png" class="fundo" />
   </details>
-  <a href="vr/p_ex5c_hexagono.html" target="_blank" class="visu">Visualização em 3D</a>
+  <a href="vr/p_ex5c_hexagono.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <img src="prop/Cotadas_2020_0021a.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p> Você pode usar as mesmas propriedades que usamos no exercício 5.</p>
     <img src="prop/21_06_00.png"/>
 	<figcaption>Encontre a projeção do centro da circunferência em cada item. Lembre-se das propriedades do hexágono regular.</figcaption>
-  </details>
+  </details></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/Cotadas_2020_0022.png" />
-  <figcaption>Os segmentos oblíquos ao plano de projeções <b>&pi;'</b> são projetados com tamanho reduzido, ou seja, <b>AB > A'B'</b></figcaption>
-  <a href="vr/p6.html" target="_blank" class="visu">Visualização da propriedade em 3D</a>
+  <div class="combo"><figcaption>Os segmentos oblíquos ao plano de projeções <b>&pi;'</b> são projetados com tamanho reduzido, ou seja, <b>AB > A'B'</b></figcaption>
+  <a href="vr/p6.html" target="_blank" class="visu">Visualização da propriedade em 3D</a></div>
   <img src="prop/Cotadas_2020_0022a.png" />
-  <figcaption>Quando a reta <b>r // &pi;'</b> e as retas <b>r</b> e <b>s</b> são perpendiculares ou ortogonais, as retas <b>r'</b> e <b>s'</b> são perpendiculares.</figcaption>
-  <a href="vr/p7.html" target="_blank" class="visu">Visualização da propriedade em 3D</a>
+  <div class="combo"><figcaption>Quando a reta <b>r // &pi;'</b> e as retas <b>r</b> e <b>s</b> são perpendiculares ou ortogonais, as retas <b>r'</b> e <b>s'</b> são perpendiculares.</figcaption>
+  <a href="vr/p7.html" target="_blank" class="visu">Visualização da propriedade em 3D</a></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/Cotadas_2020_0023.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
@@ -2100,9 +2100,9 @@
     </ul>
 	<img src="prop/23_01_00.png" class="fundo" />
   </details>
-  <a href="vr/p_ex1_losango.html" target="_blank" class="visu">Visualização em 3D</a>
+  <a href="vr/p_ex1_losango.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <img src="prop/Cotadas_2020_0023a.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
@@ -2150,10 +2150,10 @@
     </ul>
 	<img src="prop/23_02_00.png" class="fundo" />
   </details>
-  <a href="vr/p_ex2_retangulo.html" target="_blank" class="visu">Visualização em 3D</a>
+  <a href="vr/p_ex2_retangulo.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/Cotadas_2020_0024.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar o compasso e os esquadros para resolver este exercício.</p>
   <ul class="slider">
       <li>
@@ -2218,20 +2218,20 @@
        </li>
     </ul>
 	<img src="prop/24_01_00.png" class="fundo" />
-  </details>
+  </details></div>
   <img src="prop/Cotadas_2020_0024a.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p> Você pode utilizar o compasso e os esquadros para resolver este exercício. Lembre-se das propriedades de projeções cilíndricas 2 e 3.</p>
 	<img src="prop/24_02_00.png">
 	<figcaption>Tente encontrar o centro da circunferência da base dos vertices <b>A'</b> e <b>B'</b>. Use as propriedades do hexágono regular.</figcaption>
-  </details>
+  </details></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/Cotadas_2020_0025.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p> Você pode utilizar o compasso e os esquadros para resolver este exercício. Lembre-se de aplicar as propriedades de projeções cilíndricas e cilíndricas ortogonais.</p>
 	<img src="prop/25_01_00.png">
 	<figcaption>Usando as propriedades de projeções cilíndricas ortogonais, verifique quais dos segmentos são projetados em verdadeira grandeza (vg) em <b>&pi;'</b>: <b>AB</b>, <b>AE</b>, <b>HJ</b> e <b>JG</b>.</figcaption>
-  </details>
+  </details></div>
 <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 </details>
 
