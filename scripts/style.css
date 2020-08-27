@@ -22,11 +22,12 @@
     width: 18px;
     height: 18px;
 	float: right;
-    margin: 0 2px -4px 6px;
+    margin: 10px 2px 0 6px;
 }
 
 .topop {
 	text-align:right;
+	line-height: 38px;
 }
 
 figcaption {
