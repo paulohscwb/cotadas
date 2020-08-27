@@ -1836,12 +1836,12 @@
        </li>
     </ul>
     <img src="prop/20_03_00b.png" class="fundo" />
-    <a href="vr/20_03b.html" target="_blank" class="visu">Visualização em 3D para o item b</a>
 	<hr>
 	<h4>Solução do item c</h4>
 	<img src="prop/20_03_00c.png">
 	<figcaption>Usando as propriedades dos itens a e b, você consegue fazer a construção deste paralelogramo.</figcaption>
   </details>
+  <a href="vr/20_03b.html" target="_blank" class="visu">Visualização em 3D: item b</a>
   <img src="prop/Cotadas_2020_0020a.png" />
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: item a</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
@@ -2047,8 +2047,8 @@
        </li>
     </ul>
 	<img src="prop/21_05_00c.png" class="fundo" />
-    <a href="vr/p_ex5c_hexagono.html" target="_blank" class="visu">Visualização em 3D</a>
   </details>
+  <a href="vr/p_ex5c_hexagono.html" target="_blank" class="visu">Visualização em 3D</a>
   <img src="prop/Cotadas_2020_0021a.png" />
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p> Você pode usar as mesmas propriedades que usamos no exercício 5.</p>
@@ -2099,8 +2099,8 @@
        </li>
     </ul>
 	<img src="prop/23_01_00.png" class="fundo" />
-    <a href="vr/p_ex1_losango.html" target="_blank" class="visu">Visualização em 3D</a>
   </details>
+  <a href="vr/p_ex1_losango.html" target="_blank" class="visu">Visualização em 3D</a>
   <img src="prop/Cotadas_2020_0023a.png" />
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
@@ -2149,8 +2149,8 @@
        </li>
     </ul>
 	<img src="prop/23_02_00.png" class="fundo" />
-    <a href="vr/p_ex2_retangulo.html" target="_blank" class="visu">Visualização em 3D</a>
   </details>
+  <a href="vr/p_ex2_retangulo.html" target="_blank" class="visu">Visualização em 3D</a>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/Cotadas_2020_0024.png" />
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -2270,8 +2270,8 @@
 		   </li>
 		</ul>
 		<img src="cotadas/27_01_00.png" class="fundo" />
-		<a href="vr/exerc_epura.html" target="_blank" class="visu">Visualização em 3D</a>
 	  </details>
+	  <a href="vr/exerc_epura.html" target="_blank" class="visu">Visualização em 3D</a>
 	  <p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
     <img src="cotadas/Cotadas_2020_0028.png" />
    	<figcaption>Usamos o rebatimento encontrar a verdadeira grandeza (vg) de um segmento AB. Neste caso, o segmento é rebatido usando a projeção <b>A'B'</b> como eixo para rebater o segmento em <b>&pi;'</b>. Neste caso, marcamos as cotas dos pontos a partir de suas projeções.</figcaption>
@@ -2723,8 +2723,8 @@
 		   </li>
 		</ul>
 		<img src="cotadas/47_01_00.png" class="fundo" />
-		<a href="vr/47_incidencia5.html" target="_blank" class="visu">Visualização em 3D</a>
 	</details>
+	<a href="vr/47_incidencia5.html" target="_blank" class="visu">Visualização em 3D</a>
 	<img src="cotadas/Cotadas_2020_0047a.png" />
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1<sup>o</sup> exemplo</summary>
 	  <p> Vamos verificar se as retas são paralelas ou concorrentes considerando as retas <b>r</b> e <b>s</b> quaisquer. Devemos verificar o ponto de interseção tem a mesma cota nas duas retas, para isso utilizamos o método do rebatimento.</p>
@@ -2786,14 +2786,14 @@
 		   </li>
 		</ul>
 		<img src="cotadas/47_02_00.png" class="fundo" />
-		<a href="vr/47_incidencia6a.html" target="_blank" class="visu">Visualização em 3D</a>
 	</details>
+	<a href="vr/47_incidencia6a.html" target="_blank" class="visu">Visualização em 3D</a>
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução: 2<sup>o</sup> exemplo</summary>
 		<p>Agora você pode praticar, resolva o exercício, seguindo o mesmo modelo do exercício anterior. Verificar se as retas são paralelas ou concorrentes.</p> 
 		<img src="cotadas/47_03_01.png" />
 		<figcaption>Neste caso as retas são reversas, pois o ponto <b>P</b> possui cotas diferentes nas retas <b>r</b> e <b>s</b>. Use o link abaixo para visualizar este exemplo em 3D.</figcaption>
-		<a href="vr/47_incidencia6b.html" target="_blank" class="visu">Visualização em 3D</a>
 	</details>
+	<a href="vr/47_incidencia6b.html" target="_blank" class="visu">Visualização em 3D</a>
 	<img src="cotadas/Cotadas_2020_0047b.png" />
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 		<p>Como as retas são concorrentes, basta verificar se o ângulo entre elas é 90<sup>o</sup>. Se for, elas são perpendiculares. Faremos isso através do método do rebatimento.</p>
@@ -2836,8 +2836,8 @@
 		   </li>
 		</ul>
 		<img src="cotadas/47_04_00.png" class="fundo" />
-		<a href="vr/47_incidencia6c.html" target="_blank" class="visu">Visualização em 3D</a>
 	</details>
+	<a href="vr/47_incidencia6c.html" target="_blank" class="visu">Visualização em 3D</a>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0048.png" />
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
@@ -3001,6 +3001,30 @@
 	<img src="cotadas/Cotadas_2020_0052a.png" />
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0053.png" />
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+		<p>A pirâmide possui base quadrada e como está no plano horizontal, todos os pontos possuem a mesma cota e o quadrado está representado em Verdadeira Grandeza (VG). Como a pirâmide é regular, sua altura é perpendicular à base e passa pelo centro da base.</p>
+		<ul class="slider">
+		  <li>
+			   <input type="radio" id="slide335" name="slide">
+			   <label for="slide335"></label>
+			   <img src="cotadas/53_01_01.png" />
+			<figcaption>Desenhar o quadrado em VG, obtendo os pontos <b>C'</b>e <b>D'</b>. Observe que é possível representar dois quadrados, uma para cima do segmento <b>A'B'</b> e outro para baixo. Vamos escolher a posição para baixo, pois tem mais espaço para desenhar. As cotas dos pontos <b>C</b> e <b>D</b> são iguais à cota do plano, ou seja, <b>(3)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide336" name="slide">
+			   <label for="slide336"></label>
+			   <img src="cotadas/53_01_02.png" />
+			 <figcaption>Encontrar o centro da base, como a base é um quadrado, seu centro é o ponto de encontro das diagonais, assim traçamos as diagonais do quadrado e encontramos a projeção do centro que chamamos de <b>O'</b>, sua cota é igual à cota do plano, pois pertence ao plano horizontal.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide337" name="slide">
+			   <label for="slide337"></label>
+			   <img src="cotadas/53_01_03.png" />
+			 <figcaption>A reta perpendicular ao plano horizontal é uma reta vertical, assim sua projeção é um ponto, que coincide com <b>O'</b>. A altura da pirâmide pode ser marcada acima ou abaixo do plano horizontal de cota <b>3</b>, vamos considerar a solução acima do plano, marcando o vértice <b>V</b>, que está localizado à <b>4,3cm</b> do plano, porém sua projeção coincide com a projeção do ponto <b>O'</b> e sua cota é <b>7,3</b>, pois é a cota do plano <b>(3)</b> somada à altura da pirâmide <b>4,3</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/53_01_00.png" class="fundo" />
+	</details>
 	<figcaption>Use o link abaixo para a visualização em 3D do sólido projetado.</figcaption>
 	<a href="vr/piramide0.html" target="_blank" class="visu">Visualização em 3D</a>
 	<img src="cotadas/Cotadas_2020_0053a.png" />
