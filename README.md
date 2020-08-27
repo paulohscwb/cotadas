@@ -3301,7 +3301,115 @@
 	<a href="vr/rebatimento.html" target="_blank" class="visu">Visualização em 3D</a>
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0067.png" />
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <p>O triângulo <b>ABC</b> está contido em um plano qualquer <b>&alpha;</b> e sua projeção não está em verdadeira grandeza (VG). Para encontrar a VG de uma figura contida num plano qualquer devemos efetuar o rebatimento do mesmo sobre o plano horizontal <b>&pi;</b> , ou sobre um outro plano paralelo à <b>&pi;</b>, ou seja vamos transformar o plano qualquer em um horizontal.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="slide432" name="slide">
+			   <label for="slide432"></label>
+			   <img src="cotadas/67_01_01.png" />
+			 <figcaption>Marcar os pontos <b>A</b>, <b>B</b> e <b>C</b> em épura.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide433" name="slide">
+			   <label for="slide433"></label>
+			   <img src="cotadas/67_01_02.png" />
+			 <figcaption>Unindo <b>A'</b> com <b>B'</b> temos <b>&alpha;&pi;'</b> que poder ser considerado o eixo do rebatimento. Obs: Para rebater um plano qualquer precisamos definir um eixo de rebatimento, que deve ser uma reta horizontal do próprio plano. Neste caso, os pontos <b>A</b> e <b>B</b> têm cota 0, logo definem a horizontal de cota zero do plano <b>&pi;</b>, ou seja, definem o traço do plano <b>&alpha;&pi;</b></figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide431" name="slide">
+			   <label for="slide431"></label>
+			   <img src="cotadas/67_01_03.png" />
+			 <figcaption>Encontrar <b>A'<sub>1</sub></b> e <b>B'<sub>1</sub></b>. Obs: Pontos do eixo permanecem no mesmo lugar quando rebatemos um plano. Os pontos <b>A</b> e <b>B</b> pertencem ao eixo, logo <b>A'≡A'<sub>1</sub></b> e <b>B'≡B'<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide434" name="slide">
+			   <label for="slide434"></label>
+			   <img src="cotadas/67_01_04.png" />
+			 <figcaption>Conduzir por <b>C'</b> uma reta perpendicular ao eixo. Na interseção desta reta com o eixo temos o ponto <b>O'<sub>C</sub></b>. Obs: Pontos que não pertencem ao eixo de rebatimento se deslocam perpendicularmente a este.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide435" name="slide">
+			   <label for="slide435"></label>
+			   <img src="cotadas/67_01_05.png" />
+			 <figcaption>Construir o triângulo de rebatimento para o ponto <b>C</b>: <b>C'C'<sub>0</sub>O'<sub>C</sub></b>. Obs: O cateto <b>C'C'<sub>0</sub></b> tem tamanho igual à cota do ponto <b>C</b> pois, neste caso, temos como eixo do rebatimento o traço do plano <b>&alpha;&pi;</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide436" name="slide">
+			   <label for="slide436"></label>
+			   <img src="cotadas/67_01_06.png" />
+			 <figcaption>Com centro em <b>O'<sub>C</sub></b>, descrever um arco de circunferência de raio igual à hipotenusa do triângulo do rebatimento, ou seja com raio <b>O'<sub>C</sub>C<sub>0</sub></b>. Encontrar o ponto <b>C</b> rebatido <b>C'<sub>1</sub></b> na interseção deste arco com a reta perpendicular ao eixo.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide437" name="slide">
+			   <label for="slide437"></label>
+			   <img src="cotadas/67_01_07.png" />
+			 <figcaption>Unir <b>A'<sub>1</sub></b>, <b>B'<sub>1</sub></b> e <b>C'<sub>1</sub></b> que é a VG do triângulo <b>ABC</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/67_01_00.png" class="fundo" />
+	</details>
 	<img src="cotadas/Cotadas_2020_0067a.png" />
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <p>O triângulo <b>ABC</b> está contido em um plano qualquer e sua projeção não está em verdadeira grandeza (VG). Para encontrar a VG de uma figura contida num plano qualquer devemos efetuar o rebatimento do mesmo sobre o plano horizontal <b>&pi;'</b>, ou sobre um outro plano paralelo à <b>&pi;'</b>, ou seja vamos transformar o plano qualquer em um horizontal.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="slide438" name="slide">
+			   <label for="slide438"></label>
+			   <img src="cotadas/67_02_01.png" />
+			 <figcaption>Marcar os pontos <b>A</b>, <b>B</b> e <b>C</b> em épura.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide439" name="slide">
+			   <label for="slide439"></label>
+			   <img src="cotadas/67_02_02.png" />
+			 <figcaption>Para rebater um plano qualquer sobre um plano horizontal precisamos definir um eixo de rebatimento, que pode ser qualquer reta horizontal do plano. Utilizando o Teorema de Tales definimos um ponto <b>D'(30)<b> sobre a reta definida pelos pontos <b>A'(70)</b> e <b>C'(10)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide440" name="slide">
+			   <label for="slide440"></label>
+			   <img src="cotadas/67_02_03.png" />
+			 <figcaption>Definimos a reta horizontal <b>h'<sub>30</sub></b> do plano definido pelos pontos <b>A</b>, <b>B</b> e <b>C</b>. Pelo ponto <b>C'(10)</b> podemos conduzir a reta horizontal <b>h'<sub>10</sub></b> do plano, que vamos considerar como eixo do rebatimento. Obs: As horizontais de um plano são paralelas entre si.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide441" name="slide">
+			   <label for="slide441"></label>
+			   <img src="cotadas/67_02_04.png" />
+			 <figcaption>O ponto <b>C</b> pertence ao eixo, logo <b>C'≡C'<sub>1</sub></b>. Os pontos <b>A</b> e <b>B</b> se deslocarão perpendicularmente ao eixo do rebatimento. Definimos os pontos <b>O'<sub>A</sub></b> e <b>O'<sub>B</sub></b> nas interseções do eixo com as perpendiculares ao eixo que passam por <b>A</b> e <b>B</b> respectivamente.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide442" name="slide">
+			   <label for="slide442"></label>
+			   <img src="cotadas/67_02_05.png" />
+			 <figcaption>Para rebater o ponto <b>A</b>, vamos construir o triângulo de rebatimento para este ponto: <b>A'A'<sub>0</sub>O'<sub>A</sub></b>. O cateto <b>A'A'<sub>0</sub></b> tem tamanho igual à diferença de cotas entre o ponto <b>A</b> e o eixo de rebatimento.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide443" name="slide">
+			   <label for="slide443"></label>
+			   <img src="cotadas/67_02_06.png" />
+			 <figcaption>Com centro em <b>O'<sub>A</sub></b>, descrevemos um arco de circunferência de raio igual à hipotenusa do triângulo do rebatimento, ou seja com raio <b>O'<sub>A</sub>A<sub>0</sub></b>. Uma das interseções deste arco com a reta perpendicular ao eixo, que passa pela projeção do ponto <b>A</b> nos dá o ponto <b>A'<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide444" name="slide">
+			   <label for="slide444"></label>
+			   <img src="cotadas/67_02_07.png" />
+			 <figcaption>Precisamos agora rebater o ponto <b>B</b>. Podemos repetir o processo utilizado para rebater o ponto <b>A</b> ou podemos encontrar a projeção cotada da reta <b>a(A,B)</b>: <b>a'</b>. Esta reta terá um ponto <b>E</b> sobre o eixo, logo <b>E'≡E'<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide445" name="slide">
+			   <label for="slide445"></label>
+			   <img src="cotadas/67_02_08.png" />
+			 <figcaption>Unindo <b>A'<sub>1</sub></b> e <b>E'<sub>1</sub></b> temos a projeção <b>a'<sub>1</sub></b> da reta <b>a</b> o ponto <b>B'<sub>1</sub></b> estará sobre ela.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide446" name="slide">
+			   <label for="slide446"></label>
+			   <img src="cotadas/67_02_09.png" />
+			 <figcaption>Unindo <b>A<sub>1</sub></b>, <b>B<sub>1</sub></b> e <b>C<sub>1</sub></b> temos a VG do triângulo <b>ABC</b> contido num plano qualquer.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/67_02_00.png" class="fundo" />
+	</details>
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0068.png" />
 	<img src="cotadas/Cotadas_2020_0068a.png" />
