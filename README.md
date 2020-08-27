@@ -3108,7 +3108,7 @@
 		<img src="cotadas/63_01_00.png" class="fundo" />
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0063b.png" />
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Num plano existem infinitas retas, se o plano for qualquer estas retas podem ser horizontais ou quaisquer.</p>
 	  <ul class="slider">
 		  <li>
@@ -3592,8 +3592,8 @@
 
 <details>
   <summary id="telhados">Representações de telhados: pág. 78-95</summary>
-  <div class="combo"><p>Para ver os telhados em Realidade Aumentada, visite o site:</p>
-  <br><center><a href="https://paulohscwb.github.io/cotadas/telhados.html"> https://paulohscwb.github.io/cotadas/telhados.html</a></center></div>
+  <p>Para ver os telhados em Realidade Aumentada, visite o site:</p>
+  <br><center><a href="https://paulohscwb.github.io/cotadas/telhados.html"> https://paulohscwb.github.io/cotadas/telhados.html</a></center>
   <img src="aplicacoes/Cotadas_2020_0078.png" />
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0079.png" />
@@ -3658,8 +3658,8 @@
 
 <details style="border-bottom: 1px solid #a2dec0;">
   <summary id="superficies">Superfícies Topográficas: pág. 96-114</summary>
-  <div class="combo"><p>Para ver as superfícies topográficas em Realidade Aumentada, visite o site:</p>
-  <br><center><a href="https://paulohscwb.github.io/cotadas/superficies.html"> https://paulohscwb.github.io/cotadas/superficies.html</a></center></div>
+  <p>Para ver as superfícies topográficas em Realidade Aumentada, visite o site:</p>
+  <br><center><a href="https://paulohscwb.github.io/cotadas/superficies.html"> https://paulohscwb.github.io/cotadas/superficies.html</a></center>
   <img src="aplicacoes/Cotadas_2020_0096.png" />
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0097.png" />
