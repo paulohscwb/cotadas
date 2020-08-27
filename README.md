@@ -2996,7 +2996,7 @@
 	</details>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0052.png" />
-	<figcaption>Use o link abaixo para visualizar em 3D as representações de um plano.</figcaption>
+	<figcaption>Use o link abaixo para visualizar em 3D as representações de um plano <b>&alpha;(A,B,C)</b> por 3 pontos não colineares, <b>&alpha;(r,s)</b> por duas retas concorrentes ou <b>&alpha;(s,t</b>) por duas retas paralelas.</figcaption>
 	<a href="vr/53_rep_planos.html" target="_blank" class="visu">Visualização em 3D</a>
 	<img src="cotadas/Cotadas_2020_0052a.png" />
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
