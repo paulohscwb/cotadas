@@ -10,7 +10,7 @@
 <details>
   <summary id="desenho">Desenho Geométrico: pág. 1-10</summary>
    <img src="dg/Cotadas_2020_0001.png" />  
-   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; resolução: 1<sup>o</sup> segmento</summary>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; resolução: 1<sup>o</sup> segmento</summary>
 	<p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
 	  <ul class="slider">
 		  <li>
@@ -87,10 +87,10 @@
        </li>
   </ul>
   <img src="dg/01_01_00.png" class="fundo"/>
-  </details>
+  </details></div>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Cotadas_2020_0002.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução com esquadros</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução com esquadros</summary>
   <p>Podemos utilizar a régua e um dos esquadros ou a régua e o compasso para resolver este exercício. Primeiro, veja como é a construção com a régua e o esquadro de 45<sup>o</sup>.</p>
   <ul class="slider">
       <li>
@@ -161,9 +161,9 @@
        </li>
     </ul>
     <img src="dg/02_01_05c.png" class="fundo" />
-  </details>
+  </details></div>
   <img src="dg/Cotadas_2020_0002a.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução com esquadros</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução com esquadros</summary>
   <p> Vamos utilizar a régua e um dos esquadros para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <ul class="slider">
       <li>
@@ -282,9 +282,9 @@
        </li>
   </ul>
   <img src="dg/02_02_00c.png" class="fundo"/>
-  </details>
+  </details></div>
   <img src="dg/Cotadas_2020_0002b.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <ul class="slider">
       <li>
@@ -325,10 +325,10 @@
        </li>
     </ul>
     <img src="dg/02_03_00.png" class="fundo" />
-  </details>
+  </details></div>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
-	<img src="dg/Cotadas_2020_0003.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  <img src="dg/Cotadas_2020_0003.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <ul class="slider">
       <li>
@@ -363,9 +363,9 @@
        </li>
     </ul>
     <img src="dg/03_01_00.png" class="fundo" />
-  </details>
+  </details></div>
   <img src="dg/Cotadas_2020_0003a.png" />
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução com régua e compasso</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução com régua e compasso</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <h4>Ângulos de 60<sup>o</sup> e 30<sup>o</sup>:</h4>
   <ul class="slider">
@@ -710,7 +710,7 @@
        </li>
     </ul>
     <img src="dg/03_02_20e.png" class="fundo" />
-	</details>
+	</details></div>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Cotadas_2020_0004.png" />
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>

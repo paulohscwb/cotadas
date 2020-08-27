@@ -55,10 +55,14 @@ li > img{
 	width:100%;
 }
 
+.combo {
+	display:block;
+	box-shadow: 0px 1px 1px 0px rgba(21,153,87,0.2);
+}
+
 .sub {
   border: none;
   padding: 3px;
-  float:left;
   position:relative;
 }
 
