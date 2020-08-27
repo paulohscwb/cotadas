@@ -3516,7 +3516,7 @@
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0076.png" />
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	  <p>Planos quaisquer paralelos têm retas de declive paralelas, logo, para definir um plano beta paralelo ao plano <b>&alpha;</b> temos que encontrar primeiramente uma das retas de declive de <b>&alpha;</b>.
+	  <p>Planos quaisquer paralelos têm retas de declive paralelas, logo, para definir um plano beta paralelo ao plano <b>&alpha;</b> temos que encontrar primeiramente uma das retas de declive de <b>&alpha;</b>.</p>
 	  <ul class="slider">
 		   <li>
 			   <input type="radio" id="slide432a" name="slide">
@@ -3547,7 +3547,7 @@
 	</details>
 	<img src="cotadas/Cotadas_2020_0076a.png" />
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	  <p>Conforme visto no exercício anterior, para encontrar a reta comum a dois planos quaisquer utilizamos planos horizontais auxiliares e encontramos as retas comuns aos dois planos quaisquer com os planos horizontais auxiliares.
+	  <p>Conforme visto no exercício anterior, para encontrar a reta comum a dois planos quaisquer utilizamos planos horizontais auxiliares e encontramos as retas comuns aos dois planos quaisquer com os planos horizontais auxiliares.</p>
 	  <ul class="slider">
 		   <li>
 			   <input type="radio" id="slide432b" name="slide">
