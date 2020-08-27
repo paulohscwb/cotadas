@@ -4,14 +4,14 @@
     background-size: contain;
     width: 25px;
     height: 22px;
-    margin: 10px 8px 0 2px;
+    margin: 7px 8px 0 2px;
 	display: block;
 	float:left;
 	top: 50%;
 }
 
 .visu{
-	line-height: 40px;
+	line-height: 36px;
 }
 
 .topo::after {
@@ -22,12 +22,12 @@
     width: 18px;
     height: 18px;
 	float: right;
-    margin: 10px 2px 0 6px;
+    margin: 8px 2px 0 6px;
 }
 
 .topop {
 	text-align:right;
-	line-height: 38px;
+	line-height: 34px;
 }
 
 figcaption {
