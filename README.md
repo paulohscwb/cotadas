@@ -3363,7 +3363,7 @@
 			   <input type="radio" id="slide439" name="slide">
 			   <label for="slide439"></label>
 			   <img src="cotadas/67_02_02.png" />
-			 <figcaption>Para rebater um plano qualquer sobre um plano horizontal precisamos definir um eixo de rebatimento, que pode ser qualquer reta horizontal do plano. Utilizando o Teorema de Tales definimos um ponto <b>D'(30)<b> sobre a reta definida pelos pontos <b>A'(70)</b> e <b>C'(10)</b>.</figcaption>
+			 <figcaption>Para rebater um plano qualquer sobre um plano horizontal precisamos definir um eixo de rebatimento, que pode ser qualquer reta horizontal do plano. Utilizando o Teorema de Tales definimos um ponto <b>D'(30)</b> sobre a reta definida pelos pontos <b>A'(70)</b> e <b>C'(10)</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide440" name="slide">
