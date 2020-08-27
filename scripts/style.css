@@ -9,6 +9,10 @@
     margin: 0 8px 0 2px;
 }
 
+.visu{
+	margin-bottom:2px;
+}
+
 .topo::after {
     content: "";
     display: block;
