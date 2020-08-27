@@ -2677,18 +2677,18 @@
 <details>
   <summary id="retas">Retas e planos: pág. 44-62</summary>
 	<img src="cotadas/Cotadas_2020_0044.png" />
-	<figcaption>Duas retas quaisquer <b>r</b> e <b>s</b> são paralelas quando suas projeções <b>r'</b> e <b>s'</b> são paralelas, e as graduações destas retas crescem no mesmo sentido. Use o link abaixo para visualizar esta propriedade em 3D.</figcaption>
+	<div class="combo"><figcaption>Duas retas quaisquer <b>r</b> e <b>s</b> são paralelas quando suas projeções <b>r'</b> e <b>s'</b> são paralelas, e as graduações destas retas crescem no mesmo sentido. Use o link abaixo para visualizar esta propriedade em 3D.</figcaption>
 	<a href="vr/44_paralelas.html" target="_blank" class="visu">Visualização em 3D do 1<sup>o</sup> exemplo</a>
-	<br><a href="vr/44_paralelas2.html" target="_blank" class="visu">Visualização em 3D do 2<sup>o</sup> exemplo</a>
+	<br><a href="vr/44_paralelas2.html" target="_blank" class="visu">Visualização em 3D do 2<sup>o</sup> exemplo</a></div>
 	<img src="cotadas/Cotadas_2020_0044a.png" />
-	<br><a href="vr/44_paralelas3.html" target="_blank" class="visu">Visualização em 3D do 3<sup>o</sup> exemplo</a>
+	<div class="combo"><a href="vr/44_paralelas3.html" target="_blank" class="visu">Visualização em 3D do 3<sup>o</sup> exemplo</a></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0045.png" />
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0046.png" />
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0047.png" />
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p> Vamos verificar se as retas são paralelas ou concorrentes, considerando a reta <b>s</b> qualquer e a reta <b>r</b> vertical. Como pertencem ao mesmo plano projetante, elas são necessariamente concorrentes, basta encontrar o ponto <b>P</b> de concorrência. Usando o método do rebatimento, siga os seguintes passos:</p>
 	  <ul class="slider">
 		  <li>
@@ -2724,9 +2724,9 @@
 		</ul>
 		<img src="cotadas/47_01_00.png" class="fundo" />
 	</details>
-	<a href="vr/47_incidencia5.html" target="_blank" class="visu">Visualização em 3D</a>
+	<a href="vr/47_incidencia5.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="cotadas/Cotadas_2020_0047a.png" />
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1<sup>o</sup> exemplo</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1<sup>o</sup> exemplo</summary>
 	  <p> Vamos verificar se as retas são paralelas ou concorrentes considerando as retas <b>r</b> e <b>s</b> quaisquer. Devemos verificar o ponto de interseção tem a mesma cota nas duas retas, para isso utilizamos o método do rebatimento.</p>
 	  <h4>Planos projetantes distintos e não paralelos</h4>
 	  <ul class="slider">
@@ -2793,9 +2793,9 @@
 		<img src="cotadas/47_03_01.png" />
 		<figcaption>Neste caso as retas são reversas, pois o ponto <b>P</b> possui cotas diferentes nas retas <b>r</b> e <b>s</b>. Use o link abaixo para visualizar este exemplo em 3D.</figcaption>
 	</details>
-	<br><a href="vr/47_incidencia6b.html" target="_blank" class="visu">Visualização em 3D</a>
+	<a href="vr/47_incidencia6b.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="cotadas/Cotadas_2020_0047b.png" />
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 		<p>Como as retas são concorrentes, basta verificar se o ângulo entre elas é 90<sup>o</sup>. Se for, elas são perpendiculares. Faremos isso através do método do rebatimento.</p>
 		<ul class="slider">
 		  <li>
@@ -2837,12 +2837,12 @@
 		</ul>
 		<img src="cotadas/47_04_00.png" class="fundo" />
 	</details>
-	<a href="vr/47_incidencia6c.html" target="_blank" class="visu">Visualização em 3D</a>
+	<a href="vr/47_incidencia6c.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0048.png" />
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0049.png" />
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Devemos verificar se as retas são concorrentes ou ortogonais, para isso basta verificar se o ponto se o ponto onde as retas se cruzam na projeção, possui cota <b>2</b> na reta <b>s</b>.</p>
 	  <ul class="slider">
 		  <li>
@@ -2865,9 +2865,9 @@
 		   </li>
 		</ul>
 		<img src="cotadas/49_01_00.png" class="fundo" />
-	</details>
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0049a.png" />
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Como as retas são concorrentes, basta verificar se o ângulo entre elas é <b>90<sup>o</sup></b>, se for, elas são perpendiculares. Faremos isso através do método do rebatimento.</p>
 	  <ul class="slider">
 		  <li>
@@ -2884,19 +2884,19 @@
 		   </li>
 		</ul>
 		<img src="cotadas/49_02_00.png" class="fundo" />
-	</details>
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0049b.png" />
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Compreenda a construção:</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Compreenda a construção:</summary>
 		<p>Das relações métricas no triângulo retângulo, temos que:</p>
 		<img src="cotadas/49_03_00.png" width="65%" />
 		<p><b>h<sup>2</sup>=n.m</b>, analogamente, no triângulo da figura abaixo: <b>u<sup>2</sup>=I<sub>r</sub>.I<sub>s</sub></b>, sendo a unidade de cota igual a <b>1</b>, temos que: <b>1<sup>2</sup>=I<sub>r</sub>.I<sub>s</sub></b>, ou seja <b>I<sub>r</sub>=1/I<sub>s</sub></b>.</p>
 		<img src="cotadas/49_03_01.png" width="65%" />
 	</details>
 	<a href="vr/49_ortogonais1.html" target="_blank" class="visu">Visualização em 3D: perpendiculares</a>
-	<br><a href="vr/49_ortogonais2.html" target="_blank" class="visu">Visualização em 3D: ortogonais</a>
+	<br><a href="vr/49_ortogonais2.html" target="_blank" class="visu">Visualização em 3D: ortogonais</a></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0050.png" />
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 		<p>Para encontrar o intervalo da reta <b>s</b>, perpendicular à reta <b>r</b>, utilizamos o intervalo inverso. </p>
 		<ul class="slider">
 		  <li>
@@ -2937,16 +2937,16 @@
 		   </li>
 		</ul>
 		<img src="cotadas/50_01_00.png" class="fundo" />
-	</details>
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0050a.png" />
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p>A resolução da letra b é similar à letra a. Esse exercício fica para você resolver.</p> 
 		<img src="cotadas/50_02_00.png" />
 		<figcaption>Lembre-se que entre as projeções dos pontos <b>A</b> e <b>B</b>, temos 2 intervalos, dessa forma, devemos marcar 2 unidades de cota no ponto <b>B</b> e obteremos 2 intervalos da reta <b>s</b> e como as cotas de retas perpendiculares crescem no sentido oposto, a cota do ponto <b>Q</b> obtido é a cota do ponto <b>P</b> menos duas unidades.</figcaption>
-	</details>
+	</details></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0051.png" />
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 		<p>Como os planos projetantes das retas são paralelos, então suas projeções são paralelas.</p>
 		<ul class="slider">
 		  <li>
@@ -2981,27 +2981,27 @@
 		   </li>
 		</ul>
 		<img src="cotadas/51_01_00.png" class="fundo" />
-	</details>
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0051a.png" />
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p>Como os planos projetantes das retas são paralelos, então suas projeções são paralelas. Observe que a diferença de cotas entre os pontos <b>A</b> e <b>B</b>, é de 3 unidades de cota, assim, ao rebater o ponto <b>B</b>, marcamos 3 unidades de cota (3cm) e o segmento entre <b>A'</b> e <b>B'</b> representa 3 intervalos da reta <b>r</b>, que chamamos de <b>3I<sub>r</sub></b>, obtendo o ponto <b>B'<sub>1</sub></b>.</p> 
 		<img src="cotadas/51_02_00.png" />
 		<figcaption>Ao traçar a perpendicular à reta rebatida, <b>r'<sub>1</sub></b>, pelo ponto <b>B'<sub>1</sub></b>, obtemos 3 intervalos da reta <b>s</b>, que chamamos de <b>3I<sub>s</sub></b>. Quando transportamos esse intervalo para a reta <b>s</b>, devemos lembrar que em retas ortogonais, as cotas crescem em sentidos opostos.</figcaption>
-	</details>
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0051b.png" />
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p>Como os planos projetantes das retas são paralelos, então suas projeções são paralelas, ou seja, <b>r'</b> é paralela a <b>s'</b>. Observe que a diferença de cotas entre os pontos <b>A</b> e <b>B</b>, é de 4 unidades de cota, assim, ao rebater o ponto <b>B</b>, marcamos 4 unidades de cota (3cm) e o segmento entre <b>A'</b> e <b>B'</b> representa 4 intervalos da reta <b>r</b>, que chamamos de <b>4I<sub>r</sub></b>, obtendo o ponto <b>B'<sub>1</sub></b>.</p> 
 		<img src="cotadas/51_03_00.png" />
 		<figcaption>Ao traçar a perpendicular à reta rebatida, <b>r'<sub>1</sub></b>, pelo ponto <b>B'<sub>1</sub></b>, obtemos 4 intervalos da reta <b>s</b>, que chamamos de <b>4I<sub>s</sub></b>. Quando transportamos esse intervalo para a reta <b>s</b>, devemos lembrar que em retas ortogonais, as cotas crescem em sentidos opostos.</figcaption>
-	</details>
+	</details></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0052.png" />
-	<figcaption>Use o link abaixo para visualizar em 3D as representações de um plano <b>&alpha;(A,B,C)</b> por 3 pontos não colineares, <b>&alpha;(r,C)</b> por um ponto e uma reta que não se pertencem, <b>&alpha;(r,s)</b> por duas retas concorrentes ou <b>&alpha;(s,t)</b> por duas retas paralelas.</figcaption>
-	<a href="vr/53_rep_planos.html" target="_blank" class="visu">Visualização em 3D</a>
+	<div class="combo"><figcaption>Use o link abaixo para visualizar em 3D as representações de um plano <b>&alpha;(A,B,C)</b> por 3 pontos não colineares, <b>&alpha;(r,C)</b> por um ponto e uma reta que não se pertencem, <b>&alpha;(r,s)</b> por duas retas concorrentes ou <b>&alpha;(s,t)</b> por duas retas paralelas.</figcaption>
+	<a href="vr/53_rep_planos.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="cotadas/Cotadas_2020_0052a.png" />
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0053.png" />
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 		<p>A pirâmide possui base quadrada e como está no plano horizontal, todos os pontos possuem a mesma cota e o quadrado está representado em Verdadeira Grandeza (VG). Como a pirâmide é regular, sua altura é perpendicular à base e passa pelo centro da base.</p>
 		<ul class="slider">
 		  <li>
@@ -3025,21 +3025,21 @@
 		</ul>
 		<img src="cotadas/53_01_00.png" class="fundo" />
 	</details>
-	<a href="vr/piramide0.html" target="_blank" class="visu">Visualização em 3D</a>
+	<a href="vr/piramide0.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="cotadas/Cotadas_2020_0053a.png" />
-	<figcaption>Use o link abaixo para a visualização em 3D do sólido projetado.</figcaption>
-	<a href="vr/piramide1.html" target="_blank" class="visu">Visualização em 3D</a>
+	<div class="combo"><figcaption>Use o link abaixo para a visualização em 3D do sólido projetado.</figcaption>
+	<a href="vr/piramide1.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0054.png" />
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0055.png" />
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0056.png" />
-	<figcaption>Use o link abaixo para a visualização em 3D do sólido projetado.</figcaption>
-	<a href="vr/piramide2.html" target="_blank" class="visu">Visualização em 3D</a>
+	<div class="combo"><figcaption>Use o link abaixo para a visualização em 3D do sólido projetado.</figcaption>
+	<a href="vr/piramide2.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="cotadas/Cotadas_2020_0056a.png" />
-	<figcaption>Use o link abaixo para a visualização em 3D do sólido projetado.</figcaption>
-	<a href="vr/prisma1.html" target="_blank" class="visu">Visualização em 3D</a>
+	<div class="combo"><figcaption>Use o link abaixo para a visualização em 3D do sólido projetado.</figcaption>
+	<a href="vr/prisma1.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0057.png" />
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
