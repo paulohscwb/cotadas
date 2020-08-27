@@ -3063,10 +3063,10 @@
 <details>
   <summary id="rebatimento">Reta de declive, rebatimento e interseções: pág. 63-77</summary>
 	<img src="cotadas/Cotadas_2020_0063.png" />
-	<figcaption>Use o link abaixo para visualizar em 3D a reta de declive de um plano.</figcaption>
-	<a href="vr/reta_declive.html" target="_blank" class="visu">Visualização em 3D</a>
+	<div class="combo"><figcaption>Use o link abaixo para visualizar em 3D a reta de declive de um plano.</figcaption>
+	<a href="vr/reta_declive.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="cotadas/Cotadas_2020_0063a.png" />
-  	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+  	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="slide400" name="slide">
@@ -3106,7 +3106,7 @@
 		   </li>
 		</ul>
 		<img src="cotadas/63_01_00.png" class="fundo" />
-	</details>
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0063b.png" />
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Num plano existem infinitas retas, se o plano for qualquer estas retas podem ser horizontais ou quaisquer.</p>
@@ -3143,10 +3143,10 @@
 		   </li>
 		</ul>
 		<img src="cotadas/63_02_00.png" class="fundo" />
-	</details>
+	</details></div>
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0064.png" />
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>O ângulo que um plano forma com o plano de projeção é igual à inclinação de uma de suas retas de maior declive.</p>
 	  <ul class="slider">
 		  <li>
@@ -3175,9 +3175,9 @@
 		   </li>
 		</ul>
 		<img src="cotadas/64_01_00.png" class="fundo" />
-	</details>
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0064a.png" />
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Representar uma reta do plano, por exemplo a reta definida pelos pontos <b>B</b> e <b>C</b>.</p>
 	  <ul class="slider">
 		  <li>
@@ -3224,10 +3224,10 @@
 		   </li>
 		</ul>
 		<img src="cotadas/64_02_00.png" class="fundo" />
-	</details>
+	</details></div>
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0065.png" />
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>O ângulo que um plano forma com o plano de projeção (inclinação) é igual a inclinação de uma de suas retas de declive.</p>
 	  <p>Vimos que uma reta de declive de um plano qualquer é suficiente para representá-lo. Neste exercício conhecemos a projeção de uma de suas retas de declive assim como de um de seus pontos, porém para definir uma reta precisamos de um segundo ponto. A solução consiste em encontrar este segundo ponto.</p>
 	  <ul class="slider">
@@ -3257,9 +3257,9 @@
 		   </li>
 		</ul>
 		<img src="cotadas/65_01_00.png" class="fundo" />
-	</details>
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0065a.png" />
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Vamos resolver o exercício encontrando uma das retas de declive do plano <b>&alpha;</b>. Sabemos que uma reta de declive define um plano qualquer e a sua inclinação corresponde à inclinação do plano.</p>
 	  <ul class="slider">
 		  <li>
@@ -3294,14 +3294,14 @@
 		   </li>
 		</ul>
 		<img src="cotadas/65_2_00.png" class="fundo" />
-	</details>
+	</details></div>
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0066.png" />
-	<figcaption>Use o link abaixo para visualizar em 3D o processo do rebatimento de um plano qualquer <b>&alpha;</b> sobre <b>&pi;</b>.</figcaption>
-	<a href="vr/rebatimento.html" target="_blank" class="visu">Visualização em 3D</a>
+	<div class="combo"><figcaption>Use o link abaixo para visualizar em 3D o processo do rebatimento de um plano qualquer <b>&alpha;</b> sobre <b>&pi;</b>.</figcaption>
+	<a href="vr/rebatimento.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0067.png" />
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>O triângulo <b>ABC</b> está contido em um plano qualquer <b>&alpha;</b> e sua projeção não está em verdadeira grandeza (VG). Para encontrar a VG de uma figura contida num plano qualquer devemos efetuar o rebatimento do mesmo sobre o plano horizontal <b>&pi;</b> , ou sobre um outro plano paralelo à <b>&pi;</b>, ou seja vamos transformar o plano qualquer em um horizontal.</p>
 	  <ul class="slider">
 		   <li>
@@ -3348,9 +3348,9 @@
 		   </li>
 		</ul>
 		<img src="cotadas/67_01_00.png" class="fundo" />
-	</details>
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0067a.png" />
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>O triângulo <b>ABC</b> está contido em um plano qualquer e sua projeção não está em verdadeira grandeza (VG). Para encontrar a VG de uma figura contida num plano qualquer devemos efetuar o rebatimento do mesmo sobre o plano horizontal <b>&pi;'</b>, ou sobre um outro plano paralelo à <b>&pi;'</b>, ou seja vamos transformar o plano qualquer em um horizontal.</p>
 	  <ul class="slider">
 		   <li>
@@ -3409,10 +3409,10 @@
 		   </li>
 		</ul>
 		<img src="cotadas/67_02_00.png" class="fundo" />
-	</details>
+	</details></div>
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0068.png" />
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Para representar um triângulo equilátero <b>ABC</b> contido no plano <b>&alpha;(A,B,P)</b> é necessário rebater este plano para que o triângulo apresente VG.</p>
 	  <ul class="slider">
 		   <li>
@@ -3483,7 +3483,7 @@
 		   </li>
 		</ul>
 		<img src="cotadas/68_01_00.png" class="fundo" />
-	</details>
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0068a.png" />
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0069.png" />
@@ -3500,22 +3500,22 @@
 	<img src="cotadas/Cotadas_2020_0073a.png" />
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0074.png" />
-	<figcaption>Use o link abaixo para visualizar em 3D a interseção entre plano horizontal e um plano vertical</figcaption>
-	<a href="vr/int_pv_ph.html" target="_blank" class="visu">Visualização em 3D</a>
+	<div class="combo"><figcaption>Use o link abaixo para visualizar em 3D a interseção entre plano horizontal e um plano vertical</figcaption>
+	<a href="vr/int_pv_ph.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="cotadas/Cotadas_2020_0074a.png" />
-	<figcaption>Use o link abaixo para visualizar em 3D a interseção entre plano qualquer e um plano horizontal</figcaption>
-	<a href="vr/int_pq_ph.html" target="_blank" class="visu">Visualização em 3D</a>
+	<div class="combo"><figcaption>Use o link abaixo para visualizar em 3D a interseção entre plano qualquer e um plano horizontal</figcaption>
+	<a href="vr/int_pq_ph.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0075.png" />
 	<img src="cotadas/Cotadas_2020_0075a.png" />
-	<figcaption>Use o link abaixo para visualizar em 3D a interseção entre plano qualquer e um plano vertical</figcaption>
-	<a href="vr/int_pq_pv.html" target="_blank" class="visu">Visualização em 3D</a>
+	<div class="combo"><figcaption>Use o link abaixo para visualizar em 3D a interseção entre plano qualquer e um plano vertical</figcaption>
+	<a href="vr/int_pq_pv.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="cotadas/Cotadas_2020_0075b.png" />
-	<figcaption>Use o link abaixo para visualizar em 3D a interseção entre dois planos quaisquer</figcaption>
-	<a href="vr/int_pq_pq.html" target="_blank" class="visu">Visualização em 3D</a>
+	<div class="combo"><figcaption>Use o link abaixo para visualizar em 3D a interseção entre dois planos quaisquer</figcaption>
+	<a href="vr/int_pq_pq.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0076.png" />
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Planos quaisquer paralelos têm retas de declive paralelas, logo, para definir um plano beta paralelo ao plano <b>&alpha;</b> temos que encontrar primeiramente uma das retas de declive de <b>&alpha;</b>.</p>
 	  <ul class="slider">
 		   <li>
@@ -3544,9 +3544,9 @@
 		   </li>
 		</ul>
 		<img src="cotadas/76_01_00.png" class="fundo" />
-	</details>
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0076a.png" />
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Conforme visto no exercício anterior, para encontrar a reta comum a dois planos quaisquer utilizamos planos horizontais auxiliares e encontramos as retas comuns aos dois planos quaisquer com os planos horizontais auxiliares.</p>
 	  <ul class="slider">
 		   <li>
@@ -3581,7 +3581,7 @@
 		   </li>
 		</ul>
 		<img src="cotadas/76_02_00.png" class="fundo" />
-	</details>
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0076b.png" />
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0077.png" />
@@ -3592,13 +3592,13 @@
 
 <details>
   <summary id="telhados">Representações de telhados: pág. 78-95</summary>
-  <p>Para ver os telhados em Realidade Aumentada, visite o site:</p>
-  <br><center><a href="https://paulohscwb.github.io/cotadas/telhados.html"> https://paulohscwb.github.io/cotadas/telhados.html</a></center>
+  <div class="combo"><p>Para ver os telhados em Realidade Aumentada, visite o site:</p>
+  <br><center><a href="https://paulohscwb.github.io/cotadas/telhados.html"> https://paulohscwb.github.io/cotadas/telhados.html</a></center></div>
   <img src="aplicacoes/Cotadas_2020_0078.png" />
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0079.png" />
-  <figcaption>Use o link abaixo para visualizar em 3D os elementos de um telhado</figcaption>
-  <a href="telhados/casa.html" target="_blank" class="visu">Visualização em 3D</a>
+  <div class="combo"><figcaption>Use o link abaixo para visualizar em 3D os elementos de um telhado</figcaption>
+  <a href="telhados/casa.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0080.png" />
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
@@ -3607,70 +3607,70 @@
   <img src="aplicacoes/Cotadas_2020_0082.png" />
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0083.png" />
-  <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
-  <a href="telhados/telhado33.html" target="_blank" class="visu">Visualização em 3D</a>
+  <div class="combo"><figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
+  <a href="telhados/telhado33.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0084.png" />
-  <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
-  <a href="telhados/telhado34.html" target="_blank" class="visu">Visualização em 3D</a>
+  <div class="combo"><figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
+  <a href="telhados/telhado34.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0085.png" />
-  <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
-  <a href="telhados/telhado35.html" target="_blank" class="visu">Visualização em 3D</a>
+  <div class="combo"><figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
+  <a href="telhados/telhado35.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0086.png" />
-  <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
-  <a href="telhados/telhado36.html" target="_blank" class="visu">Visualização em 3D</a>
+  <div class="combo"><figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
+  <a href="telhados/telhado36.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0087.png" />
-  <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
-  <a href="telhados/telhado37.html" target="_blank" class="visu">Visualização em 3D</a>
+  <div class="combo"><figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
+  <a href="telhados/telhado37.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0088.png" />
-  <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
-  <a href="telhados/telhado38.html" target="_blank" class="visu">Visualização em 3D</a>
+  <div class="combo"><figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
+  <a href="telhados/telhado38.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0089.png" />
-  <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
-  <a href="telhados/telhado39.html" target="_blank" class="visu">Visualização em 3D</a>
+  <div class="combo"><figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
+  <a href="telhados/telhado39.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0090.png" />
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0091.png" />
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0092.png" />
-  <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
-  <a href="telhados/telhado43.html" target="_blank" class="visu">Visualização em 3D</a>
+  <div class="combo"><figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
+  <a href="telhados/telhado43.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0093.png" />
-  <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
-  <a href="telhados/telhado44.html" target="_blank" class="visu">Visualização em 3D</a>
+  <div class="combo"><figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
+  <a href="telhados/telhado44.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0094.png" />
-  <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
-  <a href="telhados/telhado45.html" target="_blank" class="visu">Visualização em 3D</a>
+  <div class="combo"><figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
+  <a href="telhados/telhado45.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0095.png" />
-  <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
-  <a href="telhados/telhado46.html" target="_blank" class="visu">Visualização em 3D</a>
+  <div class="combo"><figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
+  <a href="telhados/telhado46.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
 </details>
 
 <details style="border-bottom: 1px solid #a2dec0;">
   <summary id="superficies">Superfícies Topográficas: pág. 96-114</summary>
-  <p>Para ver as superfícies topográficas em Realidade Aumentada, visite o site:</p>
-  <br><center><a href="https://paulohscwb.github.io/cotadas/superficies.html"> https://paulohscwb.github.io/cotadas/superficies.html</a></center>
+  <div class="combo"><p>Para ver as superfícies topográficas em Realidade Aumentada, visite o site:</p>
+  <br><center><a href="https://paulohscwb.github.io/cotadas/superficies.html"> https://paulohscwb.github.io/cotadas/superficies.html</a></center></div>
   <img src="aplicacoes/Cotadas_2020_0096.png" />
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0097.png" />
-  <figcaption>Use o link abaixo para visualizar em 3D uma superfície topográfica com suas respectivas curvas de nível</figcaption>
-  <a href="superficies/curva11.html" target="_blank" class="visu">Visualização em 3D</a>
+  <div class="combo"><figcaption>Use o link abaixo para visualizar em 3D uma superfície topográfica com suas respectivas curvas de nível</figcaption>
+  <a href="superficies/curva11.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0098.png" />
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0099.png" />
-  <figcaption>Use o link abaixo para visualizar em 3D uma superfície topográfica com suas respectivas curvas de nível</figcaption>
-  <a href="superficies/curva2.html" target="_blank" class="visu">Visualização em 3D</a>
+  <div class="combo"><figcaption>Use o link abaixo para visualizar em 3D uma superfície topográfica com suas respectivas curvas de nível</figcaption>
+  <a href="superficies/curva2.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0100.png" />
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
@@ -3679,18 +3679,18 @@
   <img src="aplicacoes/Cotadas_2020_0102.png" />
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0103.png" />
-  <figcaption>Use o link abaixo para visualizar em 3D do perfil topográfico de um terreno</figcaption>
-  <a href="superficies/curva3.html" target="_blank" class="visu">Visualização em 3D</a>
+  <div class="combo"><figcaption>Use o link abaixo para visualizar em 3D do perfil topográfico de um terreno</figcaption>
+  <a href="superficies/curva3.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0104.png" />
-  <figcaption>Use o link abaixo para visualizar em 3D do perfil topográfico de um terreno</figcaption>
-  <a href="superficies/curva9.html" target="_blank" class="visu">Visualização em 3D</a>
+  <div class="combo"><figcaption>Use o link abaixo para visualizar em 3D do perfil topográfico de um terreno</figcaption>
+  <a href="superficies/curva9.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0105.png" />
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0106.png" />
-  <figcaption>Use o link abaixo para visualizar em 3D da seção plana de um terreno</figcaption>
-  <a href="superficies/curva10.html" target="_blank" class="visu">Visualização em 3D</a>
+  <div class="combo"><figcaption>Use o link abaixo para visualizar em 3D da seção plana de um terreno</figcaption>
+  <a href="superficies/curva10.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0107.png" />
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
@@ -3701,16 +3701,16 @@
   <img src="aplicacoes/Cotadas_2020_0110.png" />
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0111.png" />
-  <figcaption>Use o link abaixo para visualizar em 3D dos cortes de um terreno para construção de uma estrada</figcaption>
-  <a href="superficies/curva15.html" target="_blank" class="visu">Visualização em 3D</a>
+  <div class="combo"><figcaption>Use o link abaixo para visualizar em 3D dos cortes de um terreno para construção de uma estrada</figcaption>
+  <a href="superficies/curva15.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0112.png" />
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0113.png" />
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0114.png" />
-  <figcaption>Use o link abaixo para visualizar em 3D da seção mista de um terreno (corte e aterro)</figcaption>
-  <a href="superficies/curva13c.html" target="_blank" class="visu">Visualização em 3D</a>
+  <div class="combo"><figcaption>Use o link abaixo para visualizar em 3D da seção mista de um terreno (corte e aterro)</figcaption>
+  <a href="superficies/curva13c.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
 </details>
 
