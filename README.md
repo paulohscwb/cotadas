@@ -2946,10 +2946,59 @@
 	</details>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0051.png" />
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+		<p>Como os planos projetantes das retas são paralelos, então suas projeções são paralelas.</p>
+		<ul class="slider">
+		  <li>
+			   <input type="radio" id="slide330" name="slide">
+			   <label for="slide330"></label>
+			   <img src="cotadas/51_01_01.png" />
+			<figcaption>Traçar <b>s'</b> paralela a <b>r'</b>, passando por <b>P'</b></figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide331" name="slide">
+			   <label for="slide331"></label>
+			   <img src="cotadas/51_01_02.png" />
+			 <figcaption>Como as cotas dos pontos <b>A</b> e <b>B</b> são consecutivas, então a distância <b>A'B'</b> é o Intervalo da reta <b>r</b>, <b>I<sub>r</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide332" name="slide">
+			   <label for="slide332"></label>
+			   <img src="cotadas/51_01_03.png" />
+			 <figcaption>Rebater o ponto <b>B</b>, obtendo o ponto <b>B'<sub>1</sub></b> e a reta <b>r'<sub>1</sub></b></figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide333" name="slide">
+			   <label for="slide333"></label>
+			   <img src="cotadas/51_01_04.png" />
+			 <figcaption>Pelo ponto <b>B'<sub>1</sub></b> traçar a reta perpendicular à reta <b>r'<sub>1</sub></b>, obtendo o Intervalo da reta <b>s</b>, <b>I<sub>s</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide334" name="slide">
+			   <label for="slide334"></label>
+			   <img src="cotadas/51_01_05.png" />
+			 <figcaption>Transferir o intervalo <b>I<sub>s</sub></b> para a reta s', obtendo o ponto <b>Q'</b>. Lembre-se que as cotas dos pontos <b>P'</b> e <b>Q'</b> crescem no sentido oposto ao crescimento da reta <b>r</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/51_01_00.png" class="fundo" />
+	</details>
 	<img src="cotadas/Cotadas_2020_0051a.png" />
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>Como os planos projetantes das retas são paralelos, então suas projeções são paralelas. Observe que a diferença de cotas entre os pontos <b>A</b> e <b>B</b>, é de 3 unidades de cota, assim, ao rebater o ponto <b>B</b>, marcamos 3 unidades de cota (3cm) e o segmento entre <b>A'</b> e <b>B'</b> representa 3 intervalos da reta <b>r</b>, que chamamos de <b>3I<sub>r</sub></b>, obtendo o ponto <b>B'<sub>1</sub></b>.</p> 
+		<img src="cotadas/51_02_00.png" />
+		<figcaption>Ao traçar a perpendicular à reta rebatida, <b>r'<sub>1</sub></b>, pelo ponto <b>B'<sub>1</sub></b>, obtemos 3 intervalos da reta <b>s</b>, que chamamos de <b>3I<sub>s</sub></b>. Quando transportamos esse intervalo para a reta <b>s</b>, devemos lembrar que em retas ortogonais, as cotas crescem em sentidos opostos.</figcaption>
+	</details>
 	<img src="cotadas/Cotadas_2020_0051b.png" />
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>Como os planos projetantes das retas são paralelos, então suas projeções são paralelas, ou seja, <b>r'</b> é paralela a <b>s'</b>. Observe que a diferença de cotas entre os pontos <b>A</b> e <b>B</b>, é de 4 unidades de cota, assim, ao rebater o ponto <b>B</b>, marcamos 4 unidades de cota (3cm) e o segmento entre <b>A'</b> e <b>B'</b> representa 4 intervalos da reta <b>r</b>, que chamamos de <b>4I<sub>r</sub></b>, obtendo o ponto <b>B'<sub>1</sub></b>.</p> 
+		<img src="cotadas/51_03_00.png" />
+		<figcaption>Ao traçar a perpendicular à reta rebatida, <b>r'<sub>1</sub></b>, pelo ponto <b>B'<sub>1</sub></b>, obtemos 4 intervalos da reta <b>s</b>, que chamamos de <b>4I<sub>s</sub></b>. Quando transportamos esse intervalo para a reta <b>s</b>, devemos lembrar que em retas ortogonais, as cotas crescem em sentidos opostos.</figcaption>
+	</details>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0052.png" />
+	<figcaption>Use o link abaixo para visualizar em 3D as representações de um plano.</figcaption>
+	<a href="vr/53_rep_planos.html" target="_blank" class="visu">Visualização em 3D</a>
+	<img src="cotadas/Cotadas_2020_0052a.png" />
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0053.png" />
 	<figcaption>Use o link abaixo para a visualização em 3D do sólido projetado.</figcaption>
