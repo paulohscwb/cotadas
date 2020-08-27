@@ -6,7 +6,7 @@
     width: 25px;
     height: 22px;
     float: left;
-    margin: 0 8px -3px 2px;
+    margin: 0 8px 0 2px;
 }
 
 .topo::after {
