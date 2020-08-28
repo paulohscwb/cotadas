@@ -3090,7 +3090,7 @@
 			   <input type="radio" id="slide344" name="slide">
 			   <label for="slide344"></label>
 			   <img src="cotadas/55_01_02.png" />
-			 <figcaption>Obter a figura  em VG: <b>A'<sub>1</sub>B'<sub>1</sub>C'<sub>1</sub> que é a verdadeira grandeza do triângulo <b>ABC</b>.</figcaption>
+			 <figcaption>Obter a figura  em VG: <b>A'<sub>1</sub>B'<sub>1</sub>C'<sub>1</sub></b> que é a verdadeira grandeza do triângulo <b>ABC</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="cotadas/55_01_00.png" class="fundo" />
