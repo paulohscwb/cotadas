@@ -3659,7 +3659,7 @@
 			   <input type="radio" id="slide508" name="slide">
 			   <label for="slide508"></label>
 			   <img src="aplicacoes/82_09.png" />
-			 <figcaption>Marque o ponto <b>P'(2)</b> na interseção das horizontais de cota <b>(2)<b> e o ponto <b>Q</b> na interseção das horizontais de cota <b>(3)</b>. Os pontos <b>P</b> e <b>Q</b> definem a reta de interseção <b>&alpha;&beta;</b> procurada. Como as horizontais de <b>&alpha;</b> e <b>&beta;</b> são concorrentes a interseção será uma reta do tipo qualquer. Se fossem paralelas seria uma reta do tipo horizontal. Esse exercício tem 4 soluções possíveis.</figcaption>
+			 <figcaption>Marque o ponto <b>P'(2)</b> na interseção das horizontais de cota <b>(2)</b> e o ponto <b>Q</b> na interseção das horizontais de cota <b>(3)</b>. Os pontos <b>P</b> e <b>Q</b> definem a reta de interseção <b>&alpha;&beta;</b> procurada. Como as horizontais de <b>&alpha;</b> e <b>&beta;</b> são concorrentes a interseção será uma reta do tipo qualquer. Se fossem paralelas seria uma reta do tipo horizontal. Esse exercício tem 4 soluções possíveis.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide509" name="slide">
