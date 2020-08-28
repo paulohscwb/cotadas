@@ -3116,7 +3116,7 @@
 			   <input type="radio" id="slide346" name="slide">
 			   <label for="slide346"></label>
 			   <img src="cotadas/56_01_02.png" />
-			 <figcaption>Obter a figura  em VG: <b>A'<sub>1</sub>B'<sub>1</sub>C'<sub>1</sub>.</figcaption>
+			 <figcaption>Obter a figura  em VG: <b>A'<sub>1</sub>B'<sub>1</sub>C'<sub>1</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide347" name="slide">
