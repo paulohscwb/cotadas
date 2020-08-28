@@ -3718,7 +3718,7 @@
 			 <figcaption>Este telhado possui uma cumeeira <b>(ac)</b> e quatro espigões <b>(ad)</b>, <b>(ab)</b>, <b>(bc)</b> e <b>(cd)</b>. Para obtermos a cota da cumeeira basta obter a cota de qualquer ponto desse segmento, vamos escolher o ponto <b>P≡(acd)</b>. Construa reta de declive <b>d’<sub>a</sub></b> por <b>P</b>, marque o ponto <b>Q(2)</b> sobre a <b>h<sub>a</sub>(2)</b>. </figcaption>
 		   </li>
 		</ul>
-		<img src="aplicacoes/82_00.png" class="fundo" />
+		<img src="aplicacoes/83_00.png" class="fundo" />
 	</details>
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2<sup>a</sup> parte</summary>
 	  <ul class="slider">
