@@ -3608,62 +3608,62 @@
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
 		   <li>
-			   <input type="radio" id="slide500" name="slide">
-			   <label for="slide500"></label>
+			   <input type="radio" id="slide600" name="slide">
+			   <label for="slide600"></label>
 			   <img src="aplicacoes/82_01.png" />
 			 <figcaption>Construa duas retas perpendiculares.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="slide501" name="slide">
-			   <label for="slide501"></label>
+			   <input type="radio" id="slide601" name="slide">
+			   <label for="slide601"></label>
 			   <img src="aplicacoes/82_02.png" />
 			 <figcaption>Marque sobre uma delas uma unidade de cota de <b>1m</b>. Como a escala é <b>1:100</b> essa unidade será representada por <b>1cm</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="slide502" name="slide">
-			   <label for="slide502"></label>
+			   <input type="radio" id="slide602" name="slide">
+			   <label for="slide602"></label>
 			   <img src="aplicacoes/82_03.png" />
 			 <figcaption>Apoie ângulo de <b>30°</b> do esquadro de 30/60 sobre o lado do ângulo reto. Encaixe o outro esquadro no cateto menor.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="slide503" name="slide">
-			   <label for="slide503"></label>
+			   <input type="radio" id="slide603" name="slide">
+			   <label for="slide603"></label>
 			   <img src="aplicacoes/82_04.png" />
 			 <figcaption>Deslize o esquadro de 30/60 até que sua hipotenusa passe pela extremidade do segmento <b>u</b>. Desenhe a reta que fornece o ângulo de <b>30°</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="slide504" name="slide">
-			   <label for="slide504"></label>
+			   <input type="radio" id="slide604" name="slide">
+			   <label for="slide604"></label>
 			   <img src="aplicacoes/82_05.png" />
 			 <figcaption>Você obteve o Intervalo para <b>30°</b> graficamente numa escala <b>1:100</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="slide505" name="slide">
-			   <label for="slide505"></label>
+			   <input type="radio" id="slide605" name="slide">
+			   <label for="slide605"></label>
 			   <img src="aplicacoes/82_06.png" />
 			 <figcaption>Agora vamos obter as horizontais de <b>&alpha;</b>. Note que a reta <b>r(A,B)</b> é uma horizontal de <b>&alpha;</b> de cota <b>(2)</b> e que a reta <b>s</b> é uma horizontal de <b>&beta;</b> de cota <b>(2)</b>. Temos que obter agora mais uma horizontal de cada plano.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="slide506" name="slide">
-			   <label for="slide506"></label>
+			   <input type="radio" id="slide606" name="slide">
+			   <label for="slide606"></label>
 			   <img src="aplicacoes/82_07.png" />
 			 <figcaption>Construa uma reta de declive de <b>&alpha;</b>, marque sobre ela o Intervalo de <b>30°</b> obtendo um ponto de cota <b>(3)</b> e construa a horizontal de <b>&alpha;</b> de cota <b>3</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="slide507" name="slide">
-			   <label for="slide507"></label>
+			   <input type="radio" id="slide607" name="slide">
+			   <label for="slide607"></label>
 			   <img src="aplicacoes/82_08.png" />
 			 <figcaption>Agora construa uma reta de declive de <b>&beta;</b>, marque sobre ela o Intervalo de <b>30°</b> obtendo um ponto de cota <b>(3)</b> e construa a horizontal de <b>&beta;</b> de cota 3.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="slide508" name="slide">
-			   <label for="slide508"></label>
+			   <input type="radio" id="slide608" name="slide">
+			   <label for="slide608"></label>
 			   <img src="aplicacoes/82_09.png" />
 			 <figcaption>Marque o ponto <b>P'(2)</b> na interseção das horizontais de cota <b>(2)</b> e o ponto <b>Q</b> na interseção das horizontais de cota <b>(3)</b>. Os pontos <b>P</b> e <b>Q</b> definem a reta de interseção <b>&alpha;&beta;</b> procurada. Como as horizontais de <b>&alpha;</b> e <b>&beta;</b> são concorrentes a interseção será uma reta do tipo qualquer. Se fossem paralelas seria uma reta do tipo horizontal. Esse exercício tem 4 soluções possíveis.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="slide509" name="slide">
-			   <label for="slide509"></label>
+			   <input type="radio" id="slide609" name="slide">
+			   <label for="slide609"></label>
 			   <img src="aplicacoes/82_10.png" />
 			 <figcaption>Como as inclinações são iguais temos que a projeção da interseção <b>&alpha;&beta;</b> é a bissetriz do ângulo formado entre as horizontais, ou seja, os ângulos <b>&delta;</b> e <b>&theta;</b> são iguais! Lembre-se que não podemos apenas construir a bissetriz do ângulo mas temos que obter os pontos que definem a reta!</figcaption>
 		   </li>
@@ -3676,44 +3676,44 @@
   <p>Para simplificar a notação vamos denominar cada água do telhado por letras minúsculas do nosso alfabeto. Os lados da poligonal que representa a planta da cobertura são horizontais de cota <b>2</b> de cada água.</p>
 	  <ul class="slider">
 		   <li>
-			   <input type="radio" id="slide510" name="slide">
-			   <label for="slide510"></label>
+			   <input type="radio" id="slide610" name="slide">
+			   <label for="slide610"></label>
 			   <img src="aplicacoes/83_01.png" />
 			 <figcaption>Vamos determinar as interseções das águas da cobertura dada. Como as todas as águas possuem a mesma inclinação utilizaremos o processo das bissetrizes. Construa as bissetrizes de cada ângulo interno da poligonal, obtendo os segmentos <b>(ad)</b>, <b>(ab)</b>, <b>(bc)</b> e <b>(cd)</b>. Eles são as projeções de algumas das interseções entre as águas do telhado.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="slide511" name="slide">
-			   <label for="slide511"></label>
+			   <input type="radio" id="slide611" name="slide">
+			   <label for="slide611"></label>
 			   <img src="aplicacoes/83_02.png" />
 			 <figcaption>Vamos escolher o lado d da poligonal e prolongar a bissetriz <b>(cd)</b>, note que ela encontra o prolongamento da bissetriz <b>(ad)</b> antes de encontrar qualquer outro prolongamento de outra bissetriz. </figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="slide512" name="slide">
-			   <label for="slide512"></label>
+			   <input type="radio" id="slide612" name="slide">
+			   <label for="slide612"></label>
 			   <img src="aplicacoes/83_03.png" />
 			 <figcaption>Desenhe a bissetriz <b>(cd)</b> até que encontre a bissetriz <b>(ad)</b>. Esse ponto de interseção <b>(acd)</b> pertence às duas bissetrizes e, portanto, pertence às águas <b>a</b>, <b>d</b> e <b>c</b>. Assim, esse ponto pertenceà interseção entre as águas <b>a</b> e <b>c</b>, que ainda não foi obtida.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="slide513" name="slide">
-			   <label for="slide513"></label>
+			   <input type="radio" id="slide613" name="slide">
+			   <label for="slide613"></label>
 			   <img src="aplicacoes/83_04.png" />
 			 <figcaption>Desenhe a bissetriz <b>(cd)</b> até que encontre a bissetriz <b>(ad)</b>. Esse ponto de interseção <b>(acd)</b> pertence às duas bissetrizes e, portanto, pertence às águas <b>a</b>, <b>d</b> e <b>c</b>. Assim, esse ponto pertenceà interseção entre as águas <b>a</b> e <b>c</b>, que ainda não foi obtida.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="slide514" name="slide">
-			   <label for="slide514"></label>
+			   <input type="radio" id="slide614" name="slide">
+			   <label for="slide614"></label>
 			   <img src="aplicacoes/83_05.png" />
 			 <figcaption>Desenhe o segmento unindo os pontos <b>(acd)</b> e <b>(abc)</b>, esta será a interseção entre as águas <b>a</b> e <b>c</b>. Pronto! Temos as projeções das interseções das águas desse telhado.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="slide515" name="slide">
-			   <label for="slide515"></label>
+			   <input type="radio" id="slide615" name="slide">
+			   <label for="slide615"></label>
 			   <img src="aplicacoes/83_06.png" />
 			 <figcaption>Para indicar o sentido de escoamento das águas desenhamos setas no sentido de decrescimento da reta de declive de cada água. Lembre-se que essa direção é sempre perpendicular às horizontais do plano!</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="slide516" name="slide">
-			   <label for="slide516"></label>
+			   <input type="radio" id="slide616" name="slide">
+			   <label for="slide616"></label>
 			   <img src="aplicacoes/83_07.png" />
 			 <figcaption>Este telhado possui uma cumeeira <b>(ac)</b> e quatro espigões <b>(ad)</b>, <b>(ab)</b>, <b>(bc)</b> e <b>(cd)</b>. Para obtermos a cota da cumeeira basta obter a cota de qualquer ponto desse segmento, vamos escolher o ponto <b>P≡(acd)</b>. Construa reta de declive <b>d’<sub>a</sub></b> por <b>P</b>, marque o ponto <b>Q(2)</b> sobre a <b>h<sub>a</sub>(2)</b>. </figcaption>
 		   </li>
@@ -3723,50 +3723,50 @@
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2<sup>a</sup> parte</summary>
 	  <ul class="slider">
 		   <li>
-			   <input type="radio" id="slide518" name="slide">
-			   <label for="slide518"></label>
+			   <input type="radio" id="slide618" name="slide">
+			   <label for="slide618"></label>
 			   <img src="aplicacoes/83_08.png" />
 			 <figcaption>Obtenha graficamente o <b>I<sub>30°</sub></b> na escala <b>1:100</b> desenhando o triângulo retângulo como fizemos no exercício anterior. Agora gradue a reta de declive da água a obtendo pontos de cotas <b>3, 4 e 5</b>. Podemos estimar visualmente a cota do ponto <b>P</b> que será em torno de <b>4,2 metros</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="slide519" name="slide">
-			   <label for="slide519"></label>
+			   <input type="radio" id="slide619" name="slide">
+			   <label for="slide619"></label>
 			   <img src="aplicacoes/83_09.png" />
 			 <figcaption>Para obter a cota exata do ponto <b>P</b> vamos rebater o segmento <b>RQ</b> sobre um plano horizontal de cota <b>2</b>. Rebata o ponto <b>R</b> obtendo <b>R<sub>1</sub></b>, lembre-se de marcar a diferença de cotas entre <b>R</b> e <b>Q</b> que é <b>3 metros</b>. O ponto <b>Q’</b> coincide com <b>Q’<sub>1</sub></b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="slide520" name="slide">
-			   <label for="slide520"></label>
+			   <input type="radio" id="slide620" name="slide">
+			   <label for="slide620"></label>
 			   <img src="aplicacoes/83_10.png" />
 			 <figcaption>Represente o segmento <b>R’<sub>1</sub>Q’<sub>1</sub></b> que nos dá a VG de <b>RQ</b>. Por <b>P’</b> trace uma perpendicular a <b>d’<sub>a</sub></b> obtendo sobre <b>R’<sub>1</sub>Q’<sub>1</sub></b> o ponto <b>P’<sub>1</sub></b>. A cota do ponto <b>P</b> será <b>2,2+2 = 4,2 metros</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="slide521" name="slide">
-			   <label for="slide521"></label>
+			   <input type="radio" id="slide621" name="slide">
+			   <label for="slide621"></label>
 			   <img src="aplicacoes/83_11.png" />
 			 <figcaption>Vamos obter a declividade do espigão <b>(bc)</b>. Vamos chamar o ponto <b>(abc)</b> de <b>S</b>. Lembre-se que a cota de <b>S</b> é a mesma que a de <b>P</b>. A declividade do espigão <b>(bc)=CS</b> é: <b>de(bc)=de(CS)=dV / dH</b>. Temos <b>dV=|cota(S) – cota(C)|=4,2 – 2=2,2m</b>, e <b>dH=C’S’=5,4cm</b>.  Portanto, <b>de(bc)=de(CS)=tg(&theta;<sub>bc</sub>)=dV/dH= 2,2 / 5,4=0,407=40,7%</b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="slide522" name="slide">
-			   <label for="slide522"></label>
+			   <input type="radio" id="slide622" name="slide">
+			   <label for="slide622"></label>
 			   <img src="aplicacoes/83_12.png" />
 			 <figcaption>Vamos obter também graficamente a VG do espigão <b>(bc)</b>. Rebata os pontos <b>C</b> e <b>S</b> sobre um plano horizontal de cota <b>2</b>, obtendo os pontos <b>C’<sub>2</sub></b> e <b>S’<sub>2</sub></b>. Esse segmento nos dá a VG do espigão <b>(bc) = 5,8m</b>. Nessa figura temos também o ângulo <b>&theta; = 22°</b> que o espigão forma com <b>&pi;’</b>. Note que não é o mesmo ângulo que as águas do telhado formam com <b>&pi;’</b>!</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="slide523" name="slide">
-			   <label for="slide523"></label>
+			   <input type="radio" id="slide623" name="slide">
+			   <label for="slide623"></label>
 			   <img src="aplicacoes/83_13.png" />
 			 <figcaption>Agora vamos obter a área da água a rebatendo a figura <b>ABSP</b> sobre um plano horizontal de cota <b>2</b>. Escolhemos como eixo a reta <b>h<sub>a</sub>(2)</b>, assim <b>A’≡A’<sub>3</sub></b>e <b>B’≡B’<sub>3</sub></b>. O ponto rebatido <b>P’<sub>3</sub></b> estará na interseção da reta <b>d’<sub>a</sub></b> com a circunferência de centro <b>Q’</b> e de raio sendo a VG de <b>PQ</b> (que já temos).</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="slide524" name="slide">
-			   <label for="slide524"></label>
+			   <input type="radio" id="slide624" name="slide">
+			   <label for="slide624"></label>
 			   <img src="aplicacoes/83_14.png" />
-			 <figcaption>Para obtermos o ponto <b>S</b> rebatido basta lembrar que a cumeeira <b>(ac)≡PS</b> é horizontal e após o rebatimento <b>P’<sub>3</sub>S’<sub>3</sub></b> ficará paralela ao eixo. Assim, <b>S’<b><sub>3</sub></b> estará na interseção da reta perpendicular ao eixo que passa pelo ponto <b>S’</b> e da paralela ao eixo que passa pelo ponto <b>P’<sub>3</sub></b>.</figcaption>
+			 <figcaption>Para obtermos o ponto <b>S</b> rebatido basta lembrar que a cumeeira <b>(ac)≡PS</b> é horizontal e após o rebatimento <b>P’<sub>3</sub>S’<sub>3</sub></b> ficará paralela ao eixo. Assim, <b>S’<sub>3</sub></b> estará na interseção da reta perpendicular ao eixo que passa pelo ponto <b>S’</b> e da paralela ao eixo que passa pelo ponto <b>P’<sub>3</sub></b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="slide525" name="slide">
-			   <label for="slide525"></label>
+			   <input type="radio" id="slide625" name="slide">
+			   <label for="slide625"></label>
 			   <img src="aplicacoes/83_15.png" />
 			 <figcaption>Basta agora calcular a área da figura <b>A’<sub>3</sub>B’<sub>3</sub>S’<sub>3</sub>P’<sub>3</sub></b> que está em VG. Dividindo a figura em dois triângulos e um retângulo temos que <b>S(F1) = S(F3) = 3,8 x 4,4 / 2 = 8,36m<sup>2</sup></b> e <b>S(F2) = 2,3 x 4,4 = 10,12m<sup>2</sup></b>, fornecendo a área total de <b>26,84m<sup>2</sup></b>. Use o link abaixo para visualizar o telhado em 3D</figcaption>
 		   </li>
