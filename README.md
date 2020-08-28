@@ -3027,18 +3027,124 @@
 	</details>
 	<a href="vr/piramide0.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="cotadas/Cotadas_2020_0053a.png" />
-	<div class="combo"><figcaption>Use o link abaixo para a visualização em 3D do sólido projetado.</figcaption>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+		<p>A pirâmide possui base hexagonal e como está contida no plano horizontal, todos os pontos possuem a mesma cota e o hexágono está em Verdadeira Grandeza (VG). </p>
+		<ul class="slider">
+		  <li>
+			   <input type="radio" id="slide338" name="slide">
+			   <label for="slide338"></label>
+			   <img src="cotadas/53_02_01.png" />
+			<figcaption>Desenhar o hexágono em VG, obtendo os pontos <b>C'</b>, <b>D'</b>, <b>E'</b> e <b>F'</b>. Observe que é possível representar dois hexágonos, uma para a direita do segmento <b>A'B'</b> e outro para a esquerda. Vamos escolher a posição para direita, pois tem mais espaço para desenhar. As cotas dos pontos <b>C</b>, <b>D</b>, <b>E</b> e <b>F</b> são iguais à cota do plano, ou seja, <b>(1)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide339" name="slide">
+			   <label for="slide339"></label>
+			   <img src="cotadas/53_02_03.png" />
+			 <figcaption>Unir cada vértice da base com o vértice da pirâmide <b>V</b>. Observe que as projeções dos pontos <b>D</b> e <b>E</b>, estão por baixo das outras faces da pirâmide, logo são invisíveis e, portanto, representados com linhas trajecadas.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/53_02_00.png" class="fundo" />
+	</details>
 	<a href="vr/piramide1.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0054.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+		<p>A pirâmide possui base hexagonal e como está contida no plano horizontal, todos os pontos possuem a mesma cota e o hexágono está em Verdadeira Grandeza (VG).</p>
+		<ul class="slider">
+		  <li>
+			   <input type="radio" id="slide340" name="slide">
+			   <label for="slide340"></label>
+			   <img src="cotadas/54_01_01.png" />
+			<figcaption>Desenhar o hexágono em VG, obtendo os pontos <b>C'</b>, <b>D'</b>, <b>E'</b> e <b>F'</b>. Observe que é possível representar dois hexágonos, uma para a direita do segmento <b>A'B'</b> e outro para a esquerda. Vamos escolher a posição para direita, pois tem mais espaço para desenhar. As cotas dos pontos <b>C</b>, <b>D</b>, <b>E</b> e <b>F</b> são iguais à cota do plano, ou seja, <b>1</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide341" name="slide">
+			   <label for="slide341"></label>
+			   <img src="cotadas/54_01_02.png" />
+			 <figcaption>Representar a altura do prisma, observe que a face superior coincide com a inferior, a projeção da segunda face que também é um hexágono regular coincide com a primeira, as arestas: <b>AG</b>, <b>BH</b>, <b>CI</b>, <b>DJ</b>, <b>EK</b> e <b>FL</b> são retas verticais e, portanto sua projeção é um ponto. Os pontos <b>GHIJKL</b> pertencem ao plano horizontal de cota <b>4</b>, portanto sua cota é <b>4</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide342" name="slide">
+			   <label for="slide342"></label>
+			   <img src="cotadas/54_01_04.png" />
+			 <figcaption>Agora representamos a pirâmide apoiada sobre a face <b>GHIJKL</b>, para isso, basta unir esses vértices com o centro do hexágono, obtendo o vértice <b>V</b> de cota <b>7</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/54_01_00.png" class="fundo" />
+	</details></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0055.png" />
 	<div class="combo"><figcaption>Use o link abaixo para a visualização em 3D do rebatimento do plano vertical.</figcaption>
 	<a href="vr/55_rebatimento_vertical.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="cotadas/Cotadas_2020_0055a.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Rebatimento do plano</summary>
+		<p>A pirâmide possui base hexagonal e como está contida no plano horizontal, todos os pontos possuem a mesma cota e o hexágono está em Verdadeira Grandeza (VG).</p>
+		<ul class="slider">
+		  <li>
+			   <input type="radio" id="slide343" name="slide">
+			   <label for="slide343"></label>
+			   <img src="cotadas/55_01_01.png" />
+			<figcaption>Para encontrar a VG do triângulo <b>ABC</b>, rebatemos o plano <b>&alpha;</b>, para isso, rebatemos cada ponto do triângulo.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide344" name="slide">
+			   <label for="slide344"></label>
+			   <img src="cotadas/55_01_02.png" />
+			 <figcaption>Obter a figura  em VG: <b>A'<sub>1</sub>B'<sub>1</sub>C'<sub>1</sub> que é a verdadeira grandeza do triângulo <b>ABC</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/55_01_00.png" class="fundo" />
+	</details></div>
+	<img src="cotadas/Cotadas_2020_0055b.png" />
+	<figcaption>b) Para determinar o plano vertical são necessários apenas dois pontos, pois já possuímos a informação de que o plano é perpendicular ao plano de projeção <b>&pi;'</b>
+	<br>c) As retas contidas no plano vertical são: reta vertical, reta horizontal e reta qualquer.
+	<br>d) Uma figura contida no plano vertical não tem sua projeção em VG, assim precisamos utilizar o método do rebatimento para determinar a VG de uma figura contida nesse plano.
+	<br>e) A reta perpendicular ao plano vertical é paralela ao plano <b>&pi;'</b>, portanto é uma reta horizontal.
+	<br>f) A condição para que um ponto pertença ao plano é que sua projeção pertença ao traço do plano <b>&alpha;&pi;'</b>
+	<br>g) O traço de uma reta sobre o plano é um ponto <b>r&alpha;</b>, cuja projeção está contida em <b>&alpha;&pi;'</b>.</figcaption>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0056.png" />
-	<div class="combo"><figcaption>Use o link abaixo para a visualização em 3D do sólido projetado.</figcaption>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+		<ul class="slider">
+		  <li>
+			   <input type="radio" id="slide345" name="slide">
+			   <label for="slide345"></label>
+			   <img src="cotadas/56_01_01.png" />
+			<figcaption>Para desenhar a base da pirâmide, precisamos rebater o plano vertical, que contém os vértices <b>A</b> e <b>B</b>. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide346" name="slide">
+			   <label for="slide346"></label>
+			   <img src="cotadas/56_01_02.png" />
+			 <figcaption>Obter a figura  em VG: <b>A'<sub>1</sub>B'<sub>1</sub>C'<sub>1</sub>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide347" name="slide">
+			   <label for="slide347"></label>
+			   <img src="cotadas/56_01_03.png" />
+			 <figcaption>Obter as projeções dos pontos <b>C</b> e <b>D</b> e suas cotas.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide348" name="slide">
+			   <label for="slide348"></label>
+			   <img src="cotadas/56_01_04.png" />
+			 <figcaption>Como é uma pirâmide reta, a altura passa pelo centro da base, assim devemos encontrar o ponto <b>O'<sub>1</sub></b> e medir sua cota.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide349" name="slide">
+			   <label for="slide349"></label>
+			   <img src="cotadas/56_01_05.png" />
+			 <figcaption>A reta que contem a altura é uma reta horizontal, pois é perpendicular ao plano <b>&alpha;</b>, que é vertical, assim para marcar a altura, traçamos uma reta perpendicular ao traço do plano <b>&alpha;&pi;'</b> e marcamos a altura da pirâmide <b>(4)</b>. Observe que a cota do ponto <b>V</b> é igual a cota de <b>O</b>, já que a reta <b>OV</b> é horizontal, <b>V'(3,4)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide350" name="slide">
+			   <label for="slide350"></label>
+			   <img src="cotadas/56_01_06.png" />
+			 <figcaption>Traçar as arestas da pirâmide, o ponto <b>A</b> que possui a menor cota é invisível, por isso o representamos com linha tracejada.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/56_01_00.png" class="fundo" />
+	</details>
 	<a href="vr/piramide2.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="cotadas/Cotadas_2020_0056a.png" />
 	<div class="combo"><figcaption>Use o link abaixo para a visualização em 3D do sólido projetado.</figcaption>
