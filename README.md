@@ -3768,12 +3768,11 @@
 			   <input type="radio" id="slide525" name="slide">
 			   <label for="slide525"></label>
 			   <img src="aplicacoes/83_15.png" />
-			 <figcaption>Basta agora calcular a área da figura <b>A’<sub>3</sub>B’<sub>3</sub>S’<sub>3</sub>P’<sub>3</sub></b> que está em VG. Dividindo a figura em dois triângulos e um retângulo temos que <b>S(F1) = S(F3) = 3,8 x 4,4 / 2 = 8,36m<sup>2</sup></b> e <b>S(F2) = 2,3 x 4,4 = 10,12m<sup>2</sup></b>, fornecendo a área total de <b>26,84m<sup>2</sup></b>.</figcaption>
+			 <figcaption>Basta agora calcular a área da figura <b>A’<sub>3</sub>B’<sub>3</sub>S’<sub>3</sub>P’<sub>3</sub></b> que está em VG. Dividindo a figura em dois triângulos e um retângulo temos que <b>S(F1) = S(F3) = 3,8 x 4,4 / 2 = 8,36m<sup>2</sup></b> e <b>S(F2) = 2,3 x 4,4 = 10,12m<sup>2</sup></b>, fornecendo a área total de <b>26,84m<sup>2</sup></b>. Use o link abaixo para visualizar o telhado em 3D</figcaption>
 		   </li>
 		</ul>
 		<img src="aplicacoes/83_07.png" class="fundo" />
 	</details>
-  <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
   <a href="telhados/telhado33.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0084.png" />
