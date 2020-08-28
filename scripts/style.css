@@ -55,7 +55,7 @@ summary {
   font-weight: bold;
   cursor: pointer;
   margin-bottom:8px;
-  text-shadow: 1px 1px 1px LightGray;
+  text-shadow: 1px 1px 1px rgb(227,243,235);
 }
 details {
   border: 1px solid #a2dec0;
@@ -86,7 +86,7 @@ li > img{
   font-weight: normal;
   margin-bottom: 5px;
   margin-left:0px;
-  text-shadow: 1px 1px 1px LightGray;
+  text-shadow: 1px 1px 1px rgb(227,243,235);
 }
 
 h4 {
