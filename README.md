@@ -3033,6 +3033,9 @@
 	<img src="cotadas/Cotadas_2020_0054.png" />
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0055.png" />
+	<div class="combo"><figcaption>Use o link abaixo para a visualização em 3D do rebatimento do plano vertical.</figcaption>
+	<a href="vr/55_rebatimento_vertical.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<img src="cotadas/Cotadas_2020_0055.png" />
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0056.png" />
 	<div class="combo"><figcaption>Use o link abaixo para a visualização em 3D do sólido projetado.</figcaption>
