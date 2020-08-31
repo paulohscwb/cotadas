@@ -39,14 +39,14 @@ figcaption {
 
 li > figcaption {
   top: 0px;
-  color: #606060;
-  background: rgb(227,243,235);
+  color: color: rgb(21,153,87); /*#606060;*/
+  background: white; /*rgb(227,243,235);*/
   padding: 5px;
   border-radius: 7px;
   font-size: 14px;
   position: relative;
   height:auto;
-  box-shadow: 1px 1px 2px LightGray;
+  box-shadow: 1px 1px 3px LightGray;
   margin-bottom: 5px;
 }
 summary {
