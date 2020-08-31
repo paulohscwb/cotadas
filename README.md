@@ -3879,7 +3879,191 @@
   <a href="telhados/telhado33.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0084.png" />
-  <div class="combo"><figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Bissetrizes</summary>
+  <p>Vamos determinar as interseções das águas da cobertura dada. Como as todas as águas possuem a mesma inclinação utilizaremos o processo das bissetrizes. Elas são as projeções de algumas das interseções entre as águas do telhado. Acompanhe o traçado das bissetrizes utilizando os esquadros. Nomeie os vértices da poligonal de <b>A</b> a <b>F</b>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="slide626" name="slide">
+			   <label for="slide626"></label>
+			   <img src="aplicacoes/84_01b.png" />
+			 <figcaption>Como temos ângulos de <b>90°</b> na poligonal vamos utilizar o esquadro de <b>45°</b> para construir as bissetrizes. Coloque a hipotenusa do esquadro de <b>30/60</b> sobre o lado <b>A’B’</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide627" name="slide">
+			   <label for="slide627"></label>
+			   <img src="aplicacoes/84_02b.png" />
+			 <figcaption>Coloque o esquadro de <b>45</b> como apoio no cateto do esquadro de 30/60.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide628" name="slide">
+			   <label for="slide628"></label>
+			   <img src="aplicacoes/84_03b.png" />
+			 <figcaption>Deslize o esquadro de <b>30/60</b> para baixo. Lembre-se de não mover o esquadro de <b>45</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide629" name="slide">
+			   <label for="slide629"></label>
+			   <img src="aplicacoes/84_04b.png" />
+			 <figcaption>Segure o esquadro de <b>30/60</b> e apoie o cateto do esquadro de <b>45</b> com o ângulo de <b>45°</b> voltado para a esquerda. Deslize até passar pela extremidade <b>B’</b> do segmento <b>A’B’</b>. Desenhe a primeira bissetriz <b>(ab)</b>. Lembre-se de não movimentar o esquadro de <b>30/60</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide630" name="slide">
+			   <label for="slide630"></label>
+			   <img src="aplicacoes/84_05b.png" />
+			 <figcaption>Deslize o esquadro de <b>45</b> até passar pelo ponto <b>D’</b> da poligonal. Desenhe a segunda bissetriz <b>(cd)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide631" name="slide">
+			   <label for="slide631"></label>
+			   <img src="aplicacoes/84_06b.png" />
+			 <figcaption>Reposicione o esquadro de <b>45</b> agora com o ângulo de <b>45°</b> voltado para a direita. Deslize o esquadro até que passe pelo ponto <b>A’</b>. Desenhe a terceira bissetriz <b>(af)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide632" name="slide">
+			   <label for="slide632"></label>
+			   <img src="aplicacoes/84_07b.png" />
+			 <figcaption>Deslize agora o esquadro de <b>45</b> até o ponto <b>C’</b> da poligonal. Desenhe a bissetriz <b>(bc)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide633" name="slide">
+			   <label for="slide633"></label>
+			   <img src="aplicacoes/84_08b.png" />
+			 <figcaption>Deslize o esquadro de <b>45</b> até o ponto <b>F’</b> da poligonal. Desenhe a bissetriz <b>(ef)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide634" name="slide">
+			   <label for="slide634"></label>
+			   <img src="aplicacoes/84_09b.png" />
+			 <figcaption>Finalmente, deslize o esquadro de <b>45</b> até o ponto <b>E’</b> da poligonal. Desenhe a bissetriz <b>(de)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide635" name="slide">
+			   <label for="slide635"></label>
+			   <img src="aplicacoes/84_10b.png" />
+			 <figcaption>Pronto! As bissetrizes dos vértices da poligonal estão prontas! </figcaption>
+		   </li>
+		</ul>
+		<img src="aplicacoes/84_00b.png" class="fundo" />
+	</details>
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1<sup>a</sup> parte</summary>
+  <p>Vamos agora obter as demais interseções das águas da cobertura dada. Já construímos as bissetrizes de cada ângulo interno da poligonal, obtendo os segmentos <b>(ab)</b>, <b>(bc)</b>, <b>(cd)</b>, <b>(de)</b>, <b>(ef)</b> e <b>(af)</b>. As bissetrizes dos ângulos internos menores que <b>180°</b> serão os espigões e as outras serão os rincões. Temos que <b>(ef)</b> é um rincão onde representaremos posteriormente uma calha.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="slide636" name="slide">
+			   <label for="slide636"></label>
+			   <img src="aplicacoes/84_01.png" />
+			 <figcaption>Vamos escolher o lado <b>a</b> da poligonal e prolongar a bissetriz <b>(ab)</b>, note que ela encontra o prolongamento da bissetriz <b>(af)</b> antes de encontrar qualquer outro prolongamento de outra bissetriz. Desenhe esses segmentos e marque o ponto de interseção <b>(abf)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide637" name="slide">
+			   <label for="slide637"></label>
+			   <img src="aplicacoes/84_02.png" />
+			 <figcaption>Do ponto <b>(abf)</b> sairá a interseção entre as águas <b>b</b> e <b>f</b>. Como as horizontais dessas águas são paralelas, a interseção procurada será também paralela, ou seja, será uma horizontal e, portanto, uma cumeeira. Desenhe o segmento <b>(bf)</b> paralelo às laterais da poligonal passando pelo ponto <b>(abf)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide638" name="slide">
+			   <label for="slide638"></label>
+			   <img src="aplicacoes/84_03.png" />
+			 <figcaption>Vamos prolongar <b>(bf)</b> até que encontre a próxima bissetriz, que será <b>(bc)</b>. Desenhe os prolongamentos dos segmentos e marque o ponto comum <b>(bcf)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide639" name="slide">
+			   <label for="slide639"></label>
+			   <img src="aplicacoes/84_04.png" />
+			 <figcaption>Do ponto <b>(bcf)</b> sairá a interseção entre as águas <b>c</b> e <b>f</b>. Note que não temos ainda esta interseção. Vamos obter mais um ponto dela bastando prolongar a lateral <b>f</b> da poligonal até encontrar a lateral <b>c</b>, obtendo assim o ponto <b>O</b>. Desenhe o segmento tracejado unindo <b>(bcf)</b> ao <b>O</b> obtendo a interseção <b>(cf)</b>. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide640" name="slide">
+			   <label for="slide640"></label>
+			   <img src="aplicacoes/84_05.png" />
+			 <figcaption>Note que a interseção <b>(cf)</b> irá interceptar <b>(ef)</b>.Assim prolongue o segmento <b>(cf)</b> a partir de <b>(bcf)</b> até encontrar o prolongamento de <b>(ef)</b>, obtendo o ponto <b>(cef)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide641" name="slide">
+			   <label for="slide641"></label>
+			   <img src="aplicacoes/84_06.png" />
+			 <figcaption>Do ponto <b>(cef)</b> sairá a interseção entre as águas <b>c</b> e <b>e</b>. Como as horizontais dessas águas são paralelas, a interseção procurada será também paralela, ou seja, será uma horizontal e, portanto, uma cumeeira. Desenhe o segmento <b>(ce)</b> paralelo às laterais da poligonal passando pelo ponto <b>(cef)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide642" name="slide">
+			   <label for="slide642"></label>
+			   <img src="aplicacoes/84_07.png" />
+			 <figcaption>As interseções <b>(ce)</b>, <b>(de)</b> e <b>(cd)</b> se encontram no ponto <b>(cde)</b> comum a elas. Prolongue essas interseções finalizando a projeção das interseções das águas desse telhado!</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide643" name="slide">
+			   <label for="slide643"></label>
+			   <img src="aplicacoes/84_08.png" />
+			 <figcaption>Para indicar o sentido de escoamento das águas desenhamos setas no sentido de decrescimento da reta de declive de cada água. Lembre-se que essa direção é sempre perpendicular às horizontais do plano!</figcaption>
+		   </li>
+		</ul>
+		<img src="aplicacoes/84_00.png" class="fundo" />
+	</details>
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2<sup>a</sup> parte</summary>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="slide644" name="slide">
+			   <label for="slide644"></label>
+			   <img src="aplicacoes/84_09.png" />
+			 <figcaption>Este telhado possui duas cumeeiras <b>(bf)</b> e <b>(ce)</b>. Como todas as águas possuem a mesma inclinação basta comparar em projeção a distância das cumeeiras até a linha de beiral. Assim, a cumeeira principal será <b>(bf)</b>. Vamos obter a cota do ponto <b>P≡(abf)</b>. Construa a reta de declive <b>d’<sub>f</sub></b> por <b>P</b>, marque o ponto <b>Q(2,2)</b> sobre a <b>h<sub>f</sub>(2,2)</b>. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide645" name="slide">
+			   <label for="slide645"></label>
+			   <img src="aplicacoes/84_10.png" />
+			 <figcaption>Obtenha graficamente o <b>I<sub>30°</sub></b> na escala 1:100. Agora gradue a reta de declive da água <b>f</b> obtendo pontos de cotas <b>3,2m</b>, <b>4,2m</b> e <b>5,2m</b>. Podemos estimar visualmente a cota do ponto <b>P</b> que será em torno de <b>4,8 metros</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide646" name="slide">
+			   <label for="slide646"></label>
+			   <img src="aplicacoes/84_11.png" />
+			 <figcaption>Para obter a cota exata do ponto <b>P</b> rebata o segmento <b>RQ</b> sobre um plano horizontal de cota <b>2,2m</b>, obtendo o segmento <b>R’<sub>1</sub>Q’<sub>1</sub></b> que nos dá a VG de <b>RQ</b>. Por <b>P’</b> trace uma perpendicular a <b>d’<sub>f</sub></b> obtendo sobre <b>R’<sub>1</sub>Q’<sub>1</sub></b> o ponto <b>P’<sub>1</sub></b>. A cota do ponto <b>P</b> será <b>2,6+2,2 = 4,8m</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide647" name="slide">
+			   <label for="slide647"></label>
+			   <img src="aplicacoes/84_12.png" />
+			 <figcaption>Vamos obter a declividade do rincão <b>(ef) ≡ SF</b>. Para obter a cota de <b>S</b> basta traçar por <b>S’</b> uma perpendicular à reta <b>d’<sub>f</sub></b>, obtendo o ponto <b>T’</b>. O ponto rebatido <b>T’<sub>1</sub></b> nos dá a cota relativa de <b>T</b>. A cota de <b>T</b> é <b>3,3m</b> que é a mesma de <b>S</b>. A declividade do rincão <b>(ef)=SF</b> é: <b>de(ef)=de(SF) = dV / dH</b>. Temos <b>dV = |cota(S) – cota(F)| = 3,3 – 2,2 = 1,1m</b> e <b>dH = S’F’ = 2,6m</b>.  Portanto, <b>de(ef) = de(SF) = tg(&theta;<sub>ef</sub>) = dV/dH = 1,1 / 2,6 = 0,423 = 42,3%</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide648" name="slide">
+			   <label for="slide648"></label>
+			   <img src="aplicacoes/84_13.png" />
+			 <figcaption>Vamos obter também graficamente a VG do rincão <b>(ef)</b>. Rebata os pontos <b>S</b> e <b>F</b> sobre um plano horizontal de cota <b>2,2m</b>, obtendo os pontos <b>S’<sub>2</sub></b> e <b>F’<sub>2</sub></b>. Esse segmento nos dá a VG do rincão <b>(ef) = 2.8m</b>. Nessa figura temos também o ângulo <b>&theta; = 22,9°</b> que o espigão forma com <b>&pi;’</b>. Note que não é o mesmo ângulo que as águas do telhado formam com <b>&pi;’</b>! </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide649" name="slide">
+			   <label for="slide649"></label>
+			   <img src="aplicacoes/84_14.png" />
+			 <figcaption>Agora vamos obter a área da água <b>d</b>. Nomeie o ponto <b>(cde)</b> como <b>U</b>. A sua cota é a mesma que a de <b>S</b>. Vamos rebater a figura <b>UDE</b> sobre um plano horizontal de cota <b>2,2m</b>. Escolhemos como eixo a reta <b>h<sub>d</sub>(2,2)</b>, assim <b>E’≡E’<sub>3</sub></b>e <b>D’≡D’<sub>3</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide650" name="slide">
+			   <label for="slide650"></label>
+			   <img src="aplicacoes/84_15.png" />
+			 <figcaption>Para obter o raio do rebatimento de <b>U</b> construa por <b>U’</b> uma perpendicular à <b>h’<sub>d</sub></b> obtendo <b>V’</b> sobre essa horizontal. Rebata o segmento <b>UV</b> obtendo sua VG em <b>U’<sub>0</sub>V’<sub>0</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide651" name="slide">
+			   <label for="slide651"></label>
+			   <img src="aplicacoes/84_16.png" />
+			 <figcaption>O ponto rebatido <b>U’<sub>3</sub></b> estará na interseção da reta perpendicular a <b>h’<sub>d</sub></b> com a circunferência de centro <b>V’</b> e de raio sendo a VG de <b>UV</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide652" name="slide">
+			   <label for="slide652"></label>
+			   <img src="aplicacoes/84_17.png" />
+			 <figcaption>Basta agora calcular a área da figura <b>U’<sub>3</sub>D’<sub>3</sub>E’<sub>3</sub></b> que está em VG. <b>S(F) = 3,7 x 2,1/2 = 3,88m<sup>2</sup></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide653" name="slide">
+			   <label for="slide653"></label>
+			   <img src="aplicacoes/84_18.png" />
+			 <figcaption>O único rincão do telhado é <b>(ef)</b> e desenhamos mais um segmento paralelo a ele para representar a calha.</figcaption>
+		   </li>
+		</ul>
+		<img src="aplicacoes/84_08.png" class="fundo" />
+	</details>
   <a href="telhados/telhado34.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0085.png" />
