@@ -4362,7 +4362,7 @@
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0084.png" />
    <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Bissetrizes</summary>
-  <p>Vamos determinar as interseções das águas da cobertura dada. Como as todas as águas possuem a mesma inclinação utilizaremos o processo das bissetrizes. Elas são as projeções de algumas das interseções entre as águas do telhado. Acompanhe o traçado das bissetrizes utilizando os esquadros. Nomeie os vértices da poligonal de <b>A</b> a <b>F</b>.</p>
+  <p>Vamos determinar as interseções das águas da cobertura dada. Como todas as águas possuem a mesma inclinação utilizaremos o processo das bissetrizes. Elas são as projeções de algumas das interseções entre as águas do telhado. Acompanhe o traçado das bissetrizes utilizando os esquadros. Nomeie os vértices da poligonal de <b>A</b> a <b>F</b>.</p>
 	  <ul class="slider">
 		   <li>
 			   <input type="radio" id="slide626" name="slide">
@@ -4473,10 +4473,22 @@
 			 <figcaption>As interseções <b>(ce)</b>, <b>(de)</b> e <b>(cd)</b> se encontram no ponto <b>(cde)</b> comum a elas. Prolongue essas interseções finalizando a projeção das interseções das águas desse telhado!</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="slide643" name="slide">
-			   <label for="slide643"></label>
+		   <input type="radio" id="slide644" name="slide">
+			   <label for="slide644"></label>
 			   <img src="aplicacoes/84_08.png" />
-			 <figcaption>Para indicar o sentido de escoamento das águas desenhamos setas no sentido de decrescimento da reta de declive de cada água. Lembre-se que essa direção é sempre perpendicular às horizontais do plano!</figcaption>
+			 <figcaption>Este telhado possui duas cumeeiras <b>(bf)</b> e <b>(ce)</b>. Como todas as águas possuem a mesma inclinação basta comparar em projeção a distância das cumeeiras até a linha de beiral. Assim, a cumeeira principal será <b>(bf)</b>. Vamos obter a cota do ponto <b>P≡(abf)</b>. Construa a reta de declive <b>d’<sub>f</sub></b> por <b>P</b>, marque o ponto <b>Q(2,2)</b> sobre a <b>h<sub>f</sub>(2,2)</b>. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide645" name="slide">
+			   <label for="slide645"></label>
+			   <img src="aplicacoes/84_09.png" />
+			 <figcaption>Obtenha graficamente o <b>I<sub>30°</sub></b> na escala 1:100. Agora gradue a reta de declive da água <b>f</b> obtendo pontos de cotas <b>3,2m</b>, <b>4,2m</b> e <b>5,2m</b>. Podemos estimar visualmente a cota do ponto <b>P</b> que será em torno de <b>4,8 metros</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide646" name="slide">
+			   <label for="slide646"></label>
+			   <img src="aplicacoes/84_10.png" />
+			 <figcaption>Para obter a cota exata do ponto <b>P</b> rebata o segmento <b>RQ</b> sobre um plano horizontal de cota <b>2,2m</b>, obtendo o segmento <b>R’<sub>1</sub>Q’<sub>1</sub></b> que nos dá a VG de <b>RQ</b>. Por <b>P’</b> trace uma perpendicular a <b>d’<sub>f</sub></b> obtendo sobre <b>R’<sub>1</sub>Q’<sub>1</sub></b> o ponto <b>P’<sub>1</sub></b>. A cota do ponto <b>P</b> será <b>2,6+2,2 = 4,8m</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="aplicacoes/84_00.png" class="fundo" />
@@ -4484,64 +4496,52 @@
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2<sup>a</sup> parte</summary>
 	  <ul class="slider">
 		   <li>
-			   <input type="radio" id="slide644" name="slide">
-			   <label for="slide644"></label>
-			   <img src="aplicacoes/84_09.png" />
-			 <figcaption>Este telhado possui duas cumeeiras <b>(bf)</b> e <b>(ce)</b>. Como todas as águas possuem a mesma inclinação basta comparar em projeção a distância das cumeeiras até a linha de beiral. Assim, a cumeeira principal será <b>(bf)</b>. Vamos obter a cota do ponto <b>P≡(abf)</b>. Construa a reta de declive <b>d’<sub>f</sub></b> por <b>P</b>, marque o ponto <b>Q(2,2)</b> sobre a <b>h<sub>f</sub>(2,2)</b>. </figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="slide645" name="slide">
-			   <label for="slide645"></label>
-			   <img src="aplicacoes/84_10.png" />
-			 <figcaption>Obtenha graficamente o <b>I<sub>30°</sub></b> na escala 1:100. Agora gradue a reta de declive da água <b>f</b> obtendo pontos de cotas <b>3,2m</b>, <b>4,2m</b> e <b>5,2m</b>. Podemos estimar visualmente a cota do ponto <b>P</b> que será em torno de <b>4,8 metros</b>.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="slide646" name="slide">
-			   <label for="slide646"></label>
-			   <img src="aplicacoes/84_11.png" />
-			 <figcaption>Para obter a cota exata do ponto <b>P</b> rebata o segmento <b>RQ</b> sobre um plano horizontal de cota <b>2,2m</b>, obtendo o segmento <b>R’<sub>1</sub>Q’<sub>1</sub></b> que nos dá a VG de <b>RQ</b>. Por <b>P’</b> trace uma perpendicular a <b>d’<sub>f</sub></b> obtendo sobre <b>R’<sub>1</sub>Q’<sub>1</sub></b> o ponto <b>P’<sub>1</sub></b>. A cota do ponto <b>P</b> será <b>2,6+2,2 = 4,8m</b>.</figcaption>
-		   </li>
-		   <li>
 			   <input type="radio" id="slide647" name="slide">
 			   <label for="slide647"></label>
-			   <img src="aplicacoes/84_12.png" />
-			 <figcaption>Vamos obter a declividade do rincão <b>(ef) ≡ SF</b>. Para obter a cota de <b>S</b> basta traçar por <b>S’</b> uma perpendicular à reta <b>d’<sub>f</sub></b>, obtendo o ponto <b>T’</b>. O ponto rebatido <b>T’<sub>1</sub></b> nos dá a cota relativa de <b>T</b>. A cota de <b>T</b> é <b>3,3m</b> que é a mesma de <b>S</b>. A declividade do rincão <b>(ef)=SF</b> é: <b>de(ef)=de(SF) = dV / dH</b>. Temos <b>dV = |cota(S) – cota(F)| = 3,3 – 2,2 = 1,1m</b> e <b>dH = S’F’ = 2,6m</b>.  Portanto, <b>de(ef) = de(SF) = tg(&theta;<sub>ef</sub>) = dV/dH = 1,1 / 2,6 = 0,423 = 42,3%</b>.</figcaption>
+			   <img src="aplicacoes/84_11.png" />
+			 <figcaption>Vamos obter a declividade do rincão <b>(ef)</b>. Nomeie o ponto <b>(cef)</b> como <b>S</b>. Para obter a cota de <b>S</b> basta traçar por <b>S’</b> uma perpendicular à reta <b>d’<sub>f</sub></b>, obtendo o ponto <b>T’</b>. O ponto rebatido <b>T’<sub>1</sub></b> nos dá a cota relativa de <b>T</b>. A cota de <b>T</b> é <b>3,3m</b> que é a mesma de <b>S</b>. A declividade do rincão <b>(ef)=SF</b> é: <b>de(ef)=de(SF) = dV / dH</b>. Temos <b>dV = |cota(S) – cota(F)| = 3,3 – 2,2 = 1,1m</b> e <b>dH = S’F’ = 2,6m</b>.  Portanto, <b>de(ef) = de(SF) = tg(&theta;<sub>ef</sub>) = dV/dH = 1,1 / 2,6 = 0,423 = 42,3%</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide648" name="slide">
 			   <label for="slide648"></label>
-			   <img src="aplicacoes/84_13.png" />
+			   <img src="aplicacoes/84_12.png" />
 			 <figcaption>Vamos obter também graficamente a VG do rincão <b>(ef)</b>. Rebata os pontos <b>S</b> e <b>F</b> sobre um plano horizontal de cota <b>2,2m</b>, obtendo os pontos <b>S’<sub>2</sub></b> e <b>F’<sub>2</sub></b>. Esse segmento nos dá a VG do rincão <b>(ef) = 2.8m</b>. Nessa figura temos também o ângulo <b>&theta; = 22,9°</b> que o espigão forma com <b>&pi;’</b>. Note que não é o mesmo ângulo que as águas do telhado formam com <b>&pi;’</b>! </figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide649" name="slide">
 			   <label for="slide649"></label>
-			   <img src="aplicacoes/84_14.png" />
+			   <img src="aplicacoes/84_13.png" />
 			 <figcaption>Agora vamos obter a área da água <b>d</b>. Nomeie o ponto <b>(cde)</b> como <b>U</b>. A sua cota é a mesma que a de <b>S</b>. Vamos rebater a figura <b>UDE</b> sobre um plano horizontal de cota <b>2,2m</b>. Escolhemos como eixo a reta <b>h<sub>d</sub>(2,2)</b>, assim <b>E’≡E’<sub>3</sub></b>e <b>D’≡D’<sub>3</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide650" name="slide">
 			   <label for="slide650"></label>
-			   <img src="aplicacoes/84_15.png" />
+			   <img src="aplicacoes/84_14.png" />
 			 <figcaption>Para obter o raio do rebatimento de <b>U</b> construa por <b>U’</b> uma perpendicular à <b>h’<sub>d</sub></b> obtendo <b>V’</b> sobre essa horizontal. Rebata o segmento <b>UV</b> obtendo sua VG em <b>U’<sub>0</sub>V’<sub>0</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide651" name="slide">
 			   <label for="slide651"></label>
-			   <img src="aplicacoes/84_16.png" />
+			   <img src="aplicacoes/84_15.png" />
 			 <figcaption>O ponto rebatido <b>U’<sub>3</sub></b> estará na interseção da reta perpendicular a <b>h’<sub>d</sub></b> com a circunferência de centro <b>V’</b> e de raio sendo a VG de <b>UV</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide652" name="slide">
 			   <label for="slide652"></label>
-			   <img src="aplicacoes/84_17.png" />
+			   <img src="aplicacoes/84_16.png" />
 			 <figcaption>Basta agora calcular a área da figura <b>U’<sub>3</sub>D’<sub>3</sub>E’<sub>3</sub></b> que está em VG. <b>S(F) = 3,7 x 2,1/2 = 3,88m<sup>2</sup></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide653" name="slide">
 			   <label for="slide653"></label>
-			   <img src="aplicacoes/84_18.png" />
+			   <img src="aplicacoes/84_17.png" />
 			 <figcaption>O único rincão do telhado é <b>(ef)</b> e desenhamos mais um segmento paralelo a ele para representar a calha.</figcaption>
+		   </li>
+		   	<li>
+			   <input type="radio" id="slide643" name="slide">
+			   <label for="slide643"></label>
+			   <img src="aplicacoes/84_18.png" />
+			 <figcaption>Para indicar o sentido de escoamento das águas desenhamos setas no sentido de decrescimento da reta de declive de cada água. Lembre-se que essa direção é sempre perpendicular às horizontais do plano!</figcaption>
 		   </li>
 		</ul>
 		<img src="aplicacoes/84_08.png" class="fundo" />
