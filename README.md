@@ -2648,9 +2648,134 @@
 	</details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0037.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: item a</summary>
+	<p>Observe o desenho em 3D, nosso objetivo é obter a distância horizontal equivalente à diferença de cota de uma unidade.</p>
+	<ul class="slider">
+		  <li>
+			   <input type="radio" id="slide548" name="slide">
+			   <label for="slide548"></label>
+			   <img src="cotadas/37_01_01.png" />
+			<figcaption>Iniciamos fazendo o rebatimento do segmento <b>AB</b> sobre o plano <b>&pi;’</b>, para tanto, traçamos perpendiculares a <b>r’</b>, por <b>A’</b> e <b>B’</b> marcando suas respectivas cotas, e, assim, encontrando os pontos auxiliares  <b>A’<sub>1</sub></b> e <b>B’<sub>1</sub></b>. Com isso, já sabemos que encontramos a VG de <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide549" name="slide">
+			   <label for="slide549"></label>
+			   <img src="cotadas/37_01_02.png" />
+			 <figcaption>Agora marcamos a distância vertical de 1 unidade, na perpendicular <b>B’B’<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide550" name="slide">
+			   <label for="slide550"></label>
+			   <img src="cotadas/37_01_03.png" />
+			 <figcaption>Traçando uma paralela a <b>r’</b>, encontramos <b>C’<sub>1</sub></b> e, por uma perpendicular a <b>r’</b>, por esse ponto, marcamos a projeção do ponto <b>C’</b>, de cota <b>3,2</b>. Isso porque, partimos de <b>B</b>, de cota <b>4,2</b> e “descemos” uma unidade.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide551" name="slide">
+			   <label for="slide551"></label>
+			   <img src="cotadas/37_01_04.png" />
+			 <figcaption><b>C’B’</b> indica  o intervalo da reta <b>r</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/37_01_00.png" class="fundo" />
+	</details>
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: item b</summary>
+	<p>Observe o desenho em 3D, nosso objetivo é obter a distância horizontal equivalente à diferença de cota de uma unidade. Diferentemente do que fizemos no item a, iremos usar o Teorema de Thales.</p>
+	<ul class="slider">
+		  <li>
+			   <input type="radio" id="slide552" name="slide">
+			   <label for="slide552"></label>
+			   <img src="cotadas/37_02_01.png" />
+			<figcaption>Iniciamos construindo uma reta qualquer por <b>A’</b>. Com a régua, igualamos a marcação de <b>2 cm</b> da régua no ponto (já que <b>A</b> tem cota <b>2</b>) e marcamos dois pontos, um em <b>3 cm</b> e outro em <b>4,2 cm</b> (cota do ponto <b>B</b>).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide553" name="slide">
+			   <label for="slide553"></label>
+			   <img src="cotadas/37_02_02.png" />
+			 <figcaption>Ao traçarmos uma paralela pelo último segmento traçado passando pela marcação feita em <b>3 cm</b>, encontramos a projeção do ponto <b>C</b> de cota <b>3</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide554" name="slide">
+			   <label for="slide554"></label>
+			   <img src="cotadas/37_02_03.png" />
+			 <figcaption>Como a diferença de cota entre <b>C</b> e <b>A</b> é de 1 unidade, <b>A’C’</b> representa o intervalo da reta <b>r</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide555" name="slide">
+			   <label for="slide555"></label>
+			   <img src="cotadas/37_02_04.png" />
+			 <figcaption></figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide556" name="slide">
+			   <label for="slide556"></label>
+			   <img src="cotadas/37_02_05.png" />
+			 <figcaption></figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/37_02_00.png" class="fundo" />
+	</details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0038.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<ul class="slider">
+		  <li>
+			   <input type="radio" id="slide557" name="slide">
+			   <label for="slide557"></label>
+			   <img src="cotadas/38_01_02.png" />
+			<figcaption>Iniciamos traçando uma reta qualquer concorrente à reta <b>r’</b> pelo ponto de menor cota. Nesse caso <b>A’</b>. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide558" name="slide">
+			   <label for="slide558"></label>
+			   <img src="cotadas/38_01_03.png" />
+			 <figcaption>Com a régua igualamos a marca da régua de acordo com a cota do ponto. Nesse caso, igualamos a marca de <b>0,8</b> à <b>A’</b>. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide559" name="slide">
+			   <label for="slide559"></label>
+			   <img src="cotadas/38_01_04.png" />
+			 <figcaption>Marcamos então os pontos 1, 2, 3, 4, 5, 6, e 6,3 (cota do ponto <b>B</b>).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide560" name="slide">
+			   <label for="slide560"></label>
+			   <img src="cotadas/38_01_05.png" />
+			 <figcaption>Unimos o ponto <b>6,3</b> a <b>B’</b> e traçamos retas paralelas obtendo os pontos de cotas inteiras, e com isso a graduação da reta <b>AB</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/38_01_01.png" class="fundo" />
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0038a.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<p>O processo é similar ao anterior, no entanto, devemos tomar cuidado com a cota negativa.</p>
+	<ul class="slider">
+		  <li>
+			   <input type="radio" id="slide561" name="slide">
+			   <label for="slide561"></label>
+			   <img src="cotadas/38_02_02.png" />
+			<figcaption>Iniciamos traçando uma reta qualquer concorrente à reta <b>r’</b> pelo ponto de menor cota. Nesse caso <b>A’</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide562" name="slide">
+			   <label for="slide562"></label>
+			   <img src="cotadas/38_02_03.png" />
+			 <figcaption>Igualamos a marca <b>0 cm</b> da régua com <b>A’</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide563" name="slide">
+			   <label for="slide563"></label>
+			   <img src="cotadas/38_02_04.png" />
+			 <figcaption>Marcamos então os pontos -1, 0, 1,  2, 3, 4, 5, 6, e 6,2 (cota do ponto <b>B</b>). Observe que 0,3 cm, corresponde à cota -1. Dessa maneira, 1,3 cm, corresponderá à cota 0, e assim por diante. Caso deseje você pode marcar a cota 0 e depois arrastar a régua, igualando a cota 0 com a marca de 0 cm.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide564" name="slide">
+			   <label for="slide564"></label>
+			   <img src="cotadas/38_02_05.png" />
+			 <figcaption>Unimos o ponto <b>6,2</b> a <b>B’</b> e traçamos retas paralelas obtendo os pontos de cotas inteiras, e com isso a graduação da reta <b>AB</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/38_02_01.png" class="fundo" />
+	</details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0039.png" />
 	<img src="cotadas/Cotadas_2020_0039a.png" />
