@@ -2794,7 +2794,83 @@
 	</details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0040.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<ul class="slider">
+		   <li>
+			   <input type="radio" id="slide565" name="slide">
+			   <label for="slide565"></label>
+			   <img src="cotadas/40_01_01.png" />
+			<figcaption>Iniciamos marcando a projeção dos pontos <b>A</b> e <b>B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide566" name="slide">
+			   <label for="slide566"></label>
+			   <img src="cotadas/40_01_02.png" />
+			<figcaption>Traçamos duas perpendiculares por <b>A</b> e <b>B</b>, marcando 3 unidades a partir de <b>A</b> e 7,5 unidades a partir de <b>B</b>. Com isso temos os pontos <b>A’<sub>1</sub></b> e <b>B’<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide567" name="slide">
+			   <label for="slide567"></label>
+			   <img src="cotadas/40_01_03.png" />
+			 <figcaption>Traçando-se uma perpendicular por <b>A’<sub>1</sub></b>, encontramos a inclinação da reta (ângulo <b>&theta;</b>).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide568" name="slide">
+			   <label for="slide568"></label>
+			   <img src="cotadas/40_01_04.png" />
+			 <figcaption>A partir de <b>B’<sub>1</sub></b>, marcamos uma unidade, indicando <b>dV=1</b>, com isso construímos o triângulo conforme a figura e encontramos o intervalo <b>Ir</b>, conforme o indicado.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide569" name="slide">
+			   <label for="slide569"></label>
+			   <img src="cotadas/40_01_05.png" />
+			 <figcaption>De acordo com a teoria, temos a declividade, a inclinação e o coeficiente de redução.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/40_01_00.png" class="fundo" />
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0040a.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<ul class="slider">
+		   <li>
+			   <input type="radio" id="slide570" name="slide">
+			   <label for="slide570"></label>
+			   <img src="cotadas/40_02_01.png" />
+			<figcaption>Iniciamos marcando a projeção dos pontos <b>A</b> e <b>B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide571" name="slide">
+			   <label for="slide571"></label>
+			   <img src="cotadas/40_02_02.png" />
+			<figcaption>Traçamos uma perpendicular por <b>A</b>, marcando dois centímetros e encontramos<b>A’<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide572" name="slide">
+			   <label for="slide572"></label>
+			   <img src="cotadas/40_02_03.png" />
+			 <figcaption>Traçamos uma perpendicular por <b>A’<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide573" name="slide">
+			   <label for="slide573"></label>
+			   <img src="cotadas/40_02_001_04.png" />
+			 <figcaption>Marca-se <b>60<sup>o</sup></b> a partir de <b>A’<sub>1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide574" name="slide">
+			   <label for="slide574"></label>
+			   <img src="cotadas/40_02_05.png" />
+			 <figcaption>Aonde a perpendicular sobre <b>B’</b> encontrar a reta traçada, marcamos <b>B’<sub>1</sub></b>. Usando a régua obtém-se a cota do ponto <b>B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide575" name="slide">
+			   <label for="slide575"></label>
+			   <img src="cotadas/40_02_06.png" />
+			 <figcaption>Com isso a reta ficará determinada.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/40_02_00.png" class="fundo" />
+	</details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0041.png" />
 	<div class="combo"><a href="vr/41_pertinencia1.html" target="_blank" class="visu">Visualização em 3D do 1<sup>o</sup> exemplo</a>
@@ -3286,9 +3362,51 @@
 	<a href="vr/prisma1.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0057.png" />
+	<figcaption>Propriedades:
+	<br>a) Quantidade de pontos que determinam o plano: 3 pontos não colineares
+	<br>b) Retas contidas no plano: Reta horizontal e reta qualquer
+	<br>c) VG: uma figura contida no plano qualquer não apresenta VG na projeção, devemos usar o rebatimento que será visto mais a frente.
+	<br>d) Reta perpendicular: a reta perpendicular ao plano qualquer é uma reta qualquer
+	<br>e)Pertinência de ponto ao plano: para que um ponto pertença ao plano, ele deve pertencer a uma das retas do plano.
+	<br>f) Traço: o traço do plano qualquer no plano de projeção pi' é uma reta horizontal de cota zero.</figcaption>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0058.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+		<p>Para que a reta esteja contida no plano, ela deve ser concorrente com duas retas do plano.</p>
+		<ul class="slider">
+		  <li>
+			   <input type="radio" id="slide351" name="slide">
+			   <label for="slide351"></label>
+			   <img src="cotadas/58_01_01.png" />
+			<figcaption>Nesse caso, o mais simples é considerar a reta que passa pelos pontos <b>A</b> e <b>B</b>, pois estes pontos pertencem ao plano, logo a reta que passa por eles também pertence ao plano.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/58_01_00.png" class="fundo" />
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0058a.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+		<ul class="slider">
+		  <li>
+			   <input type="radio" id="slide352" name="slide">
+			   <label for="slide352"></label>
+			   <img src="cotadas/58_02_01.png" />
+			<figcaption>Para que a reta <b>r</b> seja paralela à reta <b>b</b>, deve satisfazer 3 condições: <b>r'//b'</b>, <b>Ir=Ib</b>, as graduações das retas <b>a</b> e <b>r</b> devem crescer no mesmo sentido. Traçar <b>r'</b> paralela à <b>b'</b> passando por <b>A'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide353" name="slide">
+			   <label for="slide353"></label>
+			   <img src="cotadas/58_02_02.png" />
+			<figcaption>Como os intervalos devem ser iguais, tomamos a distância de <b>C'</b> até <b>B'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide354" name="slide">
+			   <label for="slide354"></label>
+			   <img src="cotadas/58_02_03.png" />
+			<figcaption>Marcamos essa distância a partir do ponto <b>A'</b>, obtendo o ponto <b>D'</b>. Como os intervalos devem ser iguais e as cotas devem crescer o mesmo sentido, a cota do ponto <b>D'</b> é <b>5</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/58_02_00.png" class="fundo" />
+	</details></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0059.png" />
 	<img src="cotadas/Cotadas_2020_0059a.png" />
