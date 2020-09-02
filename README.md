@@ -4281,7 +4281,7 @@
 			   <input type="radio" id="slide613" name="slide">
 			   <label for="slide613"></label>
 			   <img src="aplicacoes/83_04.png" />
-			 <figcaption>Desenhe a bissetriz <b>(cd)</b> até que encontre a bissetriz <b>(ad)</b>. Esse ponto de interseção <b>(acd)</b> pertence às duas bissetrizes e, portanto, pertence às águas <b>a</b>, <b>d</b> e <b>c</b>. Assim, esse ponto pertenceà interseção entre as águas <b>a</b> e <b>c</b>, que ainda não foi obtida.</figcaption>
+			 <figcaption>Agora podemos escolher o outro lado <b>b</b> da poligonal e prolongar a bissetriz <b>(bc)</b> até que encontre outra bissetriz mais próxima, no caso será <b>(ab)</b>, obtendo o ponto <b>(abc)</b>. Esse ponto de interseção <b>(abc)</b> pertence às águas <b>a</b>, <b>b</b> e <b>c</b>. Assim, esse pontopertence à interseção entre <b>a</b> e <b>c</b>. </figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide614" name="slide">
