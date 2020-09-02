@@ -2853,7 +2853,7 @@
 		   <li>
 			   <input type="radio" id="slide573" name="slide">
 			   <label for="slide573"></label>
-			   <img src="cotadas/40_02_001_04.png" />
+			   <img src="cotadas/40_02_04.png" />
 			 <figcaption>Marca-se <b>60<sup>o</sup></b> a partir de <b>A’<sub>1</sub></b>.</figcaption>
 		   </li>
 		   <li>
