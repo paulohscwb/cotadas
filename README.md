@@ -4067,12 +4067,7 @@
 			   <img src="aplicacoes/83_05.png" />
 			 <figcaption>Desenhe o segmento unindo os pontos <b>(acd)</b> e <b>(abc)</b>, esta será a interseção entre as águas <b>a</b> e <b>c</b>. Pronto! Temos as projeções das interseções das águas desse telhado.</figcaption>
 		   </li>
-		   <li>
-			   <input type="radio" id="slide615" name="slide">
-			   <label for="slide615"></label>
-			   <img src="aplicacoes/83_06.png" />
-			 <figcaption>Para indicar o sentido de escoamento das águas desenhamos setas no sentido de decrescimento da reta de declive de cada água. Lembre-se que essa direção é sempre perpendicular às horizontais do plano!</figcaption>
-		   </li>
+		   
 		   <li>
 			   <input type="radio" id="slide616" name="slide">
 			   <label for="slide616"></label>
@@ -4106,7 +4101,7 @@
 			   <input type="radio" id="slide621" name="slide">
 			   <label for="slide621"></label>
 			   <img src="aplicacoes/83_11.png" />
-			 <figcaption>Vamos obter a declividade do espigão <b>(bc)</b>. Vamos chamar o ponto <b>(abc)</b> de <b>S</b>. Lembre-se que a cota de <b>S</b> é a mesma que a de <b>P</b>. A declividade do espigão <b>(bc)=CS</b> é: <b>de(bc)=de(CS)=dV / dH</b>. Temos <b>dV=|cota(S) – cota(C)|=4,2 – 2=2,2m</b>, e <b>dH=C’S’=5,4cm</b>.  Portanto, <b>de(bc)=de(CS)=tg(&theta;<sub>bc</sub>)=dV/dH= 2,2 / 5,4=0,407=40,7%</b>.</figcaption>
+			 <figcaption>Vamos obter a declividade do espigão <b>(bc)</b>. Vamos chamar o ponto <b>(abc)</b> de <b>S</b>. Lembre-se que a cota de <b>S</b> é a mesma que a de <b>P</b>. A declividade do espigão <b>(bc)=CS</b> é: <b>de(bc)=de(CS)=dV / dH</b>. Temos <b>dV=|cota(S) – cota(C)|=4,2 – 2=2,2m</b>, e <b>dH=C’S’=5,4m</b>.  Portanto, <b>de(bc)=de(CS)=tg(&theta;<sub>bc</sub>)=dV/dH= 2,2 / 5,4=0,407=40,7%</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide622" name="slide">
@@ -4130,7 +4125,13 @@
 			   <input type="radio" id="slide625" name="slide">
 			   <label for="slide625"></label>
 			   <img src="aplicacoes/83_15.png" />
-			 <figcaption>Basta agora calcular a área da figura <b>A’<sub>3</sub>B’<sub>3</sub>S’<sub>3</sub>P’<sub>3</sub></b> que está em VG. Dividindo a figura em dois triângulos e um retângulo temos que <b>S(F1) = S(F3) = 3,8 x 4,4 / 2 = 8,36m<sup>2</sup></b> e <b>S(F2) = 2,3 x 4,4 = 10,12m<sup>2</sup></b>, fornecendo a área total de <b>26,84m<sup>2</sup></b>. Use o link abaixo para visualizar o telhado em 3D</figcaption>
+			 <figcaption>Basta agora calcular a área da figura <b>A’<sub>3</sub>B’<sub>3</sub>S’<sub>3</sub>P’<sub>3</sub></b> que está em VG. Dividindo a figura em dois triângulos e um retângulo temos que <b>S(F<sub>1</sub>) = S(F<sub>3</sub>) = 3,8 x 4,4 / 2 = 8,36m<sup>2</sup></b> e <b>S(F<sup>2</sup>) = 2,3 x 4,4 = 10,12m<sup>2</sup></b>, fornecendo a área total de <b>26,84m<sup>2</sup></b>. Use o link abaixo para visualizar o telhado em 3D</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide615" name="slide">
+			   <label for="slide615"></label>
+			   <img src="aplicacoes/83_16.png" />
+			 <figcaption>Para indicar o sentido de escoamento das águas desenhamos setas no sentido de decrescimento da reta de declive de cada água. Lembre-se que essa direção é sempre perpendicular às horizontais do plano!</figcaption>
 		   </li>
 		</ul>
 		<img src="aplicacoes/83_07.png" class="fundo" />
