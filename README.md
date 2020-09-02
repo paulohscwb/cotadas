@@ -2778,8 +2778,20 @@
 	</details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0039.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<img src="cotadas/39_01_00.png" class="fundo" />
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0039a.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>Como o ponto de cota zero encontra-se externo ao segmento <b>CD</b>, uma das possibilidades é encontrar o intervalo da reta.</p>
+		<img src="cotadas/39_02_00.png" class="fundo" />
+		<figcaption>Nesse caso, obteve-se <b>E’(3)</b>. Observe que a distância de <b>E’</b> a <b>D’</b> é a mesma de <b>D’</b> a <b>F’</b> e de <b>F’</b> a <b>G’</b>. O traço de <b>r</b> sobre <b>&pi;’</b> é <b>G’</b> de cota zero.</figcaption>
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0039b.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>O traço de <b>r</b> sobre <b>&pi;’</b> nada mais é que o ponto em que a reta cruza o plano <b>&pi;’</b>, ou seja, o ponto da reta que possui cota zero. No exercício está representado por <b>C’(0)</b>.</p>
+		<img src="cotadas/39_03_00.png" class="fundo" />
+	</details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0040.png" />
 	<img src="cotadas/Cotadas_2020_0040a.png" />
