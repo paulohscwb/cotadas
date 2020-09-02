@@ -3847,9 +3847,121 @@
 		<img src="cotadas/68_01_00.png" class="fundo" />
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0068a.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1<sup>a</sup> parte</summary>
+	  <p>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="slide465" name="slide">
+			   <label for="slide465"></label>
+			   <img src="cotadas/68_02_01.png" />
+			 <figcaption>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide458" name="slide">
+			   <label for="slide458"></label>
+			   <img src="cotadas/68_02_02.png" />
+			 <figcaption>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide459" name="slide">
+			   <label for="slide459"></label>
+			   <img src="cotadas/68_02_03.png" />
+			 <figcaption>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide460" name="slide">
+			   <label for="slide460"></label>
+			   <img src="cotadas/68_02_04.png" />
+			 <figcaption>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide461" name="slide">
+			   <label for="slide461"></label>
+			   <img src="cotadas/68_02_05.png" />
+			 <figcaption>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide462" name="slide">
+			   <label for="slide462"></label>
+			   <img src="cotadas/68_02_06.png" />
+			 <figcaption>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide463" name="slide">
+			   <label for="slide463"></label>
+			   <img src="cotadas/68_01_07.png" />
+			 <figcaption>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide464" name="slide">
+			   <label for="slide464"></label>
+			   <img src="cotadas/68_01_08.png" />
+			 <figcaption>.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/68_02_00.png" class="fundo" />
+	</details>
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2<sup>a</sup> parte</summary>
+	  <p>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="slide466" name="slide">
+			   <label for="slide466"></label>
+			   <img src="cotadas/68_02_09.png" />
+			 <figcaption>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide467" name="slide">
+			   <label for="slide467"></label>
+			   <img src="cotadas/68_02_10.png" />
+			 <figcaption>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide468" name="slide">
+			   <label for="slide468"></label>
+			   <img src="cotadas/68_02_11.png" />
+			 <figcaption>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide469" name="slide">
+			   <label for="slide469"></label>
+			   <img src="cotadas/68_02_12.png" />
+			 <figcaption>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide470" name="slide">
+			   <label for="slide470"></label>
+			   <img src="cotadas/68_02_13.png" />
+			 <figcaption>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide471" name="slide">
+			   <label for="slide471"></label>
+			   <img src="cotadas/68_02_14.png" />
+			 <figcaption>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide472" name="slide">
+			   <label for="slide472"></label>
+			   <img src="cotadas/68_01_15.png" />
+			 <figcaption>.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/68_02_08.png" class="fundo" />
+	</details></div>
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0069.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>.</p> 
+		<img src="cotadas/69_01_00.png" />
+		<figcaption>.</figcaption>
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0069a.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>.</p> 
+		<img src="cotadas/69_02_00.png" />
+		<figcaption>.</figcaption>
+	</details></div>
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0070.png" />
 	<img src="cotadas/Cotadas_2020_0070a.png" />
