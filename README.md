@@ -3889,13 +3889,13 @@
 		   <li>
 			   <input type="radio" id="slide463" name="slide">
 			   <label for="slide463"></label>
-			   <img src="cotadas/68_01_07.png" />
+			   <img src="cotadas/68_02_07.png" />
 			 <figcaption>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide464" name="slide">
 			   <label for="slide464"></label>
-			   <img src="cotadas/68_01_08.png" />
+			   <img src="cotadas/68_02_08.png" />
 			 <figcaption>.</figcaption>
 		   </li>
 		</ul>
@@ -3943,7 +3943,7 @@
 		   <li>
 			   <input type="radio" id="slide472" name="slide">
 			   <label for="slide472"></label>
-			   <img src="cotadas/68_01_15.png" />
+			   <img src="cotadas/68_02_15.png" />
 			 <figcaption>.</figcaption>
 		   </li>
 		</ul>
@@ -3964,11 +3964,31 @@
 	</details></div>
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0070.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>.</p> 
+		<img src="cotadas/70_01_00.png" />
+		<figcaption>.</figcaption>
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0070a.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>.</p> 
+		<img src="cotadas/70_02_00.png" />
+		<figcaption>.</figcaption>
+	</details></div>
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0071.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>.</p> 
+		<img src="cotadas/71_01_00.png" />
+		<figcaption>.</figcaption>
+	</details></div>
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0072.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>.</p> 
+		<img src="cotadas/72_01_00.png" />
+		<figcaption>.</figcaption>
+	</details></div>
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0073.png" />
 	<img src="cotadas/Cotadas_2020_0073a.png" />
