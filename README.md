@@ -3991,7 +3991,97 @@
 	</details></div>
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0073.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <p>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="slide473" name="slide">
+			   <label for="slide473"></label>
+			   <img src="cotadas/73_01_01.png" />
+			 <figcaption>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide474" name="slide">
+			   <label for="slide474"></label>
+			   <img src="cotadas/73_01_02.png" />
+			 <figcaption>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide475" name="slide">
+			   <label for="slide475"></label>
+			   <img src="cotadas/73_01_03.png" />
+			 <figcaption>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide476" name="slide">
+			   <label for="slide476"></label>
+			   <img src="cotadas/73_01_04.png" />
+			 <figcaption>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide477" name="slide">
+			   <label for="slide477"></label>
+			   <img src="cotadas/73_01_05.png" />
+			 <figcaption>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide478" name="slide">
+			   <label for="slide478"></label>
+			   <img src="cotadas/73_01_06.png" />
+			 <figcaption>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide479" name="slide">
+			   <label for="slide479"></label>
+			   <img src="cotadas/73_01_07.png" />
+			 <figcaption>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide480" name="slide">
+			   <label for="slide480"></label>
+			   <img src="cotadas/73_01_08.png" />
+			 <figcaption>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide481" name="slide">
+			   <label for="slide481"></label>
+			   <img src="cotadas/73_01_09.png" />
+			 <figcaption>.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/73_01_00.png" class="fundo" />
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0073a.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <p>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="slide482" name="slide">
+			   <label for="slide482"></label>
+			   <img src="cotadas/73_02_01.png" />
+			 <figcaption>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide483" name="slide">
+			   <label for="slide483"></label>
+			   <img src="cotadas/73_02_02.png" />
+			 <figcaption>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide484" name="slide">
+			   <label for="slide484"></label>
+			   <img src="cotadas/73_02_03.png" />
+			 <figcaption>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide485" name="slide">
+			   <label for="slide485"></label>
+			   <img src="cotadas/73_02_04.png" />
+			 <figcaption>.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/73_02_00.png" class="fundo" />
+	</details></div>
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0074.png" />
 	<div class="combo"><figcaption>Use o link abaixo para visualizar em 3D a interseção entre plano horizontal e um plano vertical</figcaption>
