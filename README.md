@@ -5,7 +5,7 @@
 <h2 id="inicio">Visualização de propriedades de projeções, sólidos e aplicações</h2> 
 <p>Este site contém as construções geométricas e visualizações 3D dos exemplos e exercícios utilizados na disciplina de Expressão Gráfica I</p>
 <p>A apostila está disponível no link: <a href="http://www.exatas.ufpr.br/portal/degraf_paulo/wp-content/uploads/sites/4/2014/09/Cotadas_2020.pdf" target="_blank">apostila de Projeções Cotadas</a></p>
-<p>Os objetos programados em 3D podem ser visualizados os objetos em Realidade Virtual (RV) e Realidade Aumentada (RA). As propriedades de projeções, os sólidos e as maquetes podem ser vistos em RA com os marcadores indicados, e através dos links criados nos marcadores, os objetos podem ser vistos em RV.</p>
+<p>Os objetos programados em 3D podem ser visualizados em Realidade Virtual (RV) e Realidade Aumentada (RA). As propriedades de projeções, os sólidos e as maquetes podem ser vistos em RA com os marcadores indicados, e através dos links criados nos marcadores, os objetos podem ser vistos em RV.</p>
 
 <details>
   <summary id="desenho">Desenho Geométrico: pág. 1-10</summary>
@@ -983,13 +983,13 @@
            <input type="radio" id="slide043" name="slide">
            <label for="slide043"></label>
            <img src="dg/05_02_02.png" />
-           <figcaption>Desenhe o segmentomb ligando o ponto <b>B</b> ao ponto médio <b>Mb</b> do lado oposto, este é a mediana relativa ao lado <b>b</b>.</figcaption>
+           <figcaption>Desenhe o segmento <b>mb</b> ligando o ponto <b>B</b> ao ponto médio <b>Mb</b> do lado oposto, este é a mediana relativa ao lado <b>b</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="slide042" name="slide">
            <label for="slide042"></label>
            <img src="dg/05_02_03.png" />
-           <figcaption>Agora desenhe o segmento mcligando o ponto <b>C</b> ao ponto médio <b>Mc</b> do lado oposto, este é a mediana relativa ao lado <b>c</b>.</figcaption>
+           <figcaption>Agora desenhe o segmento <b>mc</b> ligando o ponto <b>C</b> ao ponto médio <b>Mc</b> do lado oposto, este é a mediana relativa ao lado <b>c</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="slide044" name="slide">
@@ -1014,7 +1014,7 @@
            <input type="radio" id="slide046" name="slide">
            <label for="slide046"></label>
            <img src="dg/05_03_02.png" />
-           <figcaption>Construa a bissetriz <b>b<sub>c</sub></b> do ângulo interno <b>b<sub>b</sub></b>C</b>.</figcaption>
+           <figcaption>Construa a bissetriz <b>b<sub>c</sub></b> do ângulo interno <b>b<sub>b</sub>C</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="slide047" name="slide">
@@ -1613,7 +1613,7 @@
 		<center><a href="https://paulohscwb.github.io/cotadas/ra.html"> https://paulohscwb.github.io/cotadas/ra.html</a></center>
 		<p>Os ambientes podem ser acessados em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).</p>
 		<p>O acesso aos sites de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.</p>
-		<center><img src="https://paulohscwb.github.io/cotadas/vr/exemplo.jpg" width="80%"></center>  
+		<center><img src="vr/exemplo.jpg" width="80%"></center>  
 		<p>Veja o vídeo de demonstração do uso destes recursos:</p>
 		<div class="embed-container">
 		  <iframe src="https://drive.google.com/file/d/1Tg2c6pOoDNESEAvl9kvXgRGv81D-U0Kw/preview" width="100%"></iframe>
