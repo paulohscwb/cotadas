@@ -3848,103 +3848,102 @@
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0068a.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1<sup>a</sup> parte</summary>
-	  <p>.</p>
+	  <p>Para representar um quadrado <b>ABCD</b> contido no plano <b>&alpha;(A,B,P)</b> é necessário rebater este plano deixando-o paralelo ou coincidente com o plano de projeção <b>&pi;'</b>.</p>
 	  <ul class="slider">
 		   <li>
 			   <input type="radio" id="slide465" name="slide">
 			   <label for="slide465"></label>
 			   <img src="cotadas/68_02_01.png" />
-			 <figcaption>.</figcaption>
+			 <figcaption>Marcar os pontos <b>A</b>, <b>B</b> e <b>P</b> em épura.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide458" name="slide">
 			   <label for="slide458"></label>
 			   <img src="cotadas/68_02_02.png" />
-			 <figcaption>.</figcaption>
+			 <figcaption>Encontrar a escala de declive de uma das retas do plano, por exemplo, da reta <b>a(A,B)</b>. Definir o ponto <b>Q(20)</b> desta reta. Obs: O ponto <b>Q</b> foi definido utilizando o Teorema de Tales.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide459" name="slide">
 			   <label for="slide459"></label>
 			   <img src="cotadas/68_02_03.png" />
-			 <figcaption>.</figcaption>
+			 <figcaption>Definir a horizontal <b>h'<sub>20</sub></b> unindo <b>P'</b> com <b>Q'</b>. Esta horizontal será considerada como o eixo de rebatimento.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide460" name="slide">
 			   <label for="slide460"></label>
 			   <img src="cotadas/68_02_04.png" />
-			 <figcaption>.</figcaption>
+			 <figcaption>Conduzir por <b>A'</b> uma reta perpendicular ao eixo. Na interseção desta reta com o eixo temos o ponto <b>O'<sub>A</sub></b>. Conduzir por <b>B'</b> uma reta perpendicular ao eixo. Na interseção desta reta com o eixo temos o ponto <b>O'<sub>B</sub></b>. Obs: Pontos que não pertencem ao eixo de rebatimento se deslocam perpendicularmente a este.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide461" name="slide">
 			   <label for="slide461"></label>
 			   <img src="cotadas/68_02_05.png" />
-			 <figcaption>.</figcaption>
+			 <figcaption>Construir o triângulo de rebatimento para o ponto <b>B</b> (ou para o ponto <b>A</b>): triângulo <b>B'B'<sub>0</sub>O'<sub>B</sub></b> e com centro em <b>O'<sub>B</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide462" name="slide">
 			   <label for="slide462"></label>
 			   <img src="cotadas/68_02_06.png" />
-			 <figcaption>.</figcaption>
+			 <figcaption>Descrever um arco de circunferência de raio igual à hipotenusa do triângulo do rebatimento, ou seja, com raio <b>O'<sub>B</sub>B<sub>0</sub></b>. Encontrar o ponto <b>B</b> rebatido <b>B'<sub>1</sub></b> na interseção deste arco com a reta perpendicular ao eixo conduzida por <b>B'</b>. Obs: O cateto <b>B'B'<sub>0</sub></b> tem tamanho igual à diferença de cotas entre o ponto <b>B</b> e o eixo do rebatimento.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide463" name="slide">
 			   <label for="slide463"></label>
 			   <img src="cotadas/68_02_07.png" />
-			 <figcaption>.</figcaption>
+			 <figcaption>Sobre a reta <b>a'(A',B')</b> foi encontrado o ponto <b>Q'</b>. Este ponto pertence à reta <b>a</b> e ao eixo, logo <b>Q'≡Q'<sub>1</sub></b>. Podemos então encontrar a reta <b>a<sub>1</sub></b> unindo <b>B'<sub>1</sub></b> com <b>Q'<sub>1</sub></b>. Sobre esta reta podemos marcar o ponto <b>B<sub>1</sub></b>, pois o ponto <b>B</b> pertence à reta <b>a</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide464" name="slide">
 			   <label for="slide464"></label>
 			   <img src="cotadas/68_02_08.png" />
-			 <figcaption>.</figcaption>
+			 <figcaption>Construir o quadrado <b>A'<sub>1</sub>B'<sub>1</sub>C'<sub>1</sub>D'<sub>1</sub></b> em VG. Obs: Podemos construir dois quadrados distintos, logo o exercício admite duas soluções.</figcaption>
 		   </li>
 		</ul>
 		<img src="cotadas/68_02_00.png" class="fundo" />
 	</details>
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2<sup>a</sup> parte</summary>
-	  <p>.</p>
 	  <ul class="slider">
 		   <li>
 			   <input type="radio" id="slide466" name="slide">
 			   <label for="slide466"></label>
 			   <img src="cotadas/68_02_09.png" />
-			 <figcaption>.</figcaption>
+			 <figcaption>O próximo passo é encontrar a projeção cotada dos pontos <b>C</b> e <b>D</b>. Traçar pelos pontos <b>C'<sub>1</sub></b> e D'<b><sub>1</sub></b> retas perpendiculares ao eixo. Obs: Pontos que não pertencem ao eixo de rebatimento se deslocam perpendicularmente a este. </figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide467" name="slide">
 			   <label for="slide467"></label>
 			   <img src="cotadas/68_02_10.png" />
-			 <figcaption>.</figcaption>
+			 <figcaption>Definir uma reta <b>b'<sub>1</sub>(<b>C'<sub>1</sub></b>,D'<sub>1</sub>)</b>. Esta reta terá um ponto comum <b>R</b> com o eixo de rebatimento.  Como <b>R</b> pertence ao eixo, <b>R'≡R'<sub>1</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide468" name="slide">
 			   <label for="slide468"></label>
 			   <img src="cotadas/68_02_11.png" />
-			 <figcaption>.</figcaption>
+			 <figcaption>Conduzir pelo ponto <b>R'</b>, a projeção cotada da reta <b>b</b>, paralelamente à projeção cotada da reta <b>a</b>. Obs: As retas <b>a(A,B)</b> e<b>b(C,D)</b> são paralelas, logo suas projeções serão paralelas, ou serão coincidentes, ou pontuais (propriedade 2 das projeções cilíndricas).</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide469" name="slide">
 			   <label for="slide469"></label>
 			   <img src="cotadas/68_02_12.png" />
-			 <figcaption>.</figcaption>
+			 <figcaption>Encontrar os pontos <b>C'</b> e <b>D'</b> sobre <b>b'</b> e definir a projeção do quadrado.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide470" name="slide">
 			   <label for="slide470"></label>
 			   <img src="cotadas/68_02_13.png" />
-			 <figcaption>.</figcaption>
+			 <figcaption>Falta ainda definir as cotas dos pontos <b>C</b> e <b>D</b>. Para isso podemos, por exemplo, definir uma reta <b>c(B,C)</b>. Esta reta tem um ponto <b>S</b> sobre o eixo, então <b>S'≡S'<sub>1</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide471" name="slide">
 			   <label for="slide471"></label>
 			   <img src="cotadas/68_02_14.png" />
-			 <figcaption>.</figcaption>
+			 <figcaption>Aplicando o Teorema de Tales verificamos que a diferença de cotas entre os pontos <b>B</b> e <b>C</b> é de 18 unidades.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide472" name="slide">
 			   <label for="slide472"></label>
 			   <img src="cotadas/68_02_15.png" />
-			 <figcaption>.</figcaption>
+			 <figcaption>Logo o ponto <b>C</b> tem cota 88. A diferença de cotas entre os pontos <b>A</b> e <b>D</b>  também será de 18 unidades, logo o ponto <b>D</b> tem cota 68.</figcaption>
 		   </li>
 		</ul>
 		<img src="cotadas/68_02_08.png" class="fundo" />
@@ -3992,92 +3991,58 @@
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0073.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	  <p>.</p>
+	  <p>Dois planos são paralelos se:
+	  <br>- suas escalas de declive são paralelas: <b>d<sub>&alpha;</sub> // d<sub>&beta;</sub></b> 
+	  <br>- ou <b>a//r</b> e <b>b//s</b> onde <b>aXb &isin; &alpha;</b> e <b>rXs &isin; &beta;</b></p>
 	  <ul class="slider">
 		   <li>
 			   <input type="radio" id="slide473" name="slide">
 			   <label for="slide473"></label>
 			   <img src="cotadas/73_01_01.png" />
-			 <figcaption>.</figcaption>
+			 <figcaption>Conduzir duas retas concorrentes do plano <b>&alpha;</b>, por exemplo, as retas <b>a(A,B)</b> e <b>b(C,D)</b>. </figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide474" name="slide">
 			   <label for="slide474"></label>
 			   <img src="cotadas/73_01_02.png" />
-			 <figcaption>.</figcaption>
+			 <figcaption>Conduzir pelo ponto <b>P</b> uma reta <b>r(P,R)</b> paralelamente à reta <b>a(A,B)</b>. Obs: Vimos que duas retas quaisquer são paralelas se suas projeções são paralelas (ou coincidentes), seus intervalos são iguais e suas graduações crescem no mesmo sentido.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide475" name="slide">
 			   <label for="slide475"></label>
 			   <img src="cotadas/73_01_03.png" />
-			 <figcaption>.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="slide476" name="slide">
-			   <label for="slide476"></label>
-			   <img src="cotadas/73_01_04.png" />
-			 <figcaption>.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="slide477" name="slide">
-			   <label for="slide477"></label>
-			   <img src="cotadas/73_01_05.png" />
-			 <figcaption>.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="slide478" name="slide">
-			   <label for="slide478"></label>
-			   <img src="cotadas/73_01_06.png" />
-			 <figcaption>.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="slide479" name="slide">
-			   <label for="slide479"></label>
-			   <img src="cotadas/73_01_07.png" />
-			 <figcaption>.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="slide480" name="slide">
-			   <label for="slide480"></label>
-			   <img src="cotadas/73_01_08.png" />
-			 <figcaption>.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="slide481" name="slide">
-			   <label for="slide481"></label>
-			   <img src="cotadas/73_01_09.png" />
-			 <figcaption>.</figcaption>
+			 <figcaption>Conduzir pelo ponto <b>P</b> uma reta <b>s(P,S)</b> paralela à reta <b>b(B,C)</b>. Pronto! O plano <b>&beta;</b> é paralelo ao plano <b>&alpha;</b> pois <b>a//r</b> e <b>b//s</b> e <b>aXb &isin; &alpha;</b> e <b>rXs &isin; &beta;</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="cotadas/73_01_00.png" class="fundo" />
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0073a.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	  <p>.</p>
+	  <p>Se as retas de declive de dois planos são paralelas <b>d<sub>&alpha;</sub> // d<sub>β</sub></b> podemos afirmar que os planos são paralelos. Duas retas são paralelas quando suas projeções são paralelas, seus intervalos iguais e suas graduações crescem no mesmo sentido.</p>
 	  <ul class="slider">
 		   <li>
 			   <input type="radio" id="slide482" name="slide">
 			   <label for="slide482"></label>
 			   <img src="cotadas/73_02_01.png" />
-			 <figcaption>.</figcaption>
+			 <figcaption>Conduzir pelo ponto <b>P</b> a projeção de uma reta de declive do plano <b>&beta;</b>, paralelamente à projeção da reta de declive do plano <b>&alpha;</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide483" name="slide">
 			   <label for="slide483"></label>
 			   <img src="cotadas/73_02_02.png" />
-			 <figcaption>.</figcaption>
+			 <figcaption>Medir a distância em projeção entre os pontos <b>A</b> e <b>B</b>. Obs: A diferença de cotas entre <b>A</b> e <b>B</b> corresponde a três unidades, logo a distância entre <b>A</b> e <b>B</b> corresponde a três intervalos da reta de maior declive do plano <b>&alpha; (d<sub>&alpha;</sub>)</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide484" name="slide">
 			   <label for="slide484"></label>
 			   <img src="cotadas/73_02_03.png" />
-			 <figcaption>.</figcaption>
+			 <figcaption>A partir da projeção do ponto <b>P</b>, marcamos a distância <b>AB</b> e encontramos um segundo ponto da reta de declive do plano <b>&beta; (d<sub>&beta;</sub>)</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide485" name="slide">
 			   <label for="slide485"></label>
 			   <img src="cotadas/73_02_04.png" />
-			 <figcaption>.</figcaption>
+			 <figcaption>Definimos então o ponto <b>Q</b>. A diferença de cotas entre os pontos <b>P</b> e <b>Q</b> deve ser de três unidades e deve crescer no mesmo sentido que a graduação da reta de declive do plano <b>&alpha;</b>. Pronto! O plano <b>&beta;</b> é paralelo ao plano <b>&alpha;</b> pois suas escalas de declive são paralelas: <b>d<sub>&alpha;</sub> // d<sub>&beta;</sub></b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="cotadas/73_02_00.png" class="fundo" />
@@ -4100,31 +4065,31 @@
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0076.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	  <p>Planos quaisquer paralelos têm retas de declive paralelas, logo, para definir um plano beta paralelo ao plano <b>&alpha;</b> temos que encontrar primeiramente uma das retas de declive de <b>&alpha;</b>.</p>
+	  <p>Para encontrar a reta comum a dois planos quaisquer utilizamos planos horizontais auxiliares e encontramos as retas comuns aos dois planos quaisquer com os planos horizontais auxiliares, ou seja, encontramos retas horizontais dos planos quaisquer.</p>
 	  <ul class="slider">
 		   <li>
 			   <input type="radio" id="slide432a" name="slide">
 			   <label for="slide432a"></label>
 			   <img src="cotadas/76_01_01.png" />
-			 <figcaption>Encontrar uma reta horizontal do plano <b>&alpha;</b>, por exemplo, a horizontal de cota <b>3</b>. Para isso precisamos encontrar o ponto de cota <b>3</b> da reta definida pelos pontos <b>A</b> e <b>B</b>: <b>D'(3)</b>. Unindo os pontos <b>C'(3)</b> e <b>D'(3)</b> temos a horizontal de alfa de cota <b>3</b>: <b>h<sub>&alpha;3</sub></b>.</figcaption>
+			 <figcaption>Pelo ponto <b>A</b>, que tem cota 3, podemos conduzir a horizontal do plano <b>&alpha;</b> de cota 3: <b>h<sub>&alpha;3</sub></b>. Pelo ponto <b>B</b>, que tem cota 2, podemos conduzir a horizontal do plano <b>&alpha;</b> de cota 2: <b>h<sub>&alpha;2</sub></b>. Obs: As horizontais de um plano são perpendiculares às retas de declive deste plano.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide433a" name="slide">
 			   <label for="slide433a"></label>
 			   <img src="cotadas/76_01_02.png" />
-			 <figcaption>Conduzimos uma segunda reta horizontal do plano <b>&alpha;</b>, por exemplo, a reta horizontal que passa pelo ponto <b>B'(4)</b>: <b>h<sub>&alpha;4</sub></b>. Obs: As horizontais de um plano são paralelas entre si.</figcaption>
+			 <figcaption>Pelo ponto <b>C</b>, que tem cota 2, podemos conduzir a horizontal do plano <b>&beta;</b> de cota 2: <b>h<sub>&beta;2</sub></b>. Pelo ponto <b>D</b>, que tem cota 3, podemos conduzir a horizontal do plano <b>&beta;</b> de cota 3: <b>h<sub>&beta;2</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide431a" name="slide">
 			   <label for="slide431a"></label>
 			   <img src="cotadas/76_01_03.png" />
-			 <figcaption>Sabemos que as retas de declive de um plano são perpendiculares às horizontais deste plano, então <b>d&alpha;</b> é perpendicular às retas <b>h<sub>&alpha;3</sub></b> e <b>h<sub>&alpha;4</sub></b>: <b>d&alpha;(E,F)</b>.</figcaption>
+			 <figcaption>As retas <b>h<sub>&alpha;2</sub></b> e <b>h<sub>&beta;2</sub></b> tem um ponto em comum: <b>X'(2)</b>. As retas <b>h<sub>&alpha;3</sub></b> e <b>h<sub>&beta;3</sub></b> tem um ponto em comum: <b>Y'(3)</b>. Obs: Estes pontos pertencem aos dois planos dados.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide434a" name="slide">
 			   <label for="slide434a"></label>
 			   <img src="cotadas/76_01_04.png" />
-			 <figcaption>Para que duas retas sejam paralelas, seus intervalos devem ser iguais, suas projeções devem ser paralelas e as escalas de declive devem crescer no mesmo sentido. O intervalo da reta de declive do plano alfa <b>d&alpha;</b> é a distância horizontal entre os pontos <b>E'(3)</b> e <b>F'(4)</b>. Obs.: O intervalo de uma reta corresponde a distância horizontal de dois pontos da reta tais que a diferença de suas cotas seja igual a unidade.</figcaption>
+			 <figcaption>Pronto! A reta comum aos planos <b>&alpha;</b> e <b>&beta;</b> fica definida pelos pontos <b>X'(2)</b> e <b>Y'(3)</b>: <b>&alpha;&beta;(X,Y)</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="cotadas/76_01_00.png" class="fundo" />
@@ -4167,10 +4132,55 @@
 		<img src="cotadas/76_02_00.png" class="fundo" />
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0076b.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <p>Como as projeções das retas de declive dos dois planos são paralelas, a reta comum será uma reta horizontal.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="slide436b" name="slide">
+			   <label for="slide436b"></label>
+			   <img src="cotadas/76_03_01.png" />
+			 <figcaption>Fazer com que as duas retas de declive tenham projeções coincidentes. Para isso vamos projetar a reta de declive do plano <b>&alpha;</b> sobre o plano projetante da reta de declive do plano <b>&beta;</b>: <b>d'<sub>&alpha;0</sub>≡d'<sub>&beta;</sub></b>. Obs: Ao projetar um ponto sobre um plano projetante, ele se desloca perpendicularmente ao traço do plano e sua cota não se altera.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide437b" name="slide">
+			   <label for="slide437b"></label>
+			   <img src="cotadas/76_03_02.png" />
+			 <figcaption>Rebater o plano projetante da reta de declive do plano <b>&beta;</b> e encontrar <b>d'<sub>&beta;1</sub></b>. Como a reta de declive do plano <b>&alpha;</b> foi projetada sobre este plano, a reta <b>d'<sub>&alpha;1</sub></b> também será encontrada.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide438b" name="slide">
+			   <label for="slide438b"></label>
+			   <img src="cotadas/76_03_03.png" />
+			 <figcaption>Como a reta <b>&alpha;&beta;</b> é horizontal, sua projeção <b>&alpha;&beta;'<sub>1</sub></b> fica reduzida a um ponto e está na interseção das retas <b>d'<sub>&beta;1</sub></b> e <b>d'<sub>&alpha;1</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide439b" name="slide">
+			   <label for="slide439b"></label>
+			   <img src="cotadas/76_03_04.png" />
+			 <figcaption>A partir de <b>&alpha;&beta;'<sub>1</sub></b> conduzir a projeção <b>&alpha;&beta;'</b> da reta comum aos planos, perpendicularmente às retas de declive. Esta reta é horizontal e sua cota corresponde a distância entre <b>&alpha;&beta;'<sub>1</sub></b> e o plano projetante do plano <b>&beta;</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/76_03_00.png" class="fundo" />
+	</details></div>
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0077.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>.</p> 
+		<img src="cotadas/77_01_00.png" />
+		<figcaption>.</figcaption>
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0077a.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>.</p> 
+		<img src="cotadas/77_02_00.png" />
+		<figcaption>.</figcaption>
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0077b.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>.</p> 
+		<img src="cotadas/77_03_00.png" />
+		<figcaption>.</figcaption>
+	</details></div>
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 </details>
 
@@ -4544,7 +4554,7 @@
 			 <figcaption>Para indicar o sentido de escoamento das águas desenhamos setas no sentido de decrescimento da reta de declive de cada água. Lembre-se que essa direção é sempre perpendicular às horizontais do plano!</figcaption>
 		   </li>
 		</ul>
-		<img src="aplicacoes/84_08.png" class="fundo" />
+		<img src="aplicacoes/84_10.png" class="fundo" />
 	</details>
   <a href="telhados/telhado34.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
