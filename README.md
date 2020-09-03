@@ -2876,14 +2876,42 @@
 	<div class="combo"><a href="vr/41_pertinencia1.html" target="_blank" class="visu">Visualização em 3D do 1<sup>o</sup> exemplo</a>
 	<br><a href="vr/41_pertinencia2.html" target="_blank" class="visu">Visualização em 3D do 2<sup>o</sup> exemplo</a></div>
 	<img src="cotadas/Cotadas_2020_0041a.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>.</p>
+		<img src="cotadas/41_01_00.png" class="fundo" />
+	</details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0042.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>.</p>
+		<img src="cotadas/42_01_00.png" class="fundo" />
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0042a.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>.</p>
+		<img src="cotadas/42_02_00.png" class="fundo" />
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0042b.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>Para encontrar o ponto <b>P</b> de uma reta, dada a sua cota, usamos o mesmo processo usado para graduar uma reta. Inicia-se com uma reta pelo ponto de menor cota, e, com o auxílio da régua marca-se a cota do segundo ponto da reta e do ponto <b>P</b>. Traçando-se paralelas, encontra-se o ponto <b>P</b> desejado.</p>
+		<img src="cotadas/42_03_00.png" class="fundo" />
+	</details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0043.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>.</p>
+		<img src="cotadas/43_01_00.png" class="fundo" />
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0043a.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>.</p>
+		<img src="cotadas/43_02_00.png" class="fundo" />
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0043b.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>Como os pontos possuem cotas inteiras, pode-se encontrar o ponto médio de <b>GH</b>, e, com isso obter o ponto <b>I</b> de cota 3. O ponto médio de <b>I</b> e <b>H</b>, resulta no ponto <b>J</b> de cota 2,5. A distância <b>HJ</b> é usada para encontrar o ponto <b>P</b> de cota 1,5.</p>
+		<img src="cotadas/43_03_00.png" class="fundo" />
+	</details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 </details>
 
