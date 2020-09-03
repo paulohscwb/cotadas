@@ -928,7 +928,7 @@
            <input type="radio" id="slide034" name="slide">
            <label for="slide034"></label>
            <img src="dg/05_01_04.png" />
-           <figcaption>Falta somente o vértice <b>A</b>! Sabemos que a distância entre <b>B</b> e <b>A</b> mede <b>c=9cm</b>. Logo, A estará sobre uma circunferência de centro <b>B</b> e raio <b>c=9cm</b>! Construa essa primeira circunferência!</figcaption>
+           <figcaption>Falta somente o vértice <b>A</b>! Sabemos que a distância entre <b>B</b> e <b>A</b> mede <b>c=9cm</b>. Logo, <b>A</b> estará sobre uma circunferência de centro <b>B</b> e raio <b>c=9cm</b>! Construa essa primeira circunferência!</figcaption>
        </li>
        <li>
            <input type="radio" id="slide035" name="slide">
