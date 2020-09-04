@@ -4632,7 +4632,6 @@
 			   <img src="aplicacoes/85_07.png" />
 			 <figcaption>Prolongue <b>(bd)</b> até encontrar os prolongamentos de <b>(bc)</b> e <b>(cd)</b> obtendo o ponto comum <b>(bcd)</b>. Pronto! Temos a projeção das interseções das águas desse telhado!</figcaption>
 		   </li>
-		   <li>
 		</ul>
 		<img src="aplicacoes/85_00.png" class="fundo" />
 	</details>
