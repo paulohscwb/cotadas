@@ -139,6 +139,7 @@ hr {
 .slider li {
      list-style: none;
      position: absolute;
+	 width: 100%;
  }
  
 .slider input {
