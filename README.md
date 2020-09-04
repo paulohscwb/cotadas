@@ -4772,7 +4772,78 @@
   <a href="telhados/telhado36.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0087.png" />
-  <div class="combo"><figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <p>Vamos determinar as interseções das águas da cobertura dada. Como todas as águas possuem a mesma inclinação utilizaremos o processo das bissetrizes.</p>
+	  <ul class="slider">
+		   <li>
+		   <input type="radio" id="slide665" name="slide">
+			   <label for="slide665"></label>
+			   <img src="aplicacoes/87_01.png" />
+			 <figcaption>Nomeie os vértices da poligonal de <b>A</b> a <b>J</b> e trace as bissetrizes dos seus ângulos internos, obtendo as projeções das interseções <b>(ab)</b>, <b>(bc)</b>, ..., <b>(aj)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide666" name="slide">
+			   <label for="slide666"></label>
+			   <img src="aplicacoes/87_02.png" />
+			 <figcaption>Esse telhado possui muitas águas. Vamos utilizar uma estratégia diferente para obter as interseções. A partir do lado a da poligonal obtenha as interseções até <b>(bi)</b>. Vamos interromper essa sequência e escolher outro lado da poligonal. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide667" name="slide">
+			   <label for="slide667"></label>
+			   <img src="aplicacoes/87_03.png" />
+			 <figcaption>Vamos escolher o lado <b>d</b> e obter as interseções até <b>(be)</b>. Vamos interromper essa sequência e escolher outro lado da poligonal.</figcaption>
+		   </li>	  
+		   <li>
+			   <input type="radio" id="slide668" name="slide">
+			   <label for="slide668"></label>
+			   <img src="aplicacoes/87_04.png" />
+			 <figcaption>Escolhemos o lado <b>f</b> e obtemos as interseções até <b>(eh)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide669" name="slide">
+			   <label for="slide669"></label>
+			   <img src="aplicacoes/87_05.png" />
+			 <figcaption>Note que o prolongamento de <b>(eh)</b> encontra o prolongamento de <b>(hi)</b> antes das demais. O mesmo acontece com <b>(be)</b> e <b>(bi)</b>. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide670" name="slide">
+			   <label for="slide670"></label>
+			   <img src="aplicacoes/87_06.png" />
+			 <figcaption>Prolongue as bissetrizes e trace a interseção <b>(ei)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide671" name="slide">
+			   <label for="slide671"></label>
+			   <img src="aplicacoes/87_07.png" />
+			 <figcaption>Este telhado possui quatro cumeeiras <b>(eg)</b>, <b>(ei)</b>, <b>(ce)</b> e <b>(bj)</b>, dez espigões e três rincões <b>(gh)</b>, <b>(bc)</b> e <b>(ij)</b>. A cumeeira principal será <b>(ei)</b>. Obtenha o <b>I<sub>30°</sub></b> na escala 1:100 e gradue a reta de declive <b>d’<sub>e</sub></b> que passa pelo ponto <b>P≡(bei)</b>. A cota de <b>P</b> será de 4,3m que nos dá a cota da cumeeira principal.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide672" name="slide">
+			   <label for="slide672"></label>
+			   <img src="aplicacoes/87_08.png" />
+			 <figcaption>A declividade do espigão <b>(hi)</b> é: <b>de(hi)=de(IS) = dV / dH</b>. Temos <b>dV = |cota(S) – cota(I)| = 4,3 – 2,2 = 2,1m</b> e <b>dH = I’S’ = 5,1m</b>. Portanto, <b>de(hi) = de(IS) = tg(&theta;<sub>hi</sub>) = dV/dH = 2,1 / 5,1 = 0,411 = 41,1%.</b> </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide673" name="slide">
+			   <label for="slide673"></label>
+			   <img src="aplicacoes/87_09.png" />
+			 <figcaption>Rebatendo os pontos <b>I</b> e <b>S</b> temos a VG de <b>(hi)</b> que é de 5,5m e também o ângulo <b>&theta;(hi) = 22,5°</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide674" name="slide">
+			   <label for="slide674"></label>
+			   <img src="aplicacoes/87_10.png" />
+			 <figcaption>Rebatendo a área <b>e</b> obtemos sua VG. Dividindo a figura em dois paralelogramos e um trapézio temos que <b>S(F<sub>1</sub>) = 5,1 x 1,5 = 7,65m<sup>2</sup></b>, <b>S(F<sub>2</sub>) =(1 + 8,2) x 4,1 / 2 = 18,86m<sup>2</sup></b> e <b>S(F<sub>3</sub>) = 3,1 x 2,4 = 7,44 m<sup>2</sup></b>, fornecendo a área total de <b>33,95m<sup>2</sup></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide675" name="slide">
+			   <label for="slide675"></label>
+			   <img src="aplicacoes/87_11.png" />
+			 <figcaption>Represente as calhas nos rincões <b>(gh)</b>, <b>(ij)</b> e <b>(bc)</b> e indique o sentido de escoamento das águas.</figcaption>
+		   </li>
+		</ul>
+		<img src="aplicacoes/87_00.png" class="fundo" />
+	</details>
   <a href="telhados/telhado37.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0088.png" />
