@@ -34,7 +34,7 @@ figcaption {
   padding: 5px;
   font-size: 14px;
   color: rgb(21,153,87);
-  margin-bottom: 5px 0 5px 0;
+  margin: 5px 0 5px 0;
 }
 
 li > figcaption {
@@ -48,6 +48,7 @@ li > figcaption {
   height:auto;
   box-shadow: 1px 1px 3px LightGray;
   margin-bottom: 5px;
+  width:100%;
 }
 summary {
   font-size: 18px;
