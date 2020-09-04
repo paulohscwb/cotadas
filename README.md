@@ -4703,7 +4703,72 @@
   <a href="telhados/telhado35.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0086.png" />
-  <div class="combo"><figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <p>Vamos determinar as interseções das águas da cobertura dada. Como todas as águas possuem a mesma inclinação utilizaremos o processo das bissetrizes.</p>
+	  <ul class="slider">
+		   <li>
+		   <input type="radio" id="slide656" name="slide">
+			   <label for="slide656"></label>
+			   <img src="aplicacoes/86_01.png" />
+			 <figcaption>Nomeie os vértices da poligonal de <b>A</b> a <b>H</b> e trace as bissetrizes dos seus ângulos internos, obtendo as projeções das interseções <b>(ab)</b>, <b>(bc)</b>, ..., <b>(ah)</b>. Escolha um dos lados <b>a</b> ou <b>f</b> da poligonal para iniciar e obtenha as projeções das interseções das águas desse telhado. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide657" name="slide">
+			   <label for="slide657"></label>
+			   <img src="aplicacoes/86_02.png" />
+			 <figcaption>Este telhado possui três cumeeiras <b>(bh)</b>, <b>(cg)</b> e <b>(eg)</b>, oito espigões e dois rincões <b>(bc)</b> e <b>(de)</b>. A cumeeira principal será <b>(cg)</b>. Nomeie o ponto <b>(cdg)</b> como <b>P</b>. Obtenha o <b>I<sub>30°</sub></b> na escala 1:100 e gradue a reta de declive <b>d’<sub>c</sub></b> que passa pelo ponto <b>P</b>. A cota de <b>P</b> será de 4,2m que nos dá a cota da cumeeira principal. Note que não há necessidade de rebater o ponto <b>P</b> para obter sua cota exata!</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide658" name="slide">
+			   <label for="slide658"></label>
+			   <img src="aplicacoes/86_03.png" />
+			 <figcaption>Vamos obter a declividade do rincão <b>(bc)</b>. Renomeie o ponto <b>(bch)</b> de <b>R</b>. Obtenha sua cota utilizando a <b>d’<sub>c</sub></b>. A declividade do rincão <b>(bc)=CR</b> é: <b>de(bc)=de(CR) = dV / dH</b>. Temos <b>dV = |cota(R) – cota(C)| = 3,5 – 2,2 = 1,3m</b> e <b>dH = C’R’ = 3,2m</b>.  Portanto, <b>de(bc) = de(CR) = tg(&theta;<sub>bc</sub>) = dV/dH = 1,3 / 3,2 = 0,406 = 40,6%</b>.</figcaption>
+		   </li>	  
+		   <li>
+			   <input type="radio" id="slide659" name="slide">
+			   <label for="slide659"></label>
+			   <img src="aplicacoes/86_04.png" />
+			 <figcaption>Vamos obter também graficamente a VG do espigão <b>(bc)</b>. Rebata os pontos <b>C</b> e <b>R</b> sobre um plano horizontal de cota 2,2m, obtendo os pontos <b>C’<sub>2</sub></b> e <b>R’<sub>2</sub></b>. Esse segmento nos dá a VG do espigão <b>(bc) = 3,8m</b>. Nessa figura temos também o ângulo <b>&theta; = 21,8°</b> que o espigão forma com <b>&pi;’</b>. Este ângulo sempre deve ser menor que o das águas <b>b</b> e <b>c</b>!</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide660" name="slide">
+			   <label for="slide660"></label>
+			   <img src="aplicacoes/86_05.png" />
+			 <figcaption>Agora vamos obter a área da água <b>g</b> rebatendo a figura <b>HTPUVG</b> sobre um plano horizontal de cota 2,2m. Escolhemos como eixo a reta <b>h<sub>g</sub>(2,2)</b>, assim <b>H’≡H’<sub>3</sub></b> e <b>G’≡G’<sub>3</sub></b>. Rebata o ponto <b>T</b> obtendo <b>T’<sub>3</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide661" name="slide">
+			   <label for="slide661"></label>
+			   <img src="aplicacoes/86_06.png" />
+			 <figcaption>O ponto <b>P</b> rebatido estará sobre a reta perpendicular ao eixo <b>h<sub>g</sub>(2,2)</b> que passa por <b>P’</b> e na paralela ao eixo traçada pelo ponto <b>T’<sub>3</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide662" name="slide">
+			   <label for="slide662"></label>
+			   <img src="aplicacoes/86_07.png" />
+			 <figcaption>O ponto <b>U</b> rebatido estará sobre a reta perpendicular ao eixo <b>h<sub>g</sub>(2,2)</b> que passa por <b>U’</b> e na reta <b>OP’<sub>3</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide663" name="slide">
+			   <label for="slide663"></label>
+			   <img src="aplicacoes/86_08.png" />
+			 <figcaption>O ponto <b>V</b> rebatido estará sobre a reta perpendicular ao eixo <b>h<sub>g</sub>(2,2)</b> que passa por <b>V’</b> e na paralela ao eixo traçada pelo ponto <b>U’<sub>3</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide664" name="slide">
+			   <label for="slide664"></label>
+			   <img src="aplicacoes/86_09.png" />
+			 <figcaption>Basta agora calcular a área da figura <b>H’<sub>3</sub>T’<sub>3</sub>P’<sub>3</sub>U’<sub>3</sub>V’<sub>3</sub>G’<sub>3</sub></b> que está em VG. Dividindo a figura em um trapézio e um paralelogramo temos que <b>S(F<sub>1</sub>)= (1,8 + 8,7) x 4 / 2 = 21m<sup>2</sup></b> e <b>S(F<sub>2</sub>) = 4,6 x 2,4 = 11,04 m<sup>2</sup></b>, fornecendo a área total de <b>32,04m<sup>2</sup></b>. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide665" name="slide">
+			   <label for="slide665"></label>
+			   <img src="aplicacoes/86_10.png" />
+			 <figcaption>Represente as calhas nos rincões <b>(bc)</b> e <b>(de)</b> e indique o sentido de escoamento das águas.</figcaption>
+		   </li>
+		</ul>
+		<img src="aplicacoes/86_00.png" class="fundo" />
+	</details>
   <a href="telhados/telhado36.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0087.png" />
