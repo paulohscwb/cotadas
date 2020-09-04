@@ -4214,8 +4214,8 @@
 
 <details>
   <summary id="telhados">Representações de telhados: pág. 78-95</summary>
-  <p>Para ver os telhados em Realidade Aumentada, visite o site:</p>
-  <br><center><a href="https://paulohscwb.github.io/cotadas/telhados.html"> https://paulohscwb.github.io/cotadas/telhados.html</a></center>
+  <p>Para ver os telhados em Realidade Aumentada, acesse o site:</p>
+  <p align="center"><a href="https://paulohscwb.github.io/cotadas/telhados.html"> https://paulohscwb.github.io/cotadas/telhados.html</a></p>
   <img src="aplicacoes/Cotadas_2020_0078.png" />
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0079.png" />
@@ -4879,7 +4879,7 @@
 <details style="border-bottom: 1px solid #a2dec0;">
   <summary id="superficies">Superfícies Topográficas: pág. 96-114</summary>
   <p>Para ver as superfícies topográficas em Realidade Aumentada, visite o site:</p>
-  <br><center><a href="https://paulohscwb.github.io/cotadas/superficies.html"> https://paulohscwb.github.io/cotadas/superficies.html</a></center>
+  <p align="center"><a href="https://paulohscwb.github.io/cotadas/superficies.html"> https://paulohscwb.github.io/cotadas/superficies.html</a></p>
   <img src="aplicacoes/Cotadas_2020_0096.png" />
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0097.png" />
@@ -4947,10 +4947,10 @@
 <p>Paulo Henrique Siqueira</p> 
 <p><b>contato:</b> paulohscwb@gmail.com </p> 
 <p>Para ver os objetos em Realidade Aumentada, visite o site:</p> 
-<p><center><a href="https://paulohscwb.github.io/cotadas/ra.html"> https://paulohscwb.github.io/cotadas/ra.html</a></center></p> 
+<p align="center"><a href="https://paulohscwb.github.io/cotadas/ra.html"> https://paulohscwb.github.io/cotadas/ra.html</a></p> 
 <p>em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).</p>
 <p>O acesso aos sites de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.</p>
-<p><center><img src="https://paulohscwb.github.io/cotadas/vr/exemplo.jpg" width="80%"></center>
+<p align="center"><img src="https://paulohscwb.github.io/cotadas/vr/exemplo.jpg" width="80%"></p>
 
 <p><br><b>Referências:</b></p>
 <p>O ambiente Realidade Aumentada foi criado com os scripts de <b>Jerome Etienne</b>: <a href="https://github.com/jeromeetienne/AR.js"> AR.js - Augmented Reality for the Web</a>.</p>
