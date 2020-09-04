@@ -4776,8 +4776,8 @@
 	  <p>Vamos determinar as interseções das águas da cobertura dada. Como todas as águas possuem a mesma inclinação utilizaremos o processo das bissetrizes.</p>
 	  <ul class="slider">
 		   <li>
-		   <input type="radio" id="slide665" name="slide">
-			   <label for="slide665"></label>
+		   <input type="radio" id="slide665a" name="slide">
+			   <label for="slide665a"></label>
 			   <img src="aplicacoes/87_01.png" />
 			 <figcaption>Nomeie os vértices da poligonal de <b>A</b> a <b>J</b> e trace as bissetrizes dos seus ângulos internos, obtendo as projeções das interseções <b>(ab)</b>, <b>(bc)</b>, ..., <b>(aj)</b>.</figcaption>
 		   </li>
