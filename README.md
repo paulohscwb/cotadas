@@ -4637,6 +4637,7 @@
 	</details>
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2<sup>a</sup> parte</summary>
 	  <ul class="slider">
+		   <li>
 		   <input type="radio" id="slide651" name="slide">
 			   <label for="slide652"></label>
 			   <img src="aplicacoes/85_08.png" />
