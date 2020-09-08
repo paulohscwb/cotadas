@@ -143,7 +143,9 @@ hr {
  }
  
 .slider input {
-   opacity:0;
+	position: fixed;
+	opacity: 0;
+	pointer-events: none;
 }
 
 .slider label {
