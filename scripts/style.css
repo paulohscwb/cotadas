@@ -164,6 +164,7 @@ hr {
 	 font-weight: bold;
 	 box-shadow: 1px 1px 3px Silver;
 	 padding-top: 2px;
+	 transition: .5s;
  }
 
  .slider li:nth-child(1) label {
@@ -226,12 +227,12 @@ hr {
 .slider img {
      opacity: 0;
      visibility: hidden;
-     transition: opacity .5s linear;
+     transition: opacity .5s;
 }
 
 .slider li input:checked ~ img {
      opacity: 1;
-     transition: opacity .5s linear;
+     transition: opacity .5s;
      visibility: visible;
      z-index: 10;
 }
@@ -240,7 +241,7 @@ hr {
      opacity: 0;
      visibility: hidden;
      transition: opacity 1s, transform .5s;
-	 transform: translateY(-200px) rotate(-15deg);
+	 transform: translateY(-200px);
  }
 
  .slider li input:checked ~figcaption {
@@ -254,6 +255,7 @@ hr {
 .slider li input:checked ~label {
      background-color: #159957;
      color: white;
+	 transition: .5s;
 }
 
 .embed-container {
