@@ -206,30 +206,32 @@ hr {
 	counter-increment: contador;
 }
 
-.slider img {
+ .slider img {
+	 margin-top:10px;
      opacity: 0;
      visibility: hidden;
-     transition: opacity .5s;
-}
+     transition: all .5s cubic-bezier(0.680, -0.550, 0.265, 1.550);;
+	 overflow:hidden;
+ }
 
-.slider li input:checked ~ img {
-     opacity: 1;
-     transition: opacity .5s;
+ .slider li input:checked ~ img  {
+	 opacity:1;
+     transition: all .5s cubic-bezier(0.680, -0.550, 0.265, 1.550);
      visibility: visible;
      z-index: 10;
-}
+ }
 
  .slider figcaption {
      opacity: 0;
      visibility: hidden;
-     transition: opacity 1s, transform .5s;
+     transition: all 0.5s cubic-bezier(0.680, -0.550, 0.265, 1.550);
 	 transform: translateY(-200px);
  }
 
  .slider li input:checked ~figcaption {
      opacity: 1;
-	 transform: translateY(0) rotate(0deg);
-     transition: transform .5s, opacity 1s;
+	 transform: translateY(0);
+     transition: all 1s cubic-bezier(0.680, -0.550, 0.265, 1.550);
      visibility: visible;
      z-index: 10;
  }
