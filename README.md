@@ -5205,7 +5205,7 @@
 			 <figcaption>Obtenha agora as outras interseções prolongando os segmentos obtidos.</figcaption>
 		   </li>
 		</ul>
-		<img src="aplicacoes/93_00.png" class="fundo" />
+		<img src="aplicacoes/95_00.png" class="fundo" />
 	</details>
 	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2<sup>a</sup> parte</summary>
 	  <ul class="slider">
@@ -5240,7 +5240,7 @@
 			 <figcaption>Represente a calha nos rincões <b>(gh)</b> e <b>(bc)</b> e indique o sentido de escoamento das águas.</figcaption>
 		   </li>
 		</ul>
-		<img src="aplicacoes/95_10.png" class="fundo" />
+		<img src="aplicacoes/95_10a.png" class="fundo" />
 	</details>
   <a href="telhados/telhado46.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
@@ -5257,6 +5257,54 @@
   <a href="superficies/curva11.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0098.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Traçado de curvas de nível</summary>
+	  <p>Para traças as curvas de nível podemos utilizar o método da triangularização. Acompanhe o procedimento.</p>
+	  <ul class="slider">
+		   <li>
+		   <input type="radio" id="700" name="sl">
+			   <label for="700"></label>
+			   <img src="aplicacoes/98_01.png" />
+			 <figcaption>Una os pontos dados formando quadriláteros.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="701" name="sl">
+			   <label for="701"></label>
+			   <img src="aplicacoes/98_02.png" />
+			 <figcaption>No quadrilátero da esquerda temos duas diagonais. A diferença de cotas entre as extremidades de uma delas é de 80-79=1 e da outra 81-76=5u. Desenhamos a diagonal que nos dá a maior diferença de cotas.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="702" name="sl">
+			   <label for="702"></label>
+			   <img src="aplicacoes/98_03.png" />
+			 <figcaption>No quadrilátero da direita procedemos da mesma maneira, desenhando a diagonal com a maior diferença de cotas.</figcaption>
+		   </li>	  
+		   <li>
+			   <input type="radio" id="703" name="sl">
+			   <label for="703"></label>
+			   <img src="aplicacoes/98_04.png" />
+			 <figcaption>Vamos dividir cada segmento representado em partes iguais. Nesse caso, como as extremidades possuem uma diferença de cotas de 3u, devemos dividir graficamente o segmento em 3 partes iguais, obtendo pontos de cotas 77u e 78u.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="704" name="sl">
+			   <label for="704"></label>
+			   <img src="aplicacoes/98_05.png" />
+			 <figcaption>Repetimos o processo para os demais segmentos obtendo pontos de cotas inteiras.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="705" name="sl">
+			   <label for="705"></label>
+			   <img src="aplicacoes/98_06.png" />
+			 <figcaption>Iniciando no primeiro triângulo da esquerda vamos unindo os pontos de mesma cota 77, sempre cuidando para ligar aos pontos de triângulos adjacentes. Formando assim a Curva de Nível de cota 77.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="706" name="sl">
+			   <label for="706"></label>
+			   <img src="aplicacoes/98_07.png" />
+			 <figcaption>Analogamente, obtemos as demais Curvas de Nível.</figcaption>
+		   </li>
+		</ul>
+		<img src="aplicacoes/98_00.png" class="fundo" />
+	</details></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0099.png" />
   <div class="combo"><figcaption>Use o link abaixo para visualizar em 3D uma superfície topográfica com suas respectivas curvas de nível</figcaption>
