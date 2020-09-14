@@ -5242,7 +5242,6 @@
 		</ul>
 		<img src="aplicacoes/95_10.png" class="fundo" />
 	</details>
-  <div class="combo"><figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
   <a href="telhados/telhado46.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
 </details>
