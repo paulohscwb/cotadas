@@ -3498,7 +3498,7 @@
 			   <input type="radio" id="slide362" name="slide">
 			   <label for="slide362"></label>
 			   <img src="cotadas/59_02_03.png" />
-			<figcaption>Rebatemos a reta <b>a</b>, obtendo <b>a'<sub>1</sub><b>.</figcaption>
+			<figcaption>Rebatemos a reta <b>a</b>, obtendo <b>a'<sub>1</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide363" name="slide">
