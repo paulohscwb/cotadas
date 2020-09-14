@@ -4962,7 +4962,113 @@
   <a href="telhados/telhado43.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0093.png" />
-  <div class="combo"><figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1<sup>a</sup> parte</summary>
+	  <p>Vamos determinar as interseções das águas da cobertura dada. Como as águas possuem inclinações diferentes só poderemos utilizar o processo das bissetrizes entre as águas de mesma inclinação. Nas demais devemos achar pontos comuns das horizontais de mesma cota.</p>
+	  <ul class="slider">
+		   <li>
+		   <input type="radio" id="slide665c" name="slide">
+			   <label for="slide665c"></label>
+			   <img src="aplicacoes/93_01.png" />
+			 <figcaption>Nomeie os vértices da poligonal de <b>A</b> a <b>F</b>. As águas adjacentes <b>b</b> e <b>c</b> possuem a mesma inclinação assim trace a bissetriz <b>(bc)</b>. O mesmo para <b>e</b> e <b>f</b>, obtendo <b>(ef)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide666c" name="slide">
+			   <label for="slide666c"></label>
+			   <img src="aplicacoes/93_02.png" />
+			 <figcaption>Obtenha graficamente os intervalos para 30° e 60°.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide667c" name="slide">
+			   <label for="slide667c"></label>
+			   <img src="aplicacoes/93_03.png" />
+			 <figcaption>Vamos obter a interseção entre <b>a</b> e <b>b</b>. Construa uma reta de declive de <b>a</b>, marque sobre ela o Intervalo de 60° obtendo um ponto de cota 3,2m e construa a horizontal de <b>a</b> de cota 3,2m.</figcaption>
+		   </li>	  
+		   <li>
+			   <input type="radio" id="slide668c" name="slide">
+			   <label for="slide668c"></label>
+			   <img src="aplicacoes/93_04.png" />
+			 <figcaption>Construa uma reta de declive de <b>b</b>, marque sobre ela o Intervalo de 30° obtendo um ponto de cota 3,2m e construa a horizontal de <b>b</b> de cota 3,2m.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide669c" name="slide">
+			   <label for="slide669c"></label>
+			   <img src="aplicacoes/93_05.png" />
+			 <figcaption>Marque o ponto de interseção entre as duas horizontais construídas obtendo um ponto comum à interseção procurada. Desenhe <b>(ab)</b> unindo esse ponto obtido ao vértice <b>B</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide670c" name="slide">
+			   <label for="slide670c"></label>
+			   <img src="aplicacoes/93_06.png" />
+			 <figcaption>Vamos obter a interseção entre <b>a</b> e <b>f</b>. Já temos uma horizontal de <b>a</b> de cota 3,2m. Assim, construa uma reta de declive de <b>f</b>, marque sobre ela o Intervalo de 30° obtendo um ponto de cota 3,2m e construa a horizontal de <b>f</b> de cota 3,2m.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide671c" name="slide">
+			   <label for="slide671c"></label>
+			   <img src="aplicacoes/93_07.png" />
+			 <figcaption>Marque o ponto de interseção entre as horizontais construídas de <b>a</b> e <b>f</b> obtendo um ponto comum à interseção procurada. Desenhe <b>(af)</b> unindo esse ponto obtido ao vértice <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide672c" name="slide">
+			   <label for="slide672c"></label>
+			   <img src="aplicacoes/93_08.png" />
+			 <figcaption>Vamos obter agora a interseção entre <b>d</b> e <b>c</b>. Construa uma reta de declive de <b>d</b>, marque sobre ela o Intervalo de 60° obtendo um ponto de cota 3,2m e construa a horizontal de <b>d</b> de cota 3,2m.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide673c" name="slide">
+			   <label for="slide673c"></label>
+			   <img src="aplicacoes/93_09.png" />
+			 <figcaption>Construa uma reta de declive de <b>c</b>, marque sobre ela o Intervalo de 30° obtendo um ponto de cota 3,2m e construa a horizontal de <b>c</b> de cota 3,2m. Marque o ponto de interseção entre as horizontais construídas de <b>d</b> e <b>c</b> obtendo um ponto comum à interseção procurada. Desenhe <b>(cd)</b> unindo esse ponto obtido ao vértice <b>D</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide674c" name="slide">
+			   <label for="slide674c"></label>
+			   <img src="aplicacoes/93_10.png" />
+			 <figcaption>Vamos obter a interseção entre <b>d</b> e <b>e</b>. Já temos uma horizontal de <b>d</b> de cota 3,2m. Assim, construa uma reta de declive de <b>e</b>, marque sobre ela o Intervalo de 30° obtendo um ponto de cota 3,2m e construa a horizontal de <b>e</b> de cota 3,2m. Marque o ponto de interseção entre as horizontais construídas de <b>d</b> e <b>e</b> obtendo um ponto comum à interseção procurada. Desenhe <b>(de)</b> unindo esse ponto obtido ao vértice <b>E</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide675c" name="slide">
+			   <label for="slide675c"></label>
+			   <img src="aplicacoes/93_11.png" />
+			 <figcaption>Para obter as demais interseções o processo é o mesmo que aprendemos. Obtenha agora as outras interseções prolongando os segmentos obtidos.</figcaption>
+		   </li>
+		</ul>
+		<img src="aplicacoes/93_00.png" class="fundo" />
+	</details>
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2<sup>a</sup> parte</summary>
+	  <ul class="slider">
+		   <li>
+		   <input type="radio" id="slide676c" name="slide">
+			   <label for="slide676c"></label>
+			   <img src="aplicacoes/93_12.png" />
+			 <figcaption>Este telhado possui duas cumeeiras <b>(ce)</b> e <b>(bf)</b>, seis espigões e um rincão <b>(bc)</b>. Comparando a distância de <b>(ce)</b> e <b>(bf)</b> em relação à linha de beiral das águas de mesma inclinação temos que a cumeeira principal será <b>(ce)</b>. Continue a graduação da reta de declive de <b>c</b> e obtenha a cota do ponto <b>P</b> da cumeeira, que é de 5m.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide677c" name="slide">
+			   <label for="slide677c"></label>
+			   <img src="aplicacoes/93_13.png" />
+			 <figcaption>Para obter a declividade do rincão <b>(bc)</b> obtenha a cota do ponto <b>S≡(bcf)</b>. Sabemos que <b>de(bc) = de(CS) = dV / dH</b>. Assim <b>dV = |cota(S) – cota(C)| = 3,8 – 2,2 = 1,6m e dH = C’S’ = 3,9m</b>. Portanto, <b>de(bc) =de(CS) = tg(&theta;<sub>bc</sub>) = dV/dH = 1,6 / 3,9 = 0,41 = 41%</b>. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide678c" name="slide">
+			   <label for="slide678c"></label>
+			   <img src="aplicacoes/93_14.png" />
+			 <figcaption>Rebatendo os pontos <b>C</b> e <b>S</b> temos a VG de <b>(bc)</b> que é de 4,2m e também o ângulo <b>&theta;<sub>(bc)</sub> = 22,4°</b>.</figcaption>
+		   </li>	  
+		   <li>
+			   <input type="radio" id="slide679c" name="slide">
+			   <label for="slide679c"></label>
+			   <img src="aplicacoes/93_15.png" />
+			 <figcaption>Rebatendo a água <b>f<b> obtemos sua VG. Dividindo a figura em um trapézio e um triângulo temos que <b>S(F<sub>1</sub>) =(5,5 + 7,3) x 3,1 / 2 = 19,84 m<sup>2</sup></b> e <b>S(F<sub>2</sub>) = (9,7 x 5,6) / 2 = 27,16m<sup>2</sup></b>, fornecendo a área total de 47m<sup>2</sup>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide680c" name="slide">
+			   <label for="slide680c"></label>
+			   <img src="aplicacoes/93_16.png" />
+			 <figcaption>Represente a calha nos rincão <b>(bc)</b>, e indique o sentido de escoamento das águas.</figcaption>
+		   </li>
+		</ul>
+		<img src="aplicacoes/93_11.png" class="fundo" />
+	</details>
   <a href="telhados/telhado44.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0094.png" />
