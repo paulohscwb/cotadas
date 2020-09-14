@@ -2877,18 +2877,18 @@
 	<br><a href="vr/41_pertinencia2.html" target="_blank" class="visu">Visualização em 3D do 2<sup>o</sup> exemplo</a></div>
 	<img src="cotadas/Cotadas_2020_0041a.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<p>.</p>
+		<p></p>
 		<img src="cotadas/41_01_00.png" class="fundo" />
 	</details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0042.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<p>.</p>
+		<p></p>
 		<img src="cotadas/42_01_00.png" class="fundo" />
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0042a.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<p>.</p>
+		<p></p>
 		<img src="cotadas/42_02_00.png" class="fundo" />
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0042b.png" />
@@ -2899,12 +2899,12 @@
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0043.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<p>.</p>
+		<p></p>
 		<img src="cotadas/43_01_00.png" class="fundo" />
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0043a.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<p>.</p>
+		<p></p>
 		<img src="cotadas/43_02_00.png" class="fundo" />
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0043b.png" />
@@ -3437,7 +3437,78 @@
 	</details></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0059.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+		<p>Para que um ponto pertença a um plano, ele deve pertencer a uma das retas do plano. Seguimos os mesmos passos do exercício anterior. conduzimos pelo ponto <b>P</b> uma reta que seja concorrente com as duas retas do plano ou que seja concorrente com uma e paralela à outra e verificamos se essa reta pertence ao plano.</p>
+		<p>Traçar a reta que passa pelo ponto <b>A</b> e pelo ponto <b>P</b> e verificar se ela pertence ao plano, ou seja, devemos verificar se a reta é concorrente com a reta <b>b</b>, pois com a reta <b>a</b> ela é, já que passa pelo ponto <b>A</b> que, certamente pertence ao plano. Assim, devemos verificar se o ponto de interseção, <b>Q'</b>, entre a reta traçada <b>r'(A'P')</b> com a reta <b>b</b>, possui a mesma cota nas duas retas. Rebatemos então a reta <b>r</b> e a reta <b>b</b>. </p>
+		<ul class="slider">
+		  <li>
+			   <input type="radio" id="slide355" name="slide">
+			   <label for="slide355"></label>
+			   <img src="cotadas/59_01_01.png" />
+			<figcaption>Traçar a reta que passa pelos pontos <b>A'</b> e <b>P'</b>, chamamos esta reta de <b>r'</b>. Obtemos o ponto <b>Q'</b>, interseção de <b>r'</b> com <b>b'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide356" name="slide">
+			   <label for="slide356"></label>
+			   <img src="cotadas/59_01_02.png" />
+			<figcaption>Rebater a reta <b>b</b>, ou seja, rebatemos os pontos <b>C</b> e <b>B</b>, obtendo a reta <b>b'1</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide357" name="slide">
+			   <label for="slide357"></label>
+			   <img src="cotadas/59_01_03.png" />
+			<figcaption>Verificamos a cota do ponto <b>Q</b> sobre a reta <b>b</b>, chamamos esse ponto de <b>Q'r</b>. O ponto <b>Q</b> possui cota 5 sobre a reta <b>b</b>. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide358" name="slide">
+			   <label for="slide358"></label>
+			   <img src="cotadas/59_01_04.png" />
+			<figcaption>Rebater a reta <b>r</b>, ou seja, rebater os pontos <b>A</b> e <b>P</b>. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide359" name="slide">
+			   <label for="slide359"></label>
+			   <img src="cotadas/59_01_05.png" />
+			<figcaption>Verificamos que a cota do ponto <b>Q</b> sobre a reta <b>r</b>, também é 5. Logo as retas <b>r</b> e <b>b</b> são concorrentes, portanto a reta <b>r</b> pertence ao plano e o ponto <b>P</b> também pertence ao plano.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/59_01_00.png" class="fundo" />
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0059a.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+		<p>Neste exercício vamos utilizar uma reta <b>r</b>, concorrente com a reta <b>a</b> e paralela à reta <b>b</b>. Traçar a reta que passa pelo ponto <b>P</b>, é paralela à reta <b>b</b> e concorrente com a reta <b>a</b>.</p>
+		<p>Para que a reta <b>r</b> seja paralela à reta <b>b</b>, são necessárias 3 condições:</p>
+		<p>• As projeções devem ser paralelas;</p>
+		<p>• Os intervalos devem ser iguais;</p>
+		<p>• As graduações devem crescer no mesmo sentido.</p>
+		<ul class="slider">
+		  <li>
+			   <input type="radio" id="slide360" name="slide">
+			   <label for="slide360"></label>
+			   <img src="cotadas/59_02_01.png" />
+			<figcaption>Traçar <b>r'</b> paralela à <b>b'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide361" name="slide">
+			   <label for="slide361"></label>
+			   <img src="cotadas/59_02_02.png" />
+			<figcaption>Tomamos o intervalo <b>B'C'</b> e marcamos a partir de <b>P'</b>, obtendo o ponto <b>Q'</b>. Assim a reta <b>r</b> é paralela à reta <b>b</b>. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide362" name="slide">
+			   <label for="slide362"></label>
+			   <img src="cotadas/59_02_03.png" />
+			<figcaption>Rebatemos a reta <b>a</b>, obtendo <b>a'<sub>1</sub><b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide363" name="slide">
+			   <label for="slide363"></label>
+			   <img src="cotadas/59_02_04.png" />
+			<figcaption>Verificamos que a cota do ponto de interseção das retas <b>M'</b> é 6.3. Na reta <b>r'</b>, esse ponto não tem a mesma cota, pois o ponto <b>P</b> tem cota 6, assim as retas <b>r</b> e <b>a</b> não são concorrentes e portanto não são coplanares, desta forma o ponto <b>P</b> não pertence ao plano.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/59_02_00.png" class="fundo" />
+	</details></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0060.png" />
 	<img src="cotadas/Cotadas_2020_0060a.png" />
@@ -3979,42 +4050,40 @@
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0069.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<p>.</p> 
+		<p></p> 
 		<img src="cotadas/69_01_00.png" />
-		<figcaption>.</figcaption>
+		<figcaption></figcaption>
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0069a.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<p>.</p> 
+		<p></p> 
 		<img src="cotadas/69_02_00.png" />
-		<figcaption>.</figcaption>
+		<figcaption></figcaption>
 	</details></div>
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0070.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<p>.</p> 
+		<p></p> 
 		<img src="cotadas/70_01_00.png" />
-		<figcaption>.</figcaption>
+		<figcaption></figcaption>
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0070a.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<p>.</p> 
+		<p></p> 
 		<img src="cotadas/70_02_00.png" />
-		<figcaption>.</figcaption>
+		<figcaption></figcaption>
 	</details></div>
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0071.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<p>.</p> 
 		<img src="cotadas/71_01_00.png" />
-		<figcaption>.</figcaption>
+		<figcaption></figcaption>
 	</details></div>
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0072.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<p>.</p> 
 		<img src="cotadas/72_01_00.png" />
-		<figcaption>.</figcaption>
+		<figcaption></figcaption>
 	</details></div>
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0073.png" />
@@ -4193,21 +4262,21 @@
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0077.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<p>.</p> 
+		<p></p> 
 		<img src="cotadas/77_01_00.png" />
-		<figcaption>.</figcaption>
+		<figcaption></figcaption>
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0077a.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<p>.</p> 
+		<p></p> 
 		<img src="cotadas/77_02_00.png" />
-		<figcaption>.</figcaption>
+		<figcaption></figcaption>
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0077b.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<p>.</p> 
+		<p></p> 
 		<img src="cotadas/77_03_00.png" />
-		<figcaption>.</figcaption>
+		<figcaption></figcaption>
 	</details></div>
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 </details>
@@ -4857,6 +4926,36 @@
   <img src="aplicacoes/Cotadas_2020_0090.png" />
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0091.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <p>Como os planos possuem inclinações diferentes devemos obter horizontais de mesma cota de cada um deles. </p>
+	  <ul class="slider">
+		   <li>
+		   <input type="radio" id="slide665b" name="slide">
+			   <label for="slide665b"></label>
+			   <img src="aplicacoes/91_01.png" />
+			 <figcaption>Obtenha graficamente os intervalos de 30° e 45° na escala 1:100. Lembre-se que <b>I<sub>45°</sub> = 1u</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide666b" name="slide">
+			   <label for="slide666b"></label>
+			   <img src="aplicacoes/91_02.png" />
+			 <figcaption>Agora vamos obter as horizontais de <b>&alpha;</b>. Note que a reta <b>r(A,B)</b> é uma horizontal de <b>&alpha;</b> de cota (2). Construa uma reta de declive de <b>&alpha;</b>, marque sobre ela o Intervalo de 30° obtendo um ponto de cota(3) e construa a horizontal de <b>&alpha;</b> de cota (3).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="slide667b" name="slide">
+			   <label for="slide667b"></label>
+			   <img src="aplicacoes/91_03.png" />
+			 <figcaption>Agora vamos obter as horizontais de <b>&beta;</b>. Note que a reta <b>s(C,D)</b> é uma horizontal de <b>&beta;</b> de cota (2). Construa uma reta de declive de <b>&beta;</b>, marque sobre ela o Intervalo de 45° obtendo um ponto de cota (3) e construa a horizontal de <b>&beta;</b> de cota (3).</figcaption>
+		   </li>	  
+		   <li>
+			   <input type="radio" id="slide668b" name="slide">
+			   <label for="slide668b"></label>
+			   <img src="aplicacoes/91_04.png" />
+			 <figcaption>Marque o ponto <b>P(2)</b> na interseção das horizontais de cota (2) e o ponto <b>Q</b> na interseção das horizontais de cota (3). Os pontos <b>P</b> e <b>Q</b> definem a reta de interseção <b>&alpha;&beta;</b> procurada. Repare que a reta de interseção não é a bissetriz do ângulo formado entre as horizontais!</figcaption>
+		   </li>
+		</ul>
+		<img src="aplicacoes/91_00.png" class="fundo" />
+	</details></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0092.png" />
   <div class="combo"><figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
