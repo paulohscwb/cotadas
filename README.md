@@ -5058,7 +5058,7 @@
 			   <input type="radio" id="slide679c" name="slide">
 			   <label for="slide679c"></label>
 			   <img src="aplicacoes/93_15.png" />
-			 <figcaption>Rebatendo a água <b>f<b> obtemos sua VG. Dividindo a figura em um trapézio e um triângulo temos que <b>S(F<sub>1</sub>) =(5,5 + 7,3) x 3,1 / 2 = 19,84 m<sup>2</sup></b> e <b>S(F<sub>2</sub>) = (9,7 x 5,6) / 2 = 27,16m<sup>2</sup></b>, fornecendo a área total de 47m<sup>2</sup>.</figcaption>
+			 <figcaption>Rebatendo a água <b>f</b> obtemos sua VG. Dividindo a figura em um trapézio e um triângulo temos que <b>S(F<sub>1</sub>) =(5,5 + 7,3) x 3,1 / 2 = 19,84 m<sup>2</sup></b> e <b>S(F<sub>2</sub>) = (9,7 x 5,6) / 2 = 27,16m<sup>2</sup></b>, fornecendo a área total de 47m<sup>2</sup>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="slide680c" name="slide">
