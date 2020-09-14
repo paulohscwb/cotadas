@@ -4454,7 +4454,7 @@
 			   <input type="radio" id="625" name="sl">
 			   <label for="625"></label>
 			   <img src="aplicacoes/83_15.png" />
-			 <figcaption>Basta agora calcular a área da figura <b>A’<sub>3</sub>B’<sub>3</sub>S’<sub>3</sub>P’<sub>3</sub></b> que está em VG. Dividindo a figura em dois triângulos e um retângulo temos que <b>S(F<sub>1</sub>) = S(F<sub>3</sub>) = 3,8 x 4,4 / 2 = 8,36m<sup>2</sup></b> e <b>S(F<sup>2</sup>) = 2,3 x 4,4 = 10,12m<sup>2</sup></b>, fornecendo a área total de <b>26,84m<sup>2</sup></b>. Use o link abaixo para visualizar o telhado em 3D</figcaption>
+			 <figcaption>Basta agora calcular a área da figura <b>A’<sub>3</sub>B’<sub>3</sub>S’<sub>3</sub>P’<sub>3</sub></b> que está em VG. Dividindo a figura em dois triângulos e um retângulo temos que <b>S(F<sub>1</sub>) = S(F<sub>3</sub>) = 3,8 x 4,4 / 2 = 8,36m<sup>2</sup></b> e <b>S(F<sub>2</sub>) = 2,3 x 4,4 = 10,12m<sup>2</sup></b>, fornecendo a área total de <b>26,84m<sup>2</sup></b>. Use o link abaixo para visualizar o telhado em 3D</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="615" name="sl">
