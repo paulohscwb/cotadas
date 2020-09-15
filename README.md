@@ -3511,12 +3511,112 @@
 	</details></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0060.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+		<p>Para verificar se a reta <b>r</b> pertence ao plano <b>&alpha;</b>, devemos verificar se ela é concorrente com duas retas do plano. Dessa forma, iremos verificar se a reta <b>r</b> é concorrente com as retas <b>a</b> e <b>b</b></p>
+		<ul class="slider">
+		  <li>
+			   <input type="radio" id="364" name="sl">
+			   <label for="364"></label>
+			   <img src="cotadas/60_01_01.png" />
+			<figcaption>Rebater a reta <b>a</b>. O ponto de interseção entre as retas <b>r</b> e <b>a</b> é o ponto <b>M</b>.  Rebatemos então o ponto <b>M</b> sobre a reta <b>a</b> e verificamos que sua cota na reta <b>a</b> é 3.5.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="365" name="sl">
+			   <label for="365"></label>
+			   <img src="cotadas/60_01_02.png" />
+			<figcaption>Rebatemos a reta <b>r</b> e verificamos que a cota do ponto <b>M</b> sobre a reta <b>r</b>, também é 3.5, ou seja o ponto <b>M</b> possui a mesma cota na reta <b>a</b> e na reta <b>r</b>, portanto as retas <b>r</b> e <b>a</b> são concorrentes. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="366" name="sl">
+			   <label for="366"></label>
+			   <img src="cotadas/60_01_03.png" />
+			<figcaption>Rebatemos a reta <b>b</b>. O ponto de intereseção entre as retas <b>r</b> e <b>b</b> é o ponto <b>N</b>. Rebatemos então o ponto <b>N</b> sobre a reta <b>b</b> e verificamos que sua cota na reta <b>b</b> é 5.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="367" name="sl">
+			   <label for="367"></label>
+			   <img src="cotadas/60_01_04.png" />
+			<figcaption>Rebatemos a reta <b>r</b> e verificamos que a cota do ponto <b>N</b> sobre a reta <b>r</b>, também é 5, ou seja o ponto <b>N</b> possui a mesma cota na reta <b>b</b> e na reta <b>r</b>, portanto as retas <b>r</b> e <b>b</b> são concorrentes. Concluímos que a reta <b>r</b> é concorrente com a reta <b>a</b> no ponto <b>M(3.5)</b> e com a reta <b>b</b> no ponto <b>N(5)</b>, logo a reta <b>r</b> pertence ao plano <b>&alpha;</b>, definido pelas retas <b>a</b> e <b>b</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/60_01_00.png" class="fundo" />
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0060a.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>Vamos seguir os passos do exercício anterior, ou seja, vamos verificar se os pontos <b>M</b> e <b>N</b> são interseções das retas <b>r</b> com <b>a</b> e <b>r</b> com <b>b</b>, respectivamente. Para isso rebatemos as retas <b>a</b> e <b>r</b>, e <b>b</b> e <b>r</b>. Se o ponto <b>M</b> tiver a mesma cota nas retas <b>a</b> e <b>r</b>, significa que as retas <b>a</b> e <b>r</b> são concorrentes e se o ponto <b>N</b> tiver a mesma cota nas retas <b>r</b> e <b>b</b>, as retas <b>r</b> e <b>b</b> são concorrentes, portanto se a reta <b>r</b> for concorrente com as retas <b>a</b> e <b>b</b>, ela pertence ao plano por elas definido.</p> 
+		<img src="cotadas/60_02_00.png" />
+		<figcaption>Observamos que a cota do ponto <b>M</b> é a mesma nas retas <b>a</b> e <b>r</b>, portanto a reta <b>r</b> é concorrente com a reta <b>a</b>, porém o ponto <b>N</b> tem cota 5.4 na reta <b>b</b> e 5.2 na reta <b>r</b>, logo as retas <b>r</b> e <b>b</b> são reversas, e portanto, a reta <b>r</b> não pertence ao plano <b>&alpha;</b>.</figcaption>
+	</details></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0061.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+		<p>Como as retas horizontais possuem a mesma cota, basta encontrar dois pontos do plano que possuam a mesma cota. Basta encontrar mais um ponto do plano de cota 2,5, assim, vamos graduar a reta que passa pelos pontos <b>A</b> e <b>C</b>, para encontrar o ponto dela que possua cota 2,5.</p>
+		<ul class="slider">
+		  <li>
+			   <input type="radio" id="368" name="sl">
+			   <label for="368"></label>
+			   <img src="cotadas/61_01_01.png" />
+			<figcaption>Vamos usar Tales para graduar a reta <b>AC</b>, encontramos os pontos de cota 2 e 2,5.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="369" name="sl">
+			   <label for="369"></label>
+			   <img src="cotadas/61_01_02.png" />
+			<figcaption>Unir o ponto de cota 2,5 com o ponto <b>B</b>, essa é a horizontal do plano que passa pelo ponto <b>B</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/61_01_00.png" class="fundo" />
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0061a.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+		<p>Para encontrar o traço do plano <b>&alpha;</b> sobre o plano <b>&pi;'</b>, basta encontrar sua horizontal de cota 0. Para isso, devemos encontrar dois pontos do plano de cota 0.</p>
+		<ul class="slider">
+		  <li>
+			   <input type="radio" id="370" name="sl">
+			   <label for="370"></label>
+			   <img src="cotadas/61_02_01.png" />
+			<figcaption>Encontrar o zero da reta <b>A'B'</b>, para isso graduar a reta.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="371" name="sl">
+			   <label for="371"></label>
+			   <img src="cotadas/61_02_02.png" />
+			<figcaption>Graduar a reta <b>A'C'</b>, encontramos o intervalo da reta <b>A'C'</b>. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="372" name="sl">
+			   <label for="372"></label>
+			   <img src="cotadas/61_02_03.png" />
+			<figcaption>Tomamos o intervalo da reta <b>A'C'</b> com o compasso.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="373" name="sl">
+			   <label for="373"></label>
+			   <img src="cotadas/61_02_04.png" />
+			<figcaption>Com essa medida encontramos o ponto da reta que tem cota 1.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="374" name="sl">
+			   <label for="374"></label>
+			   <img src="cotadas/61_02_05.png" />
+			<figcaption>Marcando mais uma vez esse intervalo, encontramos o ponto da reta que possui cota 0.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="375" name="sl">
+			   <label for="375"></label>
+			   <img src="cotadas/61_02_06.png" />
+			<figcaption>Unindo os dois pontos do plano que possuem cota zero, temos o traço do plano <b>&alpha;</b> sobre o plano <b>&pi;'</b> </figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/61_02_00.png" class="fundo" />
+	</details></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0062.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>Basta encontrar dois pontos do plano que possuam cota 2, graduar duas das retas do plano para encontrar esses pontos.</p> 
+		<img src="cotadas/62_01_00.png" />
+		<figcaption></figcaption>
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0062a.png" />
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 </details>
