@@ -5515,8 +5515,18 @@
 		</ul>
 		<img src="aplicacoes/105_01_00.png" class="fundo" />
 	</details></div>
+	<img src="aplicacoes/Cotadas_2020_0105a.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	  <p>Resolução semelhante ao exercício anterior.</p>
+	  <img src="aplicacoes/105_02_00.png" />
+	  <figcaption></figcaption></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0106.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	  <p>Resolução semelhante ao exercício anterior, porém devemos pegar os pontos de interseção das horizontais com todas as curvas de mesma cota. Observe que ao lado esquerdo temos uma depressão enquanto que ao lado direito temos um morro.</p>
+	  <img src="aplicacoes/106_01_00.png" />
+	  <figcaption></figcaption></div>
+	  <img src="aplicacoes/Cotadas_2020_0106a.png" />
   <div class="combo"><figcaption>Use o link abaixo para visualizar em 3D da seção plana de um terreno</figcaption>
   <a href="superficies/curva10.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
