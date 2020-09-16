@@ -3618,6 +3618,42 @@
 		<figcaption></figcaption>
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0062a.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+		<p>Para que um ponto pertença ao plano, ele deve estar em uma das retas do plano.</p>
+		<ul class="slider">
+		  <li>
+			   <input type="radio" id="376" name="sl">
+			   <label for="376"></label>
+			   <img src="cotadas/62_02_01.png" />
+			<figcaption>Representar o plano por duas retas, nesse caso, optamos por representar o plano pelas retas <b>A'C'</b> e <b>A'B'</b>, as quais chamamos respectivamente de <b>r'</b> e <b>s'</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="377" name="sl">
+			   <label for="377"></label>
+			   <img src="cotadas/62_02_02.png" />
+			<figcaption>Pelo ponto <b>P</b> conduzimos uma reta que passe por um dos pontos que definem o plano, nesse caso optamos conduzir a reta passando pelos pontos <b>P</b> e <b>C</b>, a qual chamaremos de <b>t'</b>. Ao ponto de interseção das retas <b>t'</b> e <b>s'</b>, damos o nome de <b>Q'</b>. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="378" name="sl">
+			   <label for="378"></label>
+			   <img src="cotadas/62_02_03.png" />
+			<figcaption>Verificar a cota do ponto <b>Q</b> para que pertença à reta <b>s</b>. Para isso, rebatemos a reta <b>s</b> e o ponto <b>Q</b>. Verificamos que a cota do ponto <b>Q</b> é 5.7.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="379" name="sl">
+			   <label for="379"></label>
+			   <img src="cotadas/62_02_04.png" />
+			<figcaption>Com a cota do ponto <b>Q</b>, já temos a reta <b>t</b> definida. Agora basta encontrar a cota do ponto <b>P</b>, rebatendo a reta <b>t</b>, rebatendo os pontos <b>C</b> e <b>Q</b>. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="380" name="sl">
+			   <label for="380"></label>
+			   <img src="cotadas/62_02_05.png" />
+			<figcaption>Medimos a cota do ponto <b>P</b>, e verificamos que é 9.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/62_02_00.png" class="fundo" />
+	</details></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 </details>
 
@@ -5425,6 +5461,60 @@
   <a href="superficies/curva9.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0105.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <p>Como o intervalo do plano já está definido na sua reta de declive, basta marcar os demais pontos com a mesma cota das curvas existentes.</p>
+	  <ul class="slider">
+		   <li>
+		   <input type="radio" id="700a" name="sl">
+			   <label for="700a"></label>
+			   <img src="aplicacoes/105_01_01.png" />
+			 <figcaption>Tomar o intervalo entre os pontos de cota 60 e 70 com o compasso.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="701a" name="sl">
+			   <label for="701a"></label>
+			   <img src="aplicacoes/105_01_02.png" />
+			 <figcaption>Marcar a próxima cota.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="702a" name="sl">
+			   <label for="702a"></label>
+			   <img src="aplicacoes/105_01_03.png" />
+			 <figcaption>Marcar as demais cotas.</figcaption>
+		   </li>	  
+		   <li>
+			   <input type="radio" id="703a" name="sl">
+			   <label for="703a"></label>
+			   <img src="aplicacoes/105_01_04.png" />
+			 <figcaption>Traçar as retas horizontais.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="704a" name="sl">
+			   <label for="704a"></label>
+			   <img src="aplicacoes/105_01_05.png" />
+			 <figcaption>Encontrar a interseção das horizontais com as curvas de nível, marcar os pontos de interseção.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="705a" name="sl">
+			   <label for="705a"></label>
+			   <img src="aplicacoes/105_01_06.png" />
+			 <figcaption>Estimar o ponto de cota 70.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="706a" name="sl">
+			   <label for="706a"></label>
+			   <img src="aplicacoes/105_01_07.png" />
+			 <figcaption>Unir os pontos de interseção.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="707a" name="sl">
+			   <label for="707a"></label>
+			   <img src="aplicacoes/105_01_08.png" />
+			 <figcaption>Traçar as horizontais .</figcaption>
+		   </li>
+		</ul>
+		<img src="aplicacoes/105_01_00.png" class="fundo" />
+	</details></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0106.png" />
   <div class="combo"><figcaption>Use o link abaixo para visualizar em 3D da seção plana de um terreno</figcaption>
