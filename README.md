@@ -5443,7 +5443,66 @@
 	</details></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0099.png" />
-  <div class="combo"><figcaption>Use o link abaixo para visualizar em 3D uma superfície topográfica com suas respectivas curvas de nível</figcaption>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <p>Para representar a superfície topográfica por meio de Curvas de Nível vamos obter mais pontos da mesma utilizando uma interpolação linear.</p>
+	  <ul class="slider">
+		   <li>
+		   <input type="radio" id="700z" name="sl">
+			   <label for="700z"></label>
+			   <img src="aplicacoes/99_01.png" />
+			 <figcaption>Já temos a triangularização pronta e vários pontos de cotas inteiras representados. Nos segmentos <b>a</b> e <b>d</b> devemos obter pontos de cotas inteiras, com equidistância de 10 metros entre eles. Já nos segmentos <b>b</b> e <b>c</b> não é preciso pois a diferença de cotas entre suas extremidades é zero.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="701z" name="sl">
+			   <label for="701z"></label>
+			   <img src="aplicacoes/99_02.png" />
+			 <figcaption>Divida o segmento <b>a</b> em 4 partes iguais, obtendo pontos de cotas 110, 120 e 130 metros.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="702z" name="sl">
+			   <label for="702z"></label>
+			   <img src="aplicacoes/99_03.png" />
+			 <figcaption>Divida o segmento <b>d</b> em 4 partes iguais, obtendo pontos de cota 220, 230 e 240 metros.</figcaption>
+		   </li>	  
+		   <li>
+			   <input type="radio" id="703z" name="sl">
+			   <label for="703z"></label>
+			   <img src="aplicacoes/99_04.png" />
+			 <figcaption>Iniciando no segundo triângulo da esquerda vamos unindo os pontos de mesma cota 240, sempre cuidando para ligar aos pontos de triângulos adjacentes. Formando assim a Curva de Nível de cota 240.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="704z" name="sl">
+			   <label for="704z"></label>
+			   <img src="aplicacoes/99_05.png" />
+			 <figcaption>Prossiga unindo os pontos formando as Curvas de Nível de cotas 230, 220, 210, 200, 190 metros. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="705z" name="sl">
+			   <label for="705z"></label>
+			   <img src="aplicacoes/99_06.png" />
+			 <figcaption>Continue o processo, obtendo as Curvas de Nível de cotas 180, 170, 160 e 150 metros. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="706z" name="sl">
+			   <label for="706z"></label>
+			   <img src="aplicacoes/99_07.png" />
+			 <figcaption>A partir do primeiro triângulo da esquerda obtenhas as Curvas de Nível de cotas 130, 120 e 110 metros. Sempre cuidando para ligar pontos de triângulos adjacentes.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="707z" name="sl">
+			   <label for="707z"></label>
+			   <img src="aplicacoes/99_08.png" />
+			 <figcaption>Nos três primeiros triângulos de baixo obtenha as Curvas de Nível de cotas 130 a 70 metros. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="708z" name="sl">
+			   <label for="708z"></label>
+			   <img src="aplicacoes/99_09.png" />
+			 <figcaption>Finalmente, obtenha as demais Curvas de Nível. Use o link abaixo para visualizar esta superfície e suas curvas de nível em 3D.</figcaption>
+		   </li>
+		</ul>
+		<img src="aplicacoes/99_00.png" class="fundo" />
+	</details>
   <a href="superficies/curva2.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0100.png" />
