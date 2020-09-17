@@ -10,7 +10,7 @@
 <details>
   <summary id="desenho">Desenho Geométrico: pág. 1-10</summary>
    <img src="dg/Cotadas_2020_0001.png" />  
-   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; resolução: 1<sup>o</sup> segmento</summary>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; resolução: 1&deg; segmento</summary>
 	<p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
 	  <ul class="slider">
 		  <li>
@@ -46,7 +46,7 @@
 		</ul>
 		<img src="dg/01_01_00.png" class="fundo" />
   </details>
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; resolução: 2<sup>o</sup> segmento</summary>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; resolução: 2&deg; segmento</summary>
   <p>Agora veja como fica a construção da mediatriz do segmento <b>AB</b> próximo da margem da folha.</p>
   <ul class="slider">
        <li>
@@ -91,7 +91,7 @@
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Cotadas_2020_0002.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução com esquadros</summary>
-  <p>Podemos utilizar a régua e um dos esquadros ou a régua e o compasso para resolver este exercício. Primeiro, veja como é a construção com a régua e o esquadro de 45<sup>o</sup>.</p>
+  <p>Podemos utilizar a régua e um dos esquadros ou a régua e o compasso para resolver este exercício. Primeiro, veja como é a construção com a régua e o esquadro de 45&deg;.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="12" name="sl">
@@ -367,7 +367,7 @@
   <img src="dg/Cotadas_2020_0003a.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução com régua e compasso</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
-  <h4>Ângulos de 60<sup>o</sup> e 30<sup>o</sup>:</h4>
+  <h4>Ângulos de 60&deg; e 30&deg;:</h4>
   <ul class="slider">
       <li>
            <input type="radio" id="50" name="sl">
@@ -414,7 +414,7 @@
     </ul>
     <img src="dg/03_02_00.png" class="fundo" />
 	<hr>
-	<h4>Ângulos de 90<sup>o</sup> e 45<sup>o</sup>:</h4>
+	<h4>Ângulos de 90&deg; e 45&deg;:</h4>
     <ul class="slider">
       <li>
            <input type="radio" id="57" name="sl">
@@ -461,7 +461,7 @@
     </ul>
     <img src="dg/03_02_07.png" class="fundo" />
   <hr>
-  <h4>Ângulos de 75<sup>o</sup> e 15<sup>o</sup>:</h4>
+  <h4>Ângulos de 75&deg; e 15&deg;:</h4>
     <ul class="slider">
       <li>
            <input type="radio" id="64" name="sl">
@@ -504,7 +504,7 @@
 	</details>
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução com esquadros</summary>
   <p> Vamos utilizar a régua e os esquadros para resolver este exercício. Existem várias maneiras para construir ângulos usando os esquadros. Aqui veremos algumas. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
-  <h4>Ângulos de 60<sup>o</sup> e 30<sup>o</sup>:</h4>
+  <h4>Ângulos de 60&deg; e 30&deg;:</h4>
   <ul class="slider">
       <li>
            <input type="radio" id="70" name="sl">
@@ -569,7 +569,7 @@
     </ul>
     <img src="dg/03_02_00e.png" class="fundo" />
 	<hr>
-	<h4>Ângulos de 90<sup>o</sup> e 45<sup>o</sup>:</h4>
+	<h4>Ângulos de 90&deg; e 45&deg;:</h4>
     <ul class="slider">
       <li>
            <input type="radio" id="80" name="sl">
@@ -634,7 +634,7 @@
     </ul>
     <img src="dg/03_02_10e.png" class="fundo" />
   <hr>
-  <h4>Ângulos de 75<sup>o</sup> e 15<sup>o</sup>:</h4>
+  <h4>Ângulos de 75&deg; e 15&deg;:</h4>
     <ul class="slider">
       <li>
            <input type="radio" id="90" name="sl">
@@ -1595,9 +1595,9 @@
     <div class="combo"><figcaption>Para projetar um ponto <b>A</b> qualquer do espaço usando a projeção cônica, basta definir a reta projetante <b>a</b>, que passa pelo centro de projeção <b>O</b> e pelo ponto <b>A</b>. A interseção desta reta com o plano <b>&pi;'</b> é a projeção <b>A'</b> do ponto <b>A</b>.</figcaption>
     <a href="vr/proj_conica.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="prop/Cotadas_2020_0014a.png" />
-    <div class="combo"><figcaption>Para projetar um ponto <b>A</b> qualquer do espaço usando a projeção cilíndrica, basta definir a reta projetante <b>a</b>, paralela à direção <b>d</b> e que passa pelo ponto <b>A</b>. A interseção desta reta com o plano <b>&pi;'</b> é a projeção <b>A'</b> do ponto <b>A</b>. Se a reta <b>d</b> formar ângulo <b>0 < &theta; < 90<sup>o</sup></b>, a projeção é chamada <b>oblíqua</b>.</figcaption>
+    <div class="combo"><figcaption>Para projetar um ponto <b>A</b> qualquer do espaço usando a projeção cilíndrica, basta definir a reta projetante <b>a</b>, paralela à direção <b>d</b> e que passa pelo ponto <b>A</b>. A interseção desta reta com o plano <b>&pi;'</b> é a projeção <b>A'</b> do ponto <b>A</b>. Se a reta <b>d</b> formar ângulo <b>0 < &theta; < 90&deg;</b>, a projeção é chamada <b>oblíqua</b>.</figcaption>
     <a href="vr/proj_cilindrica.html" target="_blank" class="visu">Projeção cilíndrica <b>oblíqua</b> em 3D</a>
-    <figcaption>Quando <b>&theta; = 90<sup>o</sup></b>, temos a projeção <b>ortogonal</b>.</figcaption>
+    <figcaption>Quando <b>&theta; = 90&deg;</b>, temos a projeção <b>ortogonal</b>.</figcaption>
 	<a href="vr/proj_cilindrica_orto.html" target="_blank" class="visu">Projeção cilíndrica <b>ortogonal</b> em 3D</a></div>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 	<img src="prop/Cotadas_2020_0015.png" />
@@ -1702,7 +1702,7 @@
            <input type="radio" id="106" name="sl">
            <label for="106"></label>
            <img src="prop/19_02_02.png" />
-           <figcaption>Alinhando o esquadro de 45<sup>o</sup> com <b>A'B'</b>, coloque como apoio o outro esquadro ou a régua. Deslize o esquadro de 45<sup>o</sup> deixando o outro esquadro ou a régua fixo.</figcaption>
+           <figcaption>Alinhando o esquadro de 45&deg; com <b>A'B'</b>, coloque como apoio o outro esquadro ou a régua. Deslize o esquadro de 45&deg; deixando o outro esquadro ou a régua fixo.</figcaption>
        </li>
        <li>
            <input type="radio" id="107" name="sl">
@@ -2077,7 +2077,7 @@
            <input type="radio" id="153" name="sl">
            <label for="153"></label>
            <img src="prop/23_01_02.png" />
-         <figcaption>Como a reta <b>AC</b> é paralela a <b>&pi;'</b>, o ângulo de 90<sup>o</sup> está projetado em verdadeira grandeza (vg). Podemos construir a mediatriz da projeção da diagonal <b>A'C'</b>.</figcaption>
+         <figcaption>Como a reta <b>AC</b> é paralela a <b>&pi;'</b>, o ângulo de 90&deg; está projetado em verdadeira grandeza (vg). Podemos construir a mediatriz da projeção da diagonal <b>A'C'</b>.</figcaption>
        </li>
        <li>
            <input type="radio" id="154" name="sl">
@@ -2109,7 +2109,7 @@
            <input type="radio" id="157" name="sl">
            <label for="157"></label>
            <img src="prop/23_02_01.png" />
-        <figcaption>Usando as propriedades do retângulo, temos que os vértices pertencem a uma circunferência com centro no encontro das diagonais <b>M</b>. Esta circunferência é chamada de arco capaz de 90<sup>o</sup>.</figcaption>
+        <figcaption>Usando as propriedades do retângulo, temos que os vértices pertencem a uma circunferência com centro no encontro das diagonais <b>M</b>. Esta circunferência é chamada de arco capaz de 90&deg;.</figcaption>
        </li>
        <li>
            <input type="radio" id="158" name="sl">
@@ -2121,7 +2121,7 @@
            <input type="radio" id="159" name="sl">
            <label for="159"></label>
            <img src="prop/23_02_03.png" />
-         <figcaption>Vamos começar construindo a mediatriz de <b>A'C'</b> para desenhar o arco capaz de 90<sup>o</sup>.</figcaption>
+         <figcaption>Vamos começar construindo a mediatriz de <b>A'C'</b> para desenhar o arco capaz de 90&deg;.</figcaption>
        </li>
        <li>
            <input type="radio" id="160" name="sl">
@@ -2133,7 +2133,7 @@
            <input type="radio" id="161" name="sl">
            <label for="161"></label>
            <img src="prop/23_02_05.png" />
-         <figcaption>Agora podemos desenhar a circunferência com centro em <b>A'</b> e raio 3cm. A interseção desta circunferência com o arco capaz de 90<sup>o</sup> é o vértice <b>B'</b>. Escolha uma das interseções para este vértice <b>B'</b></figcaption>
+         <figcaption>Agora podemos desenhar a circunferência com centro em <b>A'</b> e raio 3cm. A interseção desta circunferência com o arco capaz de 90&deg; é o vértice <b>B'</b>. Escolha uma das interseções para este vértice <b>B'</b></figcaption>
        </li>
 	   <li>
            <input type="radio" id="162" name="sl">
@@ -2172,7 +2172,7 @@
            <input type="radio" id="166" name="sl">
            <label for="166"></label>
            <img src="prop/24_01_03.png" />
-         <figcaption>Vamos começar construindo a reta paralela a <b>B'C'</b> que passa por <b>A'</b> para encontrar o vértice <b>D'</b> da base do paralelepípedo. Podemos usar o esquadro de 45<sup>o</sup> para alinhar com o segmento.</figcaption>
+         <figcaption>Vamos começar construindo a reta paralela a <b>B'C'</b> que passa por <b>A'</b> para encontrar o vértice <b>D'</b> da base do paralelepípedo. Podemos usar o esquadro de 45&deg; para alinhar com o segmento.</figcaption>
        </li>
        <li>
            <input type="radio" id="167" name="sl">
@@ -2854,7 +2854,7 @@
 			   <input type="radio" id="573" name="sl">
 			   <label for="573"></label>
 			   <img src="cotadas/40_02_04.png" />
-			 <figcaption>Marca-se <b>60<sup>o</sup></b> a partir de <b>A’<sub>1</sub></b>.</figcaption>
+			 <figcaption>Marca-se <b>60&deg;</b> a partir de <b>A’<sub>1</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="574" name="sl">
@@ -2873,8 +2873,8 @@
 	</details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0041.png" />
-	<div class="combo"><a href="vr/41_pertinencia1.html" target="_blank" class="visu">Visualização em 3D do 1<sup>o</sup> exemplo</a>
-	<br><a href="vr/41_pertinencia2.html" target="_blank" class="visu">Visualização em 3D do 2<sup>o</sup> exemplo</a></div>
+	<div class="combo"><a href="vr/41_pertinencia1.html" target="_blank" class="visu">Visualização em 3D do 1&deg; exemplo</a>
+	<br><a href="vr/41_pertinencia2.html" target="_blank" class="visu">Visualização em 3D do 2&deg; exemplo</a></div>
 	<img src="cotadas/Cotadas_2020_0041a.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p></p>
@@ -2919,10 +2919,10 @@
   <summary id="retas">Retas e planos: pág. 44-62</summary>
 	<img src="cotadas/Cotadas_2020_0044.png" />
 	<div class="combo"><figcaption>Duas retas quaisquer <b>r</b> e <b>s</b> são paralelas quando suas projeções <b>r'</b> e <b>s'</b> são paralelas, e as graduações destas retas crescem no mesmo sentido. Use o link abaixo para visualizar esta propriedade em 3D.</figcaption>
-	<a href="vr/44_paralelas.html" target="_blank" class="visu">Visualização em 3D do 1<sup>o</sup> exemplo</a>
-	<br><a href="vr/44_paralelas2.html" target="_blank" class="visu">Visualização em 3D do 2<sup>o</sup> exemplo</a></div>
+	<a href="vr/44_paralelas.html" target="_blank" class="visu">Visualização em 3D do 1&deg; exemplo</a>
+	<br><a href="vr/44_paralelas2.html" target="_blank" class="visu">Visualização em 3D do 2&deg; exemplo</a></div>
 	<img src="cotadas/Cotadas_2020_0044a.png" />
-	<div class="combo"><a href="vr/44_paralelas3.html" target="_blank" class="visu">Visualização em 3D do 3<sup>o</sup> exemplo</a></div>
+	<div class="combo"><a href="vr/44_paralelas3.html" target="_blank" class="visu">Visualização em 3D do 3&deg; exemplo</a></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0045.png" />
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
@@ -2967,7 +2967,7 @@
 	</details>
 	<a href="vr/47_incidencia5.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="cotadas/Cotadas_2020_0047a.png" />
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1<sup>o</sup> exemplo</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&deg; exemplo</summary>
 	  <p> Vamos verificar se as retas são paralelas ou concorrentes considerando as retas <b>r</b> e <b>s</b> quaisquer. Devemos verificar o ponto de interseção tem a mesma cota nas duas retas, para isso utilizamos o método do rebatimento.</p>
 	  <h4>Planos projetantes distintos e não paralelos</h4>
 	  <ul class="slider">
@@ -3029,7 +3029,7 @@
 		<img src="cotadas/47_02_00.png" class="fundo" />
 	</details>
 	<a href="vr/47_incidencia6a.html" target="_blank" class="visu">Visualização em 3D</a>
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução: 2<sup>o</sup> exemplo</summary>
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução: 2&deg; exemplo</summary>
 		<p>Agora você pode praticar, resolva o exercício, seguindo o mesmo modelo do exercício anterior. Verificar se as retas são paralelas ou concorrentes.</p> 
 		<img src="cotadas/47_03_01.png" />
 		<figcaption>Neste caso as retas são reversas, pois o ponto <b>P</b> possui cotas diferentes nas retas <b>r</b> e <b>s</b>. Use o link abaixo para visualizar este exemplo em 3D.</figcaption>
@@ -3037,7 +3037,7 @@
 	<a href="vr/47_incidencia6b.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="cotadas/Cotadas_2020_0047b.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-		<p>Como as retas são concorrentes, basta verificar se o ângulo entre elas é 90<sup>o</sup>. Se for, elas são perpendiculares. Faremos isso através do método do rebatimento.</p>
+		<p>Como as retas são concorrentes, basta verificar se o ângulo entre elas é 90&deg;. Se for, elas são perpendiculares. Faremos isso através do método do rebatimento.</p>
 		<ul class="slider">
 		  <li>
 			   <input type="radio" id="313" name="sl">
@@ -3109,7 +3109,7 @@
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0049a.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	  <p>Como as retas são concorrentes, basta verificar se o ângulo entre elas é <b>90<sup>o</sup></b>, se for, elas são perpendiculares. Faremos isso através do método do rebatimento.</p>
+	  <p>Como as retas são concorrentes, basta verificar se o ângulo entre elas é <b>90&deg;</b>, se for, elas são perpendiculares. Faremos isso através do método do rebatimento.</p>
 	  <ul class="slider">
 		  <li>
 			   <input type="radio" id="322" name="sl">
@@ -3121,7 +3121,7 @@
 			   <input type="radio" id="323" name="sl">
 			   <label for="323"></label>
 			   <img src="cotadas/49_02_02.png" />
-			 <figcaption>Verificar o ângulo entre as retas rebatidas: <b>111<sup>o</sup></b></figcaption>
+			 <figcaption>Verificar o ângulo entre as retas rebatidas: <b>111&deg;</b></figcaption>
 		   </li>
 		</ul>
 		<img src="cotadas/49_02_00.png" class="fundo" />
@@ -3130,7 +3130,7 @@
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Compreenda a construção:</summary>
 		<p>Das relações métricas no triângulo retângulo, temos que:</p>
 		<img src="cotadas/49_03_00.png" width="65%" />
-		<p><b>h<sup>2</sup>=n.m</b>, analogamente, no triângulo da figura abaixo: <b>u<sup>2</sup>=I<sub>r</sub>.I<sub>s</sub></b>, sendo a unidade de cota igual a <b>1</b>, temos que: <b>1<sup>2</sup>=I<sub>r</sub>.I<sub>s</sub></b>, ou seja <b>I<sub>r</sub>=1/I<sub>s</sub></b>.</p>
+		<p><b>h&sup2;=n.m</b>, analogamente, no triângulo da figura abaixo: <b>u&sup2;=I<sub>r</sub>.I<sub>s</sub></b>, sendo a unidade de cota igual a <b>1</b>, temos que: <b>1&sup2;=I<sub>r</sub>.I<sub>s</sub></b>, ou seja <b>I<sub>r</sub>=1/I<sub>s</sub></b>.</p>
 		<img src="cotadas/49_03_01.png" width="65%" />
 	</details>
 	<a href="vr/49_ortogonais1.html" target="_blank" class="visu">Visualização em 3D: perpendiculares</a>
@@ -4082,7 +4082,7 @@
 		<img src="cotadas/68_01_00.png" class="fundo" />
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0068a.png" />
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1<sup>a</sup> parte</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
 	  <p>Para representar um quadrado <b>ABCD</b> contido no plano <b>&alpha;(A,B,P)</b> é necessário rebater este plano deixando-o paralelo ou coincidente com o plano de projeção <b>&pi;'</b>.</p>
 	  <ul class="slider">
 		   <li>
@@ -4136,7 +4136,7 @@
 		</ul>
 		<img src="cotadas/68_02_00.png" class="fundo" />
 	</details>
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2<sup>a</sup> parte</summary>
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2&ordf; parte</summary>
 	  <ul class="slider">
 		   <li>
 			   <input type="radio" id="466" name="sl">
@@ -4499,7 +4499,7 @@
 	</details></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0083.png" />
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1<sup>a</sup> parte</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
   <p>Para simplificar a notação vamos denominar cada água do telhado por letras minúsculas do nosso alfabeto. Os lados da poligonal que representa a planta da cobertura são horizontais de cota <b>2</b> de cada água.</p>
 	  <ul class="slider">
 		   <li>
@@ -4542,7 +4542,7 @@
 		</ul>
 		<img src="aplicacoes/83_00.png" class="fundo" />
 	</details>
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2<sup>a</sup> parte</summary>
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2&ordf; parte</summary>
 	  <ul class="slider">
 		   <li>
 			   <input type="radio" id="618" name="sl">
@@ -4590,7 +4590,7 @@
 			   <input type="radio" id="625" name="sl">
 			   <label for="625"></label>
 			   <img src="aplicacoes/83_15.png" />
-			 <figcaption>Basta agora calcular a área da figura <b>A’<sub>3</sub>B’<sub>3</sub>S’<sub>3</sub>P’<sub>3</sub></b> que está em VG. Dividindo a figura em dois triângulos e um retângulo temos que <b>S(F<sub>1</sub>) = S(F<sub>3</sub>) = 3,8 x 4,4 / 2 = 8,36m<sup>2</sup></b> e <b>S(F<sub>2</sub>) = 2,3 x 4,4 = 10,12m<sup>2</sup></b>, fornecendo a área total de <b>26,84m<sup>2</sup></b>. Use o link abaixo para visualizar o telhado em 3D</figcaption>
+			 <figcaption>Basta agora calcular a área da figura <b>A’<sub>3</sub>B’<sub>3</sub>S’<sub>3</sub>P’<sub>3</sub></b> que está em VG. Dividindo a figura em dois triângulos e um retângulo temos que <b>S(F<sub>1</sub>) = S(F<sub>3</sub>) = 3,8 x 4,4 / 2 = 8,36m&sup2;</b> e <b>S(F<sub>2</sub>) = 2,3 x 4,4 = 10,12m&sup2;</b>, fornecendo a área total de <b>26,84m&sup2;</b>. Use o link abaixo para visualizar o telhado em 3D</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="615" name="sl">
@@ -4670,7 +4670,7 @@
 		</ul>
 		<img src="aplicacoes/84_00b.png" class="fundo" />
 	</details>
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1<sup>a</sup> parte</summary>
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
   <p>Vamos agora obter as demais interseções das águas da cobertura dada. Já construímos as bissetrizes de cada ângulo interno da poligonal, obtendo os segmentos <b>(ab)</b>, <b>(bc)</b>, <b>(cd)</b>, <b>(de)</b>, <b>(ef)</b> e <b>(af)</b>. As bissetrizes dos ângulos internos menores que <b>180°</b> serão os espigões e as outras serão os rincões. Temos que <b>(ef)</b> é um rincão onde representaremos posteriormente uma calha.</p>
 	  <ul class="slider">
 		   <li>
@@ -4736,7 +4736,7 @@
 		</ul>
 		<img src="aplicacoes/84_00.png" class="fundo" />
 	</details>
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2<sup>a</sup> parte</summary>
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2&ordf; parte</summary>
 	  <ul class="slider">
 		   <li>
 			   <input type="radio" id="647" name="sl">
@@ -4772,7 +4772,7 @@
 			   <input type="radio" id="652" name="sl">
 			   <label for="652"></label>
 			   <img src="aplicacoes/84_16.png" />
-			 <figcaption>Basta agora calcular a área da figura <b>U’<sub>3</sub>D’<sub>3</sub>E’<sub>3</sub></b> que está em VG. <b>S(F) = 3,7 x 2,1/2 = 3,88m<sup>2</sup></b>.</figcaption>
+			 <figcaption>Basta agora calcular a área da figura <b>U’<sub>3</sub>D’<sub>3</sub>E’<sub>3</sub></b> que está em VG. <b>S(F) = 3,7 x 2,1/2 = 3,88m&sup2;</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="653" name="sl">
@@ -4792,7 +4792,7 @@
   <a href="telhados/telhado34.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0085.png" />
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1<sup>a</sup> parte</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
   <p>Vamos determinar as interseções das águas da cobertura dada. Como todas as águas possuem a mesma inclinação utilizaremos o processo das bissetrizes.</p>
 	  <ul class="slider">
 		   <li>
@@ -4840,7 +4840,7 @@
 		</ul>
 		<img src="aplicacoes/85_00.png" class="fundo" />
 	</details>
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2<sup>a</sup> parte</summary>
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2&ordf; parte</summary>
 	  <ul class="slider">
 		   <li>
 		   <input type="radio" id="651a" name="sl">
@@ -4888,7 +4888,7 @@
 			   <input type="radio" id="658a" name="sl">
 			   <label for="658a"></label>
 			   <img src="aplicacoes/85_15.png" />
-			 <figcaption>Basta agora calcular a área da figura <b>A’<sub>3</sub>B’<sub>3</sub>P’<sub>3</sub></b> que está em VG. <b>S(F) = 8,4 x 4,9 / 2 = 20,58m<sup>2</sup></b>.</figcaption>
+			 <figcaption>Basta agora calcular a área da figura <b>A’<sub>3</sub>B’<sub>3</sub>P’<sub>3</sub></b> que está em VG. <b>S(F) = 8,4 x 4,9 / 2 = 20,58m&sup2;</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="659a" name="sl">
@@ -4963,7 +4963,7 @@
 			   <input type="radio" id="664" name="sl">
 			   <label for="664"></label>
 			   <img src="aplicacoes/86_09.png" />
-			 <figcaption>Basta agora calcular a área da figura <b>H’<sub>3</sub>T’<sub>3</sub>P’<sub>3</sub>U’<sub>3</sub>V’<sub>3</sub>G’<sub>3</sub></b> que está em VG. Dividindo a figura em um trapézio e um paralelogramo temos que <b>S(F<sub>1</sub>)= (1,8 + 8,7) x 4 / 2 = 21m<sup>2</sup></b> e <b>S(F<sub>2</sub>) = 4,6 x 2,4 = 11,04 m<sup>2</sup></b>, fornecendo a área total de <b>32,04m<sup>2</sup></b>. </figcaption>
+			 <figcaption>Basta agora calcular a área da figura <b>H’<sub>3</sub>T’<sub>3</sub>P’<sub>3</sub>U’<sub>3</sub>V’<sub>3</sub>G’<sub>3</sub></b> que está em VG. Dividindo a figura em um trapézio e um paralelogramo temos que <b>S(F<sub>1</sub>)= (1,8 + 8,7) x 4 / 2 = 21m&sup2;</b> e <b>S(F<sub>2</sub>) = 4,6 x 2,4 = 11,04 m&sup2;</b>, fornecendo a área total de <b>32,04m&sup2;</b>. </figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="665" name="sl">
@@ -5038,7 +5038,7 @@
 			   <input type="radio" id="674" name="sl">
 			   <label for="674"></label>
 			   <img src="aplicacoes/87_10.png" />
-			 <figcaption>Rebatendo a área <b>e</b> obtemos sua VG. Dividindo a figura em dois paralelogramos e um trapézio temos que <b>S(F<sub>1</sub>) = 5,1 x 1,5 = 7,65m<sup>2</sup></b>, <b>S(F<sub>2</sub>) =(1 + 8,2) x 4,1 / 2 = 18,86m<sup>2</sup></b> e <b>S(F<sub>3</sub>) = 3,1 x 2,4 = 7,44 m<sup>2</sup></b>, fornecendo a área total de <b>33,95m<sup>2</sup></b>.</figcaption>
+			 <figcaption>Rebatendo a área <b>e</b> obtemos sua VG. Dividindo a figura em dois paralelogramos e um trapézio temos que <b>S(F<sub>1</sub>) = 5,1 x 1,5 = 7,65m&sup2;</b>, <b>S(F<sub>2</sub>) =(1 + 8,2) x 4,1 / 2 = 18,86m&sup2;</b> e <b>S(F<sub>3</sub>) = 3,1 x 2,4 = 7,44 m&sup2;</b>, fornecendo a área total de <b>33,95m&sup2;</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="675" name="sl">
@@ -5098,7 +5098,7 @@
   <a href="telhados/telhado43.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0093.png" />
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1<sup>a</sup> parte</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
 	  <p>Vamos determinar as interseções das águas da cobertura dada. Como as águas possuem inclinações diferentes só poderemos utilizar o processo das bissetrizes entre as águas de mesma inclinação. Nas demais devemos achar pontos comuns das horizontais de mesma cota.</p>
 	  <ul class="slider">
 		   <li>
@@ -5170,7 +5170,7 @@
 		</ul>
 		<img src="aplicacoes/93_00.png" class="fundo" />
 	</details>
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2<sup>a</sup> parte</summary>
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2&ordf; parte</summary>
 	  <ul class="slider">
 		   <li>
 		   <input type="radio" id="676c" name="sl">
@@ -5194,7 +5194,7 @@
 			   <input type="radio" id="679c" name="sl">
 			   <label for="679c"></label>
 			   <img src="aplicacoes/93_15.png" />
-			 <figcaption>Rebatendo a água <b>f</b> obtemos sua VG. Dividindo a figura em um trapézio e um triângulo temos que <b>S(F<sub>1</sub>) =(5,5 + 7,3) x 3,1 / 2 = 19,84 m<sup>2</sup></b> e <b>S(F<sub>2</sub>) = (9,7 x 5,6) / 2 = 27,16m<sup>2</sup></b>, fornecendo a área total de 47m<sup>2</sup>.</figcaption>
+			 <figcaption>Rebatendo a água <b>f</b> obtemos sua VG. Dividindo a figura em um trapézio e um triângulo temos que <b>S(F<sub>1</sub>) =(5,5 + 7,3) x 3,1 / 2 = 19,84 m&sup2;</b> e <b>S(F<sub>2</sub>) = (9,7 x 5,6) / 2 = 27,16m&sup2;</b>, fornecendo a área total de 47m&sup2;.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="680c" name="sl">
@@ -5277,7 +5277,7 @@
   <a href="telhados/telhado45.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0095.png" />
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1<sup>a</sup> parte</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
 	  <p>Vamos determinar as interseções das águas da cobertura dada. Esse telhado possui respaldos diferentes então veja como proceder.</p>
 	  <ul class="slider">
 		   <li>
@@ -5343,7 +5343,7 @@
 		</ul>
 		<img src="aplicacoes/95_00.png" class="fundo" />
 	</details>
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2<sup>a</sup> parte</summary>
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2&ordf; parte</summary>
 	  <ul class="slider">
 		   <li>
 		   <input type="radio" id="676e" name="sl">
@@ -5601,7 +5601,7 @@
 		   <input type="radio" id="700w" name="sl">
 			   <label for="700w"></label>
 			   <img src="aplicacoes/108_01_01.png" />
-			 <figcaption>Traçar a reta de declive da seção para a esquerda. Como a inclinação de 45<sup>o</sup> o intervalo é 1cm. </figcaption>
+			 <figcaption>Traçar a reta de declive da seção para a esquerda. Como a inclinação de 45&deg; o intervalo é 1cm. </figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="701w" name="sl">
@@ -5637,7 +5637,7 @@
 			   <input type="radio" id="706w" name="sl">
 			   <label for="706w"></label>
 			   <img src="aplicacoes/108_01_07.png" />
-			 <figcaption>Encontrar o intervalo correspondente à inclinação de 60<sup>o</sup>.</figcaption>
+			 <figcaption>Encontrar o intervalo correspondente à inclinação de 60&deg;.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="707w" name="sl">
@@ -5649,13 +5649,13 @@
 			   <input type="radio" id="708w" name="sl">
 			   <label for="708w"></label>
 			   <img src="aplicacoes/108_01_09.png" />
-			 <figcaption>Tomar o intervalo de 60<sup>o</sup> com o compasso.</figcaption>
+			 <figcaption>Tomar o intervalo de 60&deg; com o compasso.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="709w" name="sl">
 			   <label for="709w"></label>
 			   <img src="aplicacoes/108_01_10.png" />
-			 <figcaption>Marcar o intervalo de 60<sup>o</sup> sobre a reta de declive de <b>CD</b>.</figcaption>
+			 <figcaption>Marcar o intervalo de 60&deg; sobre a reta de declive de <b>CD</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="710w" name="sl">
@@ -5669,7 +5669,7 @@
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0109.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	  <p>Repetir os passos do exercício anterior. Observe que a única diferença é o intervalo de 30<sup>o</sup>.</p>
+	  <p>Repetir os passos do exercício anterior. Observe que a única diferença é o intervalo de 30&deg;.</p>
 	  <img src="aplicacoes/109_01_00.png" />
 	  <figcaption></figcaption>
 	  </details></div>
@@ -5683,7 +5683,7 @@
   <img src="aplicacoes/Cotadas_2020_0112.png" />
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0113.png" />
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1<sup>a</sup> parte</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
 	  <ul class="slider">
 		   <li>
 		   <input type="radio" id="700b" name="sl">
@@ -5749,7 +5749,7 @@
 		</ul>
 		<img src="aplicacoes/113_01_01_00.png" class="fundo" />
 	</details>
-	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2<sup>a</sup> parte</summary>
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2&ordf; parte</summary>
 	<p>Passaremos agora para representação da área de aterro, que será realizada para região de cota inferior à cota da plataforma.</p>
 	  <ul class="slider">
 		   <li>
