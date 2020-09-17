@@ -5668,6 +5668,11 @@
 	</details></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0109.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	  <p>Repetir os passos do exercício anterior. Observe que a única diferença é o intervalo de 30<sup>o</sup>.</p>
+	  <img src="aplicacoes/109_01_00.png" />
+	  <figcaption></figcaption>
+	  </details></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0110.png" />
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
