@@ -5594,6 +5594,78 @@
   <img src="aplicacoes/Cotadas_2020_0107.png" />
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0108.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <p>Vamos trabalhar da mesma maneira que na seção plana, somente que aqui são duas seções planas com inclinações diferentes.</p>
+	  <ul class="slider">
+		   <li>
+		   <input type="radio" id="700w" name="sl">
+			   <label for="700w"></label>
+			   <img src="aplicacoes/108_01_01.png" />
+			 <figcaption>Traçar a reta de declive da seção para a esquerda. Como a inclinação de 45<sup>o</sup> o intervalo é 1cm. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="701w" name="sl">
+			   <label for="701w"></label>
+			   <img src="aplicacoes/108_01_02.png" />
+			 <figcaption>Marcar os intervalos sobre a reta de declive.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="702w" name="sl">
+			   <label for="702w"></label>
+			   <img src="aplicacoes/108_01_03.png" />
+			 <figcaption>Representar as horizontais do Plano.</figcaption>
+		   </li>	  
+		   <li>
+			   <input type="radio" id="703w" name="sl">
+			   <label for="703w"></label>
+			   <img src="aplicacoes/108_01_04.png" />
+			 <figcaption>Marcar os pontos de interseção das horizontais com as respectivas curvas de nível.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="704w" name="sl">
+			   <label for="704w"></label>
+			   <img src="aplicacoes/108_01_05.png" />
+			 <figcaption>Estimar o ponto entre as cotas 40 e 41.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="705w" name="sl">
+			   <label for="705w"></label>
+			   <img src="aplicacoes/108_01_06.png" />
+			 <figcaption>Desenhar as linhas de offset e as horizontais.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="706w" name="sl">
+			   <label for="706w"></label>
+			   <img src="aplicacoes/108_01_07.png" />
+			 <figcaption>Encontrar o intervalo correspondente à inclinação de 60<sup>o</sup>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="707w" name="sl">
+			   <label for="707w"></label>
+			   <img src="aplicacoes/108_01_08.png" />
+			 <figcaption>Traçar a reta de declive do plano <b>CD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="708w" name="sl">
+			   <label for="708w"></label>
+			   <img src="aplicacoes/108_01_09.png" />
+			 <figcaption>Tomar o intervalo de 60<sup>o</sup> com o compasso.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="709w" name="sl">
+			   <label for="709w"></label>
+			   <img src="aplicacoes/108_01_10.png" />
+			 <figcaption>Marcar o intervalo de 60<sup>o</sup> sobre a reta de declive de <b>CD</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="710w" name="sl">
+			   <label for="710w"></label>
+			   <img src="aplicacoes/108_01_11.png" />
+			 <figcaption>Repetir os passos de 1 a 6.</figcaption>
+		   </li>
+		</ul>
+		<img src="aplicacoes/108_01_00.png" class="fundo" />
+	</details></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0109.png" />
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
