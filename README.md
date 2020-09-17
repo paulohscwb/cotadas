@@ -5547,6 +5547,145 @@
   <img src="aplicacoes/Cotadas_2020_0112.png" />
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0113.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1<sup>a</sup> parte</summary>
+	  <ul class="slider">
+		   <li>
+		   <input type="radio" id="700b" name="sl">
+			   <label for="700b"></label>
+			   <img src="aplicacoes/113_01_01_01.png" />
+			 <figcaption>Determinar os pontos de passagem, que são os pontos da superfície natural do terreno de mesma cota que a plataforma. Neste exercício são os pontos de interseção da curva de nível de cota 3 com a plataforma.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="701b" name="sl">
+			   <label for="701b"></label>
+			   <img src="aplicacoes/113_01_01_02.png" />
+			 <figcaption>Na região de cota superior a cota da plataforma teremos que realizar um corte. Temos 3 regiões de corte: corte 1, corte 2 e corte 3 e duas retas de interseção entre elas. Como as três regiões têm mesma declividade, as interseções estarão nas bissetrizes dos ângulos formados pelas horizontais, ou seja, pelas linhas definidoras da plataforma. Chamaremos esta retas de interseção de <b>C<sub>1</sub>C<sub>2</sub></b> e <b>C<sub>2</sub>C<sub>3</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="702b" name="sl">
+			   <label for="702b"></label>
+			   <img src="aplicacoes/113_01_01_03.png" />
+			 <figcaption>Encontrar uma reta de declive do corte 1. Lembrando que as retas de declive são perpendiculares às horizontais do plano e seus intervalos correspondem ao intervalo do plano. O talude do corte deve ter declividade de 1/1, logo a inclinação do talude será de 45° e seu intervalo será de 1 unidade.
+			 <br><b>d<sub>CORTE</sub>=1/1</b>; <b>&theta;<sub>CORTE</sub>=45°</b>; <b>I<sub>CORTE</sub>=1</b>.</figcaption>
+		   </li>	  
+		   <li>
+			   <input type="radio" id="703b" name="sl">
+			   <label for="703b"></label>
+			   <img src="aplicacoes/113_01_01_04.png" />
+			 <figcaption>Representar as horizontais do talude de corte para a região do corte 1.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="704b" name="sl">
+			   <label for="704b"></label>
+			   <img src="aplicacoes/113_01_01_05.png" />
+			 <figcaption>Repetir o processo para a região do corte 2, ou seja, encontrar a reta de declive e as horizontais do talude do corte 2.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="705b" name="sl">
+			   <label for="705b"></label>
+			   <img src="aplicacoes/113_01_01_06.png" />
+			 <figcaption>Repetir o processo para a região do corte 3, ou seja, encontrar a reta de declive e as horizontais do talude do corte 3.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="706b" name="sl">
+			   <label for="706b"></label>
+			   <img src="aplicacoes/113_01_01_07.png" />
+			 <figcaption>Encontrar os pontos de interseção das horizontais do talude de corte 1 com as horizontais do terreno natural.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="707b" name="sl">
+			   <label for="707b"></label>
+			   <img src="aplicacoes/113_01_01_08.png" />
+			 <figcaption>Repetir o processo para as regiões de corte 2 e 3.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="708b" name="sl">
+			   <label for="708b"></label>
+			   <img src="aplicacoes/113_01_01_09.png" />
+			 <figcaption>Encontrar pontos de interseção das retas <b>C<sub>1</sub>C<sub>2</sub></b> e <b>C<sub>2</sub>C<sub>3</sub></b> com a superfície topográfica. Este processo pode ser por aproximação.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="709b" name="sl">
+			   <label for="709b"></label>
+			   <img src="aplicacoes/113_01_01_10.png" />
+			 <figcaption>Definir a poligonal que define a linha de offset do corte unindo os pontos encontrados. Obs: linhas de offset são as linhas de encontro dos taludes com o terreno natural.</figcaption>
+		   </li>
+		</ul>
+		<img src="aplicacoes/113_01_01_00.png" class="fundo" />
+	</details>
+	<details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 2<sup>a</sup> parte</summary>
+	<p>Passaremos agora para representação da área de aterro, que será realizada para região de cota inferior à cota da plataforma.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="701c" name="sl">
+			   <label for="701c"></label>
+			   <img src="aplicacoes/113_01_02_01.png" />
+			 <figcaption>Temos 2 pontos de passagem e 3 regiões de aterro que chamaremos de aterro 1, aterro 2 e aterro 3. Como as três regiões têm mesma declividade, as interseções entre elas estarão nas bissetrizes dos ângulos formados pelas horizontais, ou seja, pelas linhas definidoras da plataforma. Chamaremos esta retas de interseção de <b>A<sub>1</sub>A<sub>2</sub></b> e <b>A<sub>2</sub>A<sub>3</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="702c" name="sl">
+			   <label for="702c"></label>
+			   <img src="aplicacoes/113_01_02_02.png" />
+			 <figcaption>O próximo passo consiste em determinar as  retas horizontais do talude do aterro 1. Para isso precisamos definir a reta de declive correspondente. O talude de aterro deve ter declividade de 5/6, logo a inclinação do talude será de aproximadamente 40° e seu intervalo será de 1,2.
+			 <br><b>d<sub>ATERRO</sub>=1/1</b>; <b>&theta;<sub>ATERRO</sub>&cong;40°</b>; <b>I<sub>ATERRO</sub>=1,2</b>.</figcaption>
+		   </li>	  
+		   <li>
+			   <input type="radio" id="703c" name="sl">
+			   <label for="703c"></label>
+			   <img src="aplicacoes/113_01_02_03.png" />
+			 <figcaption>Repetimos o processo para o aterro 2.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="704c" name="sl">
+			   <label for="704c"></label>
+			   <img src="aplicacoes/113_01_02_04.png" />
+			 <figcaption>Repetimos o processo para o aterro 3.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="705c" name="sl">
+			   <label for="705c"></label>
+			   <img src="aplicacoes/113_01_02_05.png" />
+			 <figcaption>Encontrar os pontos de interseção das horizontais dos taludes de aterro 1, 2 e 3 com as horizontais do terreno natural.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="706c" name="sl">
+			   <label for="706c"></label>
+			   <img src="aplicacoes/113_01_02_06.png" />
+			 <figcaption>Encontrar pontos de interseção das retas <b>A<sub>1</sub>A<sub>2</sub></b> e <b>A<sub>2</sub>A<sub>3</sub></b> com a superfície topográfica. Este processo pode ser por aproximação.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="707c" name="sl">
+			   <label for="707c"></label>
+			   <img src="aplicacoes/113_01_02_07.png" />
+			 <figcaption>Definir a poligonal que define a linha de offset do aterro unindo os pontos encontrados.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="708c" name="sl">
+			   <label for="708c"></label>
+			   <img src="aplicacoes/113_01_02_08.png" />
+			 <figcaption>Pronto! Temos as linhas de offset resultantes da terraplanagem (corte e aterro).</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="709c" name="sl">
+			   <label for="709c"></label>
+			   <img src="aplicacoes/113_01_03_01.png" />
+			 <figcaption>Podemos agora encontrar a nova configuração das curvas de nível.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="710c" name="sl">
+			   <label for="710c"></label>
+			   <img src="aplicacoes/113_01_03_02.png" />
+			 <figcaption>Deixar apenas as curvas de nível com as linhas de offset.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="711c" name="sl">
+			   <label for="711c"></label>
+			   <img src="aplicacoes/113_01_03_03.png" />
+			 <figcaption>Podemos ainda suprimir a representação da superfície natural (sem terraplanagem), deixando apenas a nova configuração.</figcaption>
+		   </li>
+		</ul>
+		<img src="aplicacoes/113_01_02_00.png" class="fundo" />
+	</details></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0114.png" />
   <div class="combo"><figcaption>Use o link abaixo para visualizar em 3D da seção mista de um terreno (corte e aterro)</figcaption>
