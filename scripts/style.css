@@ -10,7 +10,7 @@
 	top: 50%;
 }
 
-img{image-rendering: pixelated;}
+img{image-rendering: crisp-edges;}
 
 .visu{
 	line-height: 36px;
