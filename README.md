@@ -1259,25 +1259,25 @@
            <input type="radio" id="078" name="sl">
            <label for="078"></label>
            <img src="dg/08_01_02.png" />
-           <figcaption>O segmento <b>63=l&#8325;</b> é o lado do pentágono regular inscrito na circunferência dada.</figcaption>
+           <figcaption>O segmento <b>63=l<sub>5</sub></b> é o lado do pentágono regular inscrito na circunferência dada.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="079" name="sl">
            <label for="079"></label>
            <img src="dg/08_01_03.png" />
-           <figcaption>Marque essa medida <b>l&#8325;</b> no compasso e a partir de um ponto <b>A</b> qualquer da circunferência construa um arco obtendo o ponto <b>B</b>.</figcaption>
+           <figcaption>Marque essa medida <b>l<sub>5</sub></b> no compasso e a partir de um ponto <b>A</b> qualquer da circunferência construa um arco obtendo o ponto <b>B</b>.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="080" name="sl">
            <label for="080"></label>
            <img src="dg/08_01_04.png" />
-           <figcaption>Com a mesma medida do <b>l&#8325;</b> no compasso, obtenha os demais vértices.</figcaption>
+           <figcaption>Com a mesma medida do <b>l<sub>5</sub></b> no compasso, obtenha os demais vértices.</figcaption>
        </li>
 	   <li>
            <input type="radio" id="081" name="sl">
            <label for="081"></label>
            <img src="dg/08_01_05.png" />
-           <figcaption>Pronto! Agora é só unir os pontos <b>A</b>, <b>B</b>, <b>C</b>, <b>D</b> e <b>E</b> para representar o pentágono regular inscrito na circunferência de raio <b>r</b> dada. Por propriedade o <b>l&#8325;</b> é hipotenusa de um triângulo retângulo de catetos <b>l<sub>10</sub></b> e <b>l&#8326;=r</b>.</figcaption>
+           <figcaption>Pronto! Agora é só unir os pontos <b>A</b>, <b>B</b>, <b>C</b>, <b>D</b> e <b>E</b> para representar o pentágono regular inscrito na circunferência de raio <b>r</b> dada. Por propriedade o <b>l<sub>5</sub></b> é hipotenusa de um triângulo retângulo de catetos <b>l<sub>10</sub></b> e <b>l<sub>6</sub>=r</b>.</figcaption>
        </li>
     </ul>
     <img src="dg/08_01_00.png" class="fundo" />
@@ -1523,13 +1523,13 @@
            <input type="radio" id="0017" name="sl">
            <label for="0017"></label>
            <img src="dg/09_03_05.png" />
-           <figcaption>Construa a circunferência de centro <b>M</b> e raio <b>OM</b>, obtendo sobre a circunferência dada dois pontos de tangência <b>T&#8321;</b> e <b>T&#8322;</b>. Note que são duas soluções para o ponto de tangência!</figcaption>
+           <figcaption>Construa a circunferência de centro <b>M</b> e raio <b>OM</b>, obtendo sobre a circunferência dada dois pontos de tangência <b>T<sub>1</sub></b> e <b>T<sub>2</sub></b>. Note que são duas soluções para o ponto de tangência!</figcaption>
        </li>
 	   <li>
            <input type="radio" id="0018" name="sl">
            <label for="0018"></label>
            <img src="dg/09_03_06.png" />
-           <figcaption>Desenhe as retas <b>AT&#8321;</b> e <b>AT&#8322;</b> que são as retas tangentes à circunferência dada passando pelo ponto dado <b>A</b>. Pronto! Você consegue agora identificar as propriedades vistas nas figuras auxiliares?</figcaption>
+           <figcaption>Desenhe as retas <b>AT<sub>1</sub></b> e <b>AT<sub>2</sub></b> que são as retas tangentes à circunferência dada passando pelo ponto dado <b>A</b>. Pronto! Você consegue agora identificar as propriedades vistas nas figuras auxiliares?</figcaption>
        </li>
     </ul>
     <img src="dg/09_03_00.png" class="fundo" />
@@ -2296,25 +2296,25 @@
 			   <input type="radio" id="506" name="sl">
 			   <label for="506"></label>
 			   <img src="cotadas/29_01_03.png" />
-			 <figcaption>Para se rebater o ponto <b>A</b> no plano <b>&pi;’</b>, mede-se a cota do ponto <b>A</b>, marcando-se o ponto auxiliar <b>A’&#8321;</b>. </figcaption>
+			 <figcaption>Para se rebater o ponto <b>A</b> no plano <b>&pi;’</b>, mede-se a cota do ponto <b>A</b>, marcando-se o ponto auxiliar <b>A’<sub>1</sub></b>. </figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="507" name="sl">
 			   <label for="507"></label>
 			   <img src="cotadas/29_01_04.png" />
-			 <figcaption>De modo análogo marca-se o ponto auxiliar <b>B’&#8321;</b>.</figcaption>
+			 <figcaption>De modo análogo marca-se o ponto auxiliar <b>B’<sub>1</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="508" name="sl">
 			   <label for="508"></label>
 			   <img src="cotadas/29_01_05.png" />
-			 <figcaption>A VG do segmento é o segmento <b>A’&#8321;B’&#8321;</b>.</figcaption>
+			 <figcaption>A VG do segmento é o segmento <b>A’<sub>1</sub>B’<sub>1</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="509" name="sl">
 			   <label for="509"></label>
 			   <img src="cotadas/29_01_06.png" />
-			 <figcaption>O triângulo <b>A’&#8321;B’&#8321;C’&#8321;</b> é o triângulo <b>ABC</b> rebatido sobre o plano <b>&pi;’</b>. </figcaption>
+			 <figcaption>O triângulo <b>A’<sub>1</sub>B’<sub>1</sub>C’<sub>1</sub></b> é o triângulo <b>ABC</b> rebatido sobre o plano <b>&pi;’</b>. </figcaption>
 		   </li>
 		</ul>
 		<img src="cotadas/29_01_00.png" class="fundo" />
@@ -2337,19 +2337,19 @@
 			   <input type="radio" id="511" name="sl">
 			   <label for="511"></label>
 			   <img src="cotadas/29_03_02.png" />
-			 <figcaption>Para se rebater o ponto <b>E</b> no plano <b>&pi;’</b>, mede-se a cota do ponto <b>E</b>, marcando-se o ponto auxiliar <b>E’&#8321;</b>. </figcaption>
+			 <figcaption>Para se rebater o ponto <b>E</b> no plano <b>&pi;’</b>, mede-se a cota do ponto <b>E</b>, marcando-se o ponto auxiliar <b>E’<sub>1</sub></b>. </figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="512" name="sl">
 			   <label for="512"></label>
 			   <img src="cotadas/29_03_03.png" />
-			 <figcaption>De modo análogo marca-se o ponto auxiliar <b>F’&#8321;</b>. Observe que <b>F’&#8321;</b> foi marcado no sentido oposto à <b>E’&#8321;</b> já que as cotas de <b>E</b> e <b>F</b> têm sinais contrários.</figcaption>
+			 <figcaption>De modo análogo marca-se o ponto auxiliar <b>F’<sub>1</sub></b>. Observe que <b>F’<sub>1</sub></b> foi marcado no sentido oposto à <b>E’<sub>1</sub></b> já que as cotas de <b>E</b> e <b>F</b> têm sinais contrários.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="513" name="sl">
 			   <label for="513"></label>
 			   <img src="cotadas/29_03_04.png" />
-			 <figcaption>A VG do segmento é o segmento <b>E’&#8321;F’&#8321;</b>.</figcaption>
+			 <figcaption>A VG do segmento é o segmento <b>E’<sub>1</sub>F’<sub>1</sub></b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="cotadas/29_03_00.png" class="fundo" />
@@ -2436,7 +2436,7 @@
 			   <input type="radio" id="523" name="sl">
 			   <label for="523"></label>
 			   <img src="cotadas/31_01_03.png" />
-			 <figcaption>Mede-se a diferença de cota entre os pontos <b>A</b> e <b>B</b>, marcando-se o ponto auxiliar <b>A’&#8321;</b>. A VG do segmento <b>AB</b> é o segmento <b>A’&#8321;B’</b>.</figcaption>
+			 <figcaption>Mede-se a diferença de cota entre os pontos <b>A</b> e <b>B</b>, marcando-se o ponto auxiliar <b>A’<sub>1</sub></b>. A VG do segmento <b>AB</b> é o segmento <b>A’<sub>1</sub>B’</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="cotadas/31_01_00.png" class="fundo" />
@@ -2470,13 +2470,13 @@
 			   <input type="radio" id="525" name="sl">
 			   <label for="525"></label>
 			   <img src="cotadas/32_03_02.png" />
-			 <figcaption>Traça-se uma perpendicular por <b>B’</b>, marcando o ponto auxiliar <b>B’&#8321;</b> à distância de <b>9cm</b> de <b>B’</b>.</figcaption>
+			 <figcaption>Traça-se uma perpendicular por <b>B’</b>, marcando o ponto auxiliar <b>B’<sub>1</sub></b> à distância de <b>9cm</b> de <b>B’</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="526" name="sl">
 			   <label for="526"></label>
 			   <img src="cotadas/32_03_03.png" />
-			 <figcaption>A VG de <b>AB</b> é dada pela distância entre <b>A’</b> e <b>B’&#8321;</b>.</figcaption>
+			 <figcaption>A VG de <b>AB</b> é dada pela distância entre <b>A’</b> e <b>B’<sub>1</sub></b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="cotadas/32_03_00.png" class="fundo" />
@@ -2611,25 +2611,25 @@
 			   <input type="radio" id="542" name="sl">
 			   <label for="542"></label>
 			   <img src="cotadas/36_01_01.png" />
-			<figcaption>Traça-se um segmento perpendicular a <b>A’B’</b>, por <b>A’</b>. Para se rebater o ponto <b>A</b> no plano <b>&pi;'</b> , mede-se a cota do ponto <b>A</b>, marcando-se o ponto auxiliar <b>A’&#8321;</b> . </figcaption>
+			<figcaption>Traça-se um segmento perpendicular a <b>A’B’</b>, por <b>A’</b>. Para se rebater o ponto <b>A</b> no plano <b>&pi;'</b> , mede-se a cota do ponto <b>A</b>, marcando-se o ponto auxiliar <b>A’<sub>1</sub></b> . </figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="543" name="sl">
 			   <label for="543"></label>
 			   <img src="cotadas/36_01_02.png" />
-			 <figcaption>De modo análogo marca-se o ponto auxiliar <b>B’&#8321;</b>. </figcaption>
+			 <figcaption>De modo análogo marca-se o ponto auxiliar <b>B’<sub>1</sub></b>. </figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="544" name="sl">
 			   <label for="544"></label>
 			   <img src="cotadas/36_01_03.png" />
-			 <figcaption>Traça-se uma paralela a <b>r’</b> passando pelo ponto <b>A’&#8321;</b>, marcando-se o ponto auxiliar <b>C’&#8321;</b>.</figcaption>
+			 <figcaption>Traça-se uma paralela a <b>r’</b> passando pelo ponto <b>A’<sub>1</sub></b>, marcando-se o ponto auxiliar <b>C’<sub>1</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="545" name="sl">
 			   <label for="545"></label>
 			   <img src="cotadas/36_01_04.png" />
-			 <figcaption>Traça-se uma reta passando pelos pontos <b>A’&#8321;B’&#8321;C’&#8321;</b>. O triângulo <b>A’&#8321;B’&#8321;C’&#8321;</b>. Trata-se do triângulo <b>ABC</b> rebatido sobre o plano <b>&pi;'</b>.</figcaption>
+			 <figcaption>Traça-se uma reta passando pelos pontos <b>A’<sub>1</sub>B’<sub>1</sub>C’<sub>1</sub></b>. O triângulo <b>A’<sub>1</sub>B’<sub>1</sub>C’<sub>1</sub></b>. Trata-se do triângulo <b>ABC</b> rebatido sobre o plano <b>&pi;'</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="546" name="sl">
@@ -2655,19 +2655,19 @@
 			   <input type="radio" id="548" name="sl">
 			   <label for="548"></label>
 			   <img src="cotadas/37_01_01.png" />
-			<figcaption>Iniciamos fazendo o rebatimento do segmento <b>AB</b> sobre o plano <b>&pi;’</b>, para tanto, traçamos perpendiculares a <b>r’</b>, por <b>A’</b> e <b>B’</b> marcando suas respectivas cotas, e, assim, encontrando os pontos auxiliares  <b>A’&#8321;</b> e <b>B’&#8321;</b>. Com isso, já sabemos que encontramos a VG de <b>AB</b>.</figcaption>
+			<figcaption>Iniciamos fazendo o rebatimento do segmento <b>AB</b> sobre o plano <b>&pi;’</b>, para tanto, traçamos perpendiculares a <b>r’</b>, por <b>A’</b> e <b>B’</b> marcando suas respectivas cotas, e, assim, encontrando os pontos auxiliares  <b>A’<sub>1</sub></b> e <b>B’<sub>1</sub></b>. Com isso, já sabemos que encontramos a VG de <b>AB</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="549" name="sl">
 			   <label for="549"></label>
 			   <img src="cotadas/37_01_02.png" />
-			 <figcaption>Agora marcamos a distância vertical de 1 unidade, na perpendicular <b>B’B’&#8321;</b>.</figcaption>
+			 <figcaption>Agora marcamos a distância vertical de 1 unidade, na perpendicular <b>B’B’<sub>1</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="550" name="sl">
 			   <label for="550"></label>
 			   <img src="cotadas/37_01_03.png" />
-			 <figcaption>Traçando uma paralela a <b>r’</b>, encontramos <b>C’&#8321;</b> e, por uma perpendicular a <b>r’</b>, por esse ponto, marcamos a projeção do ponto <b>C’</b>, de cota <b>3,2</b>. Isso porque, partimos de <b>B</b>, de cota <b>4,2</b> e “descemos” uma unidade.</figcaption>
+			 <figcaption>Traçando uma paralela a <b>r’</b>, encontramos <b>C’<sub>1</sub></b> e, por uma perpendicular a <b>r’</b>, por esse ponto, marcamos a projeção do ponto <b>C’</b>, de cota <b>3,2</b>. Isso porque, partimos de <b>B</b>, de cota <b>4,2</b> e “descemos” uma unidade.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="551" name="sl">
@@ -2806,19 +2806,19 @@
 			   <input type="radio" id="566" name="sl">
 			   <label for="566"></label>
 			   <img src="cotadas/40_01_02.png" />
-			<figcaption>Traçamos duas perpendiculares por <b>A</b> e <b>B</b>, marcando 3 unidades a partir de <b>A</b> e 7,5 unidades a partir de <b>B</b>. Com isso temos os pontos <b>A’&#8321;</b> e <b>B’&#8321;</b>.</figcaption>
+			<figcaption>Traçamos duas perpendiculares por <b>A</b> e <b>B</b>, marcando 3 unidades a partir de <b>A</b> e 7,5 unidades a partir de <b>B</b>. Com isso temos os pontos <b>A’<sub>1</sub></b> e <b>B’<sub>1</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="567" name="sl">
 			   <label for="567"></label>
 			   <img src="cotadas/40_01_03.png" />
-			 <figcaption>Traçando-se uma perpendicular por <b>A’&#8321;</b>, encontramos a inclinação da reta (ângulo <b>&theta;</b>).</figcaption>
+			 <figcaption>Traçando-se uma perpendicular por <b>A’<sub>1</sub></b>, encontramos a inclinação da reta (ângulo <b>&theta;</b>).</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="568" name="sl">
 			   <label for="568"></label>
 			   <img src="cotadas/40_01_04.png" />
-			 <figcaption>A partir de <b>B’&#8321;</b>, marcamos uma unidade, indicando <b>dV=1</b>, com isso construímos o triângulo conforme a figura e encontramos o intervalo <b>Ir</b>, conforme o indicado.</figcaption>
+			 <figcaption>A partir de <b>B’<sub>1</sub></b>, marcamos uma unidade, indicando <b>dV=1</b>, com isso construímos o triângulo conforme a figura e encontramos o intervalo <b>Ir</b>, conforme o indicado.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="569" name="sl">
@@ -2842,25 +2842,25 @@
 			   <input type="radio" id="571" name="sl">
 			   <label for="571"></label>
 			   <img src="cotadas/40_02_02.png" />
-			<figcaption>Traçamos uma perpendicular por <b>A</b>, marcando dois centímetros e encontramos<b>A’&#8321;</b>.</figcaption>
+			<figcaption>Traçamos uma perpendicular por <b>A</b>, marcando dois centímetros e encontramos<b>A’<sub>1</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="572" name="sl">
 			   <label for="572"></label>
 			   <img src="cotadas/40_02_03.png" />
-			 <figcaption>Traçamos uma perpendicular por <b>A’&#8321;</b>.</figcaption>
+			 <figcaption>Traçamos uma perpendicular por <b>A’<sub>1</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="573" name="sl">
 			   <label for="573"></label>
 			   <img src="cotadas/40_02_04.png" />
-			 <figcaption>Marca-se <b>60&deg;</b> a partir de <b>A’&#8321;</b>.</figcaption>
+			 <figcaption>Marca-se <b>60&deg;</b> a partir de <b>A’<sub>1</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="574" name="sl">
 			   <label for="574"></label>
 			   <img src="cotadas/40_02_05.png" />
-			 <figcaption>Aonde a perpendicular sobre <b>B’</b> encontrar a reta traçada, marcamos <b>B’&#8321;</b>. Usando a régua obtém-se a cota do ponto <b>B</b>.</figcaption>
+			 <figcaption>Aonde a perpendicular sobre <b>B’</b> encontrar a reta traçada, marcamos <b>B’<sub>1</sub></b>. Usando a régua obtém-se a cota do ponto <b>B</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="575" name="sl">
@@ -2948,7 +2948,7 @@
 			   <input type="radio" id="310" name="sl">
 			   <label for="310"></label>
 			   <img src="cotadas/47_01_03.png" />
-			 <figcaption>Representar a reta s rebatida, unindo <b>A'&#8321;</b> e <b>B'&#8321;</b></figcaption>
+			 <figcaption>Representar a reta s rebatida, unindo <b>A'<sub>1</sub></b> e <b>B'<sub>1</sub></b></figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="311" name="sl">
@@ -2987,7 +2987,7 @@
 			   <input type="radio" id="302" name="sl">
 			   <label for="302"></label>
 			   <img src="cotadas/47_02_03.png" />
-			 <figcaption>Representar a reta rebatida unindo <b>A'&#8321;</b> e <b>B'&#8321;</b></figcaption>
+			 <figcaption>Representar a reta rebatida unindo <b>A'<sub>1</sub></b> e <b>B'<sub>1</sub></b></figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="303" name="sl">
@@ -3049,7 +3049,7 @@
 			   <input type="radio" id="314" name="sl">
 			   <label for="314"></label>
 			   <img src="cotadas/47_04_02.png" />
-			 <figcaption>Representar a reta rebatida <b>r'&#8321;</b> que passa pelos pontos <b>A'&#8321;</b> e <b>B'&#8321;</b></figcaption>
+			 <figcaption>Representar a reta rebatida <b>r'<sub>1</sub></b> que passa pelos pontos <b>A'<sub>1</sub></b> e <b>B'<sub>1</sub></b></figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="315" name="sl">
@@ -3061,7 +3061,7 @@
 			   <input type="radio" id="316" name="sl">
 			   <label for="316"></label>
 			   <img src="cotadas/47_04_04.png" />
-			 <figcaption> Representar a reta <b>s'&#8321;</b> que passa pelos pontos <b>C'&#8321;</b> e <b>D'&#8321;</b></figcaption>
+			 <figcaption> Representar a reta <b>s'<sub>1</sub></b> que passa pelos pontos <b>C'<sub>1</sub></b> e <b>D'<sub>1</sub></b></figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="317" name="sl">
@@ -3150,19 +3150,19 @@
 			   <input type="radio" id="325" name="sl">
 			   <label for="325"></label>
 			   <img src="cotadas/50_01_02.png" />
-			 <figcaption>Traçar a perpendicular à reta <b>r'</b> pelo ponto <b>B'</b> e sobre ela marcar uma unidade de cota, obtendo o ponto <b>B'&#8321;</b></figcaption>
+			 <figcaption>Traçar a perpendicular à reta <b>r'</b> pelo ponto <b>B'</b> e sobre ela marcar uma unidade de cota, obtendo o ponto <b>B'<sub>1</sub></b></figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="326" name="sl">
 			   <label for="326"></label>
 			   <img src="cotadas/50_01_03.png" />
-			 <figcaption>Unir esse ponto ao ponto <b>A'</b>, obtendo a reta <b>r</b> rebatida, <b>r'&#8321;</b> .</figcaption>
+			 <figcaption>Unir esse ponto ao ponto <b>A'</b>, obtendo a reta <b>r</b> rebatida, <b>r'<sub>1</sub></b> .</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="327" name="sl">
 			   <label for="327"></label>
 			   <img src="cotadas/50_01_04.png" />
-			 <figcaption>Traçar pelo ponto <b>B'&#8321;</b> uma reta perpendicular à <b>r'&#8321;</b>, obtendo o Intervalo da reta <b>s</b>.</figcaption>
+			 <figcaption>Traçar pelo ponto <b>B'<sub>1</sub></b> uma reta perpendicular à <b>r'<sub>1</sub></b>, obtendo o Intervalo da reta <b>s</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="328" name="sl">
@@ -3174,7 +3174,7 @@
 			   <input type="radio" id="329" name="sl">
 			   <label for="329"></label>
 			   <img src="cotadas/50_01_06.png" />
-			 <figcaption>Com a ponta seca em <b>P'</b>,obter o ponto <b>Q'&#8321;(0)</b>. Lembre-se que nas retas perpendiculares, os intervalos crescem em sentidos opostos, dessa forma, escolhendo-se o ponto à esquerda do ponto <b>P</b>, ele terá conta inferior à cota de <b>P</b>, enquanto que se escolher o ponto à direita de <b>P</b>, ele terá a cota maior do que a cota de <b>P</b>.</figcaption>
+			 <figcaption>Com a ponta seca em <b>P'</b>,obter o ponto <b>Q'<sub>1</sub>(0)</b>. Lembre-se que nas retas perpendiculares, os intervalos crescem em sentidos opostos, dessa forma, escolhendo-se o ponto à esquerda do ponto <b>P</b>, ele terá conta inferior à cota de <b>P</b>, enquanto que se escolher o ponto à direita de <b>P</b>, ele terá a cota maior do que a cota de <b>P</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="cotadas/50_01_00.png" class="fundo" />
@@ -3206,13 +3206,13 @@
 			   <input type="radio" id="332" name="sl">
 			   <label for="332"></label>
 			   <img src="cotadas/51_01_03.png" />
-			 <figcaption>Rebater o ponto <b>B</b>, obtendo o ponto <b>B'&#8321;</b> e a reta <b>r'&#8321;</b></figcaption>
+			 <figcaption>Rebater o ponto <b>B</b>, obtendo o ponto <b>B'<sub>1</sub></b> e a reta <b>r'<sub>1</sub></b></figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="333" name="sl">
 			   <label for="333"></label>
 			   <img src="cotadas/51_01_04.png" />
-			 <figcaption>Pelo ponto <b>B'&#8321;</b> traçar a reta perpendicular à reta <b>r'&#8321;</b>, obtendo o Intervalo da reta <b>s</b>, <b>I<sub>s</sub></b>.</figcaption>
+			 <figcaption>Pelo ponto <b>B'<sub>1</sub></b> traçar a reta perpendicular à reta <b>r'<sub>1</sub></b>, obtendo o Intervalo da reta <b>s</b>, <b>I<sub>s</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="334" name="sl">
@@ -3225,15 +3225,15 @@
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0051a.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<p>Como os planos projetantes das retas são paralelos, então suas projeções são paralelas. Observe que a diferença de cotas entre os pontos <b>A</b> e <b>B</b>, é de 3 unidades de cota, assim, ao rebater o ponto <b>B</b>, marcamos 3 unidades de cota (3cm) e o segmento entre <b>A'</b> e <b>B'</b> representa 3 intervalos da reta <b>r</b>, que chamamos de <b>3I<sub>r</sub></b>, obtendo o ponto <b>B'&#8321;</b>.</p> 
+		<p>Como os planos projetantes das retas são paralelos, então suas projeções são paralelas. Observe que a diferença de cotas entre os pontos <b>A</b> e <b>B</b>, é de 3 unidades de cota, assim, ao rebater o ponto <b>B</b>, marcamos 3 unidades de cota (3cm) e o segmento entre <b>A'</b> e <b>B'</b> representa 3 intervalos da reta <b>r</b>, que chamamos de <b>3I<sub>r</sub></b>, obtendo o ponto <b>B'<sub>1</sub></b>.</p> 
 		<img src="cotadas/51_02_00.png" />
-		<figcaption>Ao traçar a perpendicular à reta rebatida, <b>r'&#8321;</b>, pelo ponto <b>B'&#8321;</b>, obtemos 3 intervalos da reta <b>s</b>, que chamamos de <b>3I<sub>s</sub></b>. Quando transportamos esse intervalo para a reta <b>s</b>, devemos lembrar que em retas ortogonais, as cotas crescem em sentidos opostos.</figcaption>
+		<figcaption>Ao traçar a perpendicular à reta rebatida, <b>r'<sub>1</sub></b>, pelo ponto <b>B'<sub>1</sub></b>, obtemos 3 intervalos da reta <b>s</b>, que chamamos de <b>3I<sub>s</sub></b>. Quando transportamos esse intervalo para a reta <b>s</b>, devemos lembrar que em retas ortogonais, as cotas crescem em sentidos opostos.</figcaption>
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0051b.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<p>Como os planos projetantes das retas são paralelos, então suas projeções são paralelas, ou seja, <b>r'</b> é paralela a <b>s'</b>. Observe que a diferença de cotas entre os pontos <b>A</b> e <b>B</b>, é de 4 unidades de cota, assim, ao rebater o ponto <b>B</b>, marcamos 4 unidades de cota (3cm) e o segmento entre <b>A'</b> e <b>B'</b> representa 4 intervalos da reta <b>r</b>, que chamamos de <b>4I<sub>r</sub></b>, obtendo o ponto <b>B'&#8321;</b>.</p> 
+		<p>Como os planos projetantes das retas são paralelos, então suas projeções são paralelas, ou seja, <b>r'</b> é paralela a <b>s'</b>. Observe que a diferença de cotas entre os pontos <b>A</b> e <b>B</b>, é de 4 unidades de cota, assim, ao rebater o ponto <b>B</b>, marcamos 4 unidades de cota (3cm) e o segmento entre <b>A'</b> e <b>B'</b> representa 4 intervalos da reta <b>r</b>, que chamamos de <b>4I<sub>r</sub></b>, obtendo o ponto <b>B'<sub>1</sub></b>.</p> 
 		<img src="cotadas/51_03_00.png" />
-		<figcaption>Ao traçar a perpendicular à reta rebatida, <b>r'&#8321;</b>, pelo ponto <b>B'&#8321;</b>, obtemos 4 intervalos da reta <b>s</b>, que chamamos de <b>4I<sub>s</sub></b>. Quando transportamos esse intervalo para a reta <b>s</b>, devemos lembrar que em retas ortogonais, as cotas crescem em sentidos opostos.</figcaption>
+		<figcaption>Ao traçar a perpendicular à reta rebatida, <b>r'<sub>1</sub></b>, pelo ponto <b>B'<sub>1</sub></b>, obtemos 4 intervalos da reta <b>s</b>, que chamamos de <b>4I<sub>s</sub></b>. Quando transportamos esse intervalo para a reta <b>s</b>, devemos lembrar que em retas ortogonais, as cotas crescem em sentidos opostos.</figcaption>
 	</details></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0052.png" />
@@ -3331,7 +3331,7 @@
 			   <input type="radio" id="344" name="sl">
 			   <label for="344"></label>
 			   <img src="cotadas/55_01_02.png" />
-			 <figcaption>Obter a figura  em VG: <b>A'&#8321;B'&#8321;C'&#8321;</b> que é a verdadeira grandeza do triângulo <b>ABC</b>.</figcaption>
+			 <figcaption>Obter a figura  em VG: <b>A'<sub>1</sub>B'<sub>1</sub>C'<sub>1</sub></b> que é a verdadeira grandeza do triângulo <b>ABC</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="cotadas/55_01_00.png" class="fundo" />
@@ -3357,13 +3357,13 @@
 			   <input type="radio" id="347" name="sl">
 			   <label for="347"></label>
 			   <img src="cotadas/56_01_03.png" />
-			 <figcaption>Obter a figura  em VG: <b>A'&#8321;B'&#8321;C'&#8321;</b>.Obter as projeções dos pontos <b>C</b> e <b>D</b> e suas cotas.</figcaption>
+			 <figcaption>Obter a figura  em VG: <b>A'<sub>1</sub>B'<sub>1</sub>C'<sub>1</sub></b>.Obter as projeções dos pontos <b>C</b> e <b>D</b> e suas cotas.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="348" name="sl">
 			   <label for="348"></label>
 			   <img src="cotadas/56_01_04.png" />
-			 <figcaption>Como é uma pirâmide reta, a altura passa pelo centro da base, assim devemos encontrar o ponto <b>O'&#8321;</b> e medir sua cota.</figcaption>
+			 <figcaption>Como é uma pirâmide reta, a altura passa pelo centro da base, assim devemos encontrar o ponto <b>O'<sub>1</sub></b> e medir sua cota.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="349" name="sl">
@@ -3498,7 +3498,7 @@
 			   <input type="radio" id="362" name="sl">
 			   <label for="362"></label>
 			   <img src="cotadas/59_02_03.png" />
-			<figcaption>Rebatemos a reta <b>a</b>, obtendo <b>a'&#8321;</b>.</figcaption>
+			<figcaption>Rebatemos a reta <b>a</b>, obtendo <b>a'<sub>1</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="363" name="sl">
@@ -3712,25 +3712,25 @@
 			   <input type="radio" id="406" name="sl">
 			   <label for="406"></label>
 			   <img src="cotadas/63_02_01.png" />
-			<figcaption>Sabemos que as retas horizontais de um plano são perpendiculares as suas retas de maior declive, portanto para encontrar a horizontal de cota 2(<b>h&#8322;</b>) basta encontrar uma reta perpendicular à reta <b>d&alpha;</b> pelo ponto <b>A(2)</b>.</figcaption>
+			<figcaption>Sabemos que as retas horizontais de um plano são perpendiculares as suas retas de maior declive, portanto para encontrar a horizontal de cota 2(<b>h<sub>2</sub></b>) basta encontrar uma reta perpendicular à reta <b>d&alpha;</b> pelo ponto <b>A(2)</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="407" name="sl">
 			   <label for="407"></label>
 			   <img src="cotadas/63_02_02.png" />
-			 <figcaption>Se conduzirmos pelo ponto <b>B(4)</b> uma reta perpendicular à reta <b>d&alpha;</b> teremos a horizontal de cota 4(<b>h&#8324;</b>) do plano <b>&alpha;</b>. </figcaption>
+			 <figcaption>Se conduzirmos pelo ponto <b>B(4)</b> uma reta perpendicular à reta <b>d&alpha;</b> teremos a horizontal de cota 4(<b>h<sub>4</sub></b>) do plano <b>&alpha;</b>. </figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="408" name="sl">
 			   <label for="408"></label>
 			   <img src="cotadas/63_02_03.png" />
-			 <figcaption>Podemos definir um ponto <b>C(2)</b> do plano. Ele deve pertencer à reta <b>h&#8322;</b>.</figcaption>
+			 <figcaption>Podemos definir um ponto <b>C(2)</b> do plano. Ele deve pertencer à reta <b>h<sub>2</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="409" name="sl">
 			   <label for="409"></label>
 			   <img src="cotadas/63_02_04.png" />
-			 <figcaption>Podemos definir um ponto <b>D(4)</b> do plano. Ele deve pertencer à reta <b>h&#8324;</b>.</figcaption>
+			 <figcaption>Podemos definir um ponto <b>D(4)</b> do plano. Ele deve pertencer à reta <b>h<sub>4</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="410" name="sl">
@@ -3762,13 +3762,13 @@
 			   <input type="radio" id="413" name="sl">
 			   <label for="413"></label>
 			   <img src="cotadas/64_01_03.png" />
-			 <figcaption>Unindo <b>A&#8321;</b> e <b>B&#8321;</b> temos a reta <b>d'&alpha;&#8321;</b> que corresponde a projeção auxiliar da reta <b>d&alpha;</b></figcaption>
+			 <figcaption>Unindo <b>A<sub>1</sub></b> e <b>B<sub>1</sub></b> temos a reta <b>d'&alpha;<sub>1</sub></b> que corresponde a projeção auxiliar da reta <b>d&alpha;</b></figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="414" name="sl">
 			   <label for="414"></label>
 			   <img src="cotadas/64_01_04.png" />
-			 <figcaption>O ângulo formado pela projeção da reta de maior declive <b>d'&alpha;</b> com sua projeção auxiliar <b>d'&alpha;&#8321;</b> é o ângulo que o plano <b>&alpha;</b> forma com o plano de projeção <b>&pi;'</b>.</figcaption>
+			 <figcaption>O ângulo formado pela projeção da reta de maior declive <b>d'&alpha;</b> com sua projeção auxiliar <b>d'&alpha;<sub>1</sub></b> é o ângulo que o plano <b>&alpha;</b> forma com o plano de projeção <b>&pi;'</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="cotadas/64_01_00.png" class="fundo" />
@@ -3844,13 +3844,13 @@
 			   <input type="radio" id="424" name="sl">
 			   <label for="424"></label>
 			   <img src="cotadas/65_01_03.png" />
-			 <figcaption>Sobre a reta de declive rebatida <b>d'<sub>&alpha;1</sub></b> marcamos um ponto <b>B'&#8321;</b>.</figcaption>
+			 <figcaption>Sobre a reta de declive rebatida <b>d'<sub>&alpha;1</sub></b> marcamos um ponto <b>B'<sub>1</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="425" name="sl">
 			   <label for="425"></label>
 			   <img src="cotadas/65_01_04.png" />
-			 <figcaption>A partir de <b>B'&#8321;</b> traçamos uma reta perpendicular à <b>d'<sub>&alpha;1</sub></b> e encontramos <b>B'</b> sobre <b>d'<sub>&alpha;1</sub></b>. Medimos a distância entre <b>B'</b> e <b>B'&#8321;</b> que corresponde à cota do ponto <b>B</b>. A reta de declive fica então definida pelos pontos <b>A</b> e <b>B</b> e forma <b>30°</b> com <b>&pi;'</b>.</figcaption>
+			 <figcaption>A partir de <b>B'<sub>1</sub></b> traçamos uma reta perpendicular à <b>d'<sub>&alpha;1</sub></b> e encontramos <b>B'</b> sobre <b>d'<sub>&alpha;1</sub></b>. Medimos a distância entre <b>B'</b> e <b>B'<sub>1</sub></b> que corresponde à cota do ponto <b>B</b>. A reta de declive fica então definida pelos pontos <b>A</b> e <b>B</b> e forma <b>30°</b> com <b>&pi;'</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="cotadas/65_01_00.png" class="fundo" />
@@ -3863,7 +3863,7 @@
 			   <input type="radio" id="426" name="sl">
 			   <label for="426"></label>
 			   <img src="cotadas/65_2_01.png" />
-			<figcaption>Sobre a reta <b>h'&#8322;</b> marcamos um ponto <b>A'(2)</b>. Conduzimos por <b>A'(2)</b> a projeção de uma das retas de declive do plano <b>&alpha; d'<sub>&alpha;</sub></b>. Obs: As retas de declive de um plano são perpendiculares às retas horizontais do plano. </figcaption>
+			<figcaption>Sobre a reta <b>h'<sub>2</sub></b> marcamos um ponto <b>A'(2)</b>. Conduzimos por <b>A'(2)</b> a projeção de uma das retas de declive do plano <b>&alpha; d'<sub>&alpha;</sub></b>. Obs: As retas de declive de um plano são perpendiculares às retas horizontais do plano. </figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="427" name="sl">
@@ -3875,13 +3875,13 @@
 			   <input type="radio" id="428" name="sl">
 			   <label for="428"></label>
 			   <img src="cotadas/65_2_03.png" />
-			 <figcaption>Sobre <b>d'<sub>&alpha;1</sub></b> definimos um ponto <b>B'&#8321;</b>.</figcaption>
+			 <figcaption>Sobre <b>d'<sub>&alpha;1</sub></b> definimos um ponto <b>B'<sub>1</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="429" name="sl">
 			   <label for="429"></label>
 			   <img src="cotadas/65_2_04.png" />
-			 <figcaption>A partir de <b>B'&#8321;</b> traçamos uma reta perpendicular à <b>d'<sub>&alpha;</sub></b> e encontramos <b>B'</b> sobre <b>d'<sub>&alpha;</sub></b>. Medimos a distância entre <b>B'</b> e <b>B'&#8321;</b> que corresponde à cota do ponto <b>B</b>. </figcaption>
+			 <figcaption>A partir de <b>B'<sub>1</sub></b> traçamos uma reta perpendicular à <b>d'<sub>&alpha;</sub></b> e encontramos <b>B'</b> sobre <b>d'<sub>&alpha;</sub></b>. Medimos a distância entre <b>B'</b> e <b>B'<sub>1</sub></b> que corresponde à cota do ponto <b>B</b>. </figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="430" name="sl">
@@ -3917,7 +3917,7 @@
 			   <input type="radio" id="431" name="sl">
 			   <label for="431"></label>
 			   <img src="cotadas/67_01_03.png" />
-			 <figcaption>Encontrar <b>A'&#8321;</b> e <b>B'&#8321;</b>. Obs: Pontos do eixo permanecem no mesmo lugar quando rebatemos um plano. Os pontos <b>A</b> e <b>B</b> pertencem ao eixo, logo <b>A'≡A'&#8321;</b> e <b>B'≡B'&#8321;</b>.</figcaption>
+			 <figcaption>Encontrar <b>A'<sub>1</sub></b> e <b>B'<sub>1</sub></b>. Obs: Pontos do eixo permanecem no mesmo lugar quando rebatemos um plano. Os pontos <b>A</b> e <b>B</b> pertencem ao eixo, logo <b>A'≡A'<sub>1</sub></b> e <b>B'≡B'<sub>1</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="434" name="sl">
@@ -3935,13 +3935,13 @@
 			   <input type="radio" id="436" name="sl">
 			   <label for="436"></label>
 			   <img src="cotadas/67_01_06.png" />
-			 <figcaption>Com centro em <b>O'<sub>C</sub></b>, descrever um arco de circunferência de raio igual à hipotenusa do triângulo do rebatimento, ou seja com raio <b>O'<sub>C</sub>C<sub>0</sub></b>. Encontrar o ponto <b>C</b> rebatido <b>C'&#8321;</b> na interseção deste arco com a reta perpendicular ao eixo.</figcaption>
+			 <figcaption>Com centro em <b>O'<sub>C</sub></b>, descrever um arco de circunferência de raio igual à hipotenusa do triângulo do rebatimento, ou seja com raio <b>O'<sub>C</sub>C<sub>0</sub></b>. Encontrar o ponto <b>C</b> rebatido <b>C'<sub>1</sub></b> na interseção deste arco com a reta perpendicular ao eixo.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="437" name="sl">
 			   <label for="437"></label>
 			   <img src="cotadas/67_01_07.png" />
-			 <figcaption>Unir <b>A'&#8321;</b>, <b>B'&#8321;</b> e <b>C'&#8321;</b> que é a VG do triângulo <b>ABC</b>.</figcaption>
+			 <figcaption>Unir <b>A'<sub>1</sub></b>, <b>B'<sub>1</sub></b> e <b>C'<sub>1</sub></b> que é a VG do triângulo <b>ABC</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="cotadas/67_01_00.png" class="fundo" />
@@ -3972,7 +3972,7 @@
 			   <input type="radio" id="441" name="sl">
 			   <label for="441"></label>
 			   <img src="cotadas/67_02_04.png" />
-			 <figcaption>O ponto <b>C</b> pertence ao eixo, logo <b>C'≡C'&#8321;</b>. Os pontos <b>A</b> e <b>B</b> se deslocarão perpendicularmente ao eixo do rebatimento. Definimos os pontos <b>O'<sub>A</sub></b> e <b>O'<sub>B</sub></b> nas interseções do eixo com as perpendiculares ao eixo que passam por <b>A</b> e <b>B</b> respectivamente.</figcaption>
+			 <figcaption>O ponto <b>C</b> pertence ao eixo, logo <b>C'≡C'<sub>1</sub></b>. Os pontos <b>A</b> e <b>B</b> se deslocarão perpendicularmente ao eixo do rebatimento. Definimos os pontos <b>O'<sub>A</sub></b> e <b>O'<sub>B</sub></b> nas interseções do eixo com as perpendiculares ao eixo que passam por <b>A</b> e <b>B</b> respectivamente.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="442" name="sl">
@@ -3984,25 +3984,25 @@
 			   <input type="radio" id="443" name="sl">
 			   <label for="443"></label>
 			   <img src="cotadas/67_02_06.png" />
-			 <figcaption>Com centro em <b>O'<sub>A</sub></b>, descrevemos um arco de circunferência de raio igual à hipotenusa do triângulo do rebatimento, ou seja com raio <b>O'<sub>A</sub>A<sub>0</sub></b>. Uma das interseções deste arco com a reta perpendicular ao eixo, que passa pela projeção do ponto <b>A</b> nos dá o ponto <b>A'&#8321;</b>.</figcaption>
+			 <figcaption>Com centro em <b>O'<sub>A</sub></b>, descrevemos um arco de circunferência de raio igual à hipotenusa do triângulo do rebatimento, ou seja com raio <b>O'<sub>A</sub>A<sub>0</sub></b>. Uma das interseções deste arco com a reta perpendicular ao eixo, que passa pela projeção do ponto <b>A</b> nos dá o ponto <b>A'<sub>1</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="444" name="sl">
 			   <label for="444"></label>
 			   <img src="cotadas/67_02_07.png" />
-			 <figcaption>Precisamos agora rebater o ponto <b>B</b>. Podemos repetir o processo utilizado para rebater o ponto <b>A</b> ou podemos encontrar a projeção cotada da reta <b>a(A,B)</b>: <b>a'</b>. Esta reta terá um ponto <b>E</b> sobre o eixo, logo <b>E'≡E'&#8321;</b>.</figcaption>
+			 <figcaption>Precisamos agora rebater o ponto <b>B</b>. Podemos repetir o processo utilizado para rebater o ponto <b>A</b> ou podemos encontrar a projeção cotada da reta <b>a(A,B)</b>: <b>a'</b>. Esta reta terá um ponto <b>E</b> sobre o eixo, logo <b>E'≡E'<sub>1</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="445" name="sl">
 			   <label for="445"></label>
 			   <img src="cotadas/67_02_08.png" />
-			 <figcaption>Unindo <b>A'&#8321;</b> e <b>E'&#8321;</b> temos a projeção <b>a'&#8321;</b> da reta <b>a</b> o ponto <b>B'&#8321;</b> estará sobre ela.</figcaption>
+			 <figcaption>Unindo <b>A'<sub>1</sub></b> e <b>E'<sub>1</sub></b> temos a projeção <b>a'<sub>1</sub></b> da reta <b>a</b> o ponto <b>B'<sub>1</sub></b> estará sobre ela.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="446" name="sl">
 			   <label for="446"></label>
 			   <img src="cotadas/67_02_09.png" />
-			 <figcaption>Unindo <b>A&#8321;</b>, <b>B&#8321;</b> e <b>C&#8321;</b> temos a VG do triângulo <b>ABC</b> contido num plano qualquer.</figcaption>
+			 <figcaption>Unindo <b>A<sub>1</sub></b>, <b>B<sub>1</sub></b> e <b>C<sub>1</sub></b> temos a VG do triângulo <b>ABC</b> contido num plano qualquer.</figcaption>
 		   </li>
 		</ul>
 		<img src="cotadas/67_02_00.png" class="fundo" />
@@ -4034,31 +4034,31 @@
 			   <input type="radio" id="450" name="sl">
 			   <label for="450"></label>
 			   <img src="cotadas/68_01_05.png" />
-			 <figcaption>Construir o triângulo de rebatimento para o ponto <b>A</b>: <b>A'A'<sub>0</sub>O'<sub>A</sub></b> e com centro em <b>O'<sub>A</sub></b>, descrever um arco de circunferência de raio igual à hipotenusa do triângulo do rebatimento, ou seja com raio <b>O'<sub>A</sub>A<sub>0</sub></b>. Encontrar o ponto <b>A</b> rebatido <b>A'&#8321;</b> na interseção deste arco com a reta perpendicular ao eixo. Obs: O cateto <b>A'A'<sub>0</sub></b> tem tamanho igual à diferença de cotas entre o ponto <b>A</b> e o eixo do rebatimento.</figcaption>
+			 <figcaption>Construir o triângulo de rebatimento para o ponto <b>A</b>: <b>A'A'<sub>0</sub>O'<sub>A</sub></b> e com centro em <b>O'<sub>A</sub></b>, descrever um arco de circunferência de raio igual à hipotenusa do triângulo do rebatimento, ou seja com raio <b>O'<sub>A</sub>A<sub>0</sub></b>. Encontrar o ponto <b>A</b> rebatido <b>A'<sub>1</sub></b> na interseção deste arco com a reta perpendicular ao eixo. Obs: O cateto <b>A'A'<sub>0</sub></b> tem tamanho igual à diferença de cotas entre o ponto <b>A</b> e o eixo do rebatimento.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="451" name="sl">
 			   <label for="451"></label>
 			   <img src="cotadas/68_01_07.png" />
-			 <figcaption>Definir uma reta <b>a'(A',B')</b>. Esta reta terá um ponto comum <b>R'</b> com o eixo de rebatimento. Como <b>R'</b> pertence ao eixo, <b>R'≡R'&#8321;</b>. Unir <b>R'&#8321;</b> com <b>A'&#8321;</b> definido assim <b>a'&#8321;</b>. O ponto <b>B</b> rebatido <b>B'&#8321;</b> pertence a reta a rebatida <b>a'&#8321;</b>.</figcaption>
+			 <figcaption>Definir uma reta <b>a'(A',B')</b>. Esta reta terá um ponto comum <b>R'</b> com o eixo de rebatimento. Como <b>R'</b> pertence ao eixo, <b>R'≡R'<sub>1</sub></b>. Unir <b>R'<sub>1</sub></b> com <b>A'<sub>1</sub></b> definido assim <b>a'<sub>1</sub></b>. O ponto <b>B</b> rebatido <b>B'<sub>1</sub></b> pertence a reta a rebatida <b>a'<sub>1</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="452" name="sl">
 			   <label for="452"></label>
 			   <img src="cotadas/68_01_08.png" />
-			 <figcaption>Construir o triângulo equilátero <b>A'&#8321;B'&#8321;C'&#8321;</b> em VG. Obs: Podemos construir dois triângulos equiláteros distintos, logo o exercício admite duas soluções.</figcaption>
+			 <figcaption>Construir o triângulo equilátero <b>A'<sub>1</sub>B'<sub>1</sub>C'<sub>1</sub></b> em VG. Obs: Podemos construir dois triângulos equiláteros distintos, logo o exercício admite duas soluções.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="453" name="sl">
 			   <label for="453"></label>
 			   <img src="cotadas/68_01_09.png" />
-			 <figcaption>O próximo passo é encontrar a projeção cotada do ponto <b>C</b>. Traçar por <b>C'&#8321;</b> uma reta perpendicular ao eixo. Obs: Pontos que não pertencem ao eixo de rebatimento se deslocam perpendicularmente a este.</figcaption>
+			 <figcaption>O próximo passo é encontrar a projeção cotada do ponto <b>C</b>. Traçar por <b>C'<sub>1</sub></b> uma reta perpendicular ao eixo. Obs: Pontos que não pertencem ao eixo de rebatimento se deslocam perpendicularmente a este.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="454" name="sl">
 			   <label for="454"></label>
 			   <img src="cotadas/68_01_10.png" />
-			 <figcaption>Definir uma reta <b>b(B,C)</b>. Esta reta terá um ponto comum <b>S</b> com o eixo de rebatimento. Como <b>S</b> pertence ao eixo, <b>S'≡S'&#8321;</b>.</figcaption>
+			 <figcaption>Definir uma reta <b>b(B,C)</b>. Esta reta terá um ponto comum <b>S</b> com o eixo de rebatimento. Como <b>S</b> pertence ao eixo, <b>S'≡S'<sub>1</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="455" name="sl">
@@ -4119,19 +4119,19 @@
 			   <input type="radio" id="462" name="sl">
 			   <label for="462"></label>
 			   <img src="cotadas/68_02_06.png" />
-			 <figcaption>Descrever um arco de circunferência de raio igual à hipotenusa do triângulo do rebatimento, ou seja, com raio <b>O'<sub>B</sub>B<sub>0</sub></b>. Encontrar o ponto <b>B</b> rebatido <b>B'&#8321;</b> na interseção deste arco com a reta perpendicular ao eixo conduzida por <b>B'</b>. Obs: O cateto <b>B'B'<sub>0</sub></b> tem tamanho igual à diferença de cotas entre o ponto <b>B</b> e o eixo do rebatimento.</figcaption>
+			 <figcaption>Descrever um arco de circunferência de raio igual à hipotenusa do triângulo do rebatimento, ou seja, com raio <b>O'<sub>B</sub>B<sub>0</sub></b>. Encontrar o ponto <b>B</b> rebatido <b>B'<sub>1</sub></b> na interseção deste arco com a reta perpendicular ao eixo conduzida por <b>B'</b>. Obs: O cateto <b>B'B'<sub>0</sub></b> tem tamanho igual à diferença de cotas entre o ponto <b>B</b> e o eixo do rebatimento.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="463" name="sl">
 			   <label for="463"></label>
 			   <img src="cotadas/68_02_07.png" />
-			 <figcaption>Sobre a reta <b>a'(A',B')</b> foi encontrado o ponto <b>Q'</b>. Este ponto pertence à reta <b>a</b> e ao eixo, logo <b>Q'≡Q'&#8321;</b>. Podemos então encontrar a reta <b>a&#8321;</b> unindo <b>B'&#8321;</b> com <b>Q'&#8321;</b>. Sobre esta reta podemos marcar o ponto <b>B&#8321;</b>, pois o ponto <b>B</b> pertence à reta <b>a</b>.</figcaption>
+			 <figcaption>Sobre a reta <b>a'(A',B')</b> foi encontrado o ponto <b>Q'</b>. Este ponto pertence à reta <b>a</b> e ao eixo, logo <b>Q'≡Q'<sub>1</sub></b>. Podemos então encontrar a reta <b>a<sub>1</sub></b> unindo <b>B'<sub>1</sub></b> com <b>Q'<sub>1</sub></b>. Sobre esta reta podemos marcar o ponto <b>B<sub>1</sub></b>, pois o ponto <b>B</b> pertence à reta <b>a</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="464" name="sl">
 			   <label for="464"></label>
 			   <img src="cotadas/68_02_08.png" />
-			 <figcaption>Construir o quadrado <b>A'&#8321;B'&#8321;C'&#8321;D'&#8321;</b> em VG. Obs: Podemos construir dois quadrados distintos, logo o exercício admite duas soluções.</figcaption>
+			 <figcaption>Construir o quadrado <b>A'<sub>1</sub>B'<sub>1</sub>C'<sub>1</sub>D'<sub>1</sub></b> em VG. Obs: Podemos construir dois quadrados distintos, logo o exercício admite duas soluções.</figcaption>
 		   </li>
 		</ul>
 		<img src="cotadas/68_02_00.png" class="fundo" />
@@ -4142,13 +4142,13 @@
 			   <input type="radio" id="466" name="sl">
 			   <label for="466"></label>
 			   <img src="cotadas/68_02_09.png" />
-			 <figcaption>O próximo passo é encontrar a projeção cotada dos pontos <b>C</b> e <b>D</b>. Traçar pelos pontos <b>C'&#8321;</b> e D'<b>&#8321;</b> retas perpendiculares ao eixo. Obs: Pontos que não pertencem ao eixo de rebatimento se deslocam perpendicularmente a este. </figcaption>
+			 <figcaption>O próximo passo é encontrar a projeção cotada dos pontos <b>C</b> e <b>D</b>. Traçar pelos pontos <b>C'<sub>1</sub></b> e D'<b><sub>1</sub></b> retas perpendiculares ao eixo. Obs: Pontos que não pertencem ao eixo de rebatimento se deslocam perpendicularmente a este. </figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="467" name="sl">
 			   <label for="467"></label>
 			   <img src="cotadas/68_02_10.png" />
-			 <figcaption>Definir uma reta <b>b'&#8321;(<b>C'&#8321;</b>,D'&#8321;)</b>. Esta reta terá um ponto comum <b>R</b> com o eixo de rebatimento.  Como <b>R</b> pertence ao eixo, <b>R'≡R'&#8321;</b>.</figcaption>
+			 <figcaption>Definir uma reta <b>b'<sub>1</sub>(<b>C'<sub>1</sub></b>,D'<sub>1</sub>)</b>. Esta reta terá um ponto comum <b>R</b> com o eixo de rebatimento.  Como <b>R</b> pertence ao eixo, <b>R'≡R'<sub>1</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="468" name="sl">
@@ -4166,7 +4166,7 @@
 			   <input type="radio" id="470" name="sl">
 			   <label for="470"></label>
 			   <img src="cotadas/68_02_13.png" />
-			 <figcaption>Falta ainda definir as cotas dos pontos <b>C</b> e <b>D</b>. Para isso podemos, por exemplo, definir uma reta <b>c(B,C)</b>. Esta reta tem um ponto <b>S</b> sobre o eixo, então <b>S'≡S'&#8321;</b>.</figcaption>
+			 <figcaption>Falta ainda definir as cotas dos pontos <b>C</b> e <b>D</b>. Para isso podemos, por exemplo, definir uma reta <b>c(B,C)</b>. Esta reta tem um ponto <b>S</b> sobre o eixo, então <b>S'≡S'<sub>1</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="471" name="sl">
@@ -4384,13 +4384,13 @@
 			   <input type="radio" id="438b" name="sl">
 			   <label for="438b"></label>
 			   <img src="cotadas/76_03_03.png" />
-			 <figcaption>Como a reta <b>&alpha;&beta;</b> é horizontal, sua projeção <b>&alpha;&beta;'&#8321;</b> fica reduzida a um ponto e está na interseção das retas <b>d'<sub>&beta;1</sub></b> e <b>d'<sub>&alpha;1</sub></b>.</figcaption>
+			 <figcaption>Como a reta <b>&alpha;&beta;</b> é horizontal, sua projeção <b>&alpha;&beta;'<sub>1</sub></b> fica reduzida a um ponto e está na interseção das retas <b>d'<sub>&beta;1</sub></b> e <b>d'<sub>&alpha;1</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="439b" name="sl">
 			   <label for="439b"></label>
 			   <img src="cotadas/76_03_04.png" />
-			 <figcaption>A partir de <b>&alpha;&beta;'&#8321;</b> conduzir a projeção <b>&alpha;&beta;'</b> da reta comum aos planos, perpendicularmente às retas de declive. Esta reta é horizontal e sua cota corresponde a distância entre <b>&alpha;&beta;'&#8321;</b> e o plano projetante do plano <b>&beta;</b>.</figcaption>
+			 <figcaption>A partir de <b>&alpha;&beta;'<sub>1</sub></b> conduzir a projeção <b>&alpha;&beta;'</b> da reta comum aos planos, perpendicularmente às retas de declive. Esta reta é horizontal e sua cota corresponde a distância entre <b>&alpha;&beta;'<sub>1</sub></b> e o plano projetante do plano <b>&beta;</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="cotadas/76_03_00.png" class="fundo" />
@@ -4554,13 +4554,13 @@
 			   <input type="radio" id="619" name="sl">
 			   <label for="619"></label>
 			   <img src="aplicacoes/83_09.png" />
-			 <figcaption>Para obter a cota exata do ponto <b>P</b> vamos rebater o segmento <b>RQ</b> sobre um plano horizontal de cota <b>2</b>. Rebata o ponto <b>R</b> obtendo <b>R&#8321;</b>, lembre-se de marcar a diferença de cotas entre <b>R</b> e <b>Q</b> que é <b>3 metros</b>. O ponto <b>Q’</b> coincide com <b>Q’&#8321;</b>.</figcaption>
+			 <figcaption>Para obter a cota exata do ponto <b>P</b> vamos rebater o segmento <b>RQ</b> sobre um plano horizontal de cota <b>2</b>. Rebata o ponto <b>R</b> obtendo <b>R<sub>1</sub></b>, lembre-se de marcar a diferença de cotas entre <b>R</b> e <b>Q</b> que é <b>3 metros</b>. O ponto <b>Q’</b> coincide com <b>Q’<sub>1</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="620" name="sl">
 			   <label for="620"></label>
 			   <img src="aplicacoes/83_10.png" />
-			 <figcaption>Represente o segmento <b>R’&#8321;Q’&#8321;</b> que nos dá a VG de <b>RQ</b>. Por <b>P’</b> trace uma perpendicular a <b>d’<sub>a</sub></b> obtendo sobre <b>R’&#8321;Q’&#8321;</b> o ponto <b>P’&#8321;</b>. A cota do ponto <b>P</b> será <b>2,2+2 = 4,2 metros</b>.</figcaption>
+			 <figcaption>Represente o segmento <b>R’<sub>1</sub>Q’<sub>1</sub></b> que nos dá a VG de <b>RQ</b>. Por <b>P’</b> trace uma perpendicular a <b>d’<sub>a</sub></b> obtendo sobre <b>R’<sub>1</sub>Q’<sub>1</sub></b> o ponto <b>P’<sub>1</sub></b>. A cota do ponto <b>P</b> será <b>2,2+2 = 4,2 metros</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="621" name="sl">
@@ -4572,25 +4572,25 @@
 			   <input type="radio" id="622" name="sl">
 			   <label for="622"></label>
 			   <img src="aplicacoes/83_12.png" />
-			 <figcaption>Vamos obter também graficamente a VG do espigão <b>(bc)</b>. Rebata os pontos <b>C</b> e <b>S</b> sobre um plano horizontal de cota <b>2</b>, obtendo os pontos <b>C’&#8322;</b> e <b>S’&#8322;</b>. Esse segmento nos dá a VG do espigão <b>(bc) = 5,8m</b>. Nessa figura temos também o ângulo <b>&theta; = 22°</b> que o espigão forma com <b>&pi;’</b>. Note que não é o mesmo ângulo que as águas do telhado formam com <b>&pi;’</b>!</figcaption>
+			 <figcaption>Vamos obter também graficamente a VG do espigão <b>(bc)</b>. Rebata os pontos <b>C</b> e <b>S</b> sobre um plano horizontal de cota <b>2</b>, obtendo os pontos <b>C’<sub>2</sub></b> e <b>S’<sub>2</sub></b>. Esse segmento nos dá a VG do espigão <b>(bc) = 5,8m</b>. Nessa figura temos também o ângulo <b>&theta; = 22°</b> que o espigão forma com <b>&pi;’</b>. Note que não é o mesmo ângulo que as águas do telhado formam com <b>&pi;’</b>!</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="623" name="sl">
 			   <label for="623"></label>
 			   <img src="aplicacoes/83_13.png" />
-			 <figcaption>Agora vamos obter a área da água a rebatendo a figura <b>ABSP</b> sobre um plano horizontal de cota <b>2</b>. Escolhemos como eixo a reta <b>h<sub>a</sub>(2)</b>, assim <b>A’≡A’&#8323;</b>e <b>B’≡B’&#8323;</b>. O ponto rebatido <b>P’&#8323;</b> estará na interseção da reta <b>d’<sub>a</sub></b> com a circunferência de centro <b>Q’</b> e de raio sendo a VG de <b>PQ</b> (que já temos).</figcaption>
+			 <figcaption>Agora vamos obter a área da água a rebatendo a figura <b>ABSP</b> sobre um plano horizontal de cota <b>2</b>. Escolhemos como eixo a reta <b>h<sub>a</sub>(2)</b>, assim <b>A’≡A’<sub>3</sub></b>e <b>B’≡B’<sub>3</sub></b>. O ponto rebatido <b>P’<sub>3</sub></b> estará na interseção da reta <b>d’<sub>a</sub></b> com a circunferência de centro <b>Q’</b> e de raio sendo a VG de <b>PQ</b> (que já temos).</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="624" name="sl">
 			   <label for="624"></label>
 			   <img src="aplicacoes/83_14.png" />
-			 <figcaption>Para obtermos o ponto <b>S</b> rebatido basta lembrar que a cumeeira <b>(ac)≡PS</b> é horizontal e após o rebatimento <b>P’&#8323;S’&#8323;</b> ficará paralela ao eixo. Assim, <b>S’&#8323;</b> estará na interseção da reta perpendicular ao eixo que passa pelo ponto <b>S’</b> e da paralela ao eixo que passa pelo ponto <b>P’&#8323;</b>.</figcaption>
+			 <figcaption>Para obtermos o ponto <b>S</b> rebatido basta lembrar que a cumeeira <b>(ac)≡PS</b> é horizontal e após o rebatimento <b>P’<sub>3</sub>S’<sub>3</sub></b> ficará paralela ao eixo. Assim, <b>S’<sub>3</sub></b> estará na interseção da reta perpendicular ao eixo que passa pelo ponto <b>S’</b> e da paralela ao eixo que passa pelo ponto <b>P’<sub>3</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="625" name="sl">
 			   <label for="625"></label>
 			   <img src="aplicacoes/83_15.png" />
-			 <figcaption>Basta agora calcular a área da figura <b>A’&#8323;B’&#8323;S’&#8323;P’&#8323;</b> que está em VG. Dividindo a figura em dois triângulos e um retângulo temos que <b>S(F&#8321;) = S(F&#8323;) = 3,8 x 4,4 / 2 = 8,36m&sup2;</b> e <b>S(F&#8322;) = 2,3 x 4,4 = 10,12m&sup2;</b>, fornecendo a área total de <b>26,84m&sup2;</b>. Use o link abaixo para visualizar o telhado em 3D</figcaption>
+			 <figcaption>Basta agora calcular a área da figura <b>A’<sub>3</sub>B’<sub>3</sub>S’<sub>3</sub>P’<sub>3</sub></b> que está em VG. Dividindo a figura em dois triângulos e um retângulo temos que <b>S(F<sub>1</sub>) = S(F<sub>3</sub>) = 3,8 x 4,4 / 2 = 8,36m&sup2;</b> e <b>S(F<sub>2</sub>) = 2,3 x 4,4 = 10,12m&sup2;</b>, fornecendo a área total de <b>26,84m&sup2;</b>. Use o link abaixo para visualizar o telhado em 3D</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="615" name="sl">
@@ -4731,7 +4731,7 @@
 			   <input type="radio" id="646" name="sl">
 			   <label for="646"></label>
 			   <img src="aplicacoes/84_10.png" />
-			 <figcaption>Para obter a cota exata do ponto <b>P</b> rebata o segmento <b>RQ</b> sobre um plano horizontal de cota <b>2,2m</b>, obtendo o segmento <b>R’&#8321;Q’&#8321;</b> que nos dá a VG de <b>RQ</b>. Por <b>P’</b> trace uma perpendicular a <b>d’<sub>f</sub></b> obtendo sobre <b>R’&#8321;Q’&#8321;</b> o ponto <b>P’&#8321;</b>. A cota do ponto <b>P</b> será <b>2,6+2,2 = 4,8m</b>.</figcaption>
+			 <figcaption>Para obter a cota exata do ponto <b>P</b> rebata o segmento <b>RQ</b> sobre um plano horizontal de cota <b>2,2m</b>, obtendo o segmento <b>R’<sub>1</sub>Q’<sub>1</sub></b> que nos dá a VG de <b>RQ</b>. Por <b>P’</b> trace uma perpendicular a <b>d’<sub>f</sub></b> obtendo sobre <b>R’<sub>1</sub>Q’<sub>1</sub></b> o ponto <b>P’<sub>1</sub></b>. A cota do ponto <b>P</b> será <b>2,6+2,2 = 4,8m</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="aplicacoes/84_00.png" class="fundo" />
@@ -4742,19 +4742,19 @@
 			   <input type="radio" id="647" name="sl">
 			   <label for="647"></label>
 			   <img src="aplicacoes/84_11.png" />
-			 <figcaption>Vamos obter a declividade do rincão <b>(ef)</b>. Nomeie o ponto <b>(cef)</b> como <b>S</b>. Para obter a cota de <b>S</b> basta traçar por <b>S’</b> uma perpendicular à reta <b>d’<sub>f</sub></b>, obtendo o ponto <b>T’</b>. O ponto rebatido <b>T’&#8321;</b> nos dá a cota relativa de <b>T</b>. A cota de <b>T</b> é <b>3,3m</b> que é a mesma de <b>S</b>. A declividade do rincão <b>(ef)=SF</b> é: <b>de(ef)=de(SF) = dV / dH</b>. Temos <b>dV = |cota(S) – cota(F)| = 3,3 – 2,2 = 1,1m</b> e <b>dH = S’F’ = 2,6m</b>.  Portanto, <b>de(ef) = de(SF) = tg(&theta;<sub>ef</sub>) = dV/dH = 1,1 / 2,6 = 0,423 = 42,3%</b>.</figcaption>
+			 <figcaption>Vamos obter a declividade do rincão <b>(ef)</b>. Nomeie o ponto <b>(cef)</b> como <b>S</b>. Para obter a cota de <b>S</b> basta traçar por <b>S’</b> uma perpendicular à reta <b>d’<sub>f</sub></b>, obtendo o ponto <b>T’</b>. O ponto rebatido <b>T’<sub>1</sub></b> nos dá a cota relativa de <b>T</b>. A cota de <b>T</b> é <b>3,3m</b> que é a mesma de <b>S</b>. A declividade do rincão <b>(ef)=SF</b> é: <b>de(ef)=de(SF) = dV / dH</b>. Temos <b>dV = |cota(S) – cota(F)| = 3,3 – 2,2 = 1,1m</b> e <b>dH = S’F’ = 2,6m</b>.  Portanto, <b>de(ef) = de(SF) = tg(&theta;<sub>ef</sub>) = dV/dH = 1,1 / 2,6 = 0,423 = 42,3%</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="648" name="sl">
 			   <label for="648"></label>
 			   <img src="aplicacoes/84_12.png" />
-			 <figcaption>Vamos obter também graficamente a VG do rincão <b>(ef)</b>. Rebata os pontos <b>S</b> e <b>F</b> sobre um plano horizontal de cota <b>2,2m</b>, obtendo os pontos <b>S’&#8322;</b> e <b>F’&#8322;</b>. Esse segmento nos dá a VG do rincão <b>(ef) = 2.8m</b>. Nessa figura temos também o ângulo <b>&theta; = 22,9°</b> que o espigão forma com <b>&pi;’</b>. Note que não é o mesmo ângulo que as águas do telhado formam com <b>&pi;’</b>! </figcaption>
+			 <figcaption>Vamos obter também graficamente a VG do rincão <b>(ef)</b>. Rebata os pontos <b>S</b> e <b>F</b> sobre um plano horizontal de cota <b>2,2m</b>, obtendo os pontos <b>S’<sub>2</sub></b> e <b>F’<sub>2</sub></b>. Esse segmento nos dá a VG do rincão <b>(ef) = 2.8m</b>. Nessa figura temos também o ângulo <b>&theta; = 22,9°</b> que o espigão forma com <b>&pi;’</b>. Note que não é o mesmo ângulo que as águas do telhado formam com <b>&pi;’</b>! </figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="649" name="sl">
 			   <label for="649"></label>
 			   <img src="aplicacoes/84_13.png" />
-			 <figcaption>Agora vamos obter a área da água <b>d</b>. Nomeie o ponto <b>(cde)</b> como <b>U</b>. A sua cota é a mesma que a de <b>S</b>. Vamos rebater a figura <b>UDE</b> sobre um plano horizontal de cota <b>2,2m</b>. Escolhemos como eixo a reta <b>h<sub>d</sub>(2,2)</b>, assim <b>E’≡E’&#8323;</b>e <b>D’≡D’&#8323;</b>.</figcaption>
+			 <figcaption>Agora vamos obter a área da água <b>d</b>. Nomeie o ponto <b>(cde)</b> como <b>U</b>. A sua cota é a mesma que a de <b>S</b>. Vamos rebater a figura <b>UDE</b> sobre um plano horizontal de cota <b>2,2m</b>. Escolhemos como eixo a reta <b>h<sub>d</sub>(2,2)</b>, assim <b>E’≡E’<sub>3</sub></b>e <b>D’≡D’<sub>3</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="650" name="sl">
@@ -4766,13 +4766,13 @@
 			   <input type="radio" id="651" name="sl">
 			   <label for="651"></label>
 			   <img src="aplicacoes/84_15.png" />
-			 <figcaption>O ponto rebatido <b>U’&#8323;</b> estará na interseção da reta perpendicular a <b>h’<sub>d</sub></b> com a circunferência de centro <b>V’</b> e de raio sendo a VG de <b>UV</b>.</figcaption>
+			 <figcaption>O ponto rebatido <b>U’<sub>3</sub></b> estará na interseção da reta perpendicular a <b>h’<sub>d</sub></b> com a circunferência de centro <b>V’</b> e de raio sendo a VG de <b>UV</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="652" name="sl">
 			   <label for="652"></label>
 			   <img src="aplicacoes/84_16.png" />
-			 <figcaption>Basta agora calcular a área da figura <b>U’&#8323;D’&#8323;E’&#8323;</b> que está em VG. <b>S(F) = 3,7 x 2,1/2 = 3,88m&sup2;</b>.</figcaption>
+			 <figcaption>Basta agora calcular a área da figura <b>U’<sub>3</sub>D’<sub>3</sub>E’<sub>3</sub></b> que está em VG. <b>S(F) = 3,7 x 2,1/2 = 3,88m&sup2;</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="653" name="sl">
@@ -4864,7 +4864,7 @@
 			   <input type="radio" id="654a" name="sl">
 			   <label for="654a"></label>
 			   <img src="aplicacoes/85_11.png" />
-			 <figcaption>Para obter a cota exata do ponto <b>P</b> rebata o segmento <b>RQ</b> sobre um plano horizontal de cota 2,2m, obtendo o segmento <b>R’&#8321;Q’&#8321;</b> que nos dá a VG de <b>RQ</b>. Por <b>P’</b> trace uma perpendicular a <b>d’<sub>a</sub></b> obtendo sobre <b>R’&#8321;Q’&#8321;</b> o ponto <b>P’&#8321;</b>. A cota do ponto <b>P</b> será 2,5+2,2 = 4,7m.</figcaption>
+			 <figcaption>Para obter a cota exata do ponto <b>P</b> rebata o segmento <b>RQ</b> sobre um plano horizontal de cota 2,2m, obtendo o segmento <b>R’<sub>1</sub>Q’<sub>1</sub></b> que nos dá a VG de <b>RQ</b>. Por <b>P’</b> trace uma perpendicular a <b>d’<sub>a</sub></b> obtendo sobre <b>R’<sub>1</sub>Q’<sub>1</sub></b> o ponto <b>P’<sub>1</sub></b>. A cota do ponto <b>P</b> será 2,5+2,2 = 4,7m.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="655a" name="sl">
@@ -4876,19 +4876,19 @@
 			   <input type="radio" id="656a" name="sl">
 			   <label for="656a"></label>
 			   <img src="aplicacoes/85_13.png" />
-			 <figcaption>Vamos obter também graficamente a VG do espigão <b>(bc)</b>. Rebata os pontos <b>C</b> e <b>S</b> sobre um plano horizontal de cota 2,2m, obtendo os pontos <b>C’&#8322;</b> e <b>S’&#8322;</b>. Esse segmento nos dá a VG do espigão <b>(bc) = 6,5m</b>. Nessa figura temos também o ângulo <b>&theta; = 22,7°</b> que o espigão forma com <b>&pi;’</b>. Lembre-se que não é o mesmo ângulo que as águas do telhado formam com <b>&pi;’</b>! </figcaption>
+			 <figcaption>Vamos obter também graficamente a VG do espigão <b>(bc)</b>. Rebata os pontos <b>C</b> e <b>S</b> sobre um plano horizontal de cota 2,2m, obtendo os pontos <b>C’<sub>2</sub></b> e <b>S’<sub>2</sub></b>. Esse segmento nos dá a VG do espigão <b>(bc) = 6,5m</b>. Nessa figura temos também o ângulo <b>&theta; = 22,7°</b> que o espigão forma com <b>&pi;’</b>. Lembre-se que não é o mesmo ângulo que as águas do telhado formam com <b>&pi;’</b>! </figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="657a" name="sl">
 			   <label for="657a"></label>
 			   <img src="aplicacoes/85_14.png" />
-			 <figcaption>Agora vamos obter a área da água a rebatendo a figura <b>ABP</b> sobre um plano horizontal de cota 2,2m. Escolhemos como eixo a reta <b>h<sub>a</sub>(2,2)</b>, assim <b>A’≡A’&#8323;</b>e <b>B’≡B’&#8323;</b>. O ponto rebatido <b>P’&#8323;</b> estará na interseção da reta <b>d’<sub>a</sub></b> com a circunferência de centro <b>Q’</b> e de raio sendo a VG de <b>PQ</b> (que já temos).</figcaption>
+			 <figcaption>Agora vamos obter a área da água a rebatendo a figura <b>ABP</b> sobre um plano horizontal de cota 2,2m. Escolhemos como eixo a reta <b>h<sub>a</sub>(2,2)</b>, assim <b>A’≡A’<sub>3</sub></b>e <b>B’≡B’<sub>3</sub></b>. O ponto rebatido <b>P’<sub>3</sub></b> estará na interseção da reta <b>d’<sub>a</sub></b> com a circunferência de centro <b>Q’</b> e de raio sendo a VG de <b>PQ</b> (que já temos).</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="658a" name="sl">
 			   <label for="658a"></label>
 			   <img src="aplicacoes/85_15.png" />
-			 <figcaption>Basta agora calcular a área da figura <b>A’&#8323;B’&#8323;P’&#8323;</b> que está em VG. <b>S(F) = 8,4 x 4,9 / 2 = 20,58m&sup2;</b>.</figcaption>
+			 <figcaption>Basta agora calcular a área da figura <b>A’<sub>3</sub>B’<sub>3</sub>P’<sub>3</sub></b> que está em VG. <b>S(F) = 8,4 x 4,9 / 2 = 20,58m&sup2;</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="659a" name="sl">
@@ -4933,37 +4933,37 @@
 			   <input type="radio" id="659" name="sl">
 			   <label for="659"></label>
 			   <img src="aplicacoes/86_04.png" />
-			 <figcaption>Vamos obter também graficamente a VG do espigão <b>(bc)</b>. Rebata os pontos <b>C</b> e <b>R</b> sobre um plano horizontal de cota 2,2m, obtendo os pontos <b>C’&#8322;</b> e <b>R’&#8322;</b>. Esse segmento nos dá a VG do espigão <b>(bc) = 3,8m</b>. Nessa figura temos também o ângulo <b>&theta; = 21,8°</b> que o espigão forma com <b>&pi;’</b>. Este ângulo sempre deve ser menor que o das águas <b>b</b> e <b>c</b>!</figcaption>
+			 <figcaption>Vamos obter também graficamente a VG do espigão <b>(bc)</b>. Rebata os pontos <b>C</b> e <b>R</b> sobre um plano horizontal de cota 2,2m, obtendo os pontos <b>C’<sub>2</sub></b> e <b>R’<sub>2</sub></b>. Esse segmento nos dá a VG do espigão <b>(bc) = 3,8m</b>. Nessa figura temos também o ângulo <b>&theta; = 21,8°</b> que o espigão forma com <b>&pi;’</b>. Este ângulo sempre deve ser menor que o das águas <b>b</b> e <b>c</b>!</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="660" name="sl">
 			   <label for="660"></label>
 			   <img src="aplicacoes/86_05.png" />
-			 <figcaption>Agora vamos obter a área da água <b>g</b> rebatendo a figura <b>HTPUVG</b> sobre um plano horizontal de cota 2,2m. Escolhemos como eixo a reta <b>h<sub>g</sub>(2,2)</b>, assim <b>H’≡H’&#8323;</b> e <b>G’≡G’&#8323;</b>. Rebata o ponto <b>T</b> obtendo <b>T’&#8323;</b>.</figcaption>
+			 <figcaption>Agora vamos obter a área da água <b>g</b> rebatendo a figura <b>HTPUVG</b> sobre um plano horizontal de cota 2,2m. Escolhemos como eixo a reta <b>h<sub>g</sub>(2,2)</b>, assim <b>H’≡H’<sub>3</sub></b> e <b>G’≡G’<sub>3</sub></b>. Rebata o ponto <b>T</b> obtendo <b>T’<sub>3</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="661" name="sl">
 			   <label for="661"></label>
 			   <img src="aplicacoes/86_06.png" />
-			 <figcaption>O ponto <b>P</b> rebatido estará sobre a reta perpendicular ao eixo <b>h<sub>g</sub>(2,2)</b> que passa por <b>P’</b> e na paralela ao eixo traçada pelo ponto <b>T’&#8323;</b>.</figcaption>
+			 <figcaption>O ponto <b>P</b> rebatido estará sobre a reta perpendicular ao eixo <b>h<sub>g</sub>(2,2)</b> que passa por <b>P’</b> e na paralela ao eixo traçada pelo ponto <b>T’<sub>3</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="662" name="sl">
 			   <label for="662"></label>
 			   <img src="aplicacoes/86_07.png" />
-			 <figcaption>O ponto <b>U</b> rebatido estará sobre a reta perpendicular ao eixo <b>h<sub>g</sub>(2,2)</b> que passa por <b>U’</b> e na reta <b>OP’&#8323;</b>.</figcaption>
+			 <figcaption>O ponto <b>U</b> rebatido estará sobre a reta perpendicular ao eixo <b>h<sub>g</sub>(2,2)</b> que passa por <b>U’</b> e na reta <b>OP’<sub>3</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="663" name="sl">
 			   <label for="663"></label>
 			   <img src="aplicacoes/86_08.png" />
-			 <figcaption>O ponto <b>V</b> rebatido estará sobre a reta perpendicular ao eixo <b>h<sub>g</sub>(2,2)</b> que passa por <b>V’</b> e na paralela ao eixo traçada pelo ponto <b>U’&#8323;</b>.</figcaption>
+			 <figcaption>O ponto <b>V</b> rebatido estará sobre a reta perpendicular ao eixo <b>h<sub>g</sub>(2,2)</b> que passa por <b>V’</b> e na paralela ao eixo traçada pelo ponto <b>U’<sub>3</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="664" name="sl">
 			   <label for="664"></label>
 			   <img src="aplicacoes/86_09.png" />
-			 <figcaption>Basta agora calcular a área da figura <b>H’&#8323;T’&#8323;P’&#8323;U’&#8323;V’&#8323;G’&#8323;</b> que está em VG. Dividindo a figura em um trapézio e um paralelogramo temos que <b>S(F&#8321;)= (1,8 + 8,7) x 4 / 2 = 21m&sup2;</b> e <b>S(F&#8322;) = 4,6 x 2,4 = 11,04 m&sup2;</b>, fornecendo a área total de <b>32,04m&sup2;</b>. </figcaption>
+			 <figcaption>Basta agora calcular a área da figura <b>H’<sub>3</sub>T’<sub>3</sub>P’<sub>3</sub>U’<sub>3</sub>V’<sub>3</sub>G’<sub>3</sub></b> que está em VG. Dividindo a figura em um trapézio e um paralelogramo temos que <b>S(F<sub>1</sub>)= (1,8 + 8,7) x 4 / 2 = 21m&sup2;</b> e <b>S(F<sub>2</sub>) = 4,6 x 2,4 = 11,04 m&sup2;</b>, fornecendo a área total de <b>32,04m&sup2;</b>. </figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="665" name="sl">
@@ -5038,7 +5038,7 @@
 			   <input type="radio" id="674" name="sl">
 			   <label for="674"></label>
 			   <img src="aplicacoes/87_10.png" />
-			 <figcaption>Rebatendo a área <b>e</b> obtemos sua VG. Dividindo a figura em dois paralelogramos e um trapézio temos que <b>S(F&#8321;) = 5,1 x 1,5 = 7,65m&sup2;</b>, <b>S(F&#8322;) =(1 + 8,2) x 4,1 / 2 = 18,86m&sup2;</b> e <b>S(F&#8323;) = 3,1 x 2,4 = 7,44 m&sup2;</b>, fornecendo a área total de <b>33,95m&sup2;</b>.</figcaption>
+			 <figcaption>Rebatendo a área <b>e</b> obtemos sua VG. Dividindo a figura em dois paralelogramos e um trapézio temos que <b>S(F<sub>1</sub>) = 5,1 x 1,5 = 7,65m&sup2;</b>, <b>S(F<sub>2</sub>) =(1 + 8,2) x 4,1 / 2 = 18,86m&sup2;</b> e <b>S(F<sub>3</sub>) = 3,1 x 2,4 = 7,44 m&sup2;</b>, fornecendo a área total de <b>33,95m&sup2;</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="675" name="sl">
@@ -5194,7 +5194,7 @@
 			   <input type="radio" id="679c" name="sl">
 			   <label for="679c"></label>
 			   <img src="aplicacoes/93_15.png" />
-			 <figcaption>Rebatendo a água <b>f</b> obtemos sua VG. Dividindo a figura em um trapézio e um triângulo temos que <b>S(F&#8321;) =(5,5 + 7,3) x 3,1 / 2 = 19,84 m&sup2;</b> e <b>S(F&#8322;) = (9,7 x 5,6) / 2 = 27,16m&sup2;</b>, fornecendo a área total de 47m&sup2;.</figcaption>
+			 <figcaption>Rebatendo a água <b>f</b> obtemos sua VG. Dividindo a figura em um trapézio e um triângulo temos que <b>S(F<sub>1</sub>) =(5,5 + 7,3) x 3,1 / 2 = 19,84 m&sup2;</b> e <b>S(F<sub>2</sub>) = (9,7 x 5,6) / 2 = 27,16m&sup2;</b>, fornecendo a área total de 47m&sup2;.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="680c" name="sl">
@@ -5766,7 +5766,7 @@
 			   <input type="radio" id="701b" name="sl">
 			   <label for="701b"></label>
 			   <img src="aplicacoes/113_01_01_02.png" />
-			 <figcaption>Na região de cota superior a cota da plataforma teremos que realizar um corte. Temos 3 regiões de corte: corte 1, corte 2 e corte 3 e duas retas de interseção entre elas. Como as três regiões têm mesma declividade, as interseções estarão nas bissetrizes dos ângulos formados pelas horizontais, ou seja, pelas linhas definidoras da plataforma. Chamaremos esta retas de interseção de <b>C&#8321;C&#8322;</b> e <b>C&#8322;C&#8323;</b>.</figcaption>
+			 <figcaption>Na região de cota superior a cota da plataforma teremos que realizar um corte. Temos 3 regiões de corte: corte 1, corte 2 e corte 3 e duas retas de interseção entre elas. Como as três regiões têm mesma declividade, as interseções estarão nas bissetrizes dos ângulos formados pelas horizontais, ou seja, pelas linhas definidoras da plataforma. Chamaremos esta retas de interseção de <b>C<sub>1</sub>C<sub>2</sub></b> e <b>C<sub>2</sub>C<sub>3</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="702b" name="sl">
@@ -5809,7 +5809,7 @@
 			   <input type="radio" id="708b" name="sl">
 			   <label for="708b"></label>
 			   <img src="aplicacoes/113_01_01_09.png" />
-			 <figcaption>Encontrar pontos de interseção das retas <b>C&#8321;C&#8322;</b> e <b>C&#8322;C&#8323;</b> com a superfície topográfica. Este processo pode ser por aproximação.</figcaption>
+			 <figcaption>Encontrar pontos de interseção das retas <b>C<sub>1</sub>C<sub>2</sub></b> e <b>C<sub>2</sub>C<sub>3</sub></b> com a superfície topográfica. Este processo pode ser por aproximação.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="709b" name="sl">
@@ -5827,7 +5827,7 @@
 			   <input type="radio" id="701c" name="sl">
 			   <label for="701c"></label>
 			   <img src="aplicacoes/113_01_02_01.png" />
-			 <figcaption>Temos 2 pontos de passagem e 3 regiões de aterro que chamaremos de aterro 1, aterro 2 e aterro 3. Como as três regiões têm mesma declividade, as interseções entre elas estarão nas bissetrizes dos ângulos formados pelas horizontais, ou seja, pelas linhas definidoras da plataforma. Chamaremos esta retas de interseção de <b>A&#8321;A&#8322;</b> e <b>A&#8322;A&#8323;</b>.</figcaption>
+			 <figcaption>Temos 2 pontos de passagem e 3 regiões de aterro que chamaremos de aterro 1, aterro 2 e aterro 3. Como as três regiões têm mesma declividade, as interseções entre elas estarão nas bissetrizes dos ângulos formados pelas horizontais, ou seja, pelas linhas definidoras da plataforma. Chamaremos esta retas de interseção de <b>A<sub>1</sub>A<sub>2</sub></b> e <b>A<sub>2</sub>A<sub>3</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="702c" name="sl">
@@ -5858,7 +5858,7 @@
 			   <input type="radio" id="706c" name="sl">
 			   <label for="706c"></label>
 			   <img src="aplicacoes/113_01_02_06.png" />
-			 <figcaption>Encontrar pontos de interseção das retas <b>A&#8321;A&#8322;</b> e <b>A&#8322;A&#8323;</b> com a superfície topográfica. Este processo pode ser por aproximação.</figcaption>
+			 <figcaption>Encontrar pontos de interseção das retas <b>A<sub>1</sub>A<sub>2</sub></b> e <b>A<sub>2</sub>A<sub>3</sub></b> com a superfície topográfica. Este processo pode ser por aproximação.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="707c" name="sl">
