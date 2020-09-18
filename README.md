@@ -5571,7 +5571,7 @@
 		   </li>
 		</ul>
 		<img src="aplicacoes/100_00.png" class="fundo" />
-	</details>
+	</details></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0101.png" />
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
