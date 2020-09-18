@@ -5576,6 +5576,48 @@
   <img src="aplicacoes/Cotadas_2020_0101.png" />
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0102.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <p>Para obtermos o perfil topográfico devemos encontrar os pontos comuns da superfície natural do terreno com o plano de corte vertical.</p>
+	  <ul class="slider">
+		   <li>
+		   <input type="radio" id="718z" name="sl">
+			   <label for="718z"></label>
+			   <img src="aplicacoes/102_01.png" />
+			 <figcaption>Marque os pontos de interseção da reta <b>A’B’</b> com as curvas de nível do terreno.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="719z" name="sl">
+			   <label for="719z"></label>
+			   <img src="aplicacoes/102_02.png" />
+			 <figcaption>Vamos rebater o plano vertical a partir do eixo que está na horizontal. Em cada ponto obtido no passo anterior construa perpendiculares à reta <b>A’B’</b> e marque no sistema de eixos a cota correspondente.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="720z" name="sl">
+			   <label for="720z"></label>
+			   <img src="aplicacoes/102_03.png" />
+			 <figcaption>Devemos agora marcar a cota do ponto <b>C</b> que está entre as curvas de nível de cota 70m e 80m. Esse processo pode ser por aproximação, ou seja, estimando uma cota em torno de 75m.</figcaption>
+		   </li>	  
+		   <li>
+			   <input type="radio" id="721z" name="sl">
+			   <label for="721z"></label>
+			   <img src="aplicacoes/102_04.png" />
+			 <figcaption>Marque no sistema de eixos a cota correspondente.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="722z" name="sl">
+			   <label for="722z"></label>
+			   <img src="aplicacoes/102_05.png" />
+			 <figcaption>Analogamente marcamos a cota correspondente do ponto D, que estimando é em torno de 25m.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="723" name="sl">
+			   <label for="723z"></label>
+			   <img src="aplicacoes/102_06.png" />
+			 <figcaption>Basta agora unir os pontos obtidos que são adjacentes definindo o Perfil Topográfico.</figcaption>
+		   </li>
+		</ul>
+		<img src="aplicacoes/102_00.png" class="fundo" />
+	</details></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0103.png" />
   <div class="combo"><figcaption>Use o link abaixo para visualizar em 3D do perfil topográfico de um terreno</figcaption>
