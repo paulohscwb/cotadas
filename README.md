@@ -5919,6 +5919,8 @@
 <p align="center"><img src="https://paulohscwb.github.io/cotadas/vr/exemplo.jpg" width="80%"></p>
 
 <p><br><b>Referências:</b></p>
-<p>O ambiente Realidade Aumentada foi criado com os scripts de <b>Jerome Etienne</b>: <a href="https://github.com/jeromeetienne/AR.js"> AR.js - Augmented Reality for the Web</a>.</p>
-<p>Os scripts de órbita desenvolvidos por <b>Kevin Ngo</b> foram usados nas páginas de RV: <a href="https://github.com/supermedium/superframe/tree/master/components/orbit-controls/"> Orbit controls for A-Frame</a>.</p>
-<p>As faces de poliedros foram criadas com a função desenvolvida por <b>Andreas Plesch</b>: <a href="https://github.com/andreasplesch/aframe-faceset-component"> Geometry from vertices and faces</a>.</p>
+<ol>
+	<li>Etienne, J. AR.js - Augmented Reality for the Web - Scripts do ambiente de Realidade Aumentada: <a href="https://github.com/jeromeetienne/AR.js" target="blank">https://github.com/jeromeetienne/AR.js</a>.</li>
+	<li>Ngo, K. Orbit controls for A-Frame - Scripts de controle de órbita nas páginas programadas com Realidade Virtual: <a href="https://github.com/supermedium/superframe/tree/master/components/orbit-controls/" target="_blank"> https://github.com/supermedium/superframe/tree/master/components/orbit-controls/</a>.</li>
+	<li>Plesch, A. Geometry from vertices and faces - Scripts para construções das faces de poliedros nos ambientes de Realidade Aumentada e Realidade Virtual: <a href="https://github.com/andreasplesch/aframe-faceset-component" target="_blank">https://github.com/andreasplesch/aframe-faceset-component</a>.</li>
+</ol>
