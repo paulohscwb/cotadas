@@ -10,6 +10,8 @@
 	top: 50%;
 }
 
+img{image-rendering: pixelated;}
+
 .visu{
 	line-height: 36px;
 }
@@ -64,10 +66,6 @@ details {
   padding: 3px;
   border-radius: 7px;
   width:100%;
-}
-
-.slider img{
-	min-width:100%;
 }
 
 .combo {
@@ -212,6 +210,7 @@ hr {
      visibility: hidden;
      transition: all .5s;
 	 overflow:hidden;
+	 min-width:100%;
  }
 
  .slider li input:checked ~ img  {

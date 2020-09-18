@@ -5506,6 +5506,72 @@
   <a href="superficies/curva2.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0100.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <p>Para traçar as Curvas de Nível vamos utilizar o método da triangularização e a interpolação linear. Acompanhe o procedimento.</p>
+	  <ul class="slider">
+		   <li>
+		   <input type="radio" id="700z" name="sl">
+			   <label for="700z"></label>
+			   <img src="aplicacoes/99_01.png" />
+			 <figcaption>Una os pontos dados formando quadriláteros.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="709z" name="sl">
+			   <label for="709z"></label>
+			   <img src="aplicacoes/100_02.png" />
+			 <figcaption>Em cada quadrilátero desenhe a diagonal com a maior diferença de cotas. Vamos agora obter pontos de cotas inteiras.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="710z" name="sl">
+			   <label for="710z"></label>
+			   <img src="aplicacoes/100_03.png" />
+			 <figcaption>O segmento possui extremidades de cotas 20,5m e 23,5m. Devemos obter pontos de cotas inteiras, ou seja, 21m, 22m e 23m. Vamos dividir esse segmento em partes proporcionais a 0,5u, 1u, 1u e 0,5u aplicando o Teorema de Tales. Encaixe a régua com a marcação de 20,5 no ponto da esquerda, trace um segmento auxiliar e faça marcações no 21, 22, 23 e 23,5cm.</figcaption>
+		   </li>	  
+		   <li>
+			   <input type="radio" id="711z" name="sl">
+			   <label for="711z"></label>
+			   <img src="aplicacoes/100_04.png" />
+			 <figcaption>Una o último ponto marcado à extremidade da direita do segmento e pelos demais trace paralelas a esse segmento, obtendo os pontos de cotas inteiras 21m, 22m e 23m.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="712z" name="sl">
+			   <label for="712z"></label>
+			   <img src="aplicacoes/100_05.png" />
+			 <figcaption>Esse segmento possui extremidades de cotas 23,8m e 26,2m. Devemos obter pontos de cotas inteiras, ou seja, 24m, 25m e 26m.Vamos dividir esse segmento em partes proporcionais a 0,2u, 1u, 1u e 0,2u aplicando o Teorema de Tales. Encaixe a régua com a marcação de 23,8 no ponto da esquerda, trace um segmento auxiliar e faça marcações no 24, 25, 26 e 26,2cm.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="713" name="sl">
+			   <label for="713z"></label>
+			   <img src="aplicacoes/100_06.png" />
+			 <figcaption>Una o último ponto marcado à extremidade da direita do segmento e pelos demais trace paralelas a esse segmento, obtendo os pontos de cotas inteiras 24m, 25m e 26m.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="714z" name="sl">
+			   <label for="714z"></label>
+			   <img src="aplicacoes/100_07.png" />
+			 <figcaption>Divida os demais segmentos da triangularização obtendo pontos de cotas inteiras seguindo o procedimento anterior.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="715z" name="sl">
+			   <label for="715z"></label>
+			   <img src="aplicacoes/100_08.png" />
+			 <figcaption>Inicie a construção das Curvas de Nível pela de cota 26m. Lembre-se de unir os pontos de mesma cota sempre observando os triângulos adjacentes.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="716z" name="sl">
+			   <label for="716z"></label>
+			   <img src="aplicacoes/100_09.png" />
+			 <figcaption>Para a Curva de Nível de cota 21m, note que na diagonal do quadrilátero inferior da direita não temos pontos de cota 21 e portanto a Curva de Nível não corta essa linha.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="717z" name="sl">
+			   <label for="717z"></label>
+			   <img src="aplicacoes/100_10.png" />
+			 <figcaption>Finalmente construa a Curva de Nível de cota 20m. Pronto! A superfície está representada pelas suas Curvas de Nível!</figcaption>
+		   </li>
+		</ul>
+		<img src="aplicacoes/100_00.png" class="fundo" />
+	</details>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0101.png" />
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
@@ -5675,6 +5741,11 @@
 	  </details></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0110.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	  <p>Repetir os passos do exercício anterior. A diferença nesse exercício é que ao invés de inclinação é dada a declividade. Lembre-se que o intervalo é o inverso da declividade, assim se a declividade é 2/3, o intervalo é 3/2, ou seja o intervalo é 1.5.</p>
+	  <img src="aplicacoes/110_01_00.png" />
+	  <figcaption></figcaption>
+	  </details></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0111.png" />
   <div class="combo"><figcaption>Use o link abaixo para visualizar em 3D dos cortes de um terreno para construção de uma estrada</figcaption>
