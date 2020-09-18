@@ -5512,7 +5512,7 @@
 		   <li>
 		   <input type="radio" id="700az" name="sl">
 			   <label for="700az"></label>
-			   <img src="aplicacoes/99_01.png" />
+			   <img src="aplicacoes/100_01.png" />
 			 <figcaption>Una os pontos dados formando quadriláteros.</figcaption>
 		   </li>
 		   <li>
