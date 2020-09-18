@@ -5510,8 +5510,8 @@
 	  <p>Para traçar as Curvas de Nível vamos utilizar o método da triangularização e a interpolação linear. Acompanhe o procedimento.</p>
 	  <ul class="slider">
 		   <li>
-		   <input type="radio" id="700z" name="sl">
-			   <label for="700z"></label>
+		   <input type="radio" id="700az" name="sl">
+			   <label for="700az"></label>
 			   <img src="aplicacoes/99_01.png" />
 			 <figcaption>Una os pontos dados formando quadriláteros.</figcaption>
 		   </li>
