@@ -5918,7 +5918,7 @@
 <p>O acesso aos sites de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.</p>
 <p align="center"><img src="https://paulohscwb.github.io/cotadas/vr/exemplo.jpg" width="80%"></p>
 
-<p><br><b>Referências:</b></p>
+<h4>Referências:</h4>
 <ol>
 	<li>Etienne, J. <i>AR.js - Augmented Reality for the Web - Scripts do ambiente de Realidade Aumentada:</i> <a href="https://github.com/jeromeetienne/AR.js" target="blank">https://github.com/jeromeetienne/AR.js</a>.</li>
 	<li>Ngo, K. <i>Orbit controls for A-Frame - Scripts de controle de órbita nas páginas programadas com Realidade Virtual:</i> <a href="https://github.com/supermedium/superframe/tree/master/components/orbit-controls/" target="_blank"> https://github.com/supermedium/superframe/tree/master/components/orbit-controls/</a>.</li>
