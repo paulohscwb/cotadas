@@ -5901,15 +5901,15 @@
 </details>
 
 <br>
-<p><b>site desenvolvido por:</b></p> 
+<h4>site desenvolvido por:</h4> 
 <p>Paulo Henrique Siqueira</p>  
-<p><b>construções geométricas feitas pelos professores do Grupo de Estudos em Expressão Gráfica (GEEGRAF) da Universidade Federal do Paraná (UFPR):</b></p> 
+<h4>construções geométricas feitas pelos professores do Grupo de Estudos em Expressão Gráfica (GEEGRAF) da Universidade Federal do Paraná (UFPR):</h4> 
 <p>Deise Maria Bertholdi Costa</p> 
 <p>Emerson Rolkouski</p> 
 <p>Luzia Vidal de Souza</p> 
 <p>Paulo Henrique Siqueira</p> 
 <p>Simone da Silva Soria Medina</p> 
-<p><b>Objetos 3D programados em RA e RV:</b></p> 
+<h4>Objetos 3D programados em RA e RV:</h4> 
 <p>Paulo Henrique Siqueira</p> 
 <p><b>contato:</b> paulohscwb@gmail.com </p> 
 <p>Para ver os objetos em Realidade Aumentada, visite o site:</p> 
