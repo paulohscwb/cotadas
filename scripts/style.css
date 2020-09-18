@@ -98,8 +98,13 @@ h4 {
 h3 {
   font-size: 19px;
 }
-p, ol li {
+
+p {
   font-size: 14px;
+}
+
+ol li {
+  font-size: 15px;
 }
 
 a {
