@@ -5951,7 +5951,7 @@
 </details>
 
 <br>
-<h4>site desenvolvido por:</h4> 
+<h4>página desenvolvida por:</h4> 
 <p>Paulo Henrique Siqueira</p>  
 <h4>construções geométricas feitas pelos professores do Grupo de Estudos em Expressão Gráfica (GEEGRAF) da Universidade Federal do Paraná (UFPR):</h4> 
 <p>Deise Maria Bertholdi Costa</p> 
