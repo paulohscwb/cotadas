@@ -5610,7 +5610,7 @@
 			 <figcaption>Analogamente marcamos a cota correspondente do ponto D, que estimando é em torno de 25m.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="723" name="sl">
+			   <input type="radio" id="723z" name="sl">
 			   <label for="723z"></label>
 			   <img src="aplicacoes/102_06.png" />
 			 <figcaption>Basta agora unir os pontos obtidos que são adjacentes definindo o Perfil Topográfico.</figcaption>
