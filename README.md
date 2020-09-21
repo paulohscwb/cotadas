@@ -5704,7 +5704,36 @@
 	  <figcaption></figcaption>
 	  </details></div>
 	  <img src="aplicacoes/Cotadas_2020_0106a.png" />
-  <div class="combo"><figcaption>Use o link abaixo para visualizar em 3D da seção plana de um terreno</figcaption>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <p>Resolução semelhante ao exercício anterior. Observe que as curvas de nível estão desenhadas de 20 em 20, assim devemos encontrar o intervalo de cota 20.</p>
+	  <ul class="slider">
+		   <li>
+		   <input type="radio" id="700a1" name="sl">
+			   <label for="700a1"></label>
+			   <img src="aplicacoes/106_02_01.png" />
+			 <figcaption>Dividir o segmento de 0 a 100 em 5 partes para obter cotas de 20 em 20. Usamos Tales.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="701a1" name="sl">
+			   <label for="701a1"></label>
+			   <img src="aplicacoes/106_02_02.png" />
+			 <figcaption>Obtido o intervalo, marcamos os pontos de cotas: 120, 140, 160 e assim por diante.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="702a1" name="sl">
+			   <label for="702a1"></label>
+			   <img src="aplicacoes/106_02_03.png" />
+			 <figcaption>Traçamos as retas horizontais e encontramos as respectivas interseções com as curvas de nível correspondentes. </figcaption>
+		   </li>	  
+		   <li>
+			   <input type="radio" id="703a1" name="sl">
+			   <label for="703a1"></label>
+			   <img src="aplicacoes/106_02_04.png" />
+			 <figcaption>E assim sucessivamente, até encontrar todas as interseções e traçar a linha de offset. Veja a superfície em 3D com o link abaixo para ajudar a visualização desta construção.</figcaption>
+		   </li>
+		</ul>
+		<img src="aplicacoes/106_02_00.png" class="fundo" />
+	</details>
   <a href="superficies/curva10.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0107.png" />
