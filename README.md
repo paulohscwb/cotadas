@@ -5622,7 +5622,7 @@
   <img src="aplicacoes/Cotadas_2020_0103.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	  <p>Para obtermos o perfil topográfico devemos encontrar os pontos comuns da superfície natural do terreno com o plano de corte vertical. Siga o procedimento como no exercício anterior.</p>
-	  <img src="aplicacoes/103_00.png" />
+	  <img src="aplicacoes/103_01.png" />
 	  <figcaption></figcaption>
 	  </details>
   <a href="superficies/curva3.html" target="_blank" class="visu">Visualização em 3D</a></div>
@@ -5630,7 +5630,7 @@
   <img src="aplicacoes/Cotadas_2020_0104.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	  <p>Para obtermos o perfil topográfico devemos encontrar os pontos comuns da superfície natural do terreno com o plano de corte vertical. Siga o procedimento como no exercício anterior.</p>
-	  <img src="aplicacoes/104_00.png" />
+	  <img src="aplicacoes/104_01.png" />
 	  <figcaption></figcaption>
 	  </details>
   <a href="superficies/curva9.html" target="_blank" class="visu">Visualização em 3D</a></div>
