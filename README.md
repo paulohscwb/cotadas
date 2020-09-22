@@ -5451,9 +5451,47 @@
 
 <details style="border-bottom: 1px solid #a2dec0;">
   <summary id="superficies">Superfícies Topográficas: pág. 96-114</summary>
-  <p>Para ver as superfícies topográficas em Realidade Aumentada, visite o site:</p>
-  <p align="center"><a href="https://paulohscwb.github.io/cotadas/superficies.html"> https://paulohscwb.github.io/cotadas/superficies.html</a></p>
   <img src="aplicacoes/Cotadas_2020_0096.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f453; Realidade Aumentada</summary>
+		<p>Você pode acessar os recursos de Realidade Aumentada das representações das superfícies topográficas usando o seguinte endereço:</p>
+		<p align="center"><a href="https://paulohscwb.github.io/cotadas/superficies.html" target="_blank"> https://paulohscwb.github.io/cotadas/superficies.html</a></p>
+		<p>Veja o passo a passo para acessar estes recursos</p>
+		  <ul class="slider">
+		   <li>
+			   <input type="radio" id="a20" name="sl">
+			   <label for="a20"></label>
+			   <img src="dg/00_00_01.png" />
+			   <figcaption>Os ambientes podem ser acessados em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook). Dê preferência aos navegadores GOOGLE CHROME e MOZILLA FIREFOX.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="a21" name="sl">
+			   <label for="a21"></label>
+			   <img src="dg/00_00_02.jpg" />
+			   <figcaption>Acesse a página <a href="https://paulohscwb.github.io/cotadas/superficies.html" target="_blank"> https://paulohscwb.github.io/cotadas/superficies.html</a>. Na primeira vez que acessar, o dispositivo pedirá a permissão para acesso à câmera para leitura dos QR Codes. Libere o acesso e aponte a câmera para um dos QR Codes impressos da apostila.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="a22" name="sl">
+			   <label for="a22"></label>
+			   <img src="dg/00_00_05.jpg" />
+			   <figcaption>As superfícies topográficas em 3D aparecerão por cima das representações da apostila. Você pode usá-las para conferir as construções ou apenas visualizar as superfícies em 3D. Ao clicar sobre os círculos azuis que aparecem sobre os QR codes, você tem acesso às superfícies programadas em Realidade Virtual.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="a23" name="sl">
+			   <label for="a23"></label>
+			   <img src="dg/00_00_06.png" />
+			   <figcaption>Os objetos em Realidade Virtual podem ser manipulados, ajudando a compreensão dos nossos estudos de projeções.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="a24" name="sl">
+			   <label for="a24"></label>
+			   <div class="embed-container">
+				 <iframe src="https://drive.google.com/file/d/1Tg2c6pOoDNESEAvl9kvXgRGv81D-U0Kw/preview" width="100%"></iframe>
+			   </div>
+			   <figcaption>Veja o vídeo de demonstração do uso destes recursos.</figcaption>
+		   </li>
+		</ul>
+		<img src="prop/00_00_04.png" class="fundo" style="visibility:hidden;"/>	
+	  </details></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0097.png" />
   <div class="combo"><figcaption>Use o link abaixo para visualizar em 3D uma superfície topográfica com suas respectivas curvas de nível</figcaption>
