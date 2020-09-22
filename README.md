@@ -1622,13 +1622,13 @@
 		   <li>
 			   <input type="radio" id="a01" name="sl">
 			   <label for="a01"></label>
-			   <img src="dg/00_00_02.png" />
+			   <img src="dg/00_00_02.jpg" />
 			   <figcaption>Acesse a página <a href="https://paulohscwb.github.io/cotadas/ra.html"> https://paulohscwb.github.io/cotadas/ra.html</a>. Na primeira vez que acessar, o dispositivo pedirá a permissão para acesso à câmera para leitura dos QR Codes. Libere o acesso e aponte a câmera para um dos QR Codes impressos da apostila.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="a02" name="sl">
 			   <label for="a02"></label>
-			   <img src="dg/00_00_03.png" />
+			   <img src="dg/00_00_03.jpg" />
 			   <figcaption>Os objetos 3D aparecerão por cima das coordenadas da apostila. Você pode usá-los para conferir as construções ou apenas visualizá-las em 3D. Ao clicar sobre os círculos azuis que aparecem sobre os QR codes, você tem acesso aos objetos programados em Realidade Virtual.</figcaption>
 		   </li>
 		   <li>
