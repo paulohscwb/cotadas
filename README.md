@@ -1629,7 +1629,7 @@
 			   <input type="radio" id="a02" name="sl">
 			   <label for="a02"></label>
 			   <img src="dg/00_00_03.jpg" />
-			   <figcaption>Os objetos 3D aparecerão por cima das coordenadas da apostila. Você pode usá-los para conferir as construções ou apenas visualizá-las em 3D. Ao clicar sobre os círculos azuis que aparecem sobre os QR codes, você tem acesso aos objetos programados em Realidade Virtual.</figcaption>
+			   <figcaption>Os objetos 3D aparecerão por cima das coordenadas da apostila. Você pode usá-los para conferir as construções ou apenas visualizar os objetos em 3D. Ao clicar sobre os círculos azuis que aparecem sobre os QR codes, você tem acesso aos objetos programados em Realidade Virtual.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="a03" name="sl">
@@ -4448,9 +4448,47 @@
 
 <details>
   <summary id="telhados">Representações de telhados: pág. 78-95</summary>
-  <p>Para ver os telhados em Realidade Aumentada, acesse o site:</p>
-  <p align="center"><a href="https://paulohscwb.github.io/cotadas/telhados.html"> https://paulohscwb.github.io/cotadas/telhados.html</a></p>
   <img src="aplicacoes/Cotadas_2020_0078.png" />
+  <div class="combo"><details class="sub"><summary>&#x1f453; Realidade Aumentada</summary>
+		<p>Você pode acessar os recursos de Realidade Aumentada das representações dos telhados usando o seguinte endereço:</p>
+		<p align="center"><a href="https://paulohscwb.github.io/cotadas/telhados.html" target="_blank"> https://paulohscwb.github.io/cotadas/telhados.html</a></p>
+		<p>Veja o passo a passo para acessar estes recursos</p>
+		  <ul class="slider">
+		   <li>
+			   <input type="radio" id="a10" name="sl">
+			   <label for="a10"></label>
+			   <img src="dg/00_00_01.png" />
+			   <figcaption>Os ambientes podem ser acessados em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook). Dê preferência aos navegadores GOOGLE CHROME e MOZILLA FIREFOX.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="a11" name="sl">
+			   <label for="a11"></label>
+			   <img src="dg/00_00_02.jpg" />
+			   <figcaption>Acesse a página <a href="https://paulohscwb.github.io/cotadas/telhados.html" target="_blank"> https://paulohscwb.github.io/cotadas/telhados.html</a>. Na primeira vez que acessar, o dispositivo pedirá a permissão para acesso à câmera para leitura dos QR Codes. Libere o acesso e aponte a câmera para um dos QR Codes impressos da apostila.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="a12" name="sl">
+			   <label for="a12"></label>
+			   <img src="dg/00_00_05.jpg" />
+			   <figcaption>Os telhados em 3D aparecerão por cima das representações da apostila. Você pode usá-los para conferir as construções ou apenas visualizar os telhados em 3D. Ao clicar sobre os círculos azuis que aparecem sobre os QR codes, você tem acesso aos telhados programados em Realidade Virtual.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="a13" name="sl">
+			   <label for="a13"></label>
+			   <img src="dg/00_00_06.png" />
+			   <figcaption>Os objetos em Realidade Virtual podem ser manipulados, ajudando a compreensão dos nossos estudos de projeções.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="a14" name="sl">
+			   <label for="a14"></label>
+			   <div class="embed-container">
+				 <iframe src="https://drive.google.com/file/d/1Tg2c6pOoDNESEAvl9kvXgRGv81D-U0Kw/preview" width="100%"></iframe>
+			   </div>
+			   <figcaption>Veja o vídeo de demonstração do uso destes recursos.</figcaption>
+		   </li>
+		</ul>
+		<img src="prop/00_00_04.png" class="fundo" style="visibility:hidden;"/>	
+	  </details></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0079.png" />
   <div class="combo"><figcaption>Use o link abaixo para visualizar em 3D os elementos de um telhado</figcaption>
