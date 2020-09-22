@@ -60,9 +60,6 @@ summary {
   margin-bottom:8px;
   text-shadow: 1px 1px 1px rgb(227,243,235);
 }
-summary::marker {
-  display: block;
-}
 
 details {
   border: 1px solid #a2dec0;
