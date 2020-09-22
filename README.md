@@ -1610,7 +1610,7 @@
 	<br><a href="vr/p1a_orto.html" target="_blank" class="visu">Visualização em 3D: projeção <b>ortogonal</b></a>
 	  <details class="sub"><summary>&#x1f453; Realidade Aumentada e Realidade Virtual</summary>
 		<p>Esta apostila tem recursos programados em Realidade Aumentada e Realidade Virtal. Você pode acessar estes recursos usando o seguinte endereço:</p>
-		<p align="center"><a href="https://paulohscwb.github.io/cotadas/ra.html"> https://paulohscwb.github.io/cotadas/ra.html</a></p>
+		<p align="center"><a href="https://paulohscwb.github.io/cotadas/ra.html" target="_blank"> https://paulohscwb.github.io/cotadas/ra.html</a></p>
 		<p>Veja o passo a passo para acessar estes recursos</p>
 		  <ul class="slider">
 		   <li>
@@ -1623,7 +1623,7 @@
 			   <input type="radio" id="a01" name="sl">
 			   <label for="a01"></label>
 			   <img src="dg/00_00_02.jpg" />
-			   <figcaption>Acesse a página <a href="https://paulohscwb.github.io/cotadas/ra.html"> https://paulohscwb.github.io/cotadas/ra.html</a>. Na primeira vez que acessar, o dispositivo pedirá a permissão para acesso à câmera para leitura dos QR Codes. Libere o acesso e aponte a câmera para um dos QR Codes impressos da apostila.</figcaption>
+			   <figcaption>Acesse a página <a href="https://paulohscwb.github.io/cotadas/ra.html" target="_blank"> https://paulohscwb.github.io/cotadas/ra.html</a>. Na primeira vez que acessar, o dispositivo pedirá a permissão para acesso à câmera para leitura dos QR Codes. Libere o acesso e aponte a câmera para um dos QR Codes impressos da apostila.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="a02" name="sl">
