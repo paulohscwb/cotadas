@@ -1646,7 +1646,7 @@
 			   <figcaption>Veja o vídeo de demonstração do uso destes recursos.</figcaption>
 		   </li>
 		</ul>
-		<img src="prop/00_00_04.png" class="fundo" style="visibility:hidden;"/>	
+		<img src="dg/00_00_04.png" class="fundo" style="visibility:hidden;"/>	
 	  </details></div>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 	<img src="prop/Cotadas_2020_0016.png" />  
@@ -4487,7 +4487,7 @@
 			   <figcaption>Veja o vídeo de demonstração do uso destes recursos.</figcaption>
 		   </li>
 		</ul>
-		<img src="prop/00_00_04.png" class="fundo" style="visibility:hidden;"/>	
+		<img src="dg/00_00_04.png" class="fundo" style="visibility:hidden;"/>	
 	  </details></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0079.png" />
@@ -5490,7 +5490,7 @@
 			   <figcaption>Veja o vídeo de demonstração do uso destes recursos.</figcaption>
 		   </li>
 		</ul>
-		<img src="prop/00_00_04.png" class="fundo" style="visibility:hidden;"/>	
+		<img src="dg/00_00_04.png" class="fundo" style="visibility:hidden;"/>	
 	  </details></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0097.png" />
@@ -6097,7 +6097,7 @@
 <p>Paulo Henrique Siqueira</p> 
 <p><b>contato:</b> paulohscwb@gmail.com </p> 
 <p>Para ver os objetos em Realidade Aumentada, visite o site:</p> 
-<p align="center"><a href="https://paulohscwb.github.io/cotadas/ra.html"> https://paulohscwb.github.io/cotadas/ra.html</a></p> 
+<p align="center"><a href="https://paulohscwb.github.io/cotadas/ra.html" target="_blank"> https://paulohscwb.github.io/cotadas/ra.html</a></p> 
 <p>em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).</p>
 <p>O acesso aos sites de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.</p>
 <p align="center"><img src="https://paulohscwb.github.io/cotadas/vr/exemplo.jpg" width="80%"></p>
