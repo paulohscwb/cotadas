@@ -5472,13 +5472,13 @@
 		   <li>
 			   <input type="radio" id="a22" name="sl">
 			   <label for="a22"></label>
-			   <img src="dg/00_00_05.jpg" />
+			   <img src="dg/00_00_07.jpg" />
 			   <figcaption>As superfícies topográficas em 3D aparecerão por cima das representações da apostila. Você pode usá-las para conferir as construções ou apenas visualizar as superfícies em 3D. Ao clicar sobre os círculos azuis que aparecem sobre os QR codes, você tem acesso às superfícies programadas em Realidade Virtual.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="a23" name="sl">
 			   <label for="a23"></label>
-			   <img src="dg/00_00_06.png" />
+			   <img src="dg/00_00_08.png" />
 			   <figcaption>Os objetos em Realidade Virtual podem ser manipulados, ajudando a compreensão dos nossos estudos de projeções.</figcaption>
 		   </li>
 		   <li>
