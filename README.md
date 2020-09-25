@@ -6102,6 +6102,8 @@
 <p>O acesso às páginas de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.</p>
 <p align="center"><img src="https://paulohscwb.github.io/cotadas/vr/exemplo.jpg" width="80%"></p>
 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Este trabalho está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons - Atribuição-NãoComercial 4.0 Internacional</a>.
+
 <h4>Referências:</h4>
 <ol>
 	<li>Etienne, J. <i>AR.js - Augmented Reality for the Web - Scripts do ambiente de Realidade Aumentada:</i> <a href="https://github.com/jeromeetienne/AR.js" target="blank">https://github.com/jeromeetienne/AR.js</a>.</li>
