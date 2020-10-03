@@ -65,7 +65,7 @@ details {
   border-bottom: none;
   padding: 3px;
   border-radius: 7px;
-  width:100.7%;
+  width:100%;
 }
 
 .combo {
@@ -79,6 +79,7 @@ details {
   border: none;
   padding: 3px;
   position:relative;
+  width:100.7%;
 }
 
 .sub summary{
