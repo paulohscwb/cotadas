@@ -45,11 +45,10 @@ li > figcaption {
   color: color: rgb(21,153,87); /*#606060;*/
   background: white; /*rgb(227,243,235);*/
   padding: 5px;
-  border-radius: 7px;
   font-size: 14px;
   position: relative;
   height:auto;
-  box-shadow: 1px 1px 3px LightGray;
+  box-shadow: 1px -1px 1px rgb(227,243,235);
   margin-bottom: 5px;
 }
 summary {
