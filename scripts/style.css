@@ -38,6 +38,7 @@ figcaption {
   color: rgb(21,153,87);
   margin: 5px 0 5px 0;
   display:block;
+  width:100%;
 }
 
 li > figcaption {
