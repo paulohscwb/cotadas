@@ -33,7 +33,7 @@ img{image-rendering: auto;}
 }
 
 figcaption {
-  padding: 5px;
+  padding: 5px 0 5px 0;
   font-size: 14px;
   color: rgb(21,153,87);
   margin: 5px 0 5px 0;
@@ -44,7 +44,7 @@ li > figcaption {
   top: 0px;
   color: color: rgb(21,153,87); /*#606060;*/
   background: white; /*rgb(227,243,235);*/
-  padding: 5px;
+  padding: 5px 0 5px 0;
   font-size: 14px;
   position: relative;
   height:auto;
@@ -89,6 +89,8 @@ details {
   margin-left:0px;
   text-shadow: 1px 1px 1px rgb(227,243,235);
 }
+
+.sub p {color: rgb(21,153,87);}
 
 h4 {
   font-size: 15px;
