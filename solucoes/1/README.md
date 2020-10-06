@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="../../scripts/style.css">
 
 <h2 id="inicio">Respostas do Módulo 1. Desenho Geométrico</h2> 
-  <details open><summary>Atividade 1: exercício 12 da pág. 5</summary>
+  <details open style="border-bottom: 1px solid #a2dec0;"><summary>Atividade 1: exercício 12 da pág. 5</summary>
   <img src="../../dg/Cotadas_2020_0005b.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para obter o Incentro <b>I</b> do triângulo precisamos construir as bissetrizes internas do mesmo. Veja como resolver o exercício.</p>

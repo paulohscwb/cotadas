@@ -7,7 +7,7 @@
 
 <details>
   <summary id="desenho">1. Desenho Geométrico</summary>
-   <p>Material da página 1 até a página 10</p>
+   <p>Material da página 1 até a página 10.</p>
    <img src="dg/Cotadas_2020_0001.png" />  
    <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; resolução: 1&deg; segmento</summary>
 	<p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
@@ -1489,7 +1489,8 @@
 </details>
 
 <details>
-  <summary id="propriedades">Propriedades das projeções cilíndricas: pág. 11-25</summary>
+  <summary id="propriedades">2.1. Propriedades das projeções cilíndricas</summary>
+	<p>Material da página 11 até a página 25.</p>
 	<p>Leia o conteúdo das páginas 11, 12 e 13 da apostila. Agora vamos começar a trabalhar com as projeções de objetos e figuras em um plano <b>&pi;'</b>.</p> 	
 	<img src="prop/Cotadas_2020_0011.png" />
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
@@ -1985,11 +1986,7 @@
   </details>
   <a href="vr/p_ex5c_hexagono.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <img src="prop/Cotadas_2020_0021a.png" />
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-  <p> Você pode usar as mesmas propriedades que usamos no exercício 5.</p>
-    <img src="prop/21_06_00.png"/>
-	<figcaption>Encontre a projeção do centro da circunferência em cada item. Lembre-se das propriedades do hexágono regular.</figcaption>
-  </details></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1</span></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/Cotadas_2020_0022.png" />
   <div class="combo"><figcaption>Os segmentos oblíquos ao plano de projeções <b>&pi;'</b> são projetados com tamanho reduzido, ou seja, <b>AB > A'B'</b></figcaption>
@@ -2155,11 +2152,7 @@
 	<img src="prop/24_01_00.png" class="fundo" />
   </details></div>
   <img src="prop/Cotadas_2020_0024a.png" />
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-  <p> Você pode utilizar o compasso e os esquadros para resolver este exercício. Lembre-se das propriedades de projeções cilíndricas 2 e 3.</p>
-	<img src="prop/24_02_00.png">
-	<figcaption>Tente encontrar o centro da circunferência da base dos vertices <b>A'</b> e <b>B'</b>. Use as propriedades do hexágono regular.</figcaption>
-  </details></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2</span></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/Cotadas_2020_0025.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
@@ -2171,7 +2164,8 @@
 </details>
 
 <details>
-  <summary id="pontos">Pontos e segmentos em épura: pág. 26-43</summary>
+  <summary id="pontos">2.2. Pontos e segmentos em épura</summary>
+	<p>Material da página 26 até a página 32.</p>
 	<img src="cotadas/Cotadas_2020_0026.png" />
 	<div class="combo"><figcaption>Para representar um ponto em épura, basta marcar as coordenadas x(abscissa), y(ordenada) e indicar o valor da cota <b>a</b> do ponto. Use o link abaixo para visualizar em 3D.</figcaption>
 	<a href="vr/rep_ponto.html" target="_blank" class="visu">Visualização em 3D</a></div>
@@ -2383,10 +2377,7 @@
 	</details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0032.png" />
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<p>Solução do item c</p>
-		<img src="cotadas/32_01_00.png" class="fundo" />
-	</details></div>
+	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3</span></div>
 	<img src="cotadas/Cotadas_2020_0032a.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p>Solução do item d</p>
@@ -2417,6 +2408,11 @@
 		<img src="cotadas/32_03_00.png" class="fundo" />
 	</details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
+</details>
+
+<details>
+  <summary id="retas">3. Retas e planos</summary>
+	<p>Material da página 33 até a página 62.</p>  
 	<img src="cotadas/Cotadas_2020_0033.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>As retas podem assumir três diferentes posições com relação ao plano de projeção <b>&pi;’</b>. A primeira reta que iremos estudar é a reta vertical. </p>
@@ -2848,10 +2844,6 @@
 		<img src="cotadas/43_03_00.png" class="fundo" />
 	</details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-</details>
-
-<details>
-  <summary id="retas">Retas e planos: pág. 44-62</summary>
 	<img src="cotadas/Cotadas_2020_0044.png" />
 	<div class="combo"><figcaption>Duas retas quaisquer <b>r</b> e <b>s</b> são paralelas quando suas projeções <b>r'</b> e <b>s'</b> são paralelas, e as graduações destas retas crescem no mesmo sentido. Use o link abaixo para visualizar esta propriedade em 3D.</figcaption>
 	<a href="vr/44_paralelas.html" target="_blank" class="visu">Visualização em 3D do 1&deg; exemplo</a>
