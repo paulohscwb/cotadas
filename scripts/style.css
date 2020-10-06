@@ -32,6 +32,8 @@ img{image-rendering: auto;}
 	line-height: 34px;
 }
 
+.atv{font-size:15px; color: crimson; font-weight:bold;}
+
 figcaption {
   padding: 5px 0 5px 0;
   font-size: 14px;

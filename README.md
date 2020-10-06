@@ -6,7 +6,8 @@
 <p>Os objetos programados em 3D podem ser visualizados em Realidade Virtual (RV) e Realidade Aumentada (RA). As propriedades de projeções, os sólidos e as maquetes podem ser vistos em RA com os marcadores indicados, e através dos links criados nos marcadores, os objetos podem ser vistos em RV.</p>
 
 <details>
-  <summary id="desenho">Desenho Geométrico: pág. 1-10</summary>
+  <summary id="desenho">1. Desenho Geométrico</summary>
+   <p>Material da página 1 até a página 10</p>
    <img src="dg/Cotadas_2020_0001.png" />  
    <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; resolução: 1&deg; segmento</summary>
 	<p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
