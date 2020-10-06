@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="../../scripts/style.css">
 
 <h2 id="inicio">Respostas do Módulo 1. Desenho Geométrico</h2> 
-  <h4>Atividade 1: exercício 12 da pág. 5</h4>
+  <details open><summary>Atividade 1: exercício 12 da pág. 5</summary>
   <img src="../../dg/Cotadas_2020_0005b.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para obter o Incentro <b>I</b> do triângulo precisamos construir as bissetrizes internas do mesmo. Veja como resolver o exercício.</p>
@@ -38,8 +38,8 @@
        </li>
     </ul>
     <img src="../../dg/05_03_00.png" class="fundo" />
-  </details></div>
-  <h4>Atividade 2: exercício 15 d) da pág. 9</h4>
+  </details></div></details>
+  <details open><summary>Atividade 2: exercício 15 d) da pág. 9</summary>
   <img src="../../dg/Cotadas_2020_0009a.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos construir o hexágono regular de lado <b>l</b> dado! Lembra da construção do hexágono regular inscrito numa circunferência? Retorne à página 7 e reveja a construção! Nesse exercício usamos o raio da circunferência para marcar o lado do polígono! Vamos utilizar esse conceito agora!</p>
@@ -82,9 +82,9 @@
        </li>
     </ul>
     <img src="../../dg/09_02_00.png" class="fundo" />
-  </details></div>
+  </details></div></details>
   <img src="../../dg/Cotadas_2020_0010a.png" />
-  <h4>Atividade 3: exercício 18 da pág. 10</h4>
+  <details open><summary>Atividade 3: exercício 18 da pág. 10</summary>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Lembre-se que para que uma reta seja tangente à uma circunferência devemos ter que o ângulo formado entre o raio e a reta no ponto de tangência mede <b>90°</b>! Vamos à construção.</p>
   <ul class="slider">
@@ -102,6 +102,6 @@
        </li>
     </ul>
     <img src="../../dg/10_02_00.png" class="fundo" />
-  </details></div>
+  </details></div></details>
 
 
