@@ -47,11 +47,12 @@
 		<img src="../../aplicacoes/88_00.png" class="fundo" />
 	</details></div></details>
 	
-  <details open style="border-bottom: 1px solid #a2dec0;"><summary>Atividade 2: telhado novo</summary>
-  <img src="../../cotadas/Cotadas_2020_0072.png" />
+  <details open style="border-bottom: 1px solid #a2dec0;"><summary>Atividade 2: telhado com inclinações diferentes</summary>
+  <img src="../../cotadas/Cotadas_2020_0095a.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<img src="../../cotadas/72_01_00.png" />
-		<figcaption></figcaption>
+		<p>Usando as construções que fizemos nos exercícios anteriores, podemos encontrar as medidas indicadas neste exemplo.</p>
+		<img src="telhado47.png" />
+		<figcaption>Lembre-se de que devemos construir os intervalos de 45&deg; nos lados indicados.</figcaption>
 	</details></div></details>
 
 

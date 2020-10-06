@@ -9,7 +9,7 @@
 	  <figcaption></figcaption>
 	  </details></div></details>
 	
-  <details open style="border-bottom: 1px solid #a2dec0;"><summary>Atividade 2: telhado novo</summary>
+  <details open style="border-bottom: 1px solid #a2dec0;"><summary>Atividade 2: exercício da pág. 110</summary>
   <img src="../../aplicacoes/Cotadas_2020_0110.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	  <p>Repetir os passos do exercício anterior. A diferença nesse exercício é que ao invés de inclinação é dada a declividade. Lembre-se que o intervalo é o inverso da declividade, assim se a declividade é 2/3, o intervalo é 3/2, ou seja o intervalo é 1.5.</p>
