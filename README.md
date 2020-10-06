@@ -2411,8 +2411,8 @@
 </details>
 
 <details>
-  <summary id="retas">3. Retas e planos</summary>
-	<p>Material da página 33 até a página 62.</p>  
+  <summary id="retas">3. Representação de retas</summary>
+	<p>Material da página 33 até a página 51.</p>  
 	<img src="cotadas/Cotadas_2020_0033.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>As retas podem assumir três diferentes posições com relação ao plano de projeção <b>&pi;’</b>. A primeira reta que iremos estudar é a reta vertical. </p>
@@ -2725,41 +2725,7 @@
 	</details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0040.png" />
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	<ul class="slider">
-		   <li>
-			   <input type="radio" id="565" name="sl">
-			   <label for="565"></label>
-			   <img src="cotadas/40_01_01.png" />
-			<figcaption>Iniciamos marcando a projeção dos pontos <b>A</b> e <b>B</b>.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="566" name="sl">
-			   <label for="566"></label>
-			   <img src="cotadas/40_01_02.png" />
-			<figcaption>Traçamos duas perpendiculares por <b>A</b> e <b>B</b>, marcando 3 unidades a partir de <b>A</b> e 7,5 unidades a partir de <b>B</b>. Com isso temos os pontos <b>A’<sub>1</sub></b> e <b>B’<sub>1</sub></b>.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="567" name="sl">
-			   <label for="567"></label>
-			   <img src="cotadas/40_01_03.png" />
-			 <figcaption>Traçando-se uma perpendicular por <b>A’<sub>1</sub></b>, encontramos a inclinação da reta (ângulo <b>&theta;</b>).</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="568" name="sl">
-			   <label for="568"></label>
-			   <img src="cotadas/40_01_04.png" />
-			 <figcaption>A partir de <b>B’<sub>1</sub></b>, marcamos uma unidade, indicando <b>dV=1</b>, com isso construímos o triângulo conforme a figura e encontramos o intervalo <b>Ir</b>, conforme o indicado.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="569" name="sl">
-			   <label for="569"></label>
-			   <img src="cotadas/40_01_05.png" />
-			 <figcaption>De acordo com a teoria, temos a declividade, a inclinação e o coeficiente de redução.</figcaption>
-		   </li>
-		</ul>
-		<img src="cotadas/40_01_00.png" class="fundo" />
-	</details></div>
+	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1</span></div>
 	<img src="cotadas/Cotadas_2020_0040a.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<ul class="slider">
@@ -2839,10 +2805,7 @@
 		<img src="cotadas/43_02_00.png" class="fundo" />
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0043b.png" />
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<p>Como os pontos possuem cotas inteiras, pode-se encontrar o ponto médio de <b>GH</b>, e, com isso obter o ponto <b>I</b> de cota 3. O ponto médio de <b>I</b> e <b>H</b>, resulta no ponto <b>J</b> de cota 2,5. A distância <b>HJ</b> é usada para encontrar o ponto <b>P</b> de cota 1,5.</p>
-		<img src="cotadas/43_03_00.png" class="fundo" />
-	</details></div>
+	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2</span></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0044.png" />
 	<div class="combo"><figcaption>Duas retas quaisquer <b>r</b> e <b>s</b> são paralelas quando suas projeções <b>r'</b> e <b>s'</b> são paralelas, e as graduações destas retas crescem no mesmo sentido. Use o link abaixo para visualizar esta propriedade em 3D.</figcaption>
@@ -3157,12 +3120,13 @@
 		<figcaption>Ao traçar a perpendicular à reta rebatida, <b>r'<sub>1</sub></b>, pelo ponto <b>B'<sub>1</sub></b>, obtemos 3 intervalos da reta <b>s</b>, que chamamos de <b>3I<sub>s</sub></b>. Quando transportamos esse intervalo para a reta <b>s</b>, devemos lembrar que em retas ortogonais, as cotas crescem em sentidos opostos.</figcaption>
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0051b.png" />
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<p>Como os planos projetantes das retas são paralelos, então suas projeções são paralelas, ou seja, <b>r'</b> é paralela a <b>s'</b>. Observe que a diferença de cotas entre os pontos <b>A</b> e <b>B</b>, é de 4 unidades de cota, assim, ao rebater o ponto <b>B</b>, marcamos 4 unidades de cota (3cm) e o segmento entre <b>A'</b> e <b>B'</b> representa 4 intervalos da reta <b>r</b>, que chamamos de <b>4I<sub>r</sub></b>, obtendo o ponto <b>B'<sub>1</sub></b>.</p> 
-		<img src="cotadas/51_03_00.png" />
-		<figcaption>Ao traçar a perpendicular à reta rebatida, <b>r'<sub>1</sub></b>, pelo ponto <b>B'<sub>1</sub></b>, obtemos 4 intervalos da reta <b>s</b>, que chamamos de <b>4I<sub>s</sub></b>. Quando transportamos esse intervalo para a reta <b>s</b>, devemos lembrar que em retas ortogonais, as cotas crescem em sentidos opostos.</figcaption>
-	</details></div>
+	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3</span></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
+</details>
+
+<details>
+  <summary id="rebatimento">4. Representação de planos</summary>
+	<p>Material da página 52 até a página 71.</p>
 	<img src="cotadas/Cotadas_2020_0052.png" />
 	<div class="combo"><figcaption>Use o link abaixo para visualizar em 3D as representações de um plano <b>&alpha;(A,B,C)</b> por 3 pontos não colineares, <b>&alpha;(r,C)</b> por um ponto e uma reta que não se pertencem, <b>&alpha;(r,s)</b> por duas retas concorrentes ou <b>&alpha;(s,t)</b> por duas retas paralelas.</figcaption>
 	<a href="vr/53_rep_planos.html" target="_blank" class="visu">Visualização em 3D</a></div>

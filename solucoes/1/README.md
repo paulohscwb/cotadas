@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="../../scripts/style.css">
 
 <h2 id="inicio">Respostas do Módulo 1. Desenho Geométrico</h2> 
-  <details open style="border-bottom: 1px solid #a2dec0;"><summary>Atividade 1: exercício 12 da pág. 5</summary>
+  <details open><summary>Atividade 1: exercício 12 da pág. 5</summary>
   <img src="../../dg/Cotadas_2020_0005b.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para obter o Incentro <b>I</b> do triângulo precisamos construir as bissetrizes internas do mesmo. Veja como resolver o exercício.</p>
@@ -83,7 +83,7 @@
     </ul>
     <img src="../../dg/09_02_00.png" class="fundo" />
   </details></div></details>
-  <details open><summary>Atividade 3: exercício 18 da pág. 10</summary>
+  <details open style="border-bottom: 1px solid #a2dec0;"><summary>Atividade 3: exercício 18 da pág. 10</summary>
   <img src="../../dg/Cotadas_2020_0010a.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Lembre-se que para que uma reta seja tangente à uma circunferência devemos ter que o ângulo formado entre o raio e a reta no ponto de tangência mede <b>90°</b>! Vamos à construção.</p>
