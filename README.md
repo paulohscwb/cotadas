@@ -4996,7 +4996,7 @@
 			   <input type="radio" id="670n" name="sl">
 			   <label for="670n"></label>
 			   <img src="aplicacoes/89_06.png" />
-			 <figcaption>Represente as calhas nos rincões <b>(gh)</b> e <b>(bc)<b/>, e indique o sentido de escoamento das águas.</figcaption>
+			 <figcaption>Represente as calhas nos rincões <b>(gh)</b> e <b>(bc)</b>, e indique o sentido de escoamento das águas.</figcaption>
 		   </li>
 		</ul>
 		<img src="aplicacoes/89_00.png" class="fundo" />
