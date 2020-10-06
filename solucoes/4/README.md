@@ -35,7 +35,7 @@
 		<img src="../../cotadas/43_03_00.png" />
 	</details></div></details>
 	
-  <details open><summary>Atividade 3: exercício 2d da pág. 43</summary>
+  <details open><summary>Atividade 3: exercício 3 da pág. 62</summary>
   <img src="../../cotadas/Cotadas_2020_0062.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p>Basta encontrar dois pontos do plano que possuam cota 2, graduar duas das retas do plano para encontrar esses pontos.</p> 
@@ -43,7 +43,7 @@
 		<figcaption></figcaption>
 	</details></div></details>
 			
-  <details open style="border-bottom: 1px solid #a2dec0;"><summary>Atividade 3: exercício 5 da pág. 72</summary>
+  <details open style="border-bottom: 1px solid #a2dec0;"><summary>Atividade 4: exercício 5 da pág. 72</summary>
   <img src="../../cotadas/Cotadas_2020_0072.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<img src="../../cotadas/72_01_00.png" />

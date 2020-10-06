@@ -2371,10 +2371,7 @@
 		<img src="cotadas/31_01_00.png" class="fundo" />
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0031a.png" />
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<p>Solução do item b</p>
-		<img src="cotadas/31_02_00.png" class="fundo" />
-	</details></div>
+	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3</span></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0032.png" />
 	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3</span></div>
@@ -5612,11 +5609,7 @@
   <a href="superficies/curva3.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0104.png" />
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	  <p>Para obtermos o perfil topográfico devemos encontrar os pontos comuns da superfície natural do terreno com o plano de corte vertical. Siga o procedimento como no exercício anterior.</p>
-	  <img src="aplicacoes/104_01.png" />
-	  <figcaption></figcaption>
-	  </details>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1</span>
   <a href="superficies/curva9.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0105.png" />
@@ -5804,11 +5797,7 @@
 	  </details></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0110.png" />
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	  <p>Repetir os passos do exercício anterior. A diferença nesse exercício é que ao invés de inclinação é dada a declividade. Lembre-se que o intervalo é o inverso da declividade, assim se a declividade é 2/3, o intervalo é 3/2, ou seja o intervalo é 1.5.</p>
-	  <img src="aplicacoes/110_01_00.png" />
-	  <figcaption></figcaption>
-	  </details></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2</span></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0111.png" />
   <div class="combo"><figcaption>Use o link abaixo para visualizar em 3D dos cortes de um terreno para construção de uma estrada</figcaption>
@@ -5958,7 +5947,25 @@
 	</details></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0114.png" />
-  <div class="combo"><figcaption>Use o link abaixo para visualizar em 3D da seção mista de um terreno (corte e aterro)</figcaption>
+  <div class="combo">
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+	  <ul class="slider">
+		   <li>
+		   <input type="radio" id="700n" name="sl">
+			   <label for="700n"></label>
+			   <img src="aplicacoes/114_01_01.png" />
+			 <figcaption>Usando as construções que fizemos no exercício anterior, podemos encontrar as linhas que delimitam as construções para o corte e o aterro de  uma superfície topográfica.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="701n" name="sl">
+			   <label for="701n"></label>
+			   <img src="aplicacoes/114_01_02.png" />
+			 <figcaption>Nesta imagem, temos as linhas do corte e do aterro representadas sem as curvas de nível do terreno.</figcaption>
+		   </li>
+		</ul>
+		<img src="aplicacoes/114_01_01.png" class="fundo" />
+	</details>
+  <figcaption>Use o link abaixo para visualizar em 3D da seção mista de um terreno (corte e aterro)</figcaption>
   <a href="superficies/curva13c.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
 </details>
