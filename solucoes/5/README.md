@@ -44,13 +44,13 @@
 			 <figcaption>Represente as calhas nos rincões <b>(hi)</b>, <b>(cd)</b> e <b>(ij)</b>, e indique o sentido de escoamento das águas.</figcaption>
 		   </li>
 		</ul>
-		<img src="aplicacoes/88_00.png" class="fundo" />
+		<img src="../../aplicacoes/88_00.png" class="fundo" />
 	</details></div></details>
 	
   <details open style="border-bottom: 1px solid #a2dec0;"><summary>Atividade 2: telhado novo</summary>
   <img src="../../cotadas/Cotadas_2020_0072.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<img src="cotadas/72_01_00.png" />
+		<img src="../../cotadas/72_01_00.png" />
 		<figcaption></figcaption>
 	</details></div></details>
 
