@@ -48,7 +48,7 @@
 	</details></div></details>
 	
   <details open style="border-bottom: 1px solid #a2dec0;"><summary>Atividade 2: telhado com inclinações diferentes</summary>
-  <img src="../../cotadas/Cotadas_2020_0095a.png" />
+  <img src="../../aplicaoes/Cotadas_2020_0095a.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p>Usando as construções que fizemos nos exercícios anteriores, podemos encontrar as medidas indicadas neste exemplo.</p>
 		<img src="telhado47.png" />
