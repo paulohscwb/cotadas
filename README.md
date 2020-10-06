@@ -5610,7 +5610,7 @@
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0104.png" />
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1</span>
-  <a href="superficies/curva9.html" target="_blank" class="visu">Visualização em 3D</a></div>
+  <br><a href="superficies/curva9.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0105.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
