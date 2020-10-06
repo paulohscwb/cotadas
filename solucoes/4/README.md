@@ -32,18 +32,17 @@
   <img src="../../cotadas/Cotadas_2020_0043b.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p>Como os pontos possuem cotas inteiras, pode-se encontrar o ponto médio de <b>GH</b>, e, com isso obter o ponto <b>I</b> de cota 3. O ponto médio de <b>I</b> e <b>H</b>, resulta no ponto <b>J</b> de cota 2,5. A distância <b>HJ</b> é usada para encontrar o ponto <b>P</b> de cota 1,5.</p>
-		<img src="../../cotadas/43_03_00.png" class="fundo" />
+		<img src="../../cotadas/43_03_00.png" />
 	</details></div></details>
 	
-	<details open><summary>Atividade 3: exercício 2d da pág. 43</summary>
+  <details open><summary>Atividade 3: exercício 2d da pág. 43</summary>
   <img src="../../cotadas/Cotadas_2020_0062.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p>Basta encontrar dois pontos do plano que possuam cota 2, graduar duas das retas do plano para encontrar esses pontos.</p> 
 		<img src="../../cotadas/62_01_00.png" />
 		<figcaption></figcaption>
 	</details></div></details>
-	
-		
+			
   <details open style="border-bottom: 1px solid #a2dec0;"><summary>Atividade 3: exercício 5 da pág. 72</summary>
   <img src="../../cotadas/Cotadas_2020_0072.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
