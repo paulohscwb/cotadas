@@ -3126,7 +3126,7 @@
 
 <details>
   <summary id="rebatimento">4. Representação de planos</summary>
-	<p>Material da página 52 até a página 71.</p>
+	<p>Material da página 52 até a página 72.</p>
 	<img src="cotadas/Cotadas_2020_0052.png" />
 	<div class="combo"><figcaption>Use o link abaixo para visualizar em 3D as representações de um plano <b>&alpha;(A,B,C)</b> por 3 pontos não colineares, <b>&alpha;(r,C)</b> por um ponto e uma reta que não se pertencem, <b>&alpha;(r,s)</b> por duas retas concorrentes ou <b>&alpha;(s,t)</b> por duas retas paralelas.</figcaption>
 	<a href="vr/53_rep_planos.html" target="_blank" class="visu">Visualização em 3D</a></div>
@@ -3180,30 +3180,7 @@
 	<a href="vr/piramide1.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0054.png" />
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-		<p>A pirâmide possui base hexagonal e como está contida no plano horizontal, todos os pontos possuem a mesma cota e o hexágono está em Verdadeira Grandeza (VG).</p>
-		<ul class="slider">
-		  <li>
-			   <input type="radio" id="340" name="sl">
-			   <label for="340"></label>
-			   <img src="cotadas/54_01_01.png" />
-			<figcaption>Desenhar o hexágono em VG, obtendo os pontos <b>C'</b>, <b>D'</b>, <b>E'</b> e <b>F'</b>. Observe que é possível representar dois hexágonos, uma para a direita do segmento <b>A'B'</b> e outro para a esquerda. Vamos escolher a posição para direita, pois tem mais espaço para desenhar. As cotas dos pontos <b>C</b>, <b>D</b>, <b>E</b> e <b>F</b> são iguais à cota do plano, ou seja, <b>1</b>.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="341" name="sl">
-			   <label for="341"></label>
-			   <img src="cotadas/54_01_02.png" />
-			 <figcaption>Representar a altura do prisma, observe que a face superior coincide com a inferior, a projeção da segunda face que também é um hexágono regular coincide com a primeira, as arestas: <b>AG</b>, <b>BH</b>, <b>CI</b>, <b>DJ</b>, <b>EK</b> e <b>FL</b> são retas verticais e, portanto sua projeção é um ponto. Os pontos <b>GHIJKL</b> pertencem ao plano horizontal de cota <b>4</b>, portanto sua cota é <b>4</b>.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="342" name="sl">
-			   <label for="342"></label>
-			   <img src="cotadas/54_01_04.png" />
-			 <figcaption>Agora representamos a pirâmide apoiada sobre a face <b>GHIJKL</b>, para isso, basta unir esses vértices com o centro do hexágono, obtendo o vértice <b>V</b> de cota <b>7</b>.</figcaption>
-		   </li>
-		</ul>
-		<img src="cotadas/54_01_00.png" class="fundo" />
-	</details></div>
+	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1</span></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0055.png" />
 	<div class="combo"><figcaption>Use o link abaixo para a visualização em 3D do rebatimento do plano vertical.</figcaption>
@@ -3503,11 +3480,7 @@
 	</details></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0062.png" />
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<p>Basta encontrar dois pontos do plano que possuam cota 2, graduar duas das retas do plano para encontrar esses pontos.</p> 
-		<img src="cotadas/62_01_00.png" />
-		<figcaption></figcaption>
-	</details></div>
+	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3</span></div>
 	<img src="cotadas/Cotadas_2020_0062a.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 		<p>Para que um ponto pertença ao plano, ele deve estar em uma das retas do plano.</p>
@@ -3546,10 +3519,6 @@
 		<img src="cotadas/62_02_00.png" class="fundo" />
 	</details></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
-</details>
-
-<details>
-  <summary id="rebatimento">Reta de declive, rebatimento e interseções: pág. 63-77</summary>
 	<img src="cotadas/Cotadas_2020_0063.png" />
 	<div class="combo"><figcaption>Use o link abaixo para visualizar em 3D a reta de declive de um plano.</figcaption>
 	<a href="vr/reta_declive.html" target="_blank" class="visu">Visualização em 3D</a></div>
@@ -4103,16 +4072,18 @@
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0071.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<img src="cotadas/71_01_00.png" />
+		<img src="../../cotadas/71_01_00.png" />
 		<figcaption></figcaption>
 	</details></div>
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0072.png" />
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<img src="cotadas/72_01_00.png" />
-		<figcaption></figcaption>
-	</details></div>
+	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4</span></div>
 	<p class="topop"><a href="#rebatimento" class="topo">voltar ao topo</a></p>
+</details>
+
+<details>
+  <summary id="rebatimento">5.1. Interseções</summary>
+  <p>Material da página 73 até a página 77.</p>
 	<img src="cotadas/Cotadas_2020_0073.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Dois planos são paralelos se:
@@ -4309,7 +4280,8 @@
 </details>
 
 <details>
-  <summary id="telhados">Representações de telhados: pág. 78-95</summary>
+  <summary id="telhados">5.2. Representações de telhados</summary>
+  <p>Material da página 78 até a página 95.</p>
   <img src="aplicacoes/Cotadas_2020_0078.png" />
   <div class="combo"><details class="sub"><summary>&#x1f453; Realidade Aumentada</summary>
 		<p>Você pode acessar os recursos de Realidade Aumentada das representações dos telhados usando o seguinte endereço:</p>
