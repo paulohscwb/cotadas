@@ -5324,7 +5324,7 @@
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0095a.png" />
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2</span>
-  <br>&#x1F9FE; <a target="_blank" href="solucoes/5/telhado47.pdf">Imprimir</a>
+  <br>&#x1F9FE; <a target="_blank" href="solucoes/5/telhado47.pdf">Imprimir</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
 </details>
 
