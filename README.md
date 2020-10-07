@@ -3253,6 +3253,8 @@
 		<figcaption>Os pontos com as cotas mais baixas são invisíveis na projeção, pois estão por baixo das faces do sólido e portanto representados com linhas tracejadas. Use o link abaixo para visualizar o sólido em 3D.</figcaption>
 	</details>
 	<a href="vr/prisma1.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2</span>
+	<br>Represente a projeção cotada de uma pirâmide reta de base hexagonal regular, sabendo-se que a base ABCDEF está contida no plano vertical definido por A(4,8,1) e B(6,4,0) e a altura mede h = 5,5cm.</div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0057.png" />
 	<figcaption>Propriedades:
