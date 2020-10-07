@@ -2882,7 +2882,7 @@
 		   <li>
 			   <input type="radio" id="310m" name="sl">
 			   <label for="310m"></label>
-			   <img src="cotadas/45_05_05.png" />
+			   <img src="cotadas/45_05_04.png" />
 			 <figcaption>A cota do ponto <b>Q</b> deve ser 1,3, pois é igual à diferença entre as cotas dos pontos da reta <b>r</b> e crescem no mesmo sentido.</figcaption>
 		   </li>
 		</ul>
