@@ -2853,7 +2853,7 @@
 		   </li>
 		</ul>
 		<img src="cotadas/45_04_00.png" class="fundo" />
-	</details>
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0045d.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Para que duas retas quaisquer sejam paralelas, devem ocorrer três condições:
@@ -2887,7 +2887,7 @@
 		   </li>
 		</ul>
 		<img src="cotadas/45_05_00.png" class="fundo" />
-	</details>
+	</details></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0046.png" />
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
