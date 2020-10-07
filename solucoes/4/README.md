@@ -28,11 +28,12 @@
 		<img src="../../cotadas/54_01_00.png" class="fundo" />
 	</details></div></details>
 	
-  <details open><summary>Atividade 2: plano vertical</summary>
+  <details open><summary>Atividade 2: exercício da pág. 56</summary>
   <img src="../../cotadas/Cotadas_2020_0043b.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<p>Como os pontos possuem cotas inteiras, pode-se encontrar o ponto médio de <b>GH</b>, e, com isso obter o ponto <b>I</b> de cota 3. O ponto médio de <b>I</b> e <b>H</b>, resulta no ponto <b>J</b> de cota 2,5. A distância <b>HJ</b> é usada para encontrar o ponto <b>P</b> de cota 1,5.</p>
-		<img src="../../cotadas/43_03_00.png" />
+		<p>Exercício similar aos resolvidos na página 56. </p>
+		<img src="56_03_00.png" />
+		<figcaption>A altura deve ser marcada a partir do traço <b>&alpha;&pi;'</b>, com mesma cota do centro da base <b>O</b>.</figcaption>
 	</details></div></details>
 	
   <details open><summary>Atividade 3: exercício 3 da pág. 62</summary>
