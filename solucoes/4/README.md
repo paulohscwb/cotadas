@@ -29,7 +29,7 @@
 	</details></div></details>
 	
   <details open><summary>Atividade 2: exercício da pág. 56</summary>
-  <img src="../../cotadas/Cotadas_2020_0043b.png" />
+  <img src="pagina56extra.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p>Exercício similar aos resolvidos na página 56. </p>
 		<img src="56_03_00.png" />
