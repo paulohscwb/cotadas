@@ -2812,6 +2812,82 @@
 	<div class="combo"><a href="vr/44_paralelas3.html" target="_blank" class="visu">Visualização em 3D do 3&deg; exemplo</a></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0045.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>Como <b>r'</b> é um ponto, significa que a reta <b>r</b> é perpendicular ao plano de projeção. </p> 
+		<img src="cotadas/45_01_00.png" />
+		<figcaption>Logo a reta <b>s</b>, também será uma reta vertical, ou seja, perpendicular ao plano de projeção.</figcaption>
+	</details></div>
+	<img src="cotadas/Cotadas_2020_0045a.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>A reta <b>r</b> é uma reta horizontal de cota 1, então uma reta paralela à reta <b>r</b>, também será uma reta horizontal.</p> 
+		<img src="cotadas/45_02_00.png" />
+		<figcaption>Porém a reta <b>s</b> é uma reta horizontal de cota 3. Suas projeções coincidem, pois pertencem ao mesmo plano projetante.</figcaption>
+	</details></div>
+	<img src="cotadas/Cotadas_2020_0045b.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>A reta <b>r</b> é uma reta horizontal, logo a reta s também será uma horizontal e suas projeções devem ser paralelas. </p> 
+		<img src="cotadas/45_03_00.png" />
+		<figcaption>A cota da reta <b>s</b> é a mesma cota do ponto <b>P</b> que a define.</figcaption>
+	</details></div>
+	<img src="cotadas/Cotadas_2020_0045c.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <p>As retas <b>r</b> e <b>s</b> pertencem ao mesmo plano projetante, portanto suas projeções são coincidentes, assim <b>r'</b> coincide com <b>s'</b>, porém isso não é suficiente para que as retas sejam consideradas paralelas, ainda precisamos de mais um ponto da reta <b>s</b>.</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="308n" name="sl">
+			   <label for="308n"></label>
+			   <img src="cotadas/45_04_01.png" />
+			<figcaption>Tomar o intervalo entre os pontos que definem a reta <b>r</b> </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="309n" name="sl">
+			   <label for="309n"></label>
+			   <img src="cotadas/45_04_02.png" />
+			 <figcaption>Marcar esse intervalo a partir do ponto <b>P</b></figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="310n" name="sl">
+			   <label for="310n"></label>
+			   <img src="cotadas/45_04_03.png" />
+			 <figcaption>Definimos o ponto <b>Q</b> de cota 5, pois retas paralelas devem ter intervalos iguais e cotas crescendo no mesmo sentido.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/45_04_00.png" class="fundo" />
+	</details>
+	<img src="cotadas/Cotadas_2020_0045d.png" />
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <p>Para que duas retas quaisquer sejam paralelas, devem ocorrer três condições:
+	  <br>•	suas projeções devem ser paralelas, <b>r'//s'</b>
+	  <br>•	as cotas devem crescer no mesmo sentido
+	  <br>•	os intervalos são iguais</p>
+	  <ul class="slider">
+		  <li>
+			   <input type="radio" id="313n" name="sl">
+			   <label for="313n"></label>
+			   <img src="cotadas/45_05_01.png" />
+			<figcaption>Traçar a reta passando por <b>P'</b> paralela à <b>r'</b>. </figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="312n" name="sl">
+			   <label for="312n"></label>
+			   <img src="cotadas/45_05_02.png" />
+			 <figcaption>Tomar o intervalo da reta <b>r</b> com o compasso</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="311n" name="sl">
+			   <label for="311n"></label>
+			   <img src="cotadas/45_05_03.png" />
+			 <figcaption>Transportar esse intervalo para <b>s'</b></figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="310m" name="sl">
+			   <label for="310m"></label>
+			   <img src="cotadas/45_05_05.png" />
+			 <figcaption>A cota do ponto <b>Q</b> deve ser 1,3, pois é igual à diferença entre as cotas dos pontos da reta <b>r</b> e crescem no mesmo sentido.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/45_05_00.png" class="fundo" />
+	</details>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0046.png" />
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
