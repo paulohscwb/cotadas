@@ -1500,7 +1500,7 @@
 	<img src="prop/Cotadas_2020_0013.png" />
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 	<div class="embed-container">
-		<iframe width="100%" src="https://www.youtube.com/embed/8O9ci27ltkE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="100%" src="https://www.youtube.com/embed/8O9ci27ltkE" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 		<!--<iframe src="https://drive.google.com/file/d/1rHRuxnvuXSKN2W6kVXYlDH9egVrxC4Tg/preview" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen width="100%"></iframe>-->
 	</div>
 	<img src="prop/Cotadas_2020_0014.png" />
