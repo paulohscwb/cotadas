@@ -268,8 +268,10 @@ hr {
   left: 0;
   width: 100%;
   height: 100%;
-  visibility: hidden;
 }
+
+.sub .embed-container iframe {visibility: hidden;}
+
 iframe {
   border:none;
   top:7px;
