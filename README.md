@@ -1498,7 +1498,7 @@
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 	<img src="prop/Cotadas_2020_0013.png" />
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
-	<iframe width="90%" height="400" src="https://www.youtube.com/embed/8O9ci27ltkE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	<iframe width="90%" height="550" src="https://www.youtube.com/embed/8O9ci27ltkE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	<img src="prop/Cotadas_2020_0014.png" />
     <div class="combo"><figcaption>Para projetar um ponto <b>A</b> qualquer do espaço usando a projeção cônica, basta definir a reta projetante <b>a</b>, que passa pelo centro de projeção <b>O</b> e pelo ponto <b>A</b>. A interseção desta reta com o plano <b>&pi;'</b> é a projeção <b>A'</b> do ponto <b>A</b>.</figcaption>
     <a href="vr/proj_conica.html" target="_blank" class="visu">Visualização em 3D</a></div>
