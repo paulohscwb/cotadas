@@ -1584,6 +1584,9 @@
     <a href="vr/p3b.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
 	<br><a href="vr/p3b_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
+	<div class="embed-container">
+		<iframe width="100%" src="https://www.youtube.com/embed/k3yomlMReqQ" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
 	<img src="prop/Cotadas_2020_0018.png" /> 
     <div class="combo"><figcaption>Uma figura pertencente a um plano paralelo ao plano de projeções <b>&pi;'</b> fica projetada com o mesmo tamanho, sem redução ou ampliação de tamanho.</figcaption>
     <a href="vr/p4.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
