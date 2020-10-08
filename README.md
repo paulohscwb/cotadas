@@ -4395,8 +4395,7 @@
 			   <input type="radio" id="a14" name="sl">
 			   <label for="a14"></label>
 			   <div class="embed-container">
-				 <iframe src="https://drive.google.com/file/d/1Tg2c6pOoDNESEAvl9kvXgRGv81D-U0Kw/preview" width="100%"></iframe>
-			   </div>
+				 <iframe src="https://drive.google.com/file/d/1m2pfKIbtITcS1pXKGfAlsBuff_5DYzAJ/preview" width="100%"></iframe>
 			   <figcaption>Veja o vídeo de demonstração do uso destes recursos.</figcaption>
 		   </li>
 		</ul>
@@ -5447,7 +5446,7 @@
 			   <input type="radio" id="a24" name="sl">
 			   <label for="a24"></label>
 			   <div class="embed-container">
-				 <iframe src="https://drive.google.com/file/d/1Tg2c6pOoDNESEAvl9kvXgRGv81D-U0Kw/preview" width="100%"></iframe>
+				 <iframe src="https://drive.google.com/file/d/1m2pfKIbtITcS1pXKGfAlsBuff_5DYzAJ/preview" width="100%"></iframe>
 			   </div>
 			   <figcaption>Veja o vídeo de demonstração do uso destes recursos.</figcaption>
 		   </li>
