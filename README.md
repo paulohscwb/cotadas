@@ -1552,7 +1552,7 @@
 			   <input type="radio" id="a04" name="sl">
 			   <label for="a04"></label>
 			   <div class="embed-container">
-				 <iframe src="https://drive.google.com/file/d/1Tg2c6pOoDNESEAvl9kvXgRGv81D-U0Kw" width="100%"></iframe>
+				 <iframe src="https://drive.google.com/file/d/1m2pfKIbtITcS1pXKGfAlsBuff_5DYzAJ/preview" width="100%"></iframe>
 			   </div>
 			   <figcaption>Veja o vídeo de demonstração do uso destes recursos.</figcaption>
 		   </li>
