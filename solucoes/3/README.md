@@ -47,9 +47,8 @@
 	<details open><summary>Atividade 3: exercício 1b da pág. 50</summary>
   <img src="../../cotadas/Cotadas_2020_0050a.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<p>A resolução da letra b é similar à letra a.</p>
+		<p>A resolução da letra b é similar à letra a. Lembre-se que entre as projeções dos pontos <b>A</b> e <b>B</b>, temos 2 intervalos, dessa forma, devemos marcar 2 unidades de cota no ponto <b>B</b> e obteremos 2 intervalos da reta <b>s</b> e como as cotas de retas perpendiculares crescem no sentido oposto, a cota do ponto <b>Q</b> obtido é a cota do ponto <b>P</b> menos duas unidades.</p>
 		<img src="50_02_00.png" />
-		<figcaption>Lembre-se que entre as projeções dos pontos <b>A</b> e <b>B</b>, temos 2 intervalos, dessa forma, devemos marcar 2 unidades de cota no ponto <b>B</b> e obteremos 2 intervalos da reta <b>s</b> e como as cotas de retas perpendiculares crescem no sentido oposto, a cota do ponto <b>Q</b> obtido é a cota do ponto <b>P</b> menos duas unidades.</figcaption>
 	</details></div></details>
 	<details open style="border-bottom: 1px solid #a2dec0;"><summary>Atividade 4: exercício 2c) da pág. 51</summary>
   <img src="../../cotadas/Cotadas_2020_0051b.png" />
