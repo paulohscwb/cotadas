@@ -38,18 +38,21 @@
 		</ul>
 		<img src="40_01_00.png" class="fundo" />
 	</details></div></details>
+	
     <details open><summary>Atividade 2: exercício 2d da pág. 43</summary>
 	<img src="../../cotadas/Cotadas_2020_0043b.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p>Como os pontos possuem cotas inteiras, pode-se encontrar o ponto médio de <b>GH</b>, e, com isso obter o ponto <b>I</b> de cota 3. O ponto médio de <b>I</b> e <b>H</b>, resulta no ponto <b>J</b> de cota 2,5. A distância <b>HJ</b> é usada para encontrar o ponto <b>P</b> de cota 1,5.</p>
 		<img src="43_03_00.png" />
 	</details></div></details>
+	
     <details open><summary>Atividade 3: exercício 1b da pág. 50</summary>
 	<img src="../../cotadas/Cotadas_2020_0050a.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p>A resolução da letra b é similar à letra a. Lembre-se que entre as projeções dos pontos <b>A</b> e <b>B</b>, temos 2 intervalos, dessa forma, devemos marcar 2 unidades de cota no ponto <b>B</b> e obteremos 2 intervalos da reta <b>s</b> e como as cotas de retas perpendiculares crescem no sentido oposto, a cota do ponto <b>Q</b> obtido é a cota do ponto <b>P</b> menos duas unidades.</p>
 		<img src="50_02_00.png" />
 	</details></div></details>
+	
     <details open style="border-bottom: 1px solid #a2dec0;"><summary>Atividade 4: exercício 2c) da pág. 51</summary>
 	<img src="../../cotadas/Cotadas_2020_0051b.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
