@@ -3152,11 +3152,7 @@
 		<img src="cotadas/50_01_00.png" class="fundo" />
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0050a.png" />
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<p>A resolução da letra b é similar à letra a. Esse exercício fica para você resolver.</p> 
-		<img src="cotadas/50_02_00.png" />
-		<figcaption>Lembre-se que entre as projeções dos pontos <b>A</b> e <b>B</b>, temos 2 intervalos, dessa forma, devemos marcar 2 unidades de cota no ponto <b>B</b> e obteremos 2 intervalos da reta <b>s</b> e como as cotas de retas perpendiculares crescem no sentido oposto, a cota do ponto <b>Q</b> obtido é a cota do ponto <b>P</b> menos duas unidades.</figcaption>
-	</details></div>
+	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3</span></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0051.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -3202,7 +3198,7 @@
 		<figcaption>Ao traçar a perpendicular à reta rebatida, <b>r'<sub>1</sub></b>, pelo ponto <b>B'<sub>1</sub></b>, obtemos 3 intervalos da reta <b>s</b>, que chamamos de <b>3I<sub>s</sub></b>. Quando transportamos esse intervalo para a reta <b>s</b>, devemos lembrar que em retas ortogonais, as cotas crescem em sentidos opostos.</figcaption>
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0051b.png" />
-	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3</span></div>
+	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4</span></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 </details>
 
@@ -4355,11 +4351,7 @@
 		<figcaption></figcaption>
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0077b.png" />
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<p></p> 
-		<img src="cotadas/77_03_00.png" />
-		<figcaption></figcaption>
-	</details></div>
+	<div class="combo"><span class="atv">&#x1f4cf; &#x1f4d0; Atividade 1</span></div>
 	<p class="topop"><a href="#intersecoes" class="topo">voltar ao topo</a></p>
 </details>
 
@@ -5038,7 +5030,7 @@
   <a href="telhados/telhado37.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0088.png" />
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1</span>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2</span>
   <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
   <a href="telhados/telhado38.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
@@ -5411,7 +5403,7 @@
   <a href="telhados/telhado46.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0095a.png" />
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2</span>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3</span>
   <br>&#x1F9FE; <a target="_blank" href="solucoes/5/telhado47.pdf">Imprimir</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
 </details>
