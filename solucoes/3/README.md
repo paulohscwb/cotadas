@@ -45,7 +45,7 @@
 		<img src="43_03_00.png" class="fundo" />
 	</details></div></details>
 	
-	<details open><summary>Atividade 3: exercício 1b) da pág. 50</summary>
+	<details open><summary>Atividade 3: exercício 1b da pág. 50</summary>
 	<img src="../../cotadas/Cotadas_2020_0050a.png" />
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p>A resolução da letra b é similar à letra a. Esse exercício fica para você resolver.</p> 
