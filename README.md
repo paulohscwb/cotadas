@@ -1,5 +1,4 @@
 <link rel="stylesheet" href="scripts/style.css">
-<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
 
 <h2 id="inicio">Visualização de propriedades de projeções, sólidos e aplicações</h2> 
 <p>Esta página contém as construções geométricas e visualizações 3D dos exemplos e exercícios utilizados na disciplina de Expressão Gráfica I</p>
