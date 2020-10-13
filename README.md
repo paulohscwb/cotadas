@@ -8,6 +8,9 @@
 <details>
   <summary id="desenho">1. Desenho Geométrico</summary>
    <p>Material da página 1 até a página 10.</p>
+	<div class="embed-container">
+		<iframe width="100%" src="https://www.youtube.com/embed/1_cC5J2Xwcw" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
    <img src="dg/Cotadas_2020_0001.png"/>  
    <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; resolução: 1&deg; segmento</summary>
 	<p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
