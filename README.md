@@ -6085,7 +6085,7 @@
 	<li>Etienne, J. <i>AR.js - Augmented Reality for the Web - Scripts do ambiente de Realidade Aumentada:</i> <a href="https://github.com/jeromeetienne/AR.js" target="blank">https://github.com/jeromeetienne/AR.js</a>.</li>
 	<li>Ngo, K. <i>Orbit controls for A-Frame - Scripts de controle de órbita nas páginas programadas com Realidade Virtual:</i> <a href="https://github.com/supermedium/superframe/tree/master/components/orbit-controls/" target="_blank"> https://github.com/supermedium/superframe/tree/master/components/orbit-controls/</a>.</li>
 	<li>Plesch, A. <i>Geometry from vertices and faces - Scripts para construções das faces de poliedros nos ambientes de Realidade Aumentada e Realidade Virtual:</i> <a href="https://github.com/andreasplesch/aframe-faceset-component" target="_blank">https://github.com/andreasplesch/aframe-faceset-component</a>.</li>
-	<li>CAVALLIN, J. <i>Lições de Geometria Descritiva: representação mongeana e sistema de projeções cotadas.</i> Curitiba: UFPR, 1968.</li>
+	<li>Cavallin, J. <i>Lições de Geometria Descritiva: representação mongeana e sistema de projeções cotadas.</i> Curitiba: UFPR, 1968.</li>
 	<li>Rangel, A. P. <i>Projeções cotadas: desenho projetivo.</i> Livros Técnicos e Científicos, 1979.</li>
 	<li>Silva, A.; Ribeiro, C. T.; Dias, J.; Sousa, L. <i>Desenho Técnico Moderno.</i> LTC, 2006.</li>
 	<li>Carvalho, B. A. <i>Desenho Geométrico.</i> Rio de Janeiro: Ao Livro Técnico, 1998.</li>
