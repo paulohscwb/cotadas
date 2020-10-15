@@ -1999,6 +1999,9 @@
   <img src="prop/Cotadas_2020_0021a.png"/>
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1</span></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
+  <div class="embed-container">
+		<iframe width="95%" src="https://www.youtube.com/embed/cnp8sxPpF-g" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
   <img src="prop/Cotadas_2020_0022.png"/>
   <div class="combo"><figcaption>Os segmentos oblíquos ao plano de projeções <b>&pi;'</b> são projetados com tamanho reduzido, ou seja, <b>AB > A'B'</b></figcaption>
   <a href="vr/p6.html" target="_blank" class="visu">Visualização da propriedade em 3D</a></div>
@@ -2178,6 +2181,10 @@
   <summary id="pontos">2.2. Pontos e segmentos em épura</summary>
 	<p>Material da página 26 até a página 32.</p>
 	<img src="cotadas/Cotadas_2020_0026.png"/>
+	<div class="embed-container">
+		<iframe width="95%" src="https://www.youtube.com/embed/hfTo8zRRnQ4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
+	<img src="cotadas/Cotadas_2020_0026a.png"/>
 	<div class="combo"><figcaption>Para representar um ponto em épura, basta marcar as coordenadas x(abscissa), y(ordenada) e indicar o valor da cota <b>a</b> do ponto. Use o link abaixo para visualizar em 3D.</figcaption>
 	<a href="vr/rep_ponto.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
