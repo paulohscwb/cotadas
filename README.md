@@ -2430,7 +2430,10 @@
 
 <details>
   <summary id="retas">3. Representações de retas</summary>
-	<p>Material da página 33 até a página 51.</p>  
+	<p>Material da página 33 até a página 51.</p> 
+	<div class="embed-container">
+		<iframe width="100%" src="https://www.youtube.com/embed/X3u9BQbZKdI" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
 	<img src="cotadas/Cotadas_2020_0033.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>As retas podem assumir três diferentes posições com relação ao plano de projeção <b>&pi;’</b>. A primeira reta que iremos estudar é a reta vertical. </p>
