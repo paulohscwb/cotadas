@@ -9,7 +9,7 @@
   <summary id="desenho">1. Desenho Geométrico</summary>
    <p>Material da página 1 até a página 10.</p>
 	<div class="embed-container">
-		<iframe width="95%" src="https://www.youtube.com/embed/1_cC5J2Xwcw" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="100%" src="https://www.youtube.com/embed/1_cC5J2Xwcw" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
    <img src="dg/Cotadas_2020_0001.png"/>  
    <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; resolução: 1&deg; segmento</summary>
@@ -2000,7 +2000,7 @@
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1</span></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <div class="embed-container">
-		<iframe width="95%" src="https://www.youtube.com/embed/cnp8sxPpF-g" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="100%" src="https://www.youtube.com/embed/cnp8sxPpF-g" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
   <img src="prop/Cotadas_2020_0022.png"/>
   <div class="combo"><figcaption>Os segmentos oblíquos ao plano de projeções <b>&pi;'</b> são projetados com tamanho reduzido, ou seja, <b>AB > A'B'</b></figcaption>
@@ -2182,7 +2182,7 @@
 	<p>Material da página 26 até a página 32.</p>
 	<img src="cotadas/Cotadas_2020_0026.png"/>
 	<div class="embed-container">
-		<iframe width="95%" src="https://www.youtube.com/embed/hfTo8zRRnQ4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="100%" src="https://www.youtube.com/embed/hfTo8zRRnQ4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	<img src="cotadas/Cotadas_2020_0026a.png"/>
 	<div class="combo"><figcaption>Para representar um ponto em épura, basta marcar as coordenadas x(abscissa), y(ordenada) e indicar o valor da cota <b>a</b> do ponto. Use o link abaixo para visualizar em 3D.</figcaption>
@@ -2302,6 +2302,9 @@
 		<img src="cotadas/29_03_00.png" class="fundo"/>
 	  </details></div>
 	  <p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
+	  <div class="embed-container">
+		<iframe width="100%" src="https://www.youtube.com/embed/xyUOtZkioQk" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
 	  <img src="cotadas/Cotadas_2020_0030.png"/>
 	  <div class="combo"><figcaption>Rebatimento usado para encontrar a verdadeira grandeza (vg) de um segmento <b>AB</b>. Neste caso, o segmento é rebatido usando o segmento <b>AC</b> como eixo para rebater o segmento em um plano horizontal<b>&beta;</b> que passa por <b>A</b>. Neste caso, marcamos a diferença de cotas entre os pontos <b>A</b> e <b>B</b> a partir da projeção <b>B'</b></figcaption>
 	  <a href="vr/vg_segmento2.html" target="_blank" class="visu">Visualização em 3D</a></div>
