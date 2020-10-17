@@ -1003,8 +1003,8 @@
     <img src="dg/05_02_00.png" class="fundo"/>
   </details></div>
   <img src="dg/Cotadas_2020_0005b.png"/>
-  <div class="combo" id="atv11">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.1</span></div>
-  <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.1</span></div>
+  <p class="topop" id="atv11"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Cotadas_2020_0006.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para obtermos o Ortocentro <b>H</b> do triângulo precisamos construir suas alturas.</p>
@@ -1416,8 +1416,8 @@
     <img src="dg/09_01_00.png" class="fundo"/>
   </details></div>
   <img src="dg/Cotadas_2020_0009a.png"/>
-  <div class="combo" id="atv12">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.2</span></div>
-  <img src="dg/Cotadas_2020_0009b.png"/>
+  <div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.2</span></div>
+  <img id="atv12" src="dg/Cotadas_2020_0009b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para determinar a reta tangente à circunferência dada basta encontrar o ponto <b>T</b> de tangência! Antes de iniciarmos a construção vamos aprender duas propriedades importantes!</p>
   <ul class="slider">
@@ -1487,8 +1487,8 @@
     <img src="dg/10_01_00.png" class="fundo"/>
   </details></div>
   <img src="dg/Cotadas_2020_0010a.png"/>
-  <div class="combo" id="atv13">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.3</span></div>
-  <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.3</span></div>
+  <p class="topop" id="atv13"><a href="#desenho" class="topo">voltar ao topo</a></p>
 </details>
 
 <details>
@@ -1997,8 +1997,8 @@
   </details>
   <a href="vr/p_ex5c_hexagono.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <img src="prop/Cotadas_2020_0021a.png"/>
-  <div class="combo" id="atv21">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.1</span></div>
-  <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.1</span></div>
+  <p class="topop" id="atv21"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/cnp8sxPpF-g" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
