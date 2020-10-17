@@ -1004,7 +1004,7 @@
   </details></div>
   <img src="dg/Cotadas_2020_0005b.png"/>
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.1</span></div>
-  <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
+  <p class="topop" id="atv11"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Cotadas_2020_0006.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para obtermos o Ortocentro <b>H</b> do triângulo precisamos construir suas alturas.</p>
