@@ -1003,7 +1003,7 @@
     <img src="dg/05_02_00.png" class="fundo"/>
   </details></div>
   <img src="dg/Cotadas_2020_0005b.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1</span></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.1</span></div>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Cotadas_2020_0006.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -1416,7 +1416,7 @@
     <img src="dg/09_01_00.png" class="fundo"/>
   </details></div>
   <img src="dg/Cotadas_2020_0009a.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2</span></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.2</span></div>
   <img src="dg/Cotadas_2020_0009b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para determinar a reta tangente à circunferência dada basta encontrar o ponto <b>T</b> de tangência! Antes de iniciarmos a construção vamos aprender duas propriedades importantes!</p>
@@ -1487,7 +1487,7 @@
     <img src="dg/10_01_00.png" class="fundo"/>
   </details></div>
   <img src="dg/Cotadas_2020_0010a.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3</span></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.3</span></div>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
 </details>
 
@@ -1997,7 +1997,7 @@
   </details>
   <a href="vr/p_ex5c_hexagono.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <img src="prop/Cotadas_2020_0021a.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1</span></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.1</span></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/cnp8sxPpF-g" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -2166,7 +2166,7 @@
 	<img src="prop/24_01_00.png" class="fundo"/>
   </details></div>
   <img src="prop/Cotadas_2020_0024a.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2</span></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.2</span></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/Cotadas_2020_0025.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
@@ -2392,10 +2392,10 @@
 		<img src="cotadas/31_01_00.png" class="fundo"/>
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0031a.png"/>
-	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3</span></div>
+	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.3</span></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0032.png"/>
-	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3</span></div>
+	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.3</span></div>
 	<img src="cotadas/Cotadas_2020_0032a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p>Solução do item d</p>
@@ -2746,7 +2746,7 @@
 	</details></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0040.png"/>
-	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1</span></div>
+	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3.1</span></div>
 	<img src="cotadas/Cotadas_2020_0040a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<ul class="slider">
@@ -2826,7 +2826,7 @@
 		<img src="cotadas/43_02_00.png" class="fundo"/>
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0043b.png"/>
-	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2</span></div>
+	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3.2</span></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0044.png"/>
 	<div class="combo"><figcaption>Duas retas quaisquer <b>r</b> e <b>s</b> são paralelas quando suas projeções <b>r'</b> e <b>s'</b> são paralelas, e as graduações destas retas crescem no mesmo sentido. Use o link abaixo para visualizar esta propriedade em 3D.</figcaption>
@@ -3167,7 +3167,7 @@
 		<img src="cotadas/50_01_00.png" class="fundo"/>
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0050a.png"/>
-	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3</span></div>
+	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3.3</span></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0051.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -3213,7 +3213,7 @@
 		<figcaption>Ao traçar a perpendicular à reta rebatida, <b>r'<sub>1</sub></b>, pelo ponto <b>B'<sub>1</sub></b>, obtemos 3 intervalos da reta <b>s</b>, que chamamos de <b>3I<sub>s</sub></b>. Quando transportamos esse intervalo para a reta <b>s</b>, devemos lembrar que em retas ortogonais, as cotas crescem em sentidos opostos.</figcaption>
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0051b.png"/>
-	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4</span></div>
+	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3.4</span></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 </details>
 
@@ -3273,7 +3273,7 @@
 	<a href="vr/piramide1.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0054.png"/>
-	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1</span></div>
+	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.1</span></div>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0055.png"/>
 	<div class="combo"><figcaption>Use o link abaixo para a visualização em 3D do rebatimento do plano vertical.</figcaption>
@@ -3349,7 +3349,7 @@
 		<figcaption>Os pontos com as cotas mais baixas são invisíveis na projeção, pois estão por baixo das faces do sólido e portanto representados com linhas tracejadas. Use o link abaixo para visualizar o sólido em 3D.</figcaption>
 	</details>
 	<a href="vr/prisma1.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2</span>
+	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.2</span>
 	<p>Represente a projeção cotada de uma pirâmide reta de base hexagonal regular, sabendo-se que a base ABCDEF está contida no plano vertical definido por A(4,8,1) e B(6,4,0) e a altura mede h = 5,5cm.</p></div>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0057.png"/>
@@ -3575,7 +3575,7 @@
 	</details></div>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0062.png"/>
-	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3</span></div>
+	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.3</span></div>
 	<img src="cotadas/Cotadas_2020_0062a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 		<p>Para que um ponto pertença ao plano, ele deve estar em uma das retas do plano.</p>
@@ -4172,7 +4172,7 @@
 	</details></div>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0072.png"/>
-	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4</span></div>
+	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.4</span></div>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
 </details>
 
@@ -4366,7 +4366,7 @@
 		<figcaption></figcaption>
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0077b.png"/>
-	<div class="combo"><span class="atv">&#x1f4cf; &#x1f4d0; Atividade 1</span></div>
+	<div class="combo"><span class="atv">&#x1f4cf; &#x1f4d0; Atividade 5.1</span></div>
 	<p class="topop"><a href="#intersecoes" class="topo">voltar ao topo</a></p>
 </details>
 
@@ -5045,7 +5045,7 @@
   <a href="telhados/telhado37.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0088.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2</span>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.2</span>
   <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
   <a href="telhados/telhado38.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
@@ -5418,7 +5418,7 @@
   <a href="telhados/telhado46.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0095a.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3</span>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.3</span>
   <br>&#x1F9FE; <a target="_blank" href="solucoes/5/telhado47.pdf">Imprimir</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
 </details>
@@ -5709,7 +5709,7 @@
   <a href="superficies/curva3.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0104.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1</span>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.1</span>
   <br><a href="superficies/curva9.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0105.png"/>
@@ -5897,7 +5897,7 @@
 	  </details></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0110.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2</span></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.2</span></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0111.png"/>
   <div class="combo"><figcaption>Use o link abaixo para visualizar em 3D dos cortes de um terreno para construção de uma estrada</figcaption>
