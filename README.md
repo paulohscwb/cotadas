@@ -1487,11 +1487,11 @@
     <img src="dg/10_01_00.png" class="fundo"/>
   </details></div>
   <img src="dg/Cotadas_2020_0010a.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.3</span>
-  <br>&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.4</span>
-  <p>Construir um triângulo ABC sabendo-se que:
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.3</span></div>
+  <p>19. Construir um triângulo ABC sabendo-se que:
   <br>a) seu perímetro ( perímetro é a soma dos lados do polígono) mede 11cm
-  <br>b) seus lados são proporcionais a números dados, ou seja, AB é proporcional a 2, BC é proporcional a 3 e AC é proporcional a 4.</p></div>
+  <br>b) seus lados são proporcionais a números dados, ou seja, AB é proporcional a 2, BC é proporcional a 3 e AC é proporcional a 4.</p>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.4</span></div>
   <p class="topop" id="atv13"><a href="#desenho" class="topo">voltar ao topo</a></p>
 </details>
 
