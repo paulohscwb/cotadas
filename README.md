@@ -2795,7 +2795,7 @@
 	</details></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<div class="embed-container">
-		<iframe width="100%" height="130%" src="https://www.youtube.com/embed/AlrQ3zUdS7M" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+		<iframe width="100%" src="https://www.youtube.com/embed/AlrQ3zUdS7M" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
 	<img src="cotadas/Cotadas_2020_0041.png"/>
 	<div class="combo"><a href="vr/41_pertinencia1.html" target="_blank" class="visu">Visualização em 3D do 1&deg; exemplo</a>
