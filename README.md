@@ -3084,19 +3084,13 @@
 			   <input type="radio" id="319" name="sl">
 			   <label for="319"></label>
 			   <img src="cotadas/49_01_01.png"/>
-			<figcaption>Rebater o ponto <b>A</b></figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="320" name="sl">
-			   <label for="320"></label>
-			   <img src="cotadas/49_01_02.png"/>
-			 <figcaption>Rebater o ponto <b>B</b></figcaption>
+			<figcaption>Rebater os pontos <b>A</b> e <b>B</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="321" name="sl">
 			   <label for="321"></label>
-			   <img src="cotadas/49_01_03.png"/>
-			 <figcaption>Verificar a cota do ponto de intersecção das projeções, medindo o segmento. Verificamos que a cota do ponto <b>P</b> é <b>2,4</b>, portanto as retas são ortogonais.</figcaption>
+			   <img src="cotadas/49_01_02.png"/>
+			 <figcaption>Verificar a cota do ponto de intersecção das projeções, medindo o segmento. Verificamos que a cota do ponto <b>P</b> é <b>1,7</b>, portanto as retas são ortogonais.</figcaption>
 		   </li>
 		</ul>
 		<img src="cotadas/49_01_00.png" class="fundo"/>
