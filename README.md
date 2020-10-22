@@ -3230,6 +3230,9 @@
 <details>
   <summary id="planos">4. Representações de planos</summary>
 	<p>Material da página 52 até a página 72.</p>
+	<div class="embed-container">
+		<iframe width="100%" src="https://www.youtube.com/embed/h23UJN35Wdc" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
 	<img src="cotadas/Cotadas_2020_0052.png"/>
 	<div class="combo"><figcaption>Use o link abaixo para visualizar em 3D as representações de um plano <b>&alpha;(A,B,C)</b> por 3 pontos não colineares, <b>&alpha;(r,C)</b> por um ponto e uma reta que não se pertencem, <b>&alpha;(r,s)</b> por duas retas concorrentes ou <b>&alpha;(s,t)</b> por duas retas paralelas.</figcaption>
 	<a href="vr/53_rep_planos.html" target="_blank" class="visu">Visualização em 3D</a></div>
