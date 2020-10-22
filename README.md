@@ -3074,6 +3074,9 @@
 	</details>
 	<a href="vr/47_incidencia6c.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
+	<div class="embed-container">
+		<iframe width="100%" src="https://www.youtube.com/embed/dhry8zBZSE8" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
 	<img src="cotadas/Cotadas_2020_0048.png"/>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0049.png"/>
