@@ -3164,6 +3164,12 @@
 			   <img src="cotadas/50_01_06.png"/>
 			 <figcaption>Com a ponta seca em <b>P'</b>,obter o ponto <b>Q'<sub>1</sub>(0)</b>. Lembre-se que nas retas perpendiculares, os intervalos crescem em sentidos opostos, dessa forma, escolhendo-se o ponto à esquerda do ponto <b>P</b>, ele terá conta inferior à cota de <b>P</b>, enquanto que se escolher o ponto à direita de <b>P</b>, ele terá a cota maior do que a cota de <b>P</b>.</figcaption>
 		   </li>
+		   <li>
+			   <input type="radio" id="329a" name="sl">
+			   <label for="329a"></label>
+			   <img src="cotadas/50_01_07.png"/>
+			 <figcaption>A cota do ponto <b>Q</b> é 2.</figcaption>
+		   </li>
 		</ul>
 		<img src="cotadas/50_01_00.png" class="fundo"/>
 	</details></div>
