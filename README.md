@@ -3374,6 +3374,9 @@
 	<br>e)Pertinência de ponto ao plano: para que um ponto pertença ao plano, ele deve pertencer a uma das retas do plano.
 	<br>f) Traço: o traço do plano qualquer no plano de projeção pi' é uma reta horizontal de cota zero.</figcaption>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
+	<div class="embed-container">
+		<iframe width="100%" src="https://www.youtube.com/embed/Y-IonoqnC9Y" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
 	<img src="cotadas/Cotadas_2020_0058.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 		<p>Para que a reta esteja contida no plano, ela deve ser concorrente com duas retas do plano.</p>
