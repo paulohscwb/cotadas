@@ -3864,6 +3864,9 @@
 		<img src="cotadas/65_2_00.png" class="fundo"/>
 	</details></div>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
+	<div class="embed-container">
+		<iframe width="100%" src="https://www.youtube.com/embed/HMtR2fdmxfA" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
 	<img src="cotadas/Cotadas_2020_0066.png"/>
 	<div class="combo"><figcaption>Use o link abaixo para visualizar em 3D o processo do rebatimento de um plano qualquer <b>&alpha;</b> sobre <b>&pi;</b>.</figcaption>
 	<a href="vr/rebatimento.html" target="_blank" class="visu">Visualização em 3D</a></div>
