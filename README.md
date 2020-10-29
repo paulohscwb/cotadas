@@ -4198,6 +4198,9 @@
 <details>
   <summary id="intersecoes">5.1. Interseções</summary>
   <p>Material da página 73 até a página 77.</p>
+	<div class="embed-container">
+		<iframe width="100%" src="https://www.youtube.com/embed/EYk0pI5-MkY" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
 	<img src="cotadas/Cotadas_2020_0073.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Dois planos são paralelos se:
@@ -4258,15 +4261,76 @@
 	</details></div>
 	<p class="topop"><a href="#intersecoes" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0074.png"/>
-	<div class="combo"><figcaption>Use o link abaixo para visualizar em 3D a interseção entre plano horizontal e um plano vertical</figcaption>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>A projeção da interseção entre um plano horizontal e um plano vertical coincide com o traço do plano vertical em <b>&pi;'</b>.</p> 
+		<img src="cotadas/74_01_01.png"/>
+		<figcaption>Trata-se de uma reta horizontal com a cota igual à cota do plano horizontal: neste caso, a cota é do plano é igual à cota do ponto <b>A</b>, com 3 unidades.</figcaption>
+	</details>
 	<a href="vr/int_pv_ph.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="cotadas/Cotadas_2020_0074a.png"/>
-	<div class="combo"><figcaption>Use o link abaixo para visualizar em 3D a interseção entre plano qualquer e um plano horizontal</figcaption>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <p>Considerando o plano horizontal <b>&alpha;</b> definido pelo ponto <b>A</b>, vamos encontrar a reta horizontal do plano qualquer <b>&beta;</b> com cota igual à cota de <b>A</b>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="482a" name="sl">
+			   <label for="482a"></label>
+			   <img src="cotadas/74_02_01.png"/>
+			 <figcaption>Temos os pontos de cotas iguais a 3 e 4: logo, a distância entre <b>B'(4)</b> e <b>C'(3)</b> é o intervalo do plano. Marcando este intervalo ao lado do ponto <b>B'(4)</b>, temos o ponto <b>D'(5)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="483a" name="sl">
+			   <label for="483a"></label>
+			   <img src="cotadas/74_02_02.png"/>
+			 <figcaption>A interseção <b>(&alpha;&beta;)'</b> será a horizontal de cota 5 do plano <b>&beta;</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/74_02_00.png" class="fundo"/>
+	</details>
 	<a href="vr/int_pq_ph.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#intersecoes" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0075.png"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>A projeção da interseção entre dois planos verticais será a reta vertical que coincide com a interseção dos traços <b>&alpha;&pi;'</b> e <b>&beta;&pi;'</b>.</p> 
+		<img src="cotadas/75_01_01.png"/>
+		<figcaption></figcaption>
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0075a.png"/>
-	<div class="combo"><figcaption>Use o link abaixo para visualizar em 3D a interseção entre plano qualquer e um plano vertical</figcaption>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <p>Considerando o plano vertical definido pelo traço <b>&alpha;&pi;'</b>, vamos encontrar duas retas horizontais do plano qualquer <b>&beta;</b>.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="482b" name="sl">
+			   <label for="482b"></label>
+			   <img src="cotadas/75_02_01.png"/>
+			 <figcaption>Podemos construir a reta horizontal do plano <b>&beta;</b> com cota 2, que passa pelo ponto <b>A'(2)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="483b" name="sl">
+			   <label for="483b"></label>
+			   <img src="cotadas/75_02_02.png"/>
+			 <figcaption>A interseção desta reta horizontal com <b>&alpha;&pi;'</b> é um dos pontos de interseção dos planos <b>P'(2)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="484b" name="sl">
+			   <label for="484b"></label>
+			   <img src="cotadas/75_02_03.png"/>
+			 <figcaption>Construa a reta horizontal do plano <b>&beta;</b> com cota 1, que passa pelo ponto <b>B'(1)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="485b" name="sl">
+			   <label for="485b"></label>
+			   <img src="cotadas/75_02_04.png"/>
+			 <figcaption>A interseção desta reta horizontal com <b>&alpha;&pi;'</b> é o segundo ponto de interseção dos planos <b>Q'(1)</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="486b" name="sl">
+			   <label for="486b"></label>
+			   <img src="cotadas/75_02_05.png"/>
+			 <figcaption>A interseção <b>(&alpha;&beta;)'</b> será a reta qualquer  <b>(&alpha;&beta;)' &equiv; &alpha;&pi;'</b>, definida pelos pontos <b>P</b> e <b>Q</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/75_02_00.png" class="fundo"/>
+	</details>
 	<a href="vr/int_pq_pv.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="cotadas/Cotadas_2020_0075b.png"/>
 	<div class="combo"><figcaption>Use o link abaixo para visualizar em 3D a interseção entre dois planos quaisquer</figcaption>
