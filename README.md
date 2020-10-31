@@ -1003,7 +1003,8 @@
     <img src="dg/05_02_00.png" class="fundo"/>
   </details></div>
   <img src="dg/Cotadas_2020_0005b.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.1</span></div>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.1</span>
+  <p>Nesta atividade, construa o incentro e a circunferência inscrita.</p></div>
   <p class="topop" id="atv11"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Cotadas_2020_0006.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
