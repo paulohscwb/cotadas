@@ -4676,7 +4676,7 @@
 			 <figcaption>Para indicar o sentido de escoamento das águas desenhamos setas no sentido de decrescimento da reta de declive de cada água. Lembre-se que essa direção é sempre perpendicular às horizontais do plano!</figcaption>
 		   </li>
 		</ul>
-		<img src="aplicacoes/83_07.png" class="fundo"/>
+		<img src="aplicacoes/83_07a.png" class="fundo"/>
 	</details>
   <a href="telhados/telhado33.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
