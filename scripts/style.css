@@ -281,12 +281,11 @@ iframe {
   display: block;
 }
 
-details[open] {
+details[open] summary * {
   animation: sweep .5s ease-in-out;
 }
 
-details:not([open])
- {
+details:not([open]) summary * {
   animation: sweep1 .5s ease-in-out;
 }
 
