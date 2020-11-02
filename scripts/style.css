@@ -286,15 +286,15 @@ details[open] summary ~ * {
 }
 
 details:not([open]) summary ~ * {
-  animation: sweep1 .5s ease-in-out;
+  animation: sweep1 .5s linear;
 }
 
 @keyframes sweep {
-  0%    {opacity: 0; margin-top: -15px}
+  0%    {opacity: 0.5; margin-top: -15px}
   100%  {opacity: 1; margin-top: 0px}
 }
 
 @keyframes sweep1 {
-  0%    {opacity: 1; margin-top: 0px}
-  100%  {opacity: 0; margin-top: -15px}
+  0%    {opacity: 1; margin-top: 0px; height:100%;}
+  100%  {opacity: 0.5; margin-top: -15px; height:0;}
 }
