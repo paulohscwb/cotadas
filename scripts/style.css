@@ -281,3 +281,13 @@ iframe {
   display: block;
 }
 
+
+details[open] summary ~ * {
+  animation: sweep .5s ease-in-out;
+  overflow:hidden;
+}
+
+@keyframes sweep {
+  0%    {opacity: 0.2; transform:translateY(-15px);}
+  100%  {opacity: 1; transform:translateY(0)}
+}
