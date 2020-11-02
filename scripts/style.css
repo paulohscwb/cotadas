@@ -72,6 +72,7 @@ details {
 	box-shadow: 0px 1px 1px 0px rgba(21,153,87,0.2);
 	margin: 0 -3px 30px -3px;
 	width:100.7%;
+	animation: sweep .5s ease-in-out;
 }
 
 .sub {
@@ -280,15 +281,21 @@ iframe {
   display: block;
 }
 
-details[open] summary ~ * {
+details[open] {
   animation: sweep .5s ease-in-out;
 }
 
-.combo details[open] summary ~ * {
-  animation: sweep .5s ease-in-out;
+details:not([open])
+ {
+  animation: sweep1 .5s ease-in-out;
 }
 
 @keyframes sweep {
   0%    {opacity: 0; margin-top: -15px}
   100%  {opacity: 1; margin-top: 0px}
+}
+
+@keyframes sweep1 {
+  0%    {opacity: 1; margin-top: 0px}
+  100%  {opacity: 0; margin-top: -15px}
 }
