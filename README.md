@@ -4683,6 +4683,9 @@
 	</details>
   <a href="telhados/telhado33.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
+  <div class="embed-container">
+		<iframe width="100%" src="https://www.youtube.com/embed/cRa3HmfSPKs" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
   <img src="aplicacoes/Cotadas_2020_0084.png"/>
    <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Bissetrizes</summary>
   <p>Vamos determinar as interseções das águas da cobertura dada. Como todas as águas possuem a mesma inclinação utilizaremos o processo das bissetrizes. Elas são as projeções de algumas das interseções entre as águas do telhado. Acompanhe o traçado das bissetrizes utilizando os esquadros. Nomeie os vértices da poligonal de <b>A</b> a <b>F</b>.</p>
