@@ -2182,7 +2182,7 @@
 <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 </details>
 
-<details>
+<details open>
   <summary id="pontos">2.2. Pontos e segmentos em épura</summary>
 	<p>Material da página 26 até a página 32.</p>
 	<img src="cotadas/Cotadas_2020_0026.png"/>
