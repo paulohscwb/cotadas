@@ -1496,7 +1496,7 @@
   <p class="topop" id="atv13"><a href="#desenho" class="topo">voltar ao topo</a></p>
 </details>
 
-<details>
+<details open>
   <summary id="propriedades">2.1. Propriedades das projeções cilíndricas</summary>
 	<p>Material da página 11 até a página 25.</p>
 	<p>Leia o conteúdo das páginas 11, 12 e 13 da apostila. Agora vamos começar a trabalhar com as projeções de objetos e figuras em um plano <b>&pi;'</b>.</p> 	
