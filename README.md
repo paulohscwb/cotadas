@@ -1464,7 +1464,7 @@
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Cotadas_2020_0010.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p>Vamos lembrar que para que uma reta seja tangente à uma circunferência quando o ângulo formado entre o raio e a reta no ponto de tangência mede <b>90°</b>! Vamos à construção.</p>
+  <p>Vamos lembrar que para que uma reta seja tangente a uma circunferência é necessário que o ângulo formado entre o raio e a reta no ponto de tangência meça <b>90°</b>! Vamos à construção.</p>
   <ul class="slider">
       <li>
            <input type="radio" id="0019" name="sl">
