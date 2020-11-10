@@ -1951,6 +1951,7 @@
 	<img src="prop/21_05_00b.png">
 	<figcaption>Com as propriedades que usamos no item a, você consegue fazer a construção deste hexágono do item b.</figcaption>
   </details>
+  <a href="vr/p_ex5a_hexagono.html" target="_blank" class="visu">Visualização em 3D: item a</a>
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: item c</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
@@ -1999,7 +2000,6 @@
     </ul>
 	<img src="prop/21_05_00c.png" class="fundo"/>
   </details>
-  <a href="vr/p_ex5a_hexagono.html" target="_blank" class="visu">Visualização em 3D: item a</a>
   <a href="vr/p_ex5c_hexagono.html" target="_blank" class="visu">Visualização em 3D: item c</a></div>
   <img src="prop/Cotadas_2020_0021a.png"/>
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.1</span></div>
