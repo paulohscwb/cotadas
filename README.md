@@ -1883,8 +1883,8 @@
 	<h4>Solução do item c.</h4>
   	<img src="prop/20_04_00c.png"/>
 	<figcaption>Utilizando as mesmas propriedades dos itens anteriores, você consegue construir este triângulo. Use o link abaixo para te ajudar na visualização em 3D.</figcaption>
-    <a href="vr/p_ex4c_triangulo.html" target="_blank" class="visu">Visualização em 3D do item c</a>
-  </details></div>
+    </details>
+  <a href="vr/p_ex4c_triangulo.html" target="_blank" class="visu">Visualização em 3D: item c</a></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/Cotadas_2020_0021.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: itens a e b</summary>
@@ -1946,8 +1946,7 @@
        </li>
     </ul>
 	<img src="prop/21_05_00a.png" class="fundo"/>
-    <a href="vr/p_ex5a_hexagono.html" target="_blank" class="visu">Visualização em 3D</a>
-	<hr>
+    <hr>
 	<h4>Solução do item b</h4>
 	<img src="prop/21_05_00b.png">
 	<figcaption>Com as propriedades que usamos no item a, você consegue fazer a construção deste hexágono do item b.</figcaption>
@@ -2000,7 +1999,8 @@
     </ul>
 	<img src="prop/21_05_00c.png" class="fundo"/>
   </details>
-  <a href="vr/p_ex5c_hexagono.html" target="_blank" class="visu">Visualização em 3D</a></div>
+  <a href="vr/p_ex5a_hexagono.html" target="_blank" class="visu">Visualização em 3D: item a</a>
+  <a href="vr/p_ex5c_hexagono.html" target="_blank" class="visu">Visualização em 3D: item c</a></div>
   <img src="prop/Cotadas_2020_0021a.png"/>
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.1</span></div>
   <p class="topop" id="atv21"><a href="#propriedades" class="topo">voltar ao topo</a></p>
