@@ -2320,32 +2320,32 @@
 			   <input type="radio" id="514" name="sl">
 			   <label for="514"></label>
 			   <img src="cotadas/30_01_01.png"/>
-			<figcaption>?</figcaption>
+			<figcaption></figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="515" name="sl">
 			   <label for="515"></label>
 			   <img src="cotadas/30_01_02.png"/>
-			 <figcaption>?</figcaption>
+			 <figcaption></figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="516" name="sl">
 			   <label for="516"></label>
 			   <img src="cotadas/30_01_03.png"/>
-			 <figcaption>?</figcaption>
+			 <figcaption></figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="517" name="sl">
 			   <label for="517"></label>
 			   <img src="cotadas/30_01_04.png"/>
-			 <figcaption>?</figcaption>
+			 <figcaption></figcaption>
 		   </li>
 		</ul>
 		<img src="cotadas/30_01_00.png" class="fundo"/>
 		<hr>
 		<h4>Solução do item b</h4>
 		<img src="cotadas/30_02_00.png"/>
-		<figcaption>?</figcaption>
+		<figcaption></figcaption>
 	  </details></div>
 	  <img src="cotadas/Cotadas_2020_0030b.png"/>
 	  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -2354,19 +2354,19 @@
 			   <input type="radio" id="518" name="sl">
 			   <label for="518"></label>
 			   <img src="cotadas/30_03_01.png"/>
-			<figcaption>?</figcaption>
+			<figcaption></figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="519" name="sl">
 			   <label for="519"></label>
 			   <img src="cotadas/30_03_02.png"/>
-			 <figcaption>?</figcaption>
+			 <figcaption></figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="520" name="sl">
 			   <label for="520"></label>
 			   <img src="cotadas/30_03_03.png"/>
-			 <figcaption>?</figcaption>
+			 <figcaption></figcaption>
 		   </li>
 		</ul>
 		<img src="cotadas/30_03_00.png" class="fundo"/>
