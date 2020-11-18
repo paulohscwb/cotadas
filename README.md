@@ -2755,16 +2755,10 @@
 			 <figcaption>Marca-se <b>60&deg;</b> a partir de <b>A’<sub>1</sub></b>.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="574" name="sl">
-			   <label for="574"></label>
-			   <img src="cotadas/40_02_05.png"/>
-			 <figcaption>Aonde a perpendicular sobre <b>B’</b> encontrar a reta traçada, marcamos <b>B’<sub>1</sub></b>. Usando a régua obtém-se a cota do ponto <b>B</b>.</figcaption>
-		   </li>
-		   <li>
 			   <input type="radio" id="575" name="sl">
 			   <label for="575"></label>
 			   <img src="cotadas/40_02_06.png"/>
-			 <figcaption>Com isso a reta ficará determinada.</figcaption>
+			 <figcaption>Aonde a perpendicular sobre <b>B’</b> encontrar a reta traçada, marcamos <b>B’<sub>1</sub></b>. Usando a régua obtém-se a cota do ponto <b>B</b>. Com isso a reta ficará determinada.</figcaption>
 		   </li>
 		</ul>
 		<img src="cotadas/40_02_00.png" class="fundo"/>
