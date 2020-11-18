@@ -2678,29 +2678,29 @@
 		  <li>
 			   <input type="radio" id="557" name="sl">
 			   <label for="557"></label>
-			   <img src="cotadas/38_01_02.png"/>
+			   <img src="cotadas/38_01_01.png"/>
 			<figcaption>Iniciamos traçando uma reta qualquer concorrente à reta <b>r’</b> pelo ponto de menor cota. Nesse caso <b>A’</b>. </figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="558" name="sl">
 			   <label for="558"></label>
-			   <img src="cotadas/38_01_03.png"/>
+			   <img src="cotadas/38_01_02.png"/>
 			 <figcaption>Com a régua igualamos a marca da régua de acordo com a cota do ponto. Nesse caso, igualamos a marca de <b>0,8</b> à <b>A’</b>. </figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="559" name="sl">
 			   <label for="559"></label>
-			   <img src="cotadas/38_01_04.png"/>
+			   <img src="cotadas/38_01_03.png"/>
 			 <figcaption>Marcamos então os pontos 1, 2, 3, 4, 5, 6, e 6,3 (cota do ponto <b>B</b>).</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="560" name="sl">
 			   <label for="560"></label>
-			   <img src="cotadas/38_01_05.png"/>
+			   <img src="cotadas/38_01_04.png"/>
 			 <figcaption>Unimos o ponto <b>6,3</b> a <b>B’</b> e traçamos retas paralelas obtendo os pontos de cotas inteiras, e com isso a graduação da reta <b>AB</b>.</figcaption>
 		   </li>
 		</ul>
-		<img src="cotadas/38_01_01.png" class="fundo"/>
+		<img src="cotadas/38_01_00.png" class="fundo"/>
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0038a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
