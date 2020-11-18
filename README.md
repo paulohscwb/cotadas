@@ -2755,13 +2755,19 @@
 			 <figcaption>Marca-se <b>60&deg;</b> a partir de <b>A’<sub>1</sub></b>.</figcaption>
 		   </li>
 		   <li>
+			   <input type="radio" id="574" name="sl">
+			   <label for="574"></label>
+			   <img src="cotadas/40_02_05.png"/>
+			 <figcaption>Aonde a perpendicular sobre <b>B’</b> encontrar a reta traçada, marcamos <b>B’<sub>1</sub></b>. Usando a régua obtém-se a cota do ponto <b>B</b>.</figcaption>
+		   </li>
+		   <li>
 			   <input type="radio" id="575" name="sl">
 			   <label for="575"></label>
 			   <img src="cotadas/40_02_06.png"/>
-			 <figcaption>Aonde a perpendicular sobre <b>B’</b> encontrar a reta traçada, marcamos <b>B’<sub>1</sub></b>. Usando a régua obtém-se a cota do ponto <b>B</b>. Com isso a reta ficará determinada.</figcaption>
+			 <figcaption>Com isso a reta ficará determinada.</figcaption>
 		   </li>
 		</ul>
-		<img src="cotadas/40_02_00.png" class="fundo"/>
+		<img src="cotadas/40_02_01.png" class="fundo"/>
 	</details></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<div class="embed-container">
@@ -5189,6 +5195,9 @@
 		<img src="aplicacoes/91_00.png" class="fundo"/>
 	</details></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
+  <div class="embed-container">
+		<iframe width="100%" src="https://www.youtube.com/embed/fwr04Mo_gF0" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</div>
   <img src="aplicacoes/Cotadas_2020_0092.png"/>
   <div class="combo"><figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
   <a href="telhados/telhado43.html" target="_blank" class="visu">Visualização em 3D</a></div>
