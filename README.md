@@ -2703,35 +2703,10 @@
 		<img src="cotadas/38_01_01.png" class="fundo"/>
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0038a.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>O processo é similar ao anterior, no entanto, devemos tomar cuidado com a cota negativa.</p>
-	<ul class="slider">
-		  <li>
-			   <input type="radio" id="561" name="sl">
-			   <label for="561"></label>
-			   <img src="cotadas/38_02_02.png"/>
-			<figcaption>Iniciamos traçando uma reta qualquer concorrente à reta <b>r’</b> pelo ponto de menor cota. Nesse caso <b>A’</b>.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="562" name="sl">
-			   <label for="562"></label>
-			   <img src="cotadas/38_02_03.png"/>
-			 <figcaption>Igualamos a marca <b>0 cm</b> da régua com <b>A’</b>.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="563" name="sl">
-			   <label for="563"></label>
-			   <img src="cotadas/38_02_04.png"/>
-			 <figcaption>Marcamos então os pontos -1, 0, 1,  2, 3, 4, 5, 6, e 6,2 (cota do ponto <b>B</b>). Observe que 0,3 cm, corresponde à cota -1. Dessa maneira, 1,3 cm, corresponderá à cota 0, e assim por diante. Caso deseje você pode marcar a cota 0 e depois arrastar a régua, igualando a cota 0 com a marca de 0 cm.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="564" name="sl">
-			   <label for="564"></label>
-			   <img src="cotadas/38_02_05.png"/>
-			 <figcaption>Unimos o ponto <b>6,2</b> a <b>B’</b> e traçamos retas paralelas obtendo os pontos de cotas inteiras, e com isso a graduação da reta <b>AB</b>.</figcaption>
-		   </li>
-		</ul>
 		<img src="cotadas/38_02_01.png" class="fundo"/>
+		<figcaption>Unimos o ponto <b>6,2</b> a <b>B’</b> e traçamos retas paralelas obtendo os pontos de cotas inteiras, e com isso a graduação da reta <b>AB</b>.</figcaption>
 	</details></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0039.png"/>
