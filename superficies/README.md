@@ -9,35 +9,35 @@
 <br><br><center><img src="https://paulohscwb.github.io/cotadas/vr/exemplo.jpg" width="80%"></center>
 <table><tr><td><h3>Curvas de nível, pág. 119</h3>
 <img src="119_cnivel.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/superficies/curva11.html"><img src="../vr/RVaframe.png" width="200px"></a>
+<br><a target="_blank" href="https://paulohscwb.github.io/cotadas/superficies/curva11.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
 <h3>Exercício 1, pág. 121</h3>
 <img src="121_exerc1.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/superficies/curva2.html"><img src="../vr/RVaframe.png" width="200px"></a>
+<br><a target="_blank" href="https://paulohscwb.github.io/cotadas/superficies/curva2.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
 <h3>Exercício 2, pág. 125</h3>
 <img src="125_exerc2.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/superficies/curva3.html"><img src="../vr/RVaframe.png" width="200px"></a>
+<br><a target="_blank" href="https://paulohscwb.github.io/cotadas/superficies/curva3.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
 <h3>Exercício 3, pág. 126</h3>
 <img src="126_exerc3.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/superficies/curva9.html"><img src="../vr/RVaframe.png" width="200px"></a>
+<br><a target="_blank" href="https://paulohscwb.github.io/cotadas/superficies/curva9.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
 <h3>Exercício da pág. 127</h3>
 <img src="127_exerc.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/superficies/curva10.html"><img src="../vr/RVaframe.png" width="200px"></a>
+<br><a target="_blank" href="https://paulohscwb.github.io/cotadas/superficies/curva10.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
 <h3>Exercício da pág. 133</h3>
 <img src="133_exerc.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/superficies/curva15.html"><img src="../vr/RVaframe.png" width="200px"></a>
+<br><a target="_blank" href="https://paulohscwb.github.io/cotadas/superficies/curva15.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
 <h3>Exercício 2, pág. 136</h3>
 <img src="136_exerc2.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/superficies/curva13c.html"><img src="../vr/RVaframe.png" width="200px"></a>
+<br><a target="_blank" href="https://paulohscwb.github.io/cotadas/superficies/curva13c.html"><img src="../vr/RVaframe.png" width="200px"></a>
 <hr>
 <h3>Exercício novo: estrada com curva</h3>
 <img src="estrada_curva.PNG">
-<br><a href="https://paulohscwb.github.io/cotadas/superficies/curva16.html"><img src="../vr/RVaframe.png" width="200px"></a>
+<br><a target="_blank" href="https://paulohscwb.github.io/cotadas/superficies/curva16.html"><img src="../vr/RVaframe.png" width="200px"></a>
 </td></tr></table>
 
 <a href="#inicio"><img src="../vr/topo.png" width="18px"> voltar ao topo</a>
