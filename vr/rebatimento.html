@@ -13,6 +13,7 @@
 			<a-mixin id="mtl0" material="opacity: 0.3; side: double; metalness:0.3; roughness:0.9; depthWrite: false;"></a-mixin>
 			<a-mixin id="mtl2" material="color: #ee514b"></a-mixin>
 			<a-mixin id="mtl3" material="color: #1E9961;"></a-mixin>
+			<a-mixin id="mtl4" material="color: #B404AE;"></a-mixin>
 			<a-mixin id="texto" text="width: 12; side:double; color: black">
 			<a-mixin id="ponto" geometry="radius:0.1;" material="color: #d8ef09;"></a-mixin><!--#4b97ee; #ee514b; #1E9961; #B404AE; #82FA58; #58ACFA; orange; #d8ef09; #6E6E6E;-->
 		</a-assets>
@@ -30,9 +31,9 @@
 				<a-sphere mixin="ponto" position="0 3.46 -2"></a-sphere>
 			</a-entity>				
 			
-			<a-torus color="grey" arc="120" rotation="-90 -90 0" segments-tubular="100" radius="4" radius-tubular="0.015"></a-torus>
-			<a-torus color="grey" arc="120" rotation="0 -90 0" segments-tubular="100" radius="4" radius-tubular="0.015"></a-torus>
-			<a-torus color="grey" arc="90" position="0 0 -2" segments-tubular="100" radius="3.46" radius-tubular="0.015"></a-torus>
+			<a-torus color="royalblue" visible="false" arc="120" rotation="-90 -90 0" segments-tubular="100" radius="4" radius-tubular="0.015" animation__1="property:visible; from:false; to: true; delay:3500;" animation="property: opacity; from:0; to: 1; dur: 11000; delay:3500;"></a-torus>
+			<a-torus color="royalblue" visible="false" arc="120" rotation="0 -90 0" segments-tubular="100" radius="4" radius-tubular="0.015" animation__1="property:visible; from:false; to: true; delay:3500;" animation="property: opacity; from:0; to: 1; dur: 11000; delay:3500;"></a-torus>
+			<a-torus color="royalblue" visible="false" arc="90" position="0 0 -2" segments-tubular="100" radius="3.46" radius-tubular="0.015" animation__1="property:visible; from:false; to: true; delay:3500;" animation="property: opacity; from:0; to: 1; dur: 11000; delay:3500;"></a-torus>
 			
 			<a-entity line__2="start: 0 0 0; end: 0 0 -2; color: green"
 				line__3="start: 0 0 0; end: 0 3.46 -2; color: blue"
