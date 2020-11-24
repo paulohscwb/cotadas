@@ -3275,7 +3275,7 @@
 	<a href="vr/55_rebatimento_vertical.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="cotadas/Cotadas_2020_0055a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Rebatimento do plano</summary>
-		<p>A pirâmide possui base hexagonal e como está contida no plano horizontal, todos os pontos possuem a mesma cota e o hexágono está em Verdadeira Grandeza (VG).</p>
+		<p>Vamos rebater o plano vertical para encontrar a VG de uma figura.</p>
 		<ul class="slider">
 		  <li>
 			   <input type="radio" id="343" name="sl">
