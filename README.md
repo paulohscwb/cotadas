@@ -3213,12 +3213,12 @@
 	<div class="combo"><figcaption>Use o link abaixo para visualizar em 3D as representações de um plano <b>&alpha;(A,B,C)</b> por 3 pontos não colineares, <b>&alpha;(r,C)</b> por um ponto e uma reta que não se pertencem, <b>&alpha;(r,s)</b> por duas retas concorrentes ou <b>&alpha;(s,t)</b> por duas retas paralelas.</figcaption>
 	<a href="vr/53_rep_planos.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<img src="cotadas/Cotadas_2020_0052a.png"/>
-	b) Para determinar o plano horizontal é necessário apenas um ponto, pois já possuímos a informação de que o plano é paralelo ao plano de projeção π'.
+	<figcaption>b) Para determinar o plano horizontal é necessário apenas um ponto, pois já possuímos a informação de que o plano é paralelo ao plano de projeção π'.
 	<br>c) As retas contidas no plano horizontal são horizontais.
 	<br>d) Uma figura contida no plano horizontal tem sua projeção em VG.
 	<br>e) A reta perpendicular ao plano horizontal é perpendicular ao plano π', portanto é uma reta vertical.
 	<br>f) A condição para que um ponto pertença ao plano horizontal é que sua cota tenha o mesmo valor da cota do plano α.
-	<br>g) O traço de uma reta sobre o plano é um ponto rα, cuja projeção tem cota igual à cota do plano.
+	<br>g) O traço de uma reta sobre o plano é um ponto rα, cuja projeção tem cota igual à cota do plano.</figcaption>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0053.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
