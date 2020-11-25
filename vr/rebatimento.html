@@ -63,7 +63,13 @@
 				<a-entity animation="property: position; from: 0 0 0; to: 0 0 -0.01; loop: false; dur: 10000; delay:3500;">
 					<a-image src="alfa.png" height="0.6" width="0.6" position="4 4.8 0.1" mixin="imagem" rotation="0 0 0"></a-image>
 					<a-sphere mixin="ponto" position="0 4 0"></a-sphere>
-					<a-text position="0.1 4.2 0.1" value="P" mixin="texto"></a-text>
+					<a-entity animation="property: visible; from: true; to: false; loop: false; dur: 10000; delay:11500;">
+						<a-text position="0.1 4.2 0.1" value="P" mixin="texto"></a-text>
+					</a-entity>
+					<a-entity 
+						animation="property: visible; from: false; to: true; loop: false; dur: 10000; delay:0; ">
+						<a-text position="0.1 4.2 -0.25" value="P'1" mixin="texto" rotation="-115 0 0"></a-text>
+					</a-entity>
 					<a-entity line="start: 0 0 0; end: 0 4 0; color: blue"></a-entity>
 					<a-entity id="planoPI2" faceset="vertices: -5.7 6 0  5.7 6 0  5.7 -3 0  -5.7 -3 0" mixin="mtl0 mtl3"></a-entity>
 				</a-entity>

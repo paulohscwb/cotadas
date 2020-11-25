@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="../../scripts/style.css">
 
 <h2 id="inicio">Respostas do Módulo 1. Desenho Geométrico</h2> 
-  <details open><summary>Atividade 1: exercício 12 da pág. 5</summary>
+  <details open><summary>Atividade 1.1: exercício 12 da pág. 5</summary>
   <img src="../../dg/Cotadas_2020_0005b.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para obter o Incentro <b>I</b> do triângulo precisamos construir as bissetrizes internas do mesmo. Veja como resolver o exercício.</p>
@@ -39,7 +39,7 @@
     </ul>
     <img src="05_03_00.png" class="fundo" />
   </details></div></details>
-  <details open><summary>Atividade 2: exercício 15 d) da pág. 9</summary>
+  <details open><summary>Atividade 1.2: exercício 15 d) da pág. 9</summary>
   <img src="../../dg/Cotadas_2020_0009a.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos construir o hexágono regular de lado <b>l</b> dado! Lembra da construção do hexágono regular inscrito numa circunferência? Retorne à página 7 e reveja a construção! Nesse exercício usamos o raio da circunferência para marcar o lado do polígono! Vamos utilizar esse conceito agora!</p>
@@ -83,7 +83,7 @@
     </ul>
     <img src="09_02_00.png" class="fundo" />
   </details></div></details>
-  <details open><summary>Atividade 3: exercício 18 da pág. 10</summary>
+  <details open><summary>Atividade 1.3: exercício 18 da pág. 10</summary>
   <img src="../../dg/Cotadas_2020_0010a.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Lembre-se que para que uma reta seja tangente à uma circunferência devemos ter que o ângulo formado entre o raio e a reta no ponto de tangência mede <b>90°</b>! Vamos à construção.</p>
@@ -103,7 +103,7 @@
     </ul>
     <img src="10_02_00.png" class="fundo" />
   </details></div></details>
-  <details open style="border-bottom: 1px solid #a2dec0;"><summary>Atividade 4: exercício 19 da pág. 10</summary>
+  <details open style="border-bottom: 1px solid #a2dec0;"><summary>Atividade 1.4: exercício 19 da pág. 10</summary>
   <p>19. Construir um triângulo ABC sabendo-se que:
   <br>a) seu perímetro ( perímetro é a soma dos lados do polígono) mede 11cm
   <br>b) seus lados são proporcionais a números dados, ou seja, AB é proporcional a 2, BC é proporcional a 3 e AC é proporcional a 4.</p>
