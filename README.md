@@ -4416,7 +4416,8 @@
 		   </li>
 		</ul>
 		<img src="cotadas/76_03_00.png" class="fundo"/>
-	</details></div>
+	</details>
+	<a href="vr/intersecao_planos.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#intersecoes" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0077.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
