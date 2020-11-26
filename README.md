@@ -4168,7 +4168,7 @@
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0071.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<img src="../../cotadas/71_01_00.png"/>
+		<img src="cotadas/71_01_00.png"/>
 		<figcaption></figcaption>
 	</details></div>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
