@@ -24,18 +24,22 @@
 		<a-entity gearvr-controls></a-entity>
 		
 		<a-text position="-5 0.2 1.1" value="d'" mixin="texto"></a-text>
+		<a-image src="alfa.png" height="0.3" width="0.3" position="-4.5 0.15 1.1" mixin="imagem"></a-image>
 		<a-text position="-5 0.2 -3.83" value="d'" mixin="texto"></a-text>
+		<a-image src="beta.png" height="0.35" width="0.25" position="-4.5 0.15 -3.83" mixin="imagem"></a-image>
 		
 		<a-sphere mixin="ponto" position="-3.92 3 1.39"></a-sphere>
-		<a-text position="-3.82 3 1.39" value="A" mixin="texto"></a-text>
+		<a-text position="-3.82 3.2 1.39" value="A" mixin="texto"></a-text>
 		<a-sphere mixin="ponto" position="-3.92 0 1.39"></a-sphere>
 		<a-text position="-3.82 0.2 1.39" value="A'(3)" mixin="texto"></a-text>
 		
 		<a-sphere mixin="ponto" position="2.88 2 3.82"></a-sphere>
-		<a-text position="2.98 2 3.82" value="B" mixin="texto"></a-text>
+		<a-text position="2.98 2.2 3.82" value="B" mixin="texto"></a-text>
 		<a-sphere mixin="ponto" position="2.88 0 3.82"></a-sphere>
 		<a-text position="2.98 0.2 3.82" value="B'(2)" mixin="texto"></a-text>
-		
+		<a-text position="2.3 2.1 5.1" value="h2" mixin="texto"></a-text>
+		<a-text position="-4.4 3.1 2.8" value="h3" mixin="texto"></a-text>
+				
 		<a-sphere mixin="ponto" position="1.22 3 -1.78"></a-sphere>
 		<a-text position="1.32 3 -1.78" value="C" mixin="texto"></a-text>
 		<a-sphere mixin="ponto" position="1.22 0 -1.78"></a-sphere>
@@ -44,20 +48,23 @@
 		<a-sphere mixin="ponto" position="-0.87 2 -2.52"></a-sphere>
 		<a-text position="-0.77 2 -2.52" value="D" mixin="texto"></a-text>
 		<a-sphere mixin="ponto" position="-0.87 0 -2.52"></a-sphere>
-		<a-text position="-0.87 0.2 -2.52" value="D'(2)" mixin="texto"></a-text>
+		<a-text position="-0.77 0.2 -2.52" value="D'(2)" mixin="texto"></a-text>
 		
 		<a-sphere mixin="ponto" position="-2.34 0 -3.05"></a-sphere>
 		<a-text position="-2.24 0.2 -3.05" value="A'0" mixin="texto"></a-text>
 		<a-sphere mixin="ponto" position="-2.34 3 -3.05"></a-sphere>
-		<a-text position="-2.24 3 -3.05" value="A1" mixin="texto"></a-text>
+		<a-text position="-2.24 3.2 -3.05" value="A1" mixin="texto"></a-text>
 		
 		<a-sphere mixin="ponto" position="4.47 0 -0.61"></a-sphere>
 		<a-text position="4.57 0.2 -0.61" value="B'0" mixin="texto"></a-text>
 		<a-sphere mixin="ponto" position="4.47 2 -0.61"></a-sphere>
-		<a-text position="4.57 2 -0.61" value="B1" mixin="texto"></a-text>
+		<a-text position="4.57 2.2 -0.61" value="B1" mixin="texto"></a-text>
+		<a-sphere mixin="ponto" position="0.38 2.6 -2.07"></a-sphere>
 		
 		<a-entity faceset="vertices: 3.29 1.85 5.98  6.64 1.85 -3.44  -2.72 3.22 -6.79  -6.13 3.23 2.63" mixin="mtl0 mtl4"></a-entity>
+		<a-image src="alfa.png" height="0.4" width="0.4" position="-5.73 3.4 2.3" mixin="imagem"></a-image>
 		<a-entity faceset="vertices: 2.01 4.44 5.51  5.38 4.44 -3.93  -3.19 0.34 -7  -6.57 0.33 2.43" mixin="mtl0 mtl3"></a-entity>
+		<a-image src="beta.png" height="0.5" width="0.4" position="1.9 4.6 5" mixin="imagem"></a-image>
 
 		<a-entity line="start: -5 0 0.87; end: 5 0 4.45; color: black"  line__1="start: -5 0 1; end: 5 0 4.57; color: black"
 		line__3="start: -5 0 -4.13; end: 5 0 -0.55; color: black" line__4="start: -5 0 -4; end: 5 0 -0.42; color: black"
@@ -66,7 +73,14 @@
 		line__6="start: -2.34 0 -3.05; end: -2.34 3 -3.05; color: #6E6E6E"
 		line__7="start: 4.47 0 -0.61; end: 4.47 2 -0.61; color: #6E6E6E"
 		line__10="start: 1.22 3 -1.78; end: 1.22 0 -1.78; color: #6E6E6E"
-		line__11="start: -0.87 2 -2.52; end: -0.87 0 -2.52; color: #6E6E6E"></a-entity>
+		line__11="start: -0.87 2 -2.52; end: -0.87 0 -2.52; color: #6E6E6E"
+		line__12="start: -3.92 3 1.39; end: 2.88 2 3.82; color: blue"
+		line__13="start: -2.34 3 -3.05; end: 4.47 2 -0.61; color: blue"
+		line__14="start: 1.22 3 -1.78; end: -0.87 2 -2.52; color: red"
+		line__15="start: 2.26 2 5.56; end: 5.62 2 -3.84; color: blue"
+		line__16="start: -4.55 3 3.15; end: -1.19 3 -6.24; color: blue"
+		line__17="start: 1.53 2.6 -5.29; end: -1.83 2.6 4.12; color: red"
+		line__18="start: 1.53 0 -5.29; end: -1.83 0 4.12; color: red"></a-entity>
 		
 		<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0 mtl2"></a-entity>
 		<a-image src="pi1.png" height="0.6" width="0.6" position="-4.5 0.32 4.8" mixin="imagem"></a-image>
