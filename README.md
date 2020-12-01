@@ -5548,6 +5548,9 @@
   <div class="combo"><figcaption>Use o link abaixo para visualizar em 3D uma superfície topográfica com suas respectivas curvas de nível</figcaption>
   <a href="superficies/curva11.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
+  <div class="embed-container">
+	 <iframe width="100%" src="https://www.youtube.com/embed/DGEB-CqWzlc" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   </div>
   <img src="aplicacoes/Cotadas_2020_0098.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Traçado de curvas de nível</summary>
 	  <p>Para traças as curvas de nível podemos utilizar o método da triangularização. Acompanhe o procedimento.</p>
