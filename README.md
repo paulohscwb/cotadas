@@ -3203,7 +3203,7 @@
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 </details>
 
-<details open>
+<details>
   <summary id="planos">4. Representações de planos</summary>
 	<p>Material da página 52 até a página 72.</p>
 	<div class="embed-container">
