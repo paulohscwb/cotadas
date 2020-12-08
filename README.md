@@ -5699,7 +5699,7 @@
 			 <figcaption>Esse segmento possui extremidades de cotas 23,8m e 26,2m. Devemos obter pontos de cotas inteiras, ou seja, 24m, 25m e 26m.Vamos dividir esse segmento em partes proporcionais a 0,2u, 1u, 1u e 0,2u aplicando o Teorema de Tales. Encaixe a régua com a marcação de 23,8 no ponto da esquerda, trace um segmento auxiliar e faça marcações no 24, 25, 26 e 26,2cm.</figcaption>
 		   </li>
 		   <li>
-			   <input type="radio" id="713" name="sl">
+			   <input type="radio" id="713z" name="sl">
 			   <label for="713z"></label>
 			   <img src="aplicacoes/100_06.png"/>
 			 <figcaption>Una o último ponto marcado à extremidade da direita do segmento e pelos demais trace paralelas a esse segmento, obtendo os pontos de cotas inteiras 24m, 25m e 26m.</figcaption>
