@@ -7,14 +7,15 @@
 	<script src=".././scripts/faceset.js"></script>
   </head>  
 <body>
-	<div style='color:#f0f8ff; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2020 Paulo Henrique Siqueira</div>
+<div style='color:#f0f8ff; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2020 Paulo Henrique Siqueira</div>
 	<a-scene>
 		<a-assets>
 			<a-mixin id="imagem" material="side: double; transparent: true; depthTest: false;" rotation="-25 0 0"></a-mixin>
 			<a-mixin id="mtl0" material="opacity: 0.5; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
+			<a-mixin id="mtl0s" material="opacity: 0.6; side: double; metalness:0.3; roughness:0.9; depthTest: false;"></a-mixin>
 			<a-mixin id="mtl2" material="color: #ee514b"></a-mixin>
-			<a-mixin id="mtl8" material="color: #d8ef09;"></a-mixin>
-			<a-mixin id="mtl9" material="color: #6E6E6E;"></a-mixin>
+			<a-mixin id="mtl8" material="color: #1E9961;"></a-mixin>
+			<a-mixin id="mtl9" material="color: #4b97ee;"></a-mixin>
 			<a-mixin id="texto" text="width: 12; side:double; color: black" rotation="-25 0 0">
 			<a-mixin id="ponto" geometry="radius:0.1;" material="color: #d8ef09;"></a-mixin> <!--#4b97ee; #1E9961; #B404AE; #82FA58; orange; #d8ef09; #6E6E6E;-->
 		</a-assets>
@@ -46,16 +47,16 @@
 				<a-sphere mixin="ponto" position="-0.54 0 0.61"></a-sphere>
 				<a-text position="-0.44 0.25 0.61" value="M'" mixin="texto"></a-text>
 
-				<a-torus position="-0.54 0 0.61" rotation="90 0 0" geometry="segmentsTubular: 120;" color="green" radius="2.72" radius-tubular="0.01"></a-torus>
+				<a-torus position="-0.54 0 0.61" rotation="90 0 0" geometry="segmentsTubular: 120;" color="mediumspringgreen" radius="2.72" radius-tubular="0.01"></a-torus>
 				<a-text position="3.6 3.5 -3" value="d" mixin="texto"></a-text>
 				
-				<a-entity line="start: -2.82 2 -0.81; end: 1.78 4.72 2.02; color: #6E6E6E" 
-				line__2="start: -2.25 2 2.72; end: 1.18 4.72 -1.5; color: #6E6E6E" line__7="start: -2.82 0 -0.81; end: 1.78 0 2.02; color: #6E6E6E" 
-				line__8="start: -2.25 0 2.72; end: 1.18 0 -1.5; color: #6E6E6E"  line__9="start: -2.82 2 -0.81; end: -2.82 0 -0.81; color: #6E6E6E" 
+				<a-entity line="start: -2.82 2 -0.81; end: 1.78 4.72 2.02; color: white" 
+				line__2="start: -2.25 2 2.72; end: 1.18 4.72 -1.5; color: white" line__7="start: -2.82 0.03 -0.81; end: 1.78 0.03 2.02; color: white" 
+				line__8="start: -2.25 0.03 2.72; end: 1.18 0.03 -1.5; color: white"  line__9="start: -2.82 2 -0.81; end: -2.82 0 -0.81; color: #6E6E6E" 
 				line__10="start: -2.25 2 2.72; end: -2.25 0 2.72; color: #6E6E6E"  line__11="start: 1.78 4.72 2.02; end: 1.78 0 2.02; color: #6E6E6E" 
 				line__3="start: 1.18 4.72 -1.5; end: 1.18 0 -1.5; color: #6E6E6E"  line__1="start: -0.54 3.36 0.61; end: -0.54 0 0.61; color: #6E6E6E"
 				line__4="start: 3.5 4 -3; end: 3.5 0 -3; color: #6E6E6E"></a-entity>
-				<a-entity id="triangulo" faceset="vertices: -2.82 2 -0.81  -2.25 2 2.72  1.78 4.72 2.02  1.18 4.72 -1.5" mixin="mtl0 mtl8"></a-entity>
+				<a-entity id="triangulo" faceset="vertices: -2.82 2 -0.81  -2.25 2 2.72  1.78 4.72 2.02  1.18 4.72 -1.5" mixin="mtl0s mtl8"></a-entity>
 				<a-entity id="triangulo" faceset="vertices: -2.82 0.05 -0.81  -2.25 0.05 2.72  1.78 0.05 2.02  1.18 0.05 -1.5" mixin="mtl0 mtl9"></a-entity>
 
 			<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0 mtl2"></a-entity>
