@@ -12,10 +12,11 @@
 		<a-assets>
 			<a-mixin id="imagem" material="side: double; transparent: true; depthTest: false;" rotation="-25 0 0"></a-mixin>
 			<a-mixin id="mtl0" material="opacity: 0.5; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
+			<a-mixin id="mtl0s" material="opacity: 0.6; side: double; metalness:0.3; roughness:0.9; depthTest: false;"></a-mixin>
 			<a-mixin id="mtl2" material="color: #ee514b"></a-mixin>
-			<a-mixin id="mtl3" material="color: #1E9961;"></a-mixin>
-			<a-mixin id="mtl5" material="color: #82FA58;"></a-mixin>
-			<a-mixin id="texto" text="width: 12; side:double; color: black" rotation="-25 0 0">
+			<a-mixin id="mtl3" material="color: #82FA58;"></a-mixin>
+			<a-mixin id="mtl5" material="color: #4b97ee;"></a-mixin>
+			<a-mixin id="texto" text="width: 11; side:double; color: black" rotation="-25 0 0">
 			<a-mixin id="ponto" geometry="radius:0.1;" material="color: #d8ef09;"></a-mixin> <!--#4b97ee; #1E9961; #B404AE; #82FA58; orange; #d8ef09; #6E6E6E;-->
 		</a-assets>
 
@@ -23,7 +24,7 @@
 		<a-entity gearvr-controls></a-entity>
 		
 		<a-entity scale="0.7 0.7 0.7" position="0 0 0">
-			
+			<a-entity scale="1.1 1.1 1.1">
 				<a-sphere mixin="ponto" position="-0.77 2 -2.26"></a-sphere>
 				<a-text position="-1.27 2 -2.26" value="A" mixin="texto"></a-text>
 				<a-sphere mixin="ponto" position="-1.17 3.71 0.9"></a-sphere>
@@ -54,12 +55,14 @@
 				line__2="start: -3.87 0 -0.72; end: 3.74 0 3.85; color: red" line__7="start: -0.77 2 -2.26; end: -0.77 0 -2.26; color: #6E6E6E" 
 				line__8="start: -1.17 3.71 0.9; end: -1.17 0 0.9; color: #6E6E6E"  line__9="start: 1.99 2 1.26; end: 1.99 0 1.26; color: #6E6E6E" 
 				line__10="start: 2.39 0.29 -1.9; end: 2.39 0 -1.9; color: #6E6E6E"  line__11="start: 0.61 2 -0.5; end: 0.61 0 -0.5; color: #6E6E6E" 
-				line__3="start: 3.5 4 -3; end: 3.5 0 -3; color: #6E6E6E"  line__1="start: -0.77 0.05 -2.26; end: 1.99 0.05 1.26; color: #6E6E6E"
-				line__5="start: -0.77 2 -2.26; end: 1.99 2 1.26; color: #6E6E6E"  line__4="start: -1.17 0.05 0.9; end: 2.39 0.05 -1.9; color: #6E6E6E"
-				line__6="start: -1.17 3.71 0.9; end: 2.39 0.29 -1.9; color: #6E6E6E"></a-entity>
-				<a-entity id="triangulo" faceset="vertices: -0.77 2 -2.26  -1.17 3.71 0.9  1.99 2 1.26  2.39 0.29 -1.9" mixin="mtl0 mtl3"></a-entity>
+				line__3="start: 3.5 4 -3; end: 3.5 0 -3; color: #6E6E6E"  line__1="start: -0.77 0.02 -2.26; end: 1.99 0.02 1.26; color: white"
+				line__5="start: -0.77 2 -2.26; end: 1.99 2 1.26; color: white"  line__4="start: -1.17 0.02 0.9; end: 2.39 0.02 -1.9; color: white"
+				line__6="start: -1.17 3.71 0.9; end: 2.39 0.29 -1.9; color: white"></a-entity>
+				<a-entity id="triangulo" faceset="vertices: -0.77 2 -2.26  -1.17 3.71 0.9  1.99 2 1.26  2.39 0.29 -1.9" mixin="mtl0s mtl3"></a-entity>
 				<a-entity id="triangulo" faceset="vertices: -0.77 0.05 -2.26  -1.17 0.05 0.9  1.99 0.05 1.26  2.39 0.05 -1.9" mixin="mtl0 mtl5"></a-entity>
-
+			</a-entity>
+			
+			
 			<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0 mtl2"></a-entity>
 			<a-image src="pi1.png" height="0.6" width="0.6" position="-4.5 0.32 4.8" mixin="imagem"></a-image>
 		</a-entity>
