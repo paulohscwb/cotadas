@@ -1463,32 +1463,26 @@
   </details></div>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Cotadas_2020_0010.png"/>
+  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.3</span></div>
+  <img src="dg/Cotadas_2020_0010a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-  <p>Vamos lembrar que para que uma reta seja tangente a uma circunferência é necessário que o ângulo formado entre o raio e a reta no ponto de tangência meça <b>90°</b>! Vamos à construção.</p>
+  <p>Lembre-se que para que uma reta seja tangente à uma circunferência devemos ter que o ângulo formado entre o raio e a reta no ponto de tangência mede <b>90°</b>! Vamos à construção.</p>
   <ul class="slider">
       <li>
-           <input type="radio" id="0019" name="sl">
-           <label for="0019"></label>
-           <img src="dg/10_01_01.png"/>
-           <figcaption>Construa usando os esquadros ou o compasso uma reta <b>s</b> passando pelo ponto <b>T</b> e perpendicular à reta <b>t</b>.</figcaption>
+           <input type="radio" id="0022" name="sl">
+           <label for="0022"></label>
+           <img src="dg/10_02_01.png" />
+           <figcaption>Construa a reta <b>OT</b>.</figcaption>
        </li>
        <li>
-           <input type="radio" id="0020" name="sl">
-           <label for="0020"></label>
-           <img src="dg/10_01_02.png"/>
-           <figcaption>Marque no compasso <b>2cm</b> e com a ponta seca em <b>T</b> desenhe arcos de circunferência, obtendo <b>P</b> e <b>Q</b> sobre a reta <b>s</b>. Eles serão os centros das circunferências procuradas.</figcaption>
-       </li>
-	   <li>
-           <input type="radio" id="0021" name="sl">
-           <label for="0021"></label>
-           <img src="dg/10_01_03.png"/>
-           <figcaption>Desenhe as circunferências de centros <b>P</b> e <b>Q</b> e raio <b>r=2cm</b>. Pronto! Note que as circunferências e a reta são tangentes no ponto <b>T</b>.</figcaption>
+           <input type="radio" id="0024" name="sl">
+           <label for="0024"></label>
+           <img src="dg/10_02_02.png" />
+           <figcaption>Usando os esquadros ou o compasso construa a reta <b>t</b> passando pelo ponto <b>T</b> e perpendicular à reta <b>s</b>. Pronto! A reta <b>t</b> é tangente à circunferência dada pois o ângulo formado entre ela e o raio no ponto <b>T</b> é <b>90°</b>.</figcaption>
        </li>
     </ul>
-    <img src="dg/10_01_00.png" class="fundo"/>
+    <img src="dg/10_02_00.png" class="fundo" />
   </details></div>
-  <img src="dg/Cotadas_2020_0010a.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.3</span></div>
   <p>19. Construir um triângulo ABC sabendo-se que:
   <br>a) seu perímetro ( perímetro é a soma dos lados do polígono) mede 11cm
   <br>b) seus lados são proporcionais a números dados, ou seja, AB é proporcional a 2, BC é proporcional a 3 e AC é proporcional a 4.</p>
