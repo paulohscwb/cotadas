@@ -2266,10 +2266,7 @@
 		<img src="cotadas/29_01_00.png" class="fundo"/>
 	  </details></div>
 	  <img src="cotadas/Cotadas_2020_0029a.png"/>
-	  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<p>Usando os mesmos conceitos do item a, encontre a vg do segmento <b>CD</b>.</p>
-		<img src="cotadas/29_02_00.png"/>
-	  </details></div>
+	  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.3</span></div>
 	  <img src="cotadas/Cotadas_2020_0029b.png"/>
 	  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
@@ -2391,10 +2388,13 @@
 		<img src="cotadas/31_01_00.png" class="fundo"/>
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0031a.png"/>
-	<div class="combo" id="atv23">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.3</span></div>
+	<div class="combo" id="atv23">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.4</span></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0032.png"/>
-	<div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.3</span></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<p>Solução do item c.</p>
+		<img src="cotadas/32_01_00.png" class="fundo" />
+	</details></div>
 	<img src="cotadas/Cotadas_2020_0032a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p>Solução do item d</p>
