@@ -84,7 +84,7 @@
     <img src="09_02_00.png" class="fundo" />
   </details></div></details>
   <details open><summary>Atividade 1.3: exercício 17 da pág. 10</summary>
-  <img src="../../dg/Cotadas_2020_0010a.png" />
+  <img src="../../dg/Cotadas_2020_0010.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos lembrar que para que uma reta seja tangente a uma circunferência é necessário que o ângulo formado entre o raio e a reta no ponto de tangência meça <b>90°</b>! Vamos à construção.</p>
   <ul class="slider">
