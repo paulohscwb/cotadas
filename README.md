@@ -4420,13 +4420,13 @@
 		<figcaption></figcaption>
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0077a.png"/>
-	<div class="combo" id="atv51"><span class="atv">&#x1f4cf; &#x1f4d0; Atividade 5.1</span></div>
-	<img src="cotadas/Cotadas_2020_0077b.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p></p> 
-		<img src="cotadas/77_03_00.png"/>
+		<img src="cotadas/77_02_00.png"/>
 		<figcaption></figcaption>
 	</details></div>
+	<img src="cotadas/Cotadas_2020_0077b.png"/>
+	<div class="combo" id="atv51"><span class="atv">&#x1f4cf; &#x1f4d0; Atividade 5.1</span></div>
 	<p class="topop"><a href="#intersecoes" class="topo">voltar ao topo</a></p>
 </details>
 
