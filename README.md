@@ -5774,16 +5774,19 @@
 	</details></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0103.png"/>
+  <div class="combo" id="atv61">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.1</span>
+  <br><a href="superficies/curva3.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	  <p>Para obtermos o perfil topográfico devemos encontrar os pontos comuns da superfície natural do terreno com o plano de corte vertical. Siga o procedimento como no exercício anterior.</p>
-	  <img src="aplicacoes/103_01.png"/>
+	  <img src="aplicacoes/104_01.png" />
 	  <figcaption></figcaption>
 	  </details>
-  <a href="superficies/curva3.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<br><a href="superficies/curva9.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	  
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0104.png"/>
-  <div class="combo" id="atv61">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.1</span>
-  <br><a href="superficies/curva9.html" target="_blank" class="visu">Visualização em 3D</a></div>
+  
+  
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0105.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -5963,14 +5966,15 @@
 	</details></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0109.png"/>
+  
+  <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
+  <div class="combo" id="atv62">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.2</span></div>
+  <img src="aplicacoes/Cotadas_2020_0110.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	  <p>Repetir os passos do exercício anterior. Observe que a única diferença é o intervalo de 30&deg;.</p>
-	  <img src="aplicacoes/109_01_00.png"/>
+	  <p>Repetir os passos do exercício anterior. A diferença nesse exercício é que ao invés de inclinação é dada a declividade. Lembre-se que o intervalo é o inverso da declividade, assim se a declividade é 2/3, o intervalo é 3/2, ou seja o intervalo é 1.5.</p>
+	  <img src="aplicacoes/110_01_00.png" />
 	  <figcaption></figcaption>
 	  </details></div>
-  <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
-  <img src="aplicacoes/Cotadas_2020_0110.png"/>
-  <div class="combo" id="atv62">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.2</span></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0111.png"/>
   <div class="combo"><figcaption>Use o link abaixo para visualizar em 3D dos cortes de um terreno para construção de uma estrada</figcaption>
