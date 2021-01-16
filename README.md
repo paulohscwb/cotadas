@@ -4161,13 +4161,13 @@
 	</details></div>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0071.png"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<img src="cotadas/71_01_00.png"/>
-		<figcaption></figcaption>
-	</details></div>
+	<div class="combo" id="atv44">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.4</span></div>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0072.png"/>
-	<div class="combo" id="atv44">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.4</span></div>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
+		<img src="cotadas/72_01_00.png"/>
+		<figcaption></figcaption>
+	</details></div>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
 </details>
 
