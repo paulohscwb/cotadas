@@ -11,7 +11,7 @@
 	</div></details>
 	
   <details open style="border-bottom: 1px solid #a2dec0;"><summary>Atividade 6.2: exercício da pág. 109</summary>
-  <img src="../../aplicacoes/Cotadas_2020_0110.png" />
+  <img src="../../aplicacoes/Cotadas_2020_0109.png" />
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	  <p>Repetir os passos do exercício anterior. Observe que a única diferença é o intervalo de 30&deg;.</p>
 	  <img src="109_01_00.png"/>
