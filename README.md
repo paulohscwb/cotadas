@@ -3187,13 +3187,13 @@
 		<img src="cotadas/51_01_00.png" class="fundo"/>
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0051a.png"/>
-	<div class="combo" id="atv34">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3.4</span></div>
-	<img src="cotadas/Cotadas_2020_0051b.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-	<p>Como os planos projetantes das retas são paralelos, então suas projeções são paralelas, ou seja, <b>r'</b> é paralela a <b>s'</b>. Observe que a diferença de cotas entre os pontos <b>A</b> e <b>B</b>, é de 4 unidades de cota, assim, ao rebater o ponto <b>B</b>, marcamos 4 unidades de cota (3cm) e o segmento entre <b>A'</b> e <b>B'</b> representa 4 intervalos da reta <b>r</b>, que chamamos de <b>4I<sub>r</sub></b>, obtendo o ponto <b>B'<sub>1</sub></b>.</p>
-	<img src="cotadas/51_03_00.png" class="fundo"/>
-	<figcaption>Ao traçar a perpendicular à reta rebatida, <b>r'<sub>1</sub></b>, pelo ponto <b>B'<sub>1</sub></b>, obtemos 4 intervalos da reta <b>s</b>, que chamamos de <b>4I<sub>s</sub></b>. Quando transportamos esse intervalo para a reta <b>s</b>, devemos lembrar que em retas ortogonais, as cotas crescem em sentidos opostos.</figcaption>
-	</details></div>
+<p>Como os planos projetantes das retas são paralelos, então suas projeções são paralelas. Observe que a diferença de cotas entre os pontos <b>A</b> e <b>B</b>, é de 3 unidades de cota, assim, ao rebater o ponto <b>B</b>, marcamos 3 unidades de cota (3cm) e o segmento entre <b>A'</b> e <b>B'</b> representa 3 intervalos da reta <b>r</b>, que chamamos de <b>3I<sub>r</sub></b>, obtendo o ponto <b>B'<sub>1</sub></b>.</p> 
+<img src="cotadas/51_02_00.png"/>
+<figcaption>Ao traçar a perpendicular à reta rebatida, <b>r'<sub>1</sub></b>, pelo ponto <b>B'<sub>1</sub></b>, obtemos 3 intervalos da reta <b>s</b>, que chamamos de <b>3I<sub>s</sub></b>. Quando transportamos esse intervalo para a reta <b>s</b>, devemos lembrar que em retas ortogonais, as cotas crescem em sentidos opostos.</figcaption>
+</details></div>
+	<img src="cotadas/Cotadas_2020_0051b.png"/>
+	<div class="combo" id="atv34">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3.4</span></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 </details>
 
