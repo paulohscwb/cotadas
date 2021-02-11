@@ -118,6 +118,7 @@
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p>Aplicamos o teorema de Tales para encontrar as medidas dos lados AB, BC e AC proporcionais aos números indicados.</p>
   <img src="10_03_00.png" />
+  <figcaption>Construímos o segmento PQ = 15cm, e aplicamos o Teorema de Tales para descobrir as medidas dos lados AB, BC e AC.</figcaption>
   </details></div></details>
 
 
