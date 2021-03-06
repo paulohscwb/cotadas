@@ -4171,7 +4171,7 @@
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
 </details>
 
-<details>
+<details open>
   <summary id="intersecoes">5.1. Interseções</summary>
   <p>Material da página 73 até a página 77.</p>
 	<div class="embed-container">
@@ -4430,7 +4430,7 @@
 	<p class="topop"><a href="#intersecoes" class="topo">voltar ao topo</a></p>
 </details>
 
-<details>
+<details open>
   <summary id="telhados">5.2. Representações de telhados</summary>
   <p>Material da página 78 até a página 95.</p>
   <div class="embed-container">
