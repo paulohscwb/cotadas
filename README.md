@@ -3197,7 +3197,7 @@
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 </details>
 
-<details open>
+<details>
   <summary id="planos">4. Representações de planos</summary>
 	<p>Material da página 52 até a página 72.</p>
 	<div class="embed-container">
@@ -5493,7 +5493,7 @@
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
 </details>
 
-<details style="border-bottom: 1px solid #a2dec0;">
+<details open style="border-bottom: 1px solid #a2dec0;">
   <summary id="superficies">6. Superfícies Topográficas</summary>
   <p>Material da página 96 até a página 114.</p>
   <img src="aplicacoes/Cotadas_2020_0096.png"/>
