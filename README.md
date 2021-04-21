@@ -1957,6 +1957,7 @@
 	<img src="prop/21_05_00a.png" class="fundo"/>
   </details>
   <a href="vr/p_ex5a_hexagono.html" target="_blank" class="visu">Visualização em 3D: item a</a></div>
+  <img src="prop/Cotadas_2020_0021b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
