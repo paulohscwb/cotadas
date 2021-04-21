@@ -936,7 +936,7 @@
            <input type="radio" id="035" name="sl">
            <label for="035"></label>
            <img src="dg/05_01_05.png"/>
-           <figcaption>Sabemos que a distância entre <b>C</b> e A mede <b>b=6cm</b>. Assim, A estará sobre uma circunferência de centro <b>C</b> e raio <b>b=6cm</b>! Construa essa segunda circunferência! Na interseção dessas duas circunferências obtemos o vértice <b>A</b> do triângulo!</figcaption>
+           <figcaption>Sabemos que a distância entre <b>C</b> e <b>A</b> mede <b>b=6cm</b>. Assim, <b>A</b> estará sobre uma circunferência de centro <b>C</b> e raio <b>b=6cm</b>! Construa essa segunda circunferência! Na interseção dessas duas circunferências obtemos o vértice <b>A</b> do triângulo!</figcaption>
        </li>
 	   <li>
            <input type="radio" id="036" name="sl">
@@ -997,7 +997,7 @@
            <input type="radio" id="044" name="sl">
            <label for="044"></label>
            <img src="dg/05_02_04.png"/>
-           <figcaption>A interseção das duas medianas <b>mb</b> e <b>mc</b> nos dá o baricentro <b>G</b> Note que não é preciso desenhar a terceira mediana <b>ma</b>!  O baricentro possui uma propriedade importante: ele divide cada mediana em duas partes, sendo que a parte que contém o vértice tem o dobro do tamanho da parte que contém o ponto médio. Meça no desenho para verificar!</figcaption>
+           <figcaption>A interseção das duas medianas <b>mb</b> e <b>mc</b> nos dá o baricentro <b>G</b>. Note que não é preciso desenhar a terceira mediana <b>ma</b>!  O baricentro possui uma propriedade importante: ele divide cada mediana em duas partes, sendo que a parte que contém o vértice tem o dobro do tamanho da parte que contém o ponto médio. Meça no desenho para verificar!</figcaption>
        </li>
     </ul>
     <img src="dg/05_02_00.png" class="fundo"/>
@@ -1282,7 +1282,7 @@
            <input type="radio" id="086" name="sl">
            <label for="086"></label>
            <img src="dg/08_02_05.png"/>
-           <figcaption>Sabemos que a distância entre <b>C</b> e <b>A</b> mede <b>b=l=4cm</b>. Assim, <b>A</b> estará sobre uma circunferência de centro <b>C</b> e raio <b>b=l=4cm</b>! Construa essa segunda circunferência, ou melhor, esse segundo arco! Na interseção desses doisarcos de circunferência obtemos o vértice <b>A</b> do triângulo!</figcaption>
+           <figcaption>Sabemos que a distância entre <b>C</b> e <b>A</b> mede <b>b=l=4cm</b>. Assim, <b>A</b> estará sobre uma circunferência de centro <b>C</b> e raio <b>b=l=4cm</b>! Construa essa segunda circunferência, ou melhor, esse segundo arco! Na interseção desses dois arcos de circunferência obtemos o vértice <b>A</b> do triângulo!</figcaption>
        </li>
 	   <li>
            <input type="radio" id="087" name="sl">
@@ -1753,7 +1753,7 @@
     </ul>
     <img src="prop/20_03_00a.png" class="fundo"/>
   </details>
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: itens b e c</summary>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: item b</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
@@ -1782,12 +1782,13 @@
        </li>
     </ul>
     <img src="prop/20_03_00b.png" class="fundo"/>
-	<hr>
-	<h4>Solução do item c</h4>
-	<img src="prop/20_03_00c.png">
-	<figcaption>Usando as propriedades dos itens a e b, você consegue fazer a construção deste paralelogramo.</figcaption>
   </details>
-  <a href="vr/20_03b.html" target="_blank" class="visu">Visualização em 3D: item b</a></div>
+  <a href="vr/20_03b.html" target="_blank" class="visu">Visualização em 3D: item b</a>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução: item c</summary>
+  <p>Usando as propriedades dos itens a e b, você consegue fazer a construção deste paralelogramo.</p>
+    <img src="prop/20_03_00c.png">
+	<figcaption></figcaption>
+  </details></div>
   <img src="prop/Cotadas_2020_0020a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: item a</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
@@ -1837,7 +1838,7 @@
     </ul>
     <img src="prop/20_04_00_a.png" class="fundo"/>
   </details>
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: itens b e c</summary>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: item b</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
@@ -1872,12 +1873,13 @@
        </li>
     </ul>
 	<img src="prop/20_04_00_b.png" class="fundo"/>
-    <a href="vr/20_04b.html" target="_blank" class="visu">Visualização em 3D</a>
-    <hr>
-	<h4>Solução do item c.</h4>
-  	<img src="prop/20_04_00c.png"/>
-	<figcaption>Utilizando as mesmas propriedades dos itens anteriores, você consegue construir este triângulo. Use o link abaixo para te ajudar na visualização em 3D.</figcaption>
     </details>
+  <a href="vr/20_04b.html" target="_blank" class="visu">Visualização em 3D: item b</a>
+  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução: item c</summary>
+  <p>Utilizando as mesmas propriedades dos itens anteriores, você consegue construir este triângulo. Use o link abaixo para te ajudar na visualização em 3D.</p>
+    <img src="prop/20_04_00c.png">
+	<figcaption></figcaption>
+  </details>
   <a href="vr/p_ex4c_triangulo.html" target="_blank" class="visu">Visualização em 3D: item c</a></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/Cotadas_2020_0021.png"/>
