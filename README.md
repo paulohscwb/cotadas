@@ -1789,7 +1789,7 @@
     <img src="prop/20_03_00b.png" class="fundo"/>
   </details>
   <a href="vr/20_03b.html" target="_blank" class="visu">Visualização em 3D: item b</a></div>
-  img src="prop/Cotadas_2020_0020b.png"/>
+  <img src="prop/Cotadas_2020_0020b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução: item c</summary>
   <p>Usando as propriedades dos itens a e b, você consegue fazer a construção deste paralelogramo.</p>
     <img src="prop/20_03_00c.png">
