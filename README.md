@@ -1635,7 +1635,7 @@
     <img src="prop/19_01_00.png" class="fundo"/>
   </details></div>
   <img src="prop/Cotadas_2020_0019a.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: itens a e b</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua, o compasso e os esquadros para resolver este exercício. De acordo com a propriedade 2, podemos encontrar a projeção dos lados de um paralelogramo utilizando a construção de retas paralelas.</p>
   <ul class="slider">
       <li>
@@ -1668,14 +1668,17 @@
            <img src="prop/19_02_05.png"/>
            <figcaption>Pronto! O paralelogramo está construído. Agora é sua vez de fazer o item b!</figcaption>
        </li>
+	   <li>
+           <input type="radio" id="109a" name="sl">
+           <label for="109a"></label>
+           <img src="prop/19_02_00b.png"/>
+           <figcaption>A construção do item b é parecida com a que fizemos no item a.</figcaption>
+       </li>
     </ul>
     <img src="prop/19_02_00.png" class="fundo"/>
-	<hr>
-	<h4>Solução do item b</h4>
-	<img src="prop/19_02_00b.png">
-	<figcaption>A construção é parecida com a que fizemos no item a.</figcaption>
-  </details>
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: itens c e d</summary>
+  </details></div>
+  <img src="prop/Cotadas_2020_0019b.png"/>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício. De acordo com a propriedade 5, o paralelogramo está em um plano paralelo à direção <b>d</b> das projetantes.</p>
   <ul class="slider">
       <li>
@@ -1702,12 +1705,14 @@
            <img src="prop/19_02_04c.png"/>
            <figcaption>Assim, encontramos o vértice <b>C'</b> do paralelogramo.</figcaption>
        </li>
+	   <li>
+           <input type="radio" id="113a" name="sl">
+           <label for="113a"></label>
+           <img src="prop/19_02_00d.png"/>
+           <figcaption>Usando as mesmas propriedades usadas nos itens anteriores, podemos concluir que as projeções dos vértices <b>A</b> e <b>D</b> coincidem no item d.</figcaption>
+       </li>
     </ul>
     <img src="prop/19_02_00c.png" class="fundo"/>
-	<hr>
-	<h4>Solução do item d</h4>
-	<img src="prop/19_02_00d.png">
-	<figcaption>Usando as mesmas propriedades usadas nos itens anteriores, podemos concluir que os vértices <b>A</b> e <b>D</b> coincidem.</figcaption>
   </details></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/Cotadas_2020_0020.png"/>
