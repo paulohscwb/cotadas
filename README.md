@@ -1890,7 +1890,7 @@
   <a href="vr/p_ex4c_triangulo.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/Cotadas_2020_0021.png"/>
-  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: itens a e b</summary>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua, o compasso e os esquadros para resolver este exercício.</p>
   <ul class="slider">
       <li>
@@ -1947,15 +1947,17 @@
            <img src="prop/21_05_09a.png"/>
          <figcaption>E para fechar o hexágono, fazemos a mesma construção com os segmentos <b>B'O' = O'E'</b>. Use o link abaixo para visualizar o exercício em 3D.</figcaption>
        </li>
+	   <li>
+           <input type="radio" id="144a" name="sl">
+           <label for="144a"></label>
+           <img src="prop/21_05_00b.png"/>
+         <figcaption>Com as propriedades que usamos no item a, você consegue fazer a construção deste hexágono do item b.</figcaption>
+       </li>
     </ul>
 	<img src="prop/21_05_00a.png" class="fundo"/>
-    <hr>
-	<h4>Solução do item b</h4>
-	<img src="prop/21_05_00b.png">
-	<figcaption>Com as propriedades que usamos no item a, você consegue fazer a construção deste hexágono do item b.</figcaption>
   </details>
-  <a href="vr/p_ex5a_hexagono.html" target="_blank" class="visu">Visualização em 3D: item a</a>
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: item c</summary>
+  <a href="vr/p_ex5a_hexagono.html" target="_blank" class="visu">Visualização em 3D: item a</a></div>
+  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
       <li>
@@ -2003,7 +2005,7 @@
     </ul>
 	<img src="prop/21_05_00c.png" class="fundo"/>
   </details>
-  <a href="vr/p_ex5c_hexagono.html" target="_blank" class="visu">Visualização em 3D: item c</a></div>
+  <a href="vr/p_ex5c_hexagono.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <img src="prop/Cotadas_2020_0021a.png"/>
   <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.1</span></div>
   <p class="topop" id="atv21"><a href="#propriedades" class="topo">voltar ao topo</a></p>
