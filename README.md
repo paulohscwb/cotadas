@@ -1003,9 +1003,9 @@
     <img src="dg/05_02_00.png" class="fundo"/>
   </details></div>
   <img src="dg/Cotadas_2020_0005b.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.1</span>
+  <div class="combo" id="atv11">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.1</span>
   <p>Nesta atividade, construa o incentro e a circunferência inscrita.</p></div>
-  <p class="topop" id="atv11"><a href="#desenho" class="topo">voltar ao topo</a></p>
+  <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Cotadas_2020_0006.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para obtermos o Ortocentro <b>H</b> do triângulo precisamos construir suas alturas.</p>
@@ -1417,8 +1417,8 @@
     <img src="dg/09_01_00.png" class="fundo"/>
   </details></div>
   <img src="dg/Cotadas_2020_0009a.png"/>
-  <div class="combo"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.2</span></div>
-  <img id="atv12" src="dg/Cotadas_2020_0009b.png"/>
+  <div class="combo" id="atv12"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.2</span></div>
+  <img src="dg/Cotadas_2020_0009b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para determinar a reta tangente à circunferência dada basta encontrar o ponto <b>T</b> de tangência! Antes de iniciarmos a construção vamos aprender duas propriedades importantes!</p>
   <ul class="slider">
@@ -1463,7 +1463,7 @@
   </details></div>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Cotadas_2020_0010.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.3</span></div>
+  <div class="combo" id="atv13">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.3</span></div>
   <img src="dg/Cotadas_2020_0010a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Lembre-se que para que uma reta seja tangente à uma circunferência devemos ter que o ângulo formado entre o raio e a reta no ponto de tangência mede <b>90°</b>! Vamos à construção.</p>
@@ -1486,8 +1486,8 @@
   <p>19. Construir um triângulo ABC sabendo-se que:
   <br>a) seu perímetro (perímetro é a soma dos lados do polígono) mede 15cm
   <br>b) seus lados são proporcionais a números dados, ou seja, AB é proporcional a 5, BC é proporcional a 3 e AC é proporcional a 4,5.</p>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.4</span></div>
-  <p class="topop" id="atv13"><a href="#desenho" class="topo">voltar ao topo</a></p>
+  <div class="combo" id="atv14">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.4</span></div>
+  <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
 </details>
 
 <details>
@@ -2008,8 +2008,8 @@
   </details>
   <a href="vr/p_ex5c_hexagono.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <img src="prop/Cotadas_2020_0021a.png"/>
-  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.1</span></div>
-  <p class="topop" id="atv21"><a href="#propriedades" class="topo">voltar ao topo</a></p>
+  <div class="combo" id="atv21">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.1</span></div>
+  <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/cnp8sxPpF-g" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
@@ -2278,7 +2278,7 @@
 		<img src="cotadas/29_01_00.png" class="fundo"/>
 	  </details></div>
 	  <img src="cotadas/Cotadas_2020_0029a.png"/>
-	  <div class="combo">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.3</span></div>
+	  <div class="combo" id="atv23">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.3</span></div>
 	  <img src="cotadas/Cotadas_2020_0029b.png"/>
 	  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
@@ -2400,7 +2400,7 @@
 		<img src="cotadas/31_01_00.png" class="fundo"/>
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0031a.png"/>
-	<div class="combo" id="atv23">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.4</span></div>
+	<div class="combo" id="atv24">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.4</span></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0032.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
