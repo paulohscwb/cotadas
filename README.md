@@ -11,7 +11,7 @@
 		<iframe width="100%" src="https://www.youtube.com/embed/1_cC5J2Xwcw" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
    <img src="dg/Cotadas_2020_0001.png"/>  
-   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; resolução: 1&deg; segmento</summary>
+   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; resolução</summary>
 	<p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
 	  <ul class="slider">
 		  <li>
@@ -44,50 +44,44 @@
 			   <img src="dg/01_01_05.png"/>
 			   <figcaption>Pronto! A mediatriz do segmento <b>AB</b> está construída. Note que a figura <b>PAQB</b> é um losango e, portanto, suas diagonais são perpendiculares e se encontram no ponto médio das mesmas.</figcaption>
 		   </li>
+		   <li>
+			   <input type="radio" id="6" name="sl">
+			   <label for="6"></label>
+			   <img src="dg/01_01_06.png"/>
+			   <figcaption>Agora veja como fica a construção da mediatriz do segmento <b>AB</b> próximo da margem da folha. Podemos começar desenhando um arco com a ponta seca em <b>A</b> e um raio maior do que a metade de <b>AB</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="7" name="sl">
+			   <label for="7"></label>
+			   <img src="dg/01_01_07.png"/>
+			   <figcaption>Com a ponta seca em <b>B</b>, podemos desenhar um arco com a mesma medida usada no ponto <b>A</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="8" name="sl">
+			   <label for="8"></label>
+			   <img src="dg/01_01_09.png"/>
+			   <figcaption>Podemos desenhar um arco com medida diferente da que usamos nos passos anteriores para encontrar o segundo ponto da mediatriz.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="9" name="sl">
+			   <label for="9"></label>
+			   <img src="dg/01_01_10.png"/>
+			   <figcaption>Desenhando os arcos com centros em <b>A</b> e <b>B</b> com mesma medida, encontramos os pontos <b>P</b> e <b>Q</b> da mediatriz.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="10" name="sl">
+			   <label for="10"></label>
+			   <img src="dg/01_01_12.png"/>
+			   <figcaption>Desenhe a reta que passa pelos pontos <b>P</b> e <b>Q</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="11" name="sl">
+			   <label for="11"></label>
+			   <img src="dg/01_01_13.png"/>
+			   <figcaption>Pronto! A mediatriz do segmento <b>AB</b> está construída.</figcaption>
+		   </li>
 		</ul>
-		<img src="dg/01_01_00.png" class="fundo"/>
-  </details>
-  <details class="sub"><summary>&#x1f4cf; &#x1f4d0; resolução: 2&deg; segmento</summary>
-  <p>Agora veja como fica a construção da mediatriz do segmento <b>AB</b> próximo da margem da folha.</p>
-  <ul class="slider">
-       <li>
-           <input type="radio" id="6" name="sl">
-           <label for="6"></label>
-           <img src="dg/01_01_06.png"/>
-           <figcaption>Podemos começar desenhando um arco com a ponta seca em <b>A</b> e um raio maior do que a metade de <b>AB</b>.</figcaption>
-       </li>
-       <li>
-           <input type="radio" id="7" name="sl">
-           <label for="7"></label>
-           <img src="dg/01_01_07.png"/>
-           <figcaption>Com a ponta seca em <b>B</b>, podemos desenhar um arco com a mesma medida usada no ponto <b>A</b>.</figcaption>
-       </li>
-       <li>
-           <input type="radio" id="8" name="sl">
-           <label for="8"></label>
-           <img src="dg/01_01_09.png"/>
-           <figcaption>Podemos desenhar um arco com medida diferente da que usamos nos passos anteriores para encontrar o segundo ponto da mediatriz.</figcaption>
-       </li>
-       <li>
-           <input type="radio" id="9" name="sl">
-           <label for="9"></label>
-           <img src="dg/01_01_10.png"/>
-           <figcaption>Desenhando os arcos com centros em <b>A</b> e <b>B</b> com mesma medida, encontramos os pontos <b>P</b> e <b>Q</b> da mediatriz.</figcaption>
-       </li>
-       <li>
-           <input type="radio" id="10" name="sl">
-           <label for="10"></label>
-           <img src="dg/01_01_12.png"/>
-           <figcaption>Desenhe a reta que passa pelos pontos <b>P</b> e <b>Q</b>.</figcaption>
-       </li>
-       <li>
-           <input type="radio" id="11" name="sl">
-           <label for="11"></label>
-           <img src="dg/01_01_13.png"/>
-           <figcaption>Pronto! A mediatriz do segmento <b>AB</b> está construída.</figcaption>
-       </li>
-  </ul>
-  <img src="dg/01_01_00.png" class="fundo"/>
+	<img src="dg/01_01_00.png" class="fundo"/>
   </details></div>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Cotadas_2020_0002.png"/>
