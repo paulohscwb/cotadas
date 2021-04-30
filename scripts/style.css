@@ -47,7 +47,7 @@ li > figcaption {
   background: white; /*rgb(227,243,235);*/
   position: relative;
   height:auto;
-  box-shadow: 1px -1px 1px rgb(227,243,235);
+  box-shadow: 0px -4px 4px -4px rgba(21,153,87,0.4);
   margin-bottom: 5px;
 }
 summary {
@@ -63,13 +63,14 @@ details {
   border: 1px solid #a2dec0;
   border-bottom: none;
   padding: 3px;
-  border-radius: 7px;
+  border-radius: 4px;
   width:100%;
+  box-shadow: -3px 0px 3px -3px rgba(21,153,87,0.4), 3px 0px 3px -3px rgba(21,153,87,0.4);
 }
 
 .combo {
 	display:block;
-	box-shadow: 0px 1px 1px 0px rgba(21,153,87,0.2);
+	box-shadow: 0px 4px 4px -4px rgba(21,153,87,0.4);
 	margin: 0 -3px 30px -3px;
 	width:100.7%;
 	animation: sweep .5s ease-in-out;
@@ -261,7 +262,7 @@ hr {
   height: 0;
   overflow: hidden;
   max-width: 100%;
-  margin-bottom:10px; box-shadow: 0px 10px 10px -8px grey;
+  margin-bottom:10px; box-shadow: 0px 8px 8px -7px grey;
 }
 
 .embed-container iframe, .embed-container object, .embed-container embed {
