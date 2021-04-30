@@ -261,6 +261,7 @@ hr {
   height: 0;
   overflow: hidden;
   max-width: 100%;
+  margin-bottom:10px; box-shadow: 0px 10px 10px -8px grey;
 }
 
 .embed-container iframe, .embed-container object, .embed-container embed {
