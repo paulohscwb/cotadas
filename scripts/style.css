@@ -47,7 +47,7 @@ li > figcaption {
   background: white; /*rgb(227,243,235);*/
   position: relative;
   height:auto;
-  box-shadow: 0px -1px 1px -1px rgba(21,153,87,0.2);
+  box-shadow: 0px -2px 2px -1px rgba(21,153,87,0.2);
   margin-bottom: 5px;
 }
 summary {
@@ -69,7 +69,7 @@ details {
 
 .combo {
 	display:block;
-	box-shadow: 0px -1px 1px -1px rgba(21,153,87,0.2);
+	box-shadow: 0px -2px 2px -1px rgba(21,153,87,0.2);
 	margin: 0 -3px 30px -3px;
 	width:100.7%;
 	animation: sweep .5s ease-in-out;
