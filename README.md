@@ -693,7 +693,7 @@
            <figcaption>Essa construção fornece dois ângulos: o de <b>15°</b> e o seu suplemento de <b>165°</b>.</figcaption>
        </li>
     </ul>
-    <img src="dg/03_02_21e.png" class="fundo"/>
+    <img src="dg/03_02_20ef.png" class="fundo"/>
 	</details></div>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Cotadas_2020_0004.png"/>
