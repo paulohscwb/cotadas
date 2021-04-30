@@ -272,8 +272,8 @@ hr {
   height: 100%;
 }
 
-.sub .embed-container iframe {visibility: hidden; box-shadow:0 0 0 0 grey;}
-
+.sub .embed-container iframe {visibility: hidden;}
+.sub .embed-container {box-shadow:none;}
 iframe {
   border:none;
   top:7px;
