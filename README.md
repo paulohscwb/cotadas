@@ -484,7 +484,7 @@
            <figcaption>Escolha um dos ângulos de <b>30°</b> e construa sua bissetriz, obtendo dois ângulos de <b>15°</b>.</figcaption>
        </li>
     </ul>
-    <img src="dg/03_02_14.png" class="fundo"/>
+    <img src="dg/03_02_15.png" class="fundo"/>
 	</details>
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução com esquadros</summary>
   <p> Vamos utilizar a régua e os esquadros para resolver este exercício. Existem várias maneiras para construir ângulos usando os esquadros. Aqui veremos algumas. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
@@ -693,7 +693,7 @@
            <figcaption>Essa construção fornece dois ângulos: o de <b>15°</b> e o seu suplemento de <b>165°</b>.</figcaption>
        </li>
     </ul>
-    <img src="dg/03_02_20e.png" class="fundo"/>
+    <img src="dg/03_02_21e.png" class="fundo"/>
 	</details></div>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Cotadas_2020_0004.png"/>
