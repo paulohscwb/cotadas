@@ -439,7 +439,7 @@
 	   <li>
            <input type="radio" id="62" name="sl">
            <label for="62"></label>
-           <img src="dg/03_02_13.png"/>
+           <img src="dg/03_02_14.png"/>
            <figcaption>Agora construa a bissetriz desse ângulo, obtendo a reta <b>AF</b>. O ângulo <b>FAC</b> mede <b>45°</b>. Lembra do ângulo suplementar? O suplemento do ângulo de <b>45°</b> mede <b>135°</b>.</figcaption>
        </li>
     </ul>
