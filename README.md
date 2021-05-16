@@ -2412,8 +2412,7 @@
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 </details>
 
-<details>
-  <summary id="retas">3. Representações de retas</summary>
+<details open><summary id="retas">3. Representações de retas</summary>
 	<p>Material da página 33 até a página 51.</p> 
 	<div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/X3u9BQbZKdI" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
