@@ -2412,7 +2412,7 @@
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 </details>
 
-<details open><summary id="retas">3. Representações de retas</summary>
+<details><summary id="retas">3. Representações de retas</summary>
 	<p>Material da página 33 até a página 51.</p> 
 	<div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/X3u9BQbZKdI" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -4154,8 +4154,7 @@
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
 </details>
 
-<details>
-  <summary id="intersecoes">5.1. Interseções</summary>
+<details open><summary id="intersecoes">5.1. Interseções</summary>
   <p>Material da página 73 até a página 77.</p>
 	<div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/EYk0pI5-MkY" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -4413,8 +4412,7 @@
 	<p class="topop"><a href="#intersecoes" class="topo">voltar ao topo</a></p>
 </details>
 
-<details>
-  <summary id="telhados">5.2. Representações de telhados</summary>
+<details open><summary id="telhados">5.2. Representações de telhados</summary>
   <p>Material da página 78 até a página 95.</p>
   <div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/1-I9MGoxOGg " frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
