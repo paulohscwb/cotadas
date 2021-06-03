@@ -10,7 +10,20 @@
 	top: 50%;
 }
 
-img{image-rendering: auto;}
+img{image-rendering: crisp-edges;}
+
+@keyframes open {
+  0% {opacity: 0;}
+  100% {opacity: 1;}
+}
+
+details[open] summary ~ * {
+  animation: open .5s ease-in-out;
+}
+
+.sub[open] summary ~ * {
+  animation: open .5s ease-in-out;
+}
 
 .visu{
 	line-height: 30px;
