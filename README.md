@@ -3181,7 +3181,7 @@
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 </details>
 
-<details open><summary id="planos">4. Representações de planos</summary>
+<details><summary id="planos">4. Representações de planos</summary>
 	<p>Material da página 52 até a página 72.</p>
 	<div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/h23UJN35Wdc" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
