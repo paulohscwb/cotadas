@@ -1,3 +1,11 @@
+footer {
+  display: none !important;
+}
+
+.btn {
+  display: none !important;
+}
+
 .visu::before {
     content: "";
     background: url("../vr/3d.png") no-repeat;
