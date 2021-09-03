@@ -985,7 +985,7 @@
     <img src="dg/05_02_00.png" class="fundo"/>
   </details></div>
   <img src="dg/Cotadas_2020_0005b.png"/>
-  <div class="combo" id="atv11">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.1</span>
+  <div class="combo" id="atv11">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 1.1</span>
   <p>Nesta atividade, construa o incentro e a circunferência inscrita.</p></div>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Cotadas_2020_0006.png"/>
@@ -1392,7 +1392,7 @@
     <img src="dg/09_01_00.png" class="fundo"/>
   </details></div>
   <img src="dg/Cotadas_2020_0009a.png"/>
-  <div class="combo" id="atv12"> &#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.2</span></div>
+  <div class="combo" id="atv12"> &#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 1.2</span></div>
   <img src="dg/Cotadas_2020_0009b.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para determinar a reta tangente à circunferência dada basta encontrar o ponto <b>T</b> de tangência! Antes de iniciarmos a construção vamos aprender duas propriedades importantes!</p>
@@ -1438,7 +1438,7 @@
   </details></div>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
   <img src="dg/Cotadas_2020_0010.png"/>
-  <div class="combo" id="atv13">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.3</span></div>
+  <div class="combo" id="atv13">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 1.3</span></div>
   <img src="dg/Cotadas_2020_0010a.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Lembre-se que para que uma reta seja tangente à uma circunferência devemos ter que o ângulo formado entre o raio e a reta no ponto de tangência mede <b>90°</b>! Vamos à construção.</p>
@@ -1461,7 +1461,7 @@
   <p>19. Construir um triângulo ABC sabendo-se que:
   <br>a) seu perímetro (perímetro é a soma dos lados do polígono) mede 15cm
   <br>b) seus lados são proporcionais a números dados, ou seja, AB é proporcional a 5, BC é proporcional a 3 e AC é proporcional a 4,5.</p>
-  <div class="combo" id="atv14">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 1.4</span></div>
+  <div class="combo" id="atv14">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 1.4</span></div>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
 </details>
 
@@ -1982,7 +1982,7 @@
   </details>
   <a href="vr/p_ex5c_hexagono.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <img src="prop/Cotadas_2020_0021a.png"/>
-  <div class="combo" id="atv21">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.1</span></div>
+  <div class="combo" id="atv21">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 2.1</span></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/cnp8sxPpF-g" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -2151,7 +2151,7 @@
 	<img src="prop/24_01_00.png" class="fundo"/>
   </details></div>
   <img src="prop/Cotadas_2020_0024a.png"/>
-  <div class="combo" id="atv22">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.2</span></div>
+  <div class="combo" id="atv22">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 2.2</span></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/Cotadas_2020_0025.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
@@ -2251,7 +2251,7 @@
 		<img src="cotadas/29_01_00.png" class="fundo"/>
 	  </details></div>
 	  <img src="cotadas/Cotadas_2020_0029a.png"/>
-	  <div class="combo" id="atv23">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.3</span></div>
+	  <div class="combo" id="atv23">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 2.3</span></div>
 	  <img src="cotadas/Cotadas_2020_0029b.png"/>
 	  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
@@ -2373,7 +2373,7 @@
 		<img src="cotadas/31_01_00.png" class="fundo"/>
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0031a.png"/>
-	<div class="combo" id="atv24">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 2.4</span></div>
+	<div class="combo" id="atv24">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 2.4</span></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0032.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
@@ -2704,7 +2704,7 @@
 	</details></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0040.png"/>
-	<div class="combo" id="atv31">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3.1</span></div>
+	<div class="combo" id="atv31">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 3.1</span></div>
 	<img src="cotadas/Cotadas_2020_0040a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<ul class="slider">
@@ -2787,7 +2787,7 @@
 		<img src="cotadas/43_02_00.png" class="fundo"/>
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0043b.png"/>
-	<div class="combo" id="atv32">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3.2</span></div>
+	<div class="combo" id="atv32">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 3.2</span></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0044.png"/>
 	<div class="combo"><figcaption>Duas retas quaisquer <b>r</b> e <b>s</b> são paralelas quando suas projeções <b>r'</b> e <b>s'</b> são paralelas, e as graduações destas retas crescem no mesmo sentido. Use o link abaixo para visualizar esta propriedade em 3D.</figcaption>
@@ -3131,7 +3131,7 @@
 		<img src="cotadas/50_01_00.png" class="fundo"/>
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0050a.png"/>
-	<div class="combo" id="atv33">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3.3</span></div>
+	<div class="combo" id="atv33">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 3.3</span></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0051.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -3177,7 +3177,7 @@
 <figcaption>Ao traçar a perpendicular à reta rebatida, <b>r'<sub>1</sub></b>, pelo ponto <b>B'<sub>1</sub></b>, obtemos 3 intervalos da reta <b>s</b>, que chamamos de <b>3I<sub>s</sub></b>. Quando transportamos esse intervalo para a reta <b>s</b>, devemos lembrar que em retas ortogonais, as cotas crescem em sentidos opostos.</figcaption>
 </details></div>
 	<img src="cotadas/Cotadas_2020_0051b.png"/>
-	<div class="combo" id="atv34">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 3.4</span></div>
+	<div class="combo" id="atv34">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 3.4</span></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 </details>
 
@@ -3245,7 +3245,7 @@
 	<a href="vr/piramide1.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0054.png"/>
-	<div class="combo" id="atv41">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.1</span></div>
+	<div class="combo" id="atv41">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 4.1</span></div>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0055.png"/>
 	<div class="combo"><figcaption>Use o link abaixo para a visualização em 3D do rebatimento do plano vertical.</figcaption>
@@ -3322,7 +3322,7 @@
 	</details>
 	<a href="vr/prisma1.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p>3. Represente a projeção cotada de uma pirâmide reta de base hexagonal regular, sabendo-se que a base ABCDEF está contida no plano vertical definido por A(4; 8; 2,5) e B(6; 4; 1) e a altura mede h = 5cm.</p>
-	<div class="combo" id="atv42">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.2</span></div>
+	<div class="combo" id="atv42">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 4.2</span></div>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0057.png"/>
 	<figcaption>Propriedades:
@@ -3550,7 +3550,7 @@
 	</details></div>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0062.png"/>
-	<div class="combo" id="atv43">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.3</span></div>
+	<div class="combo" id="atv43">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 4.3</span></div>
 	<img src="cotadas/Cotadas_2020_0062a.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 		<p>Para que um ponto pertença ao plano, ele deve estar em uma das retas do plano.</p>
@@ -4144,7 +4144,7 @@
 	</details></div>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0071.png"/>
-	<div class="combo" id="atv44">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 4.4</span></div>
+	<div class="combo" id="atv44">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 4.4</span></div>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2020_0072.png"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
@@ -5138,7 +5138,7 @@
 	 <a href="telhados/telhado38.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0089.png"/>
-  <div class="combo" id="atv52">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.2</span>
+  <div class="combo" id="atv52">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 5.2</span>
   <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
   <a href="telhados/telhado39.html" target="_blank" class="visu">Visualização em 3D</a></div>
   
@@ -5469,7 +5469,7 @@
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0095a.png"/>
   <img src="aplicacoes/Cotadas_2020_0095b.png"/>
-  <div class="combo" id="atv53">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 5.3</span>
+  <div class="combo" id="atv53">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 5.3</span>
   <br>&#x1F9FE; <a target="_blank" href="aplicacoes/telhado47.pdf">Imprimir</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
 </details>
@@ -5754,7 +5754,7 @@
 	</details></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0103.png"/>
-  <div class="combo" id="atv61">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.1</span>
+  <div class="combo" id="atv61">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 6.1</span>
   <br><a href="superficies/curva3.html" target="_blank" class="visu">Visualização em 3D</a></div>
     
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
@@ -5947,7 +5947,7 @@
   <img src="aplicacoes/Cotadas_2020_0109.png"/>
   
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
-  <div class="combo" id="atv62">&#x1f4cf; &#x1f4d0; <span class="atv">Atividade 6.2</span></div>
+  <div class="combo" id="atv62">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 6.2</span></div>
   <img src="aplicacoes/Cotadas_2020_0110.png"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	  <p>Repetir os passos do exercício anterior. A diferença nesse exercício é que ao invés de inclinação é dada a declividade. Lembre-se que o intervalo é o inverso da declividade, assim se a declividade é 2/3, o intervalo é 3/2, ou seja o intervalo é 1.5.</p>
