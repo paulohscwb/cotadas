@@ -53,7 +53,8 @@ details[open] summary ~ * {
 	line-height: 34px;
 }
 
-.atv{font-size:16px; color: crimson; font-weight:bold;}
+/*.atv{font-size:16px; color: crimson; font-weight:bold;}*/
+.atv1{font-size:14px; color: rgb(21,153,87);}
 
 figcaption {
   padding: 5px 0 5px 0;
