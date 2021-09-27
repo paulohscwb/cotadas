@@ -5,7 +5,7 @@
 <p>A apostila está disponível no link: <a href="vr/Cotadas_2020.pdf" target="_blank">apostila de Projeções Cotadas</a></p>
 <p>Os objetos programados em 3D podem ser visualizados em Realidade Virtual (RV) e Realidade Aumentada (RA). As propriedades de projeções, os sólidos e as maquetes podem ser vistos em RA com os marcadores indicados, e através dos links criados nos marcadores, os objetos podem ser vistos em RV.</p>
 
-<details><summary id="desenho">1. Desenho Geométrico</summary>
+<details open><summary id="desenho">1. Desenho Geométrico</summary>
    <p>Material da página 1 até a página 10.</p>
 	<div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/1_cC5J2Xwcw" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
