@@ -1465,7 +1465,7 @@
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
 </details>
 
-<details><summary id="propriedades">2.1. Propriedades das projeções cilíndricas</summary>
+<details open><summary id="propriedades">2.1. Propriedades das projeções cilíndricas</summary>
 	<p>Material da página 11 até a página 25.</p>
 	<p>Leia o conteúdo das páginas 11, 12 e 13 da apostila. Agora vamos começar a trabalhar com as projeções de objetos e figuras em um plano <b>&pi;'</b>.</p> 	
 	<img src="prop/Cotadas_2020_0011.png"/>
@@ -2162,7 +2162,7 @@
 <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 </details>
 
-<details><summary id="pontos">2.2. Pontos e segmentos em épura</summary>
+<details open><summary id="pontos">2.2. Pontos e segmentos em épura</summary>
 	<p>Material da página 26 até a página 32.</p>
 	<img src="cotadas/Cotadas_2020_0026.png"/>
 	<div class="embed-container">
