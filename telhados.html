@@ -38,7 +38,7 @@
 		<a-asset-item id="telhado45a" src="./telhados/telhado45a.glb"></a-asset-item>
 		<a-asset-item id="telhado46" src="./telhados/telhado46a.dae"></a-asset-item>
 		<a-asset-item id="telhado46a" src="./telhados/telhado46a.glb"></a-asset-item>
-		<a-asset-item id="casa" src="./telhados/casaa_.gltf"></a-asset-item>
+		<a-asset-item id="casa" src="./telhados/casaa.dae"></a-asset-item>
 		<a-asset-item id="casaa" src="./telhados/casaa.glb"></a-asset-item>
 		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.1 0" link="title: VR; highlighted:true; backgroundColor:LightGray"></a-mixin>
 	</a-assets>
@@ -139,7 +139,7 @@
 	   	<a-link mixin="lnk" href="telhados/casa.html"></a-link>
 		<a-entity position="3 0 -3" id="tcasa" scale="0.35 0.35 0.35">
 			<a-entity gltf-model="#casaa"></a-entity>
-			<a-entity gltf-model="#casa"></a-entity>
+			<a-entity collada-model="#casa"></a-entity>
 		</a-entity>
   	 </a-marker>
 	  
