@@ -1,10 +1,8 @@
 <!doctype HTML>
 <html>
 <head>
-	<script src="https://aframe.io/releases/0.8.2/aframe.js"></script>
+	<script src="https://aframe.io/releases/0.9.2/aframe.js"></script>
 	<script src="https://jeromeetienne.github.io/AR.js/aframe/build/aframe-ar.js"></script>
-	<!--<script src="AR.js/aframe/build/aframe-ar.js"></script>
-	<script src="https://paulohscwb.github.io/AR.js/aframe/build/aframe-ar.js"></script>-->
 	<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
 </head>
 <body style='margin: 0; overflow: hidden;'>
@@ -13,45 +11,33 @@
 	</div>
 	<div style='color:#f0f8ff; position: fixed; bottom: 1vh; left:1vw; width:80vw; z-index: 5; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px grey;'>paulohscwb@gmail.com <br> &copy; 2020 Paulo Henrique Siqueira</div>
   <a-scene cursor="rayOrigin: mouse" raycaster="objects: [link];" 
-	   renderstart renderer="logarithmicDepthBuffer: true" embedded arjs='sourceType: webcam; trackingMethod: best; maxDetectionRate: 10; detectionMode: mono_and_matrix; matrixCodeType: 3x3; debugUIEnabled: false;'>
+	   renderer="logarithmicDepthBuffer: true" embedded arjs='sourceType: webcam; trackingMethod: best; maxDetectionRate: 10; detectionMode: mono_and_matrix; matrixCodeType: 3x3; debugUIEnabled: false;'>
 	
 	<a-assets>
-		<a-asset-item id="telhado35" src="./telhados/telhado35a.dae"></a-asset-item>
-		<a-asset-item id="telhado35a" src="./telhados/telhado35a.glb"></a-asset-item>
-		<a-asset-item id="telhado37" src="./telhados/telhado37a.dae"></a-asset-item>
-		<a-asset-item id="telhado37a" src="./telhados/telhado37a.glb"></a-asset-item>
-		<a-asset-item id="telhado38" src="./telhados/telhado38a.dae"></a-asset-item>
-		<a-asset-item id="telhado38a" src="./telhados/telhado38a.glb"></a-asset-item>
-		<a-asset-item id="telhado39" src="./telhados/telhado39a.dae"></a-asset-item>
-		<a-asset-item id="telhado39a" src="./telhados/telhado39a.glb"></a-asset-item>
-		<a-asset-item id="telhado33" src="./telhados/telhado33a.dae"></a-asset-item>
-		<a-asset-item id="telhado33a" src="./telhados/telhado33a.glb"></a-asset-item>
-		<a-asset-item id="telhado34" src="./telhados/telhado34a.dae"></a-asset-item>
-		<a-asset-item id="telhado34a" src="./telhados/telhado34a.glb"></a-asset-item>
-		<a-asset-item id="telhado36" src="./telhados/telhado36a.dae"></a-asset-item>
-		<a-asset-item id="telhado36a" src="./telhados/telhado36a.glb"></a-asset-item>
-		<a-asset-item id="telhado43" src="./telhados/telhado43a.dae"></a-asset-item>
-		<a-asset-item id="telhado43a" src="./telhados/telhado43a.glb"></a-asset-item>
-		<a-asset-item id="telhado44" src="./telhados/telhado44a.dae"></a-asset-item>
-		<a-asset-item id="telhado44a" src="./telhados/telhado44a.glb"></a-asset-item>
-		<a-asset-item id="telhado45" src="./telhados/telhado45a.dae"></a-asset-item>
-		<a-asset-item id="telhado45a" src="./telhados/telhado45a.glb"></a-asset-item>
-		<a-asset-item id="telhado46" src="./telhados/telhado46a.dae"></a-asset-item>
-		<a-asset-item id="telhado46a" src="./telhados/telhado46a.glb"></a-asset-item>
-		<a-asset-item id="casa" src="./telhados/casaa.dae"></a-asset-item>
-		<a-asset-item id="casaa" src="./telhados/casaa.glb"></a-asset-item>
+		<a-asset-item id="telhado35a" src="./telhados/telhado35N.glb"></a-asset-item>
+		<a-asset-item id="telhado37a" src="./telhados/telhado37N.glb"></a-asset-item>
+		<a-asset-item id="telhado38a" src="./telhados/telhado38N.glb"></a-asset-item>
+		<a-asset-item id="telhado39a" src="./telhados/telhado39N.glb"></a-asset-item>
+		<a-asset-item id="telhado33a" src="./telhados/telhado33N.glb"></a-asset-item>
+		<a-asset-item id="telhado34a" src="./telhados/telhado34N.glb"></a-asset-item>
+		<a-asset-item id="telhado36a" src="./telhados/telhado36N.glb"></a-asset-item>
+		<a-asset-item id="telhado43a" src="./telhados/telhado43N.glb"></a-asset-item>
+		<a-asset-item id="telhado44a" src="./telhados/telhado44N.glb"></a-asset-item>
+		<a-asset-item id="telhado45a" src="./telhados/telhado45N.glb"></a-asset-item>
+		<a-asset-item id="telhado46a" src="./telhados/telhado46N.glb"></a-asset-item>
+		<a-asset-item id="casaa" src="./telhados/casaaN.glb"></a-asset-item>
 		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.1 0" link="title: VR; highlighted:true; backgroundColor:LightGray"></a-mixin>
 	</a-assets>
 	  
 	<a-entity camera></a-entity>	
-	<a-entity light="type: ambient; intensity: 0.8;"></a-entity>
-	<a-entity light="type: directional; intensity: 0.3;" position="-0.5 -0.5 0.5"></a-entity>
+	<a-light type="ambient" color="#bbb" intensity="1.5"></a-light>
+	<a-light type="directional" color="white" intensity="1" position="-1 1 1"></a-light>
+	<a-light type="directional" color="white" intensity="1" position="1 1 1"></a-light>
 	 
 	<a-marker type="barcode" value="0" smooth="smooth:true; smoothCount:1;">
 	   	<a-link mixin="lnk" href="telhados/telhado35.html"></a-link>
 		<a-entity position="4.6 0 -4.3" id="t35" scale="0.44 0.44 0.44">
 			<a-entity gltf-model="#telhado35a"></a-entity>
-			<a-entity collada-model="#telhado35"></a-entity>
 		</a-entity>
 	  </a-marker>
 		
@@ -59,7 +45,6 @@
 	   	<a-link mixin="lnk" href="telhados/telhado37.html"></a-link>
 		<a-entity position="4 0 -3.2" id="t37" scale="0.42 0.42 0.42">
 			<a-entity gltf-model="#telhado37a"></a-entity>
-			<a-entity collada-model="#telhado37"></a-entity>
 		</a-entity>
   	 </a-marker>
 		
@@ -67,7 +52,6 @@
 	   	<a-link mixin="lnk" href="telhados/telhado38.html"></a-link>
 		<a-entity position="4 0 -3.7" id="t38" scale="0.49 0.49 0.49">
 			<a-entity gltf-model="#telhado38a"></a-entity>
-			<a-entity collada-model="#telhado38"></a-entity>
 		</a-entity>
   	 </a-marker>
 	
@@ -75,7 +59,6 @@
 	   	<a-link mixin="lnk" href="telhados/telhado39.html" title="VR"></a-link>
 		<a-entity position="3.3 0 -4" id="t39" scale="0.39 0.39 0.39">
 			<a-entity gltf-model="#telhado39a"></a-entity>
-			<a-entity collada-model="#telhado39"></a-entity>
 		</a-entity>
   	 </a-marker>
 	
@@ -83,7 +66,6 @@
 	   	<a-link mixin="lnk" href="telhados/telhado33.html"></a-link>
 		<a-entity position="4 0 -3.6" rotation="0 30 0" id="t33" scale="0.5 0.5 0.5">
 			<a-entity gltf-model="#telhado33a"></a-entity>
-			<a-entity collada-model="#telhado33"></a-entity>
 		</a-entity>
   	 </a-marker>
 	
@@ -91,7 +73,6 @@
 	   	<a-link mixin="lnk" href="telhados/telhado34.html"></a-link>
 		<a-entity position="4.15 0 -3.5" id="t34" scale="0.43 0.43 0.43">
 			<a-entity gltf-model="#telhado34a"></a-entity>
-			<a-entity collada-model="#telhado34"></a-entity>
 		</a-entity>
   	 </a-marker>
 	
@@ -99,7 +80,6 @@
 	   	<a-link mixin="lnk" href="telhados/telhado36.html"></a-link>
 		<a-entity position="4 0 -4" id="t36" scale="0.37 0.37 0.37">
 			<a-entity gltf-model="#telhado36a"></a-entity>
-			<a-entity collada-model="#telhado36"></a-entity>
 		</a-entity>
   	 </a-marker>
 	
@@ -107,7 +87,6 @@
 	   	<a-link mixin="lnk" href="telhados/telhado43.html"></a-link>
 		<a-entity position="4.2 0 -4.6" rotation="0 -45 0" id="t43" scale="0.45 0.45 0.45">
 			<a-entity gltf-model="#telhado43a"></a-entity>
-			<a-entity collada-model="#telhado43"></a-entity>
 		</a-entity>
   	 </a-marker>
 	
@@ -115,7 +94,6 @@
 	   	<a-link mixin="lnk" href="telhados/telhado44.html"></a-link>
 		<a-entity position="2.7 0 -4.5" id="t44" scale="0.47 0.47 0.47">
 			<a-entity gltf-model="#telhado44a"></a-entity>
-			<a-entity collada-model="#telhado44"></a-entity>
 		</a-entity>
   	 </a-marker>
 	
@@ -123,7 +101,6 @@
 	   	<a-link mixin="lnk" href="telhados/telhado45.html"></a-link>
 		<a-entity position="3.2 0 -4.5" id="45" scale="0.42 0.42 0.42">
 			<a-entity gltf-model="#telhado45a"></a-entity>
-			<a-entity collada-model="#telhado45"></a-entity>
 		</a-entity>
   	 </a-marker>
 	
@@ -131,7 +108,6 @@
 	   	<a-link mixin="lnk" href="telhados/telhado46.html"></a-link>
 		<a-entity position="3.8 0 -3.7" id="t46" scale="0.42 0.42 0.42">
 			<a-entity gltf-model="#telhado46a"></a-entity>
-			<a-entity collada-model="#telhado46"></a-entity>
 		</a-entity>
   	 </a-marker>
 	 
@@ -139,7 +115,6 @@
 	   	<a-link mixin="lnk" href="telhados/casa.html"></a-link>
 		<a-entity position="3 0 -3" id="tcasa" scale="0.35 0.35 0.35">
 			<a-entity gltf-model="#casaa"></a-entity>
-			<a-entity collada-model="#casa"></a-entity>
 		</a-entity>
   	 </a-marker>
 	  
