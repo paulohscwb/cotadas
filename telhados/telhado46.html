@@ -2,7 +2,7 @@
 <html>
 <head>
   <title>Maquetes</title>
-  <script src="https://aframe.io/releases/0.8.2/aframe.js"></script>
+  <script src="https://aframe.io/releases/1.0.4/aframe.js"></script>
   <script src=".././scripts/aframe-orbit-controls.min.js"></script>
 </head>
 
@@ -10,8 +10,7 @@
 	<div style='color:#f0f8ff; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2020 Paulo Henrique Siqueira</div>
     <a-scene>
         <a-assets>
-		<a-asset-item id="modelo" src="telhado46a.dae"></a-asset-item>
-		<a-asset-item id="modeloa" src="telhado46a.glb"></a-asset-item>
+		<a-asset-item id="modeloa" src="telhado46N.glb"></a-asset-item>
 		<img id="ceu" src="ceu1.jpg">
 	</a-assets>
 	  
@@ -19,11 +18,12 @@
 		
 	  <a-entity camera="fov:1; near:0.1; zoom:0.05;" orbit-controls="target: 0 0 0; maxPolarAngle: 90; initialPosition: 5 8 25"></a-entity>
 	  <a-entity position="0 -1.875 0" scale="0.5 0.5 0.5">
-			<a-entity  collada-model="#modelo"></a-entity>
-			<a-entity  gltf-model="#modeloa"></a-entity>
+			<a-gltf-model scr="#modeloa"></a-gltf-model>
 	  </a-entity>
-	<a-entity light="type: ambient; color: #BBB; intensity:0.9;"></a-entity>
-	<a-entity light="type: directional; color: #BBB; intensity: 0.8" position="-1 1 1"></a-entity>
+	  
+	<a-light type="ambient" color="#bbb" intensity="1"></a-light>
+	<a-light type="directional" color="#bbb" intensity="0.7" position="2 3 2"></a-light>
+	<a-light type="directional" color="#bbb" intensity="0.7" position="-2 3 2"></a-light>
   </a-scene>
 </body>
 </html>
