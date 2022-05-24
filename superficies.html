@@ -4,7 +4,13 @@
 	<script src="https://aframe.io/releases/0.8.2/aframe.js"></script>
 	<script src="https://jeromeetienne.github.io/AR.js/aframe/build/aframe-ar.js"></script>
 	<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
-	<script src="https://threejs.org/build/three.js"></script>
+	
+	<script>
+	AFRAME.registerComponent('renderer', {
+		const renderer = new THREE.WebGLRenderer({ logarithmicDepthBuffer: true}); 
+		return renderer;
+	});
+	</script>
 </head>
 <body style='margin : 0px; overflow: hidden;'>
 	<div style='position: fixed; top: 100px; width:100%; text-align: center; z-index: -2;'>
