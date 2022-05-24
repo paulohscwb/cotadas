@@ -12,18 +12,18 @@
       <a-assets>
 		<a-asset-item id="modeloa" src="casaaN.glb"></a-asset-item>
 		<img id="ceu" src="ceu1.jpg">
- 	</a-assets>
+ 	  </a-assets>
 	  
 	  <a-sky src="#ceu"></a-sky>
 		
 	<a-entity camera="fov:1; near:0.1; zoom:0.05;" orbit-controls="target: 0 0 0; maxPolarAngle: 90; initialPosition: 5 8 25"></a-entity>
 	<a-entity position="0 -2 0" scale="0.45 0.45 0.45">
-		<a-entity gltf-model="#modeloa"></a-entity>
+		<a-gltf-model src="#modeloa"></a-gltf-model>
 	</a-entity>
 		
-	<a-light type="ambient" color="white" intensity="0.7"></a-light>
-	<a-light type="directional" color="white" intensity="0.6" position="-1 2 2"></a-light>
-	<a-light type="directional" color="white" intensity="0.6" position="1 2 2"></a-light>
+	<a-light type="ambient" color="white" intensity="1"></a-light>
+	<a-light type="directional" color="white" intensity="0.7" position="-1 2 2"></a-light>
+	<a-light type="directional" color="white" intensity="0.7" position="1 2 2"></a-light>
 
   </a-scene>
 </body>
