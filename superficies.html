@@ -7,10 +7,8 @@
 	<script src="https://threejs.org/build/three.js"></script>
 	<script>
 	AFRAME.registerComponent('renderer', {
-		tick: function () {
 		const renderer = new THREE.WebGLRenderer({ logarithmicDepthBuffer: true}); 
 		return renderer;
-		}
 	});
 	</script>
 </head>
