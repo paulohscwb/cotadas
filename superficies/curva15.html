@@ -8,7 +8,7 @@
 
 <body>
 	<div style='color:#f0f8ff; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2020 Paulo Henrique Siqueira</div>
-    <a-scene renderer='colorManagement: true; logarithmicDepthBuffer: true'>
+    <a-scene renderer='colorManagement: true;'>
       	<a-assets>
 		<a-asset-item id="modeloa" src="curva15N.glb"></a-asset-item>
 		<img id="ceu" src="ceu1.jpg">
@@ -16,7 +16,7 @@
 	  
 	<a-sky src="#ceu"></a-sky>
 		
-	<a-entity camera="fov:20; near:1;" orbit-controls="target: 0 0 0; maxPolarAngle: 90; initialPosition: 5 7 21; keyPanSpeed: 100"></a-entity>
+	<a-entity camera="fov:20; near:1;" orbit-controls="target: 0 0 0; maxPolarAngle: 90; initialPosition: 5 7 21; PanSpeed: 100"></a-entity>
 	
 	<a-entity position="0 0 0" scale="0.004 0.004 0.004" rotation="0 -45 0">
 		<a-gltf-model src="#modeloa"></a-gltf-model>
