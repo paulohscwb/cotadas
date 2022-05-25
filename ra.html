@@ -32,9 +32,7 @@
 		<a-mixin id="texto" text="width: 12; side:double; color: black" rotation="-25 0 0">
 	  	<a-mixin id="ponto" geometry="radius:0.1;" mixin="mtl8"></a-mixin>
 		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.1 0" link="title: VR; highlighted:true; backgroundColor:LightGray"></a-mixin>
-		<a-asset-item id="modelo" src="vr/reta_declive.dae"></a-asset-item>
 		<a-asset-item id="modeloa" src="vr/reta_declive.glb"></a-asset-item>
-		<a-asset-item id="modelo1" src="vr/int_pv_ph.dae"></a-asset-item>
 		<a-asset-item id="modeloa1" src="vr/int_pv_ph.glb"></a-asset-item>
 		<a-asset-item id="modelo2" src="vr/int_pq_ph.dae"></a-asset-item>
 		<a-asset-item id="modeloa2" src="vr/int_pq_ph.glb"></a-asset-item>
@@ -50,7 +48,6 @@
 	   	<a-link mixin="lnk" href="vr/reta_declive.html"></a-link>
 		<a-entity position="-4 0 -3" id="rdeclive" scale="1.8 1.8 1.8">
 			<a-entity gltf-model="#modeloa"></a-entity>
-			<a-entity collada-model="#modelo" position="0 0.05 0"></a-entity>
 		</a-entity>
   	 </a-marker>
 	
@@ -58,7 +55,6 @@
 	   	<a-link mixin="lnk" href="vr/int_pv_ph.html"></a-link>
 		<a-entity position="-4 0 -3" id="rdeclive" scale="1.8 1.8 1.8">
 			<a-entity gltf-model="#modeloa1"></a-entity>
-			<a-entity collada-model="#modelo1" position="0 0.05 0"></a-entity>
 		</a-entity>
   	 </a-marker>
 	
