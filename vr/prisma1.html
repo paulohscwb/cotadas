@@ -2,7 +2,7 @@
   <head>
 	<title>360 Image Browser</title>
 	<meta charset="ISO-8859-1">
-	<script src="https://aframe.io/releases/1.0.0/aframe.js"></script>
+	<script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
 	<script src=".././scripts/aframe-orbit-controls.min.js"></script>
 	<script src=".././scripts/faceset.js"></script>
   </head>  
@@ -11,51 +11,71 @@
 	<a-scene>
 		<a-assets>
 			<a-mixin id="imagem" material="side: double; transparent: true; depthTest: false;" rotation="-25 0 0"></a-mixin>
-			<a-mixin id="mtl0" material="opacity: 0.5; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
+			<a-mixin id="mtl0" material="opacity: 0.5; side: double; metalness:0.5; roughness:0.6;"></a-mixin>
 			<a-mixin id="mtl2" material="color: #ee514b"></a-mixin>
 			<a-mixin id="mtl5" material="color: #82FA58;"></a-mixin>
 			<a-mixin id="texto" text="width: 12; side:double; color: black" rotation="-25 0 0">
-			<a-mixin id="ponto" geometry="radius:0.1;" material="color: #d8ef09;"></a-mixin><!--#4b97ee; #ee514b; #1E9961; #B404AE; #82FA58; #58ACFA; orange; #d8ef09; #6E6E6E;-->
+			<a-mixin id="ponto" geometry="radius:0.1;" material="color: #ef7809; metalness:0.4; roughness:0.5;"></a-mixin><!--#4b97ee; #ee514b; #1E9961; #B404AE; #82FA58; #58ACFA; orange; #d8ef09; #6E6E6E;-->
 		</a-assets>
-
-		<a-entity hand-controls controller-cursor raycaster="far: 2"></a-entity>
-		<a-entity gearvr-controls></a-entity>
 		
 		<a-entity scale="0.7 0.7 0.7" position="-7.5 -3.5 2.5">
 			<a-text position="7.1 2.5 -6.9" value="A" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="7.6 2.5 -6.9"></a-sphere>
 			<a-text position="11.6 1 -5.5" value="B" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="11.5 1 -5.5"></a-sphere>
 			<a-text position="14.77 3.84 -4.36" value="C" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="14.67 3.84 -4.36"></a-sphere>
 			<a-text position="14.05 8.18 -4.62" value="D" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="13.95 8.18 -4.62"></a-sphere>
 			<a-text position="9.45 9.68 -6.02" value="E" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="10.05 9.68 -6.02"></a-sphere>
 			<a-text position="6.47 6.84 -7.16" value="F" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="6.87 6.84 -7.16"></a-sphere>
 			<a-text position="5.75 2.5 -3.15" value="G" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="6.25 2.5 -3.15"></a-sphere>
 			<a-text position="10.25 1 -1.75" value="H" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="10.15 1 -1.75"></a-sphere>
 			<a-text position="13.43 3.84 -0.61" value="I" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="13.33 3.84 -0.61"></a-sphere>
 			<a-text position="12.7 8.18 -0.87" value="J" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="12.6 8.18 -0.87"></a-sphere>
 			<a-text position="8.2 9.68 -2.27" value="K" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="8.7 9.68 -2.27"></a-sphere>
 			<a-text position="5.03 6.84 -3.41" value="L" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="5.53 6.84 -3.41"></a-sphere>
 			
 			<a-text position="7.1 0.25 -6.9" value="A'" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="7.6 0 -6.9"></a-sphere>
 			<a-text position="11.6 0.25 -5.5" value="B'" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="11.5 0 -5.5"></a-sphere>
 			<a-text position="14.77 0.25 -4.36" value="C'" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="14.67 0 -4.36"></a-sphere>
 			<a-text position="14.05 0.25 -4.62" value="D'" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="13.95 0 -4.62"></a-sphere>
 			<a-text position="9.45 0.25 -6.02" value="E'" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="10.05 0 -6.02"></a-sphere>
 			<a-text position="6.47 0.25 -7.16" value="F'" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="6.87 0 -7.16"></a-sphere>
 			<a-text position="5.75 0.25 -3.15" value="G'" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="6.25 0 -3.15"></a-sphere>
 			<a-text position="10.25 0.25 -1.75" value="H'" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="10.15 0 -1.75"></a-sphere>
 			<a-text position="13.43 0.25 -0.61" value="I'" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="13.33 0 -0.61"></a-sphere>
 			<a-text position="12.7 0.25 -0.87" value="J'" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="12.6 0 -0.87"></a-sphere>
 			<a-text position="8.2 0.25 -2.27" value="K'" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="8.7 0 -2.27"></a-sphere>
 			<a-text position="5.03 0.25 -3.41" value="L'" mixin="texto"></a-text>
+			<a-sphere mixin="ponto" position="5.53 0 -3.41"></a-sphere>
+			
 			<a-entity position="9 0 -2">
 				<a-entity id="planoPI" faceset="vertices: -6 0 -7  8 0 -7  8 0 3  -6 0 3" mixin="mtl0 mtl2"></a-entity>
 				<a-image src="pi1.png" height="0.7" width="0.7" position="7 0.32 2.8" mixin="imagem"></a-image>
 			</a-entity>
 			
-			<a-entity id="base2" faceset="vertices:6.25 2.5 -3.15  10.15 1 -1.75  13.33 3.84 -0.61
-									12.6 8.18 -0.87  8.7 9.68 -2.27  5.53 6.84 -3.41" mixin="mtl0 mtl5"></a-entity>
-			<a-entity id="base1" faceset="vertices:7.6 2.5 -6.9  11.5 1 -5.5  14.67 3.84 -4.36
-									13.95 8.18 -4.62  10.05 9.68 -6.02  6.87 6.84 -7.16" mixin="mtl0 mtl5"></a-entity>
+			<a-entity id="base2" faceset="vertices:6.25 2.5 -3.15  10.15 1 -1.75  13.33 3.84 -0.61 	12.6 8.18 -0.87  8.7 9.68 -2.27  5.53 6.84 -3.41" mixin="mtl0 mtl5"></a-entity>
+			<a-entity id="base1" faceset="vertices:7.6 2.5 -6.9  11.5 1 -5.5  14.67 3.84 -4.36  13.95 8.18 -4.62  10.05 9.68 -6.02  6.87 6.84 -7.16" mixin="mtl0 mtl5"></a-entity>
 			<a-entity id="ABHG" faceset="vertices:7.6 2.5 -6.9  11.5 1 -5.5  6.25 2.5 -3.15  10.15 1 -1.75" mixin="mtl0 mtl5"></a-entity>
 			<a-entity id="BCIH" faceset="vertices:11.5 1 -5.5  14.67 3.84 -4.36  10.15 1 -1.75  13.33 3.84 -0.61" mixin="mtl0 mtl5"></a-entity>
 			<a-entity id="CDJI" faceset="vertices:14.67 3.84 -4.36  13.95 8.18 -4.62  12.6 8.18 -0.87  13.33 3.84 -0.61" mixin="mtl0 mtl5"></a-entity>
@@ -85,7 +105,12 @@
 				line__17="start: 5.53 6.84 -3.41; end: 6.87 6.84 -7.16; color: #6E6E6E"></a-entity>
 		</a-entity>
 		
-		<a-entity camera="fov:1; near:0.5; zoom:0.9;" orbit-controls="target: 0 0 0; maxPolarAngle: 91; initialPosition: 120 300 600"></a-entity>
+		<a-entity camera="fov:1; near:0.5; zoom:0.9;" orbit-controls="target: 0 0 0; maxPolarAngle: 90; initialPosition: 120 300 600"></a-entity>
+		
+		<a-light type="ambient" color="white" intensity="0.7"></a-light>
+		<a-light type="directional" color="white" intensity="0.6" position="-1 2 1"></a-light>
+		<a-light type="directional" color="white" intensity="0.6" position="1 2 1"></a-light>
+		
 		<a-sky color="rgba(150,200,255)"></a-sky>
 
 	</a-scene>
