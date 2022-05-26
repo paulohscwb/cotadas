@@ -584,7 +584,7 @@
 	   <a-link mixin="lnk" href="vr/rebatimento.html"></a-link>
 	   <a-entity position="-5 0.5 0" id="rebatimento" scale="0.5 0.5 0.5" rotation="0 -60 0">		
 		<a-entity rotation="0 -30 0">
-			<a-entity animation="property: rotation; to: 0 0 -90; loop: false; dur: 10000; delay:3500;">
+			<a-entity animation="property: rotation; to: 0 0 -90; loop: true; dur: 10000; delay:3500;">
 				<a-entity line__2="start: 0 0 0; end: 0 0 -2; color: green"
 					line__3="start: 0 0 0; end: 0 3.46 -2; color: blue"
 					line__4="start: 0 3.46 -2; end: 0 0 -2; color: red"></a-entity>
@@ -606,7 +606,7 @@
 			<a-sphere mixin="ponto" position="3.46 0 -2"></a-sphere>
 			<a-text position="3.56 0.05 -2" value="P'0" rotation="-90 0 0" mixin="texto"></a-text>
 			
-			<a-entity animation="property: rotation; to: 0 -120 0; loop: false; dur: 10000; delay:3500;">
+			<a-entity animation="property: rotation; to: 0 -120 0; loop: true; dur: 10000; delay:3500;">
 				<a-sphere mixin="ponto" position="3.46 0 -2"></a-sphere>
 			</a-entity>
 			
@@ -619,15 +619,15 @@
 				<a-text position="-0.8 0.31 0.1" value="O'P" mixin="texto"></a-text>
 				<a-image src="vr/alfa.png" height="0.6" width="0.6" position="4 4.8 0.1" mixin="imagem" rotation="0 0 0"></a-image>
 				
-				<a-entity animation="property: rotation; to: 120 0 0; loop: false; dur: 10000; delay:3500;">
-				<a-entity animation="property: position; from: 0 0 0; to: 0 0 -0.01; loop: false; dur: 10000; delay:3500;">
+				<a-entity animation="property: rotation; to: 120 0 0; loop: true; dur: 10000; delay:3500;">
+				<a-entity animation="property: position; from: 0 0 0; to: 0 0 -0.01; loop: true; dur: 10000; delay:3500;">
 					<a-image src="vr/alfa.png" height="0.6" width="0.6" position="4 4.8 0.1" mixin="imagem" rotation="0 0 0"></a-image>
 					<a-sphere mixin="ponto" position="0 4 0"></a-sphere>
-					<a-entity animation="property: visible; from: true; to: false; loop: false; dur: 10000; delay:11500;">
+					<a-entity animation="property: visible; from: true; to: false; loop: true; dur: 10000; delay:11500;">
 						<a-text position="0.1 4.2 0.1" value="P" mixin="texto"></a-text>
 					</a-entity>
 					<a-entity 
-						animation="property: visible; from: false; to: true; loop: false; dur: 10000; delay:0; ">
+						animation="property: visible; from: false; to: true; loop: true; dur: 10000; delay:0; ">
 						<a-text position="0.1 4.2 -0.25" value="P'1" mixin="texto" rotation="-115 0 0"></a-text>
 					</a-entity>
 					<a-entity line="start: 0 0 0; end: 0 4 0; color: blue"></a-entity>
