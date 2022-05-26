@@ -2,7 +2,7 @@
   <head>
 	<title>360 Image Browser</title>
 	<meta charset="ISO-8859-1">
-	<script src="https://aframe.io/releases/1.0.0/aframe.js"></script>
+	<script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
 	<script src=".././scripts/aframe-orbit-controls.min.js"></script>
 	<script src=".././scripts/faceset.js"></script>
   </head>  
@@ -11,14 +11,11 @@
 	<a-scene>
 		<a-assets>
 			<a-mixin id="imagem" material="side: double; transparent: true; depthTest: false;" rotation="-25 0 0"></a-mixin>
-			<a-mixin id="mtl0" material="opacity: 0.5; side: double; metalness:0.3; roughness:0.9;"></a-mixin>
+			<a-mixin id="mtl0" material="opacity: 0.5; side: double; metalness:0.5; roughness:0.6;"></a-mixin>
 			<a-mixin id="mtl2" material="color: #ee514b"></a-mixin>
 			<a-mixin id="texto" text="width: 12; side:double; color: black" rotation="-25 0 0">
-			<a-mixin id="ponto" geometry="radius:0.1;" material="color: #d8ef09;"></a-mixin><!--#4b97ee; #ee514b; #1E9961; #B404AE; #82FA58; #58ACFA; orange; #d8ef09; #6E6E6E;-->
+			<a-mixin id="ponto" geometry="radius:0.1;" material="color: #ef7809; metalness:0.4; roughness:0.5;"></a-mixin><!--#4b97ee; #ee514b; #1E9961; #B404AE; #82FA58; #58ACFA; orange; #d8ef09; #6E6E6E;-->
 		</a-assets>
-
-		<a-entity hand-controls controller-cursor raycaster="far: 2"></a-entity>
-		<a-entity gearvr-controls></a-entity>
 
 		<a-entity scale="0.7 0.7 0.7" position="0 0 0">
 			<a-entity position="0 0 -1">
@@ -82,71 +79,13 @@
 		</a-entity>
 		
 		<a-entity camera="fov:1; near:5; zoom:0.9;" orbit-controls="target: 0 0 0; maxPolarAngle: 91; initialPosition: 100 250 500"></a-entity>
+		
+		<a-light type="ambient" color="white" intensity="0.7"></a-light>
+		<a-light type="directional" color="white" intensity="0.6" position="-1 2 1"></a-light>
+		<a-light type="directional" color="white" intensity="0.6" position="1 2 1"></a-light>
+		
 		<a-sky color="rgba(150,200,255)"></a-sky>
 
 	</a-scene>
 </body>
 </html>
-
-
-<a-marker type="barcode" value="42" smooth="smooth:true; smoothCount:1;">
-	   <a-link mixin="lnk" href="vr/vg_segmento.html"></a-link>
-	   <a-entity position="-4 0.5 0" id="vg_segmento" scale="0.5 0.5 0.5">		
-		<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0p mtl2"></a-entity>
-		<a-image src="vr/pi1.png" height="0.6" width="0.6" position="4.5 0.32 4.8" mixin="imagem"></a-image>
-
-		<a-entity position="0 0 -1">
-			<a-entity rotation="0 45 0">
-				<a-sphere mixin="ponto" position="0 5 0"></a-sphere>
-				<a-text position="0.2 5 -0.1" value="B" mixin="texto"></a-text>
-				<a-sphere mixin="ponto" position="-4 2 0"></a-sphere>
-				<a-text position="-4.5 2 -0.1" value="A" mixin="texto"></a-text>
-				<a-sphere mixin="ponto" position="0 2 0"></a-sphere>
-				<a-text position="0.2 2 -0.1" value="C" mixin="texto"></a-text>
-				<a-text position="0.1 3.5 -0.1" value="dV" mixin="texto" color="green"></a-text>
-				<a-text position="-2.3 3.8 -0.1" value="d" mixin="texto" ></a-text>
-
-				<a-entity line="start: 0 5 0; end: -4 2 0; color: #6E6E6E" 
-				line__2="start: -4 2 0; end: 0 2 0; color: #6E6E6E"
-				line__5="start: 0 5 0; end: 0 2 0; color: green" line__1="start: 0 0 0; end: 0 2 0; color: blue"
-				line__6="start: -4 2 0; end: -4 0 0; color: blue"></a-entity>
-			</a-entity>
-
-			<a-entity rotation="0 45 0">
-				<a-sphere mixin="ponto" position="0 5 0"></a-sphere>
-				<a-sphere mixin="ponto" position="-4 2 0"></a-sphere>
-				<a-sphere mixin="ponto" position="0 2 0"></a-sphere>
-				
-				<a-entity>
-					<a-text position="0.2 5 -0.1" value="B" mixin="texto"></a-text>
-					<a-text position="-4.5 2 -0.1" value="A" mixin="texto"></a-text>
-					<a-text position="0.2 2 -0.1" value="C" mixin="texto"></a-text>
-					<a-animation attribute="visible" dur="10000" delay="11500" from="true" to="false" repeat="indefinite"></a-animation>
-				</a-entity>
-				
-				<a-entity>
-					<a-text position="0.1 5 -0.25" value="B'1" mixin="texto" rotation="-105 0 0"></a-text>
-					<a-text position="-4.5 2 -0.25" value="A'1" mixin="texto" rotation="-105 0 0"></a-text>
-					<a-text position="0.1 2 -0.25" value="C'1" mixin="texto" rotation="-105 0 0"></a-text>
-					<a-text position="0.1 3.5 -0.25" value="dV" mixin="texto" color="green" rotation="-105 0 0"></a-text>
-					<a-text position="-2.3 3.8 -0.25" value="d" mixin="texto" rotation="-105 0 0"></a-text>
-					<a-animation attribute="visible" dur="10000" delay="0" from="false" to="true" repeat="indefinite"></a-animation>
-				</a-entity>
-
-				<a-entity line="start: 0 5 0; end: -4 2 0; color: #6E6E6E" 
-				line__2="start: -4 2 0; end: 0 2 0; color: #6E6E6E"
-				line__5="start: 0 5 0; end: 0 2 0; color: green" line__1="start: 0 0 0; end: 0 2 0; color: blue"
-				line__6="start: -4 2 0; end: -4 0 0; color: blue"></a-entity>
-				<a-animation attribute="rotation" dur="10000" delay="2000" to="90 45 0" repeat="indefinite"></a-animation>					
-			</a-entity>
-
-			<a-entity rotation="0 45 0">
-				<a-sphere mixin="ponto" position="0 0 0"></a-sphere>
-				<a-text position="0 0.31 0" value="B'=C'" mixin="texto"></a-text>
-				<a-sphere mixin="ponto" position="-4 0 0"></a-sphere>
-				<a-text position="-4.5 0.31 0 " value="A'" mixin="texto"></a-text>
-				<a-entity line__3="start: 0 0 0; end: -4 0 0; color: #6E6E6E"></a-entity>
-			</a-entity>
-		</a-entity>
-	   </a-entity>
-  	</a-marker>
