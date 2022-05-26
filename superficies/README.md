@@ -6,7 +6,8 @@
 <br><center><a href="https://paulohscwb.github.io/cotadas/superficies.html"> https://paulohscwb.github.io/cotadas/superficies.html</a></center>
 <br>em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso aos sites de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.
-<br><br><center><img src="https://paulohscwb.github.io/cotadas/vr/exemplo.jpg" width="80%"></center>
+<br>
+<p align="center"><img src="../vr/exemploB.jpg" width="43%">&#160;&#160;&#160;&#160;&#160;&#160;<img src="../vr/exemploA.jpg" width="43%"></p>
 <table><tr><td><h3>Curvas de nível, pág. 119</h3>
 <img src="119_cnivel.PNG">
 <br><a target="_blank" href="https://paulohscwb.github.io/cotadas/superficies/curva11.html"><img src="../vr/RVaframe.png" width="200px"></a>
