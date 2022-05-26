@@ -16,9 +16,6 @@
 			<a-mixin id="texto" text="width: 12; side:double; color: black" rotation="-25 0 0">
 			<a-mixin id="ponto" geometry="radius:0.1;" material="color: #ef7809; metalness:0.4; roughness:0.5;"></a-mixin><!--#4b97ee; #ee514b; #1E9961; #B404AE; #82FA58; #58ACFA; orange; #d8ef09; #6E6E6E;-->
 		</a-assets>
-
-		<a-entity hand-controls controller-cursor raycaster="far: 2"></a-entity>
-		<a-entity gearvr-controls></a-entity>
 		
 		<a-entity scale="0.7 0.7 0.7" position="0 0 0">
 			<a-sphere mixin="ponto" position="2 0 -1"></a-sphere>
@@ -50,7 +47,7 @@
 			<a-image src="pi1.png" height="0.6" width="0.6" position="-4.5 0.32 4.8" mixin="imagem"></a-image>
 		</a-entity>
 		
-		<a-entity camera="fov:1; near:5; zoom:0.9;" orbit-controls="target: 0 0 0; maxPolarAngle: 91; initialPosition: 100 250 500"></a-entity>
+		<a-entity camera="fov:1; near:5; zoom:0.9;" orbit-controls="target: 0 0 0; maxPolarAngle: 90; initialPosition: 100 250 500"></a-entity>
 		
 		<a-light type="ambient" color="white" intensity="0.7"></a-light>
 		<a-light type="directional" color="white" intensity="0.6" position="-1 2 1"></a-light>
