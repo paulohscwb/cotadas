@@ -14,14 +14,22 @@
 	   renderer='logarithmicDepthBuffer: true; colorManagement: true;' embedded arjs='sourceType: webcam; trackingMethod: best; maxDetectionRate: 10; detectionMode: mono_and_matrix; matrixCodeType: 3x3; debugUIEnabled: false;'>
 	
 	<a-assets>
-		<a-asset-item id="modeloa" src="./superficies/PrudentopolisN1.glb"></a-asset-item>
-		<a-asset-item id="modelo3a" src="./superficies/SaoJoseAusentes1N.glb"></a-asset-item>
-		<a-asset-item id="modelo4a" src="./superficies/SaoJoseAusentes2N.glb"></a-asset-item>
-		<a-asset-item id="modelo2a" src="./superficies/adrianopolis2N.glb"></a-asset-item>
-		<a-asset-item id="modelo1b" src="./superficies/RioRastro2N.glb"></a-asset-item>
-		<a-asset-item id="modelo5a" src="./superficies/curva15N.glb"></a-asset-item>
-		<a-asset-item id="modelo7a" src="./superficies/curva16N.glb"></a-asset-item>
-		<a-asset-item id="modelo6a" src="./superficies/curva13N.glb"></a-asset-item>
+		<a-asset-item id="modeloa" src="./superficies/PrudentopolisNc.glb"></a-asset-item>
+		<a-asset-item id="modelob" src="./superficies/PrudentopolisNc2.glb"></a-asset-item>
+		<a-asset-item id="modelo3a" src="./superficies/SaoJoseAusentes1Nc.glb"></a-asset-item>
+		<a-asset-item id="modelo3b" src="./superficies/SaoJoseAusentes1Nc1.glb"></a-asset-item>
+		<a-asset-item id="modelo4a" src="./superficies/SaoJoseAusentes2Nc.glb"></a-asset-item>
+		<a-asset-item id="modelo4b" src="./superficies/SaoJoseAusentes2Nc1.glb"></a-asset-item>
+		<a-asset-item id="modelo2a" src="./superficies/adrianopolis2Nc.glb"></a-asset-item>
+		<a-asset-item id="modelo2b" src="./superficies/adrianopolis2Nc1.glb"></a-asset-item>
+		<a-asset-item id="modelo1a" src="./superficies/RioRastro2Nc.glb"></a-asset-item>
+		<a-asset-item id="modelo1b" src="./superficies/RioRastro2Nc1.glb"></a-asset-item>
+		<a-asset-item id="modelo5a" src="./superficies/curva15Nc.glb"></a-asset-item>
+		<a-asset-item id="modelo5b" src="./superficies/curva15Nc1.glb"></a-asset-item>
+		<a-asset-item id="modelo7a" src="./superficies/curva16Nc.glb"></a-asset-item>
+		<a-asset-item id="modelo7b" src="./superficies/curva16Nc1.glb"></a-asset-item>
+		<a-asset-item id="modelo6a" src="./superficies/curva13Nc.glb"></a-asset-item>
+		<a-asset-item id="modelo6b" src="./superficies/curva13Nc1.glb"></a-asset-item>
 		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.1 0" link="title: VR; highlighted:true; backgroundColor:LightGray"></a-mixin>
 	</a-assets>
 	
@@ -34,6 +42,7 @@
 	<a-marker type="barcode" value="57" smooth="smooth:true; smoothCount:1;">
 	   	<a-link mixin="lnk" href="superficies/curva11.html"></a-link>
 		<a-entity position="-4.2 0 -4" id="chapeu1" scale="0.0035 0.0035 0.0035">
+			<a-entity gltf-model="#modelob"></a-entity>
 			<a-entity gltf-model="#modeloa"></a-entity>
 		</a-entity>
   	 </a-marker>
@@ -41,6 +50,7 @@
 	<a-marker type="barcode" value="61" smooth="smooth:true; smoothCount:1">
 	   	<a-link mixin="lnk" href="superficies/curva2.html"></a-link>
 		<a-entity position="4.4 0 -5" id="ausentes1" scale="0.007 0.007 0.007">
+			<a-entity gltf-model="#modelo3b"></a-entity>
 			<a-entity gltf-model="#modelo3a"></a-entity>
 		</a-entity>
   	 </a-marker>
@@ -48,6 +58,7 @@
 	<a-marker type="barcode" value="62" smooth="smooth:true; smoothCount:1">
 	   	<a-link mixin="lnk" href="superficies/curva3.html"></a-link>
 		<a-entity position="-4.5 0 -3.6" id="ausentes2" scale="0.0039 0.0039 0.0039">
+			<a-entity gltf-model="#modelo4b"></a-entity>
 			<a-entity gltf-model="#modelo4a"></a-entity>
 		</a-entity>
   	 </a-marker>
@@ -55,6 +66,7 @@
 	  <a-marker type="barcode" value="63" smooth="smooth:true; smoothCount:1">
 	   	<a-link mixin="lnk" href="superficies/curva9.html"></a-link>
 		<a-entity position="-4.4 0 -3.6" id="ausentes2" scale="0.0039 0.0039 0.0039">
+			<a-entity gltf-model="#modelo2b"></a-entity>
 			<a-entity gltf-model="#modelo2a"></a-entity>
 		</a-entity>
   	 </a-marker>
@@ -63,12 +75,14 @@
 	   	<a-link mixin="lnk" href="superficies/curva10.html"></a-link>
 		<a-entity position="-4.4 0 -3.4" id="riorastro2" scale="0.0037 0.0037 0.0037">
 			<a-entity gltf-model="#modelo1b"></a-entity>
+			<a-entity gltf-model="#modelo1a"></a-entity>
 		</a-entity>
   	 </a-marker>
 	 
 	 <a-marker type="barcode" value="59" smooth="smooth:true; smoothCount:1">
 	   	<a-link mixin="lnk" href="superficies/curva15.html"></a-link>
 		<a-entity position="-4.8 0 -6.5" id="curva15" scale="0.0067 0.0067 0.0067">
+			<a-entity gltf-model="#modelo5b"></a-entity>
 			<a-entity gltf-model="#modelo5a"></a-entity>
 		</a-entity>
   	 </a-marker>
@@ -76,6 +90,7 @@
 	 <a-marker type="barcode" value="58" smooth="smooth:true; smoothCount:1">
 	   	<a-link mixin="lnk" href="superficies/curva13c.html"></a-link>
 		<a-entity position="-4.5 0 -5.2" id="curva13c" scale="0.004 0.004 0.004">
+			<a-entity gltf-model="#modelo6b"></a-entity>
 			<a-entity gltf-model="#modelo6a"></a-entity>
 		</a-entity>
   	 </a-marker>
@@ -83,6 +98,7 @@
 	 <a-marker type="barcode" value="56" smooth="smooth:true; smoothCount:1">
 	   	<a-link mixin="lnk" href="superficies/curva16.html"></a-link>
 		<a-entity position="-5.2 0 -4.9" id="curva16" scale="0.0045 0.0045 0.0045">
+			<a-entity gltf-model="#modelo7b"></a-entity>
 			<a-entity gltf-model="#modelo7a"></a-entity>
 		</a-entity>
   	 </a-marker>
