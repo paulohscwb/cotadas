@@ -10,7 +10,8 @@
 	<div style='color:#f0f8ff; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2020 Paulo Henrique Siqueira</div>
     <a-scene renderer='colorManagement: true;'>
       <a-assets>
-		<a-asset-item id="modelo" src="RioRastro2N.glb"></a-asset-item>
+		<a-asset-item id="modeloa" src="RioRastro2Nc.glb"></a-asset-item>
+		<a-asset-item id="modelob" src="RioRastro2Nc1.glb"></a-asset-item>
 		<img id="ceu" src="ceu1.jpg">
       </a-assets>
 	  
@@ -19,7 +20,8 @@
 	  <a-entity camera="fov:20; near:1;" orbit-controls="target: 0 0 0; maxPolarAngle: 90; initialPosition: 5 7 21;"></a-entity>
 	  
 	  <a-entity position="0 0 0" scale="0.003 0.003 0.003">
-			<a-gltf-model src="#modelo"></a-gltf-model>
+			<a-gltf-model src="#modelob"></a-gltf-model>
+			<a-gltf-model src="#modeloa"></a-gltf-model>
 	  </a-entity>
 		
 	  <a-light type="ambient" color="#bbb" intensity="1.2"></a-light>
