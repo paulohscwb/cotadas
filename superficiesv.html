@@ -14,23 +14,7 @@
 	   renderer='logarithmicDepthBuffer: true' embedded arjs='sourceType: webcam; trackingMethod: best; maxDetectionRate: 10; detectionMode: mono_and_matrix; matrixCodeType: 3x3; debugUIEnabled: false;'>
 	
 	<a-assets>
-		<a-asset-item id="modelo" src="./superficies/Prudentopolisa.dae"></a-asset-item>
-		<a-asset-item id="modeloa" src="./superficies/Prudentopolisc.glb"></a-asset-item>
-		<a-asset-item id="modelo3" src="./superficies/SaoJoseAusentes1a.dae"></a-asset-item>
-		<a-asset-item id="modelo3a" src="./superficies/SaoJoseAusentes1a.glb"></a-asset-item>
-		<a-asset-item id="modelo4" src="./superficies/SaoJoseAusentes2a.dae"></a-asset-item>
-		<a-asset-item id="modelo4a" src="./superficies/SaoJoseAusentes2a.glb"></a-asset-item>
-		<a-asset-item id="modelo2" src="./superficies/adrianopolis2a.dae"></a-asset-item>
-		<a-asset-item id="modelo2a" src="./superficies/adrianopolis2a.glb"></a-asset-item>
-		<a-asset-item id="modelo1a" src="./superficies/RioRastro2a.dae"></a-asset-item>
-		<a-asset-item id="modelo1b" src="./superficies/RioRastro2b.glb"></a-asset-item>
-		<a-asset-item id="modelo5" src="./superficies/curva16a.dae"></a-asset-item>
-		<a-asset-item id="modelo5a" src="./superficies/curva16b.glb"></a-asset-item>
-		<a-asset-item id="modelo7" src="./superficies/curva16.dae"></a-asset-item>
-		<a-asset-item id="modelo7a" src="./superficies/curva160.glb"></a-asset-item>
-		<a-asset-item id="modelo6" src="./superficies/curva13a.dae"></a-asset-item>
-		<a-asset-item id="modelo6a" src="./superficies/curva13b.glb"></a-asset-item>
-		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.1 0" link="title: VR; highlighted:true; backgroundColor:LightGray"></a-mixin>
+		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.1 0" link="title: modelo 3D; highlighted:true; backgroundColor:LightGray"></a-mixin>
 	</a-assets>
 	
 	<a-entity camera></a-entity>	
@@ -43,64 +27,64 @@
 	<a-marker type="barcode" value="57" smooth="smooth:true; smoothCount:1;">
 	   	<a-link mixin="lnk" href="superficies/curva11.html"></a-link>
 		<a-entity position="-4.2 0 -4" id="chapeu1" scale="0.0035 0.0035 0.0035">
-			<a-entity gltf-model="#modeloa"></a-entity>
-			<a-entity collada-model="#modelo" position="0 15 0"></a-entity>
+			<a-entity gltf-model="superficies/Prudentopolisc.glb"></a-entity>
+			<a-entity collada-model="superficies/Prudentopolisa.dae" position="0 15 0"></a-entity>
 		</a-entity>
   	 </a-marker>
 							 
 	<a-marker type="barcode" value="61" smooth="smooth:true; smoothCount:1">
 	   	<a-link mixin="lnk" href="superficies/curva2.html"></a-link>
 		<a-entity position="4.4 0 -5" id="ausentes1" scale="0.007 0.007 0.007">
-			<a-entity gltf-model="#modelo3a"></a-entity>
-			<a-entity collada-model="#modelo3" position="0 10 0"></a-entity>
+			<a-entity gltf-model="superficies/SaoJoseAusentes1a.glb"></a-entity>
+			<a-entity collada-model="superficies/SaoJoseAusentes1a.dae" position="0 10 0"></a-entity>
 		</a-entity>
   	 </a-marker>
 	
 	<a-marker type="barcode" value="62" smooth="smooth:true; smoothCount:1">
 	   	<a-link mixin="lnk" href="superficies/curva3.html"></a-link>
 		<a-entity position="-4.5 0 -3.6" id="ausentes2" scale="0.0039 0.0039 0.0039">
-			<a-entity gltf-model="#modelo4a"></a-entity>
-			<a-entity collada-model="#modelo4" position="0 15 0"></a-entity>
+			<a-entity gltf-model="superficies/SaoJoseAusentes2a.glb"></a-entity>
+			<a-entity collada-model="superficies/SaoJoseAusentes2a.dae" position="0 15 0"></a-entity>
 		</a-entity>
   	 </a-marker>
 	 
 	  <a-marker type="barcode" value="63" smooth="smooth:true; smoothCount:1">
 	   	<a-link mixin="lnk" href="superficies/curva9.html"></a-link>
 		<a-entity position="-4.4 0 -3.6" id="ausentes2" scale="0.0039 0.0039 0.0039">
-			<a-entity gltf-model="#modelo2a"></a-entity>
-			<a-entity collada-model="#modelo2" position="0 15 0"></a-entity>
+			<a-entity gltf-model="superficies/adrianopolis2a.glb"></a-entity>
+			<a-entity collada-model="superficies/adrianopolis2a.dae" position="0 15 0"></a-entity>
 		</a-entity>
   	 </a-marker>
 	 
 	 <a-marker type="barcode" value="60" smooth="smooth:true; smoothCount:1">
 	   	<a-link mixin="lnk" href="superficies/curva10.html"></a-link>
 		<a-entity position="-4.4 0 -3.4" id="riorastro2" scale="0.0037 0.0037 0.0037">
-			<a-entity gltf-model="#modelo1b"></a-entity>
-			<a-entity collada-model="#modelo1a" position="0 15 0"></a-entity>
+			<a-entity gltf-model="superficies/RioRastro2b.glb"></a-entity>
+			<a-entity collada-model="superficies/RioRastro2a.dae" position="0 15 0"></a-entity>
 		</a-entity>
   	 </a-marker>
 	 
 	 <a-marker type="barcode" value="59" smooth="smooth:true; smoothCount:1">
 	   	<a-link mixin="lnk" href="superficies/curva15.html"></a-link>
 		<a-entity position="-4.8 0 -6.5" id="curva15" scale="0.0067 0.0067 0.0067">
-			<a-entity gltf-model="#modelo5a"></a-entity>
-			<a-entity collada-model="#modelo5" position="0 10 0"></a-entity>
+			<a-entity gltf-model="superficies/curva16b.glb"></a-entity>
+			<a-entity collada-model="superficies/curva16a.dae" position="0 10 0"></a-entity>
 		</a-entity>
   	 </a-marker>
 	  
 	 <a-marker type="barcode" value="58" smooth="smooth:true; smoothCount:1">
 	   	<a-link mixin="lnk" href="superficies/curva13c.html"></a-link>
 		<a-entity position="-4.5 0 -5.2" id="curva13c" scale="0.004 0.004 0.004">
-			<a-entity gltf-model="#modelo6a"></a-entity>
-			<a-entity collada-model="#modelo6" position="0 15 0"></a-entity>
+			<a-entity gltf-model="superficies/curva13b.glb"></a-entity>
+			<a-entity collada-model="superficies/curva13a.dae" position="0 15 0"></a-entity>
 		</a-entity>
   	 </a-marker>
 	 
 	 <a-marker type="barcode" value="56" smooth="smooth:true; smoothCount:1">
 	   	<a-link mixin="lnk" href="superficies/curva16.html"></a-link>
 		<a-entity position="-5.2 0 -4.9" id="curva16" scale="0.0045 0.0045 0.0045">
-			<a-entity gltf-model="#modelo7a"></a-entity>
-			<a-entity collada-model="#modelo7" position="0 10 0"></a-entity>
+			<a-entity gltf-model="superficies/curva160.glb"></a-entity>
+			<a-entity collada-model="superficies/curva16.dae" position="0 10 0"></a-entity>
 		</a-entity>
   	 </a-marker>
 	  

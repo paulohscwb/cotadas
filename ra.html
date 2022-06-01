@@ -19,24 +19,16 @@
 		<a-mixin id="imagem" material="side: double; transparent: true; depthTest: false;" rotation="-25 0 0"></a-mixin>
 		<a-mixin id="mtl0" material="opacity: 0.7; side: double; metalness:0.5; roughness:0.6;"></a-mixin>
 		<a-mixin id="mtl0p" material="opacity: 0.4; side: double; metalness:0.5; roughness:0.6;"></a-mixin>
-		<a-mixin id="mtl1" material="color: #4b97ee;"></a-mixin>
 		<a-mixin id="mtl2" material="color: #ee514b"></a-mixin>
 		<a-mixin id="mtl3" material="color: #1E9961;"></a-mixin>
-		<a-mixin id="mtl4" material="color: #B404AE;"></a-mixin>
 		<a-mixin id="mtl5" material="color: #82FA58;"></a-mixin>
 		<a-mixin id="mtl6" material="color: #58ACFA;"></a-mixin>
 		<a-mixin id="mtl7" material="color: orange;"></a-mixin>
 		<a-mixin id="mtl8" material="color: #ef7809;"></a-mixin>
-		<a-mixin id="mtl9" material="color: #6E6E6E;"></a-mixin>
 		<a-mixin id="linhas" material="color: #6E6E6E; wireframe: true; wireframe-linewidth:1;"></a-mixin>
 		<a-mixin id="texto" text="width: 12; side:double; color: black" rotation="-25 0 0">
 	  	<a-mixin id="ponto" geometry="radius:0.1;" mixin="mtl8" material="metalness:0.4; roughness:0.5;"></a-mixin>
-		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.1 0" link="title: VR; highlighted:true; backgroundColor:LightGray"></a-mixin>
-		<a-asset-item id="modeloa" src="vr/reta_decliveN.glb"></a-asset-item>
-		<a-asset-item id="modeloa1" src="vr/int_pv_phN.glb"></a-asset-item>
-		<a-asset-item id="modeloa2" src="vr/int_pq_phN.glb"></a-asset-item>
-		<a-asset-item id="modeloa3" src="vr/int_pq_pvN.glb"></a-asset-item>
-		<a-asset-item id="modeloa4" src="vr/int_pq_pqN.glb"></a-asset-item>
+		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.1 0" link="title: modelo 3D; highlighted:true; backgroundColor:LightGray"></a-mixin>
 	</a-assets>
 	
 	<a-entity camera></a-entity>
@@ -44,35 +36,35 @@
 	<a-marker type="barcode" value="47" smooth="smooth:true; smoothCount:1">
 	   	<a-link mixin="lnk" href="vr/reta_declive.html"></a-link>
 		<a-entity position="-4 0 -3" id="rdeclive" scale="1.8 1.8 1.8">
-			<a-entity gltf-model="#modeloa"></a-entity>
+			<a-entity gltf-model="vr/reta_decliveN.glb"></a-entity>
 		</a-entity>
   	 </a-marker>
 	
 	<a-marker type="barcode" value="48" smooth="smooth:true; smoothCount:1">
 	   	<a-link mixin="lnk" href="vr/int_pv_ph.html"></a-link>
 		<a-entity position="-4 0 -3" id="rdeclive" scale="1.8 1.8 1.8">
-			<a-entity gltf-model="#modeloa1"></a-entity>
+			<a-entity gltf-model="vr/int_pv_phN.glb"></a-entity>
 		</a-entity>
   	 </a-marker>
 	
 	<a-marker type="barcode" value="49" smooth="smooth:true; smoothCount:1">
 	   	<a-link mixin="lnk" href="vr/int_pq_ph.html"></a-link>
 		<a-entity position="-4 0 -3" id="rdeclive" scale="1.8 1.8 1.8">
-			<a-entity gltf-model="#modeloa2"></a-entity>
+			<a-entity gltf-model="vr/int_pq_phN.glb"></a-entity>
 		</a-entity>
   	 </a-marker>
 	
 	<a-marker type="barcode" value="50" smooth="smooth:true; smoothCount:1">
 	   	<a-link mixin="lnk" href="vr/int_pq_pv.html"></a-link>
 		<a-entity position="-4 0 -3" id="rdeclive" scale="1.8 1.8 1.8">
-			<a-entity gltf-model="#modeloa3"></a-entity>
+			<a-entity gltf-model="vr/int_pq_pvN.glb"></a-entity>
 		</a-entity>
   	 </a-marker>
 	
 	<a-marker type="barcode" value="51" smooth="smooth:true; smoothCount:1">
 	   	<a-link mixin="lnk" href="vr/int_pq_pq.html"></a-link>
 		<a-entity position="-4 0 -3" id="rdeclive" scale="1.8 1.8 1.8">
-			<a-entity gltf-model="#modeloa4"></a-entity>
+			<a-entity gltf-model="vr/int_pq_pqN.glb"></a-entity>
 		</a-entity>
   	 </a-marker>
 		
