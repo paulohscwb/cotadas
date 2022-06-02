@@ -1,16 +1,16 @@
 <!doctype HTML>
 <html>
 <head>
-	<script src="https://aframe.io/releases/0.9.2/aframe.js"></script>
+	<script src="https://aframe.io/releases/1.0.4/aframe.js"></script>
 	<script src="https://jeromeetienne.github.io/AR.js/aframe/build/aframe-ar.js"></script>
-	<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+	<meta name="viewport" content="width=device-width, user-scalable=no"> <!--minimum-scale=1.0, maximum-scale=1.0">-->
 </head>
 <body style='margin: 0; overflow: hidden;'>
 	<div style='position: fixed; top: 100px; width:100%; text-align: center; z-index: -2;'>
 		<font face="verdana" size="5" color="DarkSlateBlue">Carregando...</font>
 	</div>
 	<div style='color:#f0f8ff; position: fixed; bottom: 1vh; left:1vw; width:80vw; z-index: 5; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px grey;'>paulohscwb@gmail.com <br> &copy; 2020 Paulo Henrique Siqueira</div>
-  <a-scene cursor="rayOrigin: mouse" raycaster="objects: [link];" 
+  <a-scene cursor="rayOrigin: mouse" raycaster="objects: .lnk;" 
 	   renderer='logarithmicDepthBuffer: true; colorManagement: true;' embedded arjs='sourceType: webcam; trackingMethod: best; maxDetectionRate: 10; detectionMode: mono_and_matrix; matrixCodeType: 3x3; debugUIEnabled: false;'>
 	
 	<a-assets>
@@ -24,7 +24,7 @@
 	 <a-entity camera></a-entity>
 	
 	<a-marker type="barcode" value="57" smooth="smooth:true; smoothCount:1;">
-	   	<a-link mixin="lnk" href="superficies/curva11.html"></a-link>
+	   	<a-link mixin="lnk" class="lnk" href="superficies/curva11.html"></a-link>
 		<a-entity position="-4.2 0 -4" id="chapeu1" scale="0.0035 0.0035 0.0035">
 			<a-entity gltf-model="superficies/PrudentopolisNc2.glb"></a-entity>
 			<a-entity gltf-model="superficies/PrudentopolisNc.glb"></a-entity>
@@ -32,7 +32,7 @@
   	 </a-marker>
 							 
 	<a-marker type="barcode" value="61" smooth="smooth:true; smoothCount:1">
-	   	<a-link mixin="lnk" href="superficies/curva2.html"></a-link>
+	   	<a-link mixin="lnk" class="lnk" href="superficies/curva2.html"></a-link>
 		<a-entity position="4.4 0 -5" id="ausentes1" scale="0.007 0.007 0.007">
 			<a-entity gltf-model="superficies/SaoJoseAusentes1Nc1.glb"></a-entity>
 			<a-entity gltf-model="superficies/SaoJoseAusentes1Nc.glb"></a-entity>
@@ -40,7 +40,7 @@
   	 </a-marker>
 	
 	<a-marker type="barcode" value="62" smooth="smooth:true; smoothCount:1">
-	   	<a-link mixin="lnk" href="superficies/curva3.html"></a-link>
+	   	<a-link mixin="lnk" class="lnk" href="superficies/curva3.html"></a-link>
 		<a-entity position="-4.5 0 -3.6" id="ausentes2" scale="0.0039 0.0039 0.0039">
 			<a-entity gltf-model="superficies/SaoJoseAusentes2Nc1.glb"></a-entity>
 			<a-entity gltf-model="superficies/SaoJoseAusentes2Nc.glb"></a-entity>
@@ -48,7 +48,7 @@
   	 </a-marker>
 	 
 	  <a-marker type="barcode" value="63" smooth="smooth:true; smoothCount:1">
-	   	<a-link mixin="lnk" href="superficies/curva9.html"></a-link>
+	   	<a-link mixin="lnk" class="lnk" href="superficies/curva9.html"></a-link>
 		<a-entity position="-4.4 0 -3.6" id="ausentes2" scale="0.0039 0.0039 0.0039">
 			<a-entity gltf-model="superficies/adrianopolis2Nc1.glb"></a-entity>
 			<a-entity gltf-model="superficies/adrianopolis2Nc.glb"></a-entity>
@@ -56,7 +56,7 @@
   	 </a-marker>
 	 
 	 <a-marker type="barcode" value="60" smooth="smooth:true; smoothCount:1">
-	   	<a-link mixin="lnk" href="superficies/curva10.html"></a-link>
+	   	<a-link mixin="lnk" class="lnk" href="superficies/curva10.html"></a-link>
 		<a-entity position="-4.4 0 -3.4" id="riorastro2" scale="0.0037 0.0037 0.0037">
 			<a-entity gltf-model="superficies/RioRastro2Nc1.glb"></a-entity>
 			<a-entity gltf-model="superficies/RioRastro2Nc.glb"></a-entity>
@@ -64,7 +64,7 @@
   	 </a-marker>
 	 
 	 <a-marker type="barcode" value="59" smooth="smooth:true; smoothCount:1">
-	   	<a-link mixin="lnk" href="superficies/curva15.html"></a-link>
+	   	<a-link mixin="lnk" class="lnk" href="superficies/curva15.html"></a-link>
 		<a-entity position="-4.8 0 -6.5" id="curva15" scale="0.0067 0.0067 0.0067">
 			<a-entity gltf-model="superficies/curva15Nc1.glb"></a-entity>
 			<a-entity gltf-model="superficies/curva15Nc.glb"></a-entity>
@@ -72,7 +72,7 @@
   	 </a-marker>
 	  
 	 <a-marker type="barcode" value="58" smooth="smooth:true; smoothCount:1">
-	   	<a-link mixin="lnk" href="superficies/curva13c.html"></a-link>
+	   	<a-link mixin="lnk" class="lnk" href="superficies/curva13c.html"></a-link>
 		<a-entity position="-4.5 0 -5.2" id="curva13c" scale="0.004 0.004 0.004">
 			<a-entity gltf-model="superficies/curva13Nc1.glb"></a-entity>
 			<a-entity gltf-model="superficies/curva13Nc.glb"></a-entity>
@@ -80,7 +80,7 @@
   	 </a-marker>
 	 
 	 <a-marker type="barcode" value="56" smooth="smooth:true; smoothCount:1">
-	   	<a-link mixin="lnk" href="superficies/curva16.html"></a-link>
+	   	<a-link mixin="lnk" class="lnk" href="superficies/curva16.html"></a-link>
 		<a-entity position="-5.2 0 -4.9" id="curva16" scale="0.0045 0.0045 0.0045">
 			<a-entity gltf-model="superficies/curva16Nc1.glb"></a-entity>
 			<a-entity gltf-model="superficies/curva16Nc.glb"></a-entity>
