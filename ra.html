@@ -332,10 +332,14 @@
 			line__3="start: -2.79 3.28 -0.77; end: -1 0 2; color: #6E6E6E"
 			line__5="start: -2.29 6.04 -9.1; end: 1 0 -4; color: #6E6E6E"
 			line__6="start: 1 0 -4; end: -1 0 2; color: #6E6E6E"></a-entity>
-			<a-entity id="triangulo" faceset="vertices: -2.79 3.28 -0.77  -0.4 0.74 -1.62  -2.29 6.04 -9.1" mixin="mtl0 mtl3"></a-entity>
+			<!--<a-entity id="triangulo" faceset="vertices: -2.79 3.28 -0.77  -0.4 0.74 -1.62  -2.29 6.04 -9.1" mixin="mtl0 mtl3"></a-entity>-->
 		</a-entity>
+		
+		<a-entity scale="1.43 1.43 1.43" gltf-model="vr/objetos/p_ex4c_triangulo.glb"></a-entity>
+		
 		<a-image src="vr/pi1.png" height="0.6" width="0.6" position="4.5 0.32 4.8" mixin="imagem"></a-image> 
-		<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0p mtl2"></a-entity>
+		<!--<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0p mtl2"></a-entity>-->
+		<a-plane id="planoPI" scale="10 10 1" rotation="-90 0 0" mixin="mtl0p mtl2"></a-plane>
 	   </a-entity>
   	</a-marker>
 	
