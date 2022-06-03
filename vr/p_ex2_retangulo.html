@@ -2,7 +2,7 @@
   <head>
 	<title>360 Image Browser</title>
 	<meta charset="ISO-8859-1">
-	<script src="https://aframe.io/releases/1.0.0/aframe.js"></script>
+	<script src="https://aframe.io/releases/1.0.4/aframe.js"></script>
 	<script src=".././scripts/aframe-orbit-controls.min.js"></script>
 	<script src=".././scripts/faceset.js"></script>
   </head>  
@@ -56,7 +56,7 @@
 				<a-entity id="triangulo" faceset="vertices: -2.82 2 -0.81  -2.25 2 2.72  1.78 4.72 2.02  1.18 4.72 -1.5" mixin="mtl0s mtl8"></a-entity>
 				<a-entity id="triangulo" faceset="vertices: -2.82 0.05 -0.81  -2.25 0.05 2.72  1.78 0.05 2.02  1.18 0.05 -1.5" mixin="mtl0 mtl9"></a-entity>
 
-			<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0 mtl2"></a-entity>
+			<a-plane id="planoPI" scale="10 10 1" rotation="-90 0 0" mixin="mtl0 mtl2"></a-plane>
 			<a-image src="pi1.png" height="0.6" width="0.6" position="-4.5 0.32 4.8" mixin="imagem"></a-image>
 		</a-entity>
 		
