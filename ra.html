@@ -1,12 +1,12 @@
 <!doctype HTML>
 <html>
 <head>
-	<script src="https://aframe.io/releases/1.1.0/aframe.min.js"></script>
+	<script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
 	<script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
 	<!--<script src="AR.js/aframe/build/aframe-ar.js"></script>
-	<script src="https://paulohscwb.github.io/AR.js/aframe/build/aframe-ar.js"></script>-->
+	<script src="https://paulohscwb.github.io/AR.js/aframe/build/aframe-ar.js"></script>
+	<script src="scripts/faceset.js"></script>-->
 	<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
-	<script src="scripts/faceset.js"></script>
 </head>
 <body style='margin: 0; overflow: hidden;'>
 	<div style='position: fixed; top: 100px; width:100%; text-align: center; z-index: -2;'>
@@ -97,7 +97,8 @@
 		line__5="start: 5.5 0 1; end: 4.5 4 0; color: #6E6E6E"></a-entity>
 
 		<a-image src="vr/pi1.png" height="0.6" width="0.6" position="4.5 0.32 4.8" mixin="imagem"></a-image>
-		<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0p mtl2"></a-entity>
+		<!--<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0p mtl2"></a-entity>-->
+		<a-plane id="planoPI" scale="10 10 1" rotation="-90 0 0" mixin="mtl0 mtl2"></a-plane>
 	   </a-entity>
   	</a-marker>
 		
@@ -120,8 +121,8 @@
 		line__5="start: 5.5 0 1; end: 4.5 4 0; color: #6E6E6E"></a-entity>
 		
 		<a-image src="vr/pi1.png" height="0.6" width="0.6" position="4.5 0.32 4.8" mixin="imagem"></a-image>
-		<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0p mtl2"></a-entity>
-		
+		<!--<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0p mtl2"></a-entity>-->
+		<a-plane id="planoPI" scale="10 10 1" rotation="-90 0 0" mixin="mtl0 mtl2"></a-plane>
 	   </a-entity>
   	</a-marker>
 		
@@ -166,7 +167,8 @@
 		line__9="start: -0.75 3 2.25; end: 1.6 1.66 -0.77; color: #6E6E6E"></a-entity>
 		
 		<a-image src="vr/pi1.png" height="0.6" width="0.6" position="4.5 0.32 4.8" mixin="imagem"></a-image>
-		<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0p mtl2"></a-entity>
+		<!--<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0p mtl2"></a-entity>-->
+		<a-plane id="planoPI" scale="10 10 1" rotation="-90 0 0" mixin="mtl0 mtl2"></a-plane>
 	   </a-entity>
   	</a-marker>
 		
@@ -186,7 +188,8 @@
 		line__5="start: 5.5 0 1; end: 4.5 4 0; color: #6E6E6E"></a-entity>   
 		
 		<a-image src="vr/pi1.png" height="0.6" width="0.6" position="4.5 0.32 4.8" mixin="imagem"></a-image>
-		<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0p mtl2"></a-entity>
+		<!--<a-entity id="planoPI" faceset="vertices: -5 0 -5  5 0 -5  5 0 5  -5 0 5" mixin="mtl0p mtl2"></a-entity>-->
+		<a-plane id="planoPI" scale="10 10 1" rotation="-90 0 0" mixin="mtl0 mtl2"></a-plane>
 	   </a-entity>
   	</a-marker>
 
