@@ -4408,7 +4408,7 @@
 		<figcaption></figcaption>
 	</details></div>
 	<img src="cotadas/Cotadas_2020_0077b.png"/>
-	<div class="combo" id="atv51"><span class="atv1">&#x1f4cf; &#x1f4d0; Atividade 5.1</span></div>
+	<div class="combo" id="atv51"><span class="atv1">&#x1f4cf; &#x1f4d0; Exercício Proposto 5.1</span></div>
 	<p class="topop"><a href="#intersecoes" class="topo">voltar ao topo</a></p>
 </details>
 
