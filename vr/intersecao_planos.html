@@ -2,9 +2,9 @@
   <head>
 	<title>360 Image Browser</title>
 	<meta charset="ISO-8859-1">
-	<script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+	<script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
 	<script src=".././scripts/aframe-orbit-controls.min.js"></script>
-	<script src=".././scripts/faceset.js"></script>
+	<!--<script src=".././scripts/faceset.js"></script>-->
   </head>  
 <body>
 	<div style='color:#f0f8ff; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2020 Paulo Henrique Siqueira</div>
@@ -73,8 +73,9 @@
 		
 		<a-text position="-5 0.2 0.9" value="d'" mixin="texto"></a-text>
 		<a-text position="-5 0.2 -4.1" value="d'" mixin="texto"></a-text>
-		<a-entity faceset="vertices: 2.01 4.44 5.51  5.38 4.44 -3.93  -3.19 0.34 -7  -6.57 0.33 2.43" mixin="mtl0 mtl3"></a-entity>
-		<a-entity faceset="vertices: 3.29 1.85 5.98  6.64 1.85 -3.44  -2.72 3.22 -6.79  -6.13 3.23 2.63" mixin="mtl0 mtl4"></a-entity>
+		<!--<a-entity><a-entity faceset="vertices: 2.01 4.44 5.51  5.38 4.44 -3.93  -3.19 0.34 -7  -6.57 0.33 2.43" mixin="mtl0 mtl3"></a-entity>
+		<a-entity faceset="vertices: 3.29 1.85 5.98  6.64 1.85 -3.44  -2.72 3.22 -6.79  -6.13 3.23 2.63" mixin="mtl0 mtl4"></a-entity></a-entity>-->
+		<a-gltf-model src="objetos/intersecao_planos.glb"></a-gltf-model>
 		
 		<a-image src="alfa.png" height="0.25" width="0.25" position="-4.55 0.15 0.9" mixin="imagem"></a-image>
 		<a-image src="beta.png" height="0.35" width="0.25" position="-4.6 0.15 -4.1" mixin="imagem"></a-image>
