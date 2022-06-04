@@ -2,9 +2,9 @@
   <head>
 	<title>360 Image Browser</title>
 	<meta charset="ISO-8859-1">
-	<script src="https://aframe.io/releases/1.0.0/aframe.js"></script>
+	<script src="https://aframe.io/releases/1.3.0/aframe.js"></script>
 	<script src=".././scripts/aframe-orbit-controls.min.js"></script>
-	<script src=".././scripts/faceset.js"></script>
+	<!--<script src=".././scripts/faceset.js"></script>-->
   </head>  
 <body>
 <div style='color:#f0f8ff; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2020 Paulo Henrique Siqueira</div>
@@ -51,8 +51,9 @@
 			<a-entity line="start: 4.5 0 1; end: 4.5 4 1; color: #6E6E6E"></a-entity>
 			
 			<a-plane id="planoPI" scale="10 10 1" rotation="-90 0 0" mixin="mtl0 mtl2"></a-plane>
-			<a-entity id="alfa" faceset="vertices: 3.57 0 -5  -4.03 0 5  3.58 6 -5 " mixin="mtl0 mtl6"></a-entity>
-			<a-entity id="alfa1" faceset="vertices: 3.58 6 -5  -4.04 6 5  -4.03 0 5" mixin="mtl0 mtl6"></a-entity>
+			<!--<a-entity><a-entity id="alfa" faceset="vertices: 3.57 0 -5  -4.03 0 5  3.58 6 -5 " mixin="mtl0 mtl6"></a-entity>
+			<a-entity id="alfa1" faceset="vertices: 3.58 6 -5  -4.04 6 5  -4.03 0 5" mixin="mtl0 mtl6"></a-entity></a-entity>-->
+			<a-gltf-model src="objetos/p5_orto.glb"></a-gltf-model>
 			<a-image src="pi1.png" height="0.6" width="0.6" position="4.5 0.32 4.8" mixin="imagem"></a-image>
 			<a-image src="alfa.png" height="0.5" width="0.5" position="-3.4 5.5 4.5" mixin="imagem"></a-image>
 		</a-entity>
