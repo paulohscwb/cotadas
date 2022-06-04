@@ -2,9 +2,9 @@
   <head>
 	<title>360 Image Browser</title>
 	<meta charset="ISO-8859-1">
-	<script src="https://aframe.io/releases/1.0.4/aframe.min.js"></script>
+	<script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
 	<script src=".././scripts/aframe-orbit-controls.min.js"></script>
-	<script src=".././scripts/faceset.js"></script>
+	<!--<script src=".././scripts/faceset.js"></script>-->
   </head>  
 <body>
 	<div style='color:#f0f8ff; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2020 Paulo Henrique Siqueira</div>
@@ -45,7 +45,7 @@
 				<a-text position="0 0.25 0" value="O'=V'" mixin="texto"></a-text>
 				<a-sphere mixin="ponto" position="0 0 0"></a-sphere>
 				
-				<a-entity id="base" faceset="vertices:-2 3 2  2 3 2  2 3 -2  -2 3 -2" mixin="mtl0 mtl8"></a-entity>
+				<!--<a-entity><a-entity id="base" faceset="vertices:-2 3 2  2 3 2  2 3 -2  -2 3 -2" mixin="mtl0 mtl8"></a-entity>
 				<a-entity id="ABV" faceset="vertices:0 7.3 0  -2 3 2  2 3 2" mixin="mtl0 mtl8"></a-entity>
 				<a-entity id="ABV" faceset="vertices:0 7.3 0  2 3 2  2 3 -2" mixin="mtl0 mtl8"></a-entity>
 				<a-entity id="BCV" faceset="vertices:0 7.3 0  2 3 -2  -2 3 -2" mixin="mtl0 mtl8"></a-entity>
@@ -53,7 +53,8 @@
 				<a-entity id="ABV" faceset="vertices:0 7.3 0  -2 3 2  2 3 2" mixin="linhas"></a-entity>
 				<a-entity id="ABV" faceset="vertices:0 7.3 0  2 3 2  2 3 -2" mixin="linhas"></a-entity>
 				<a-entity id="BCV" faceset="vertices:0 7.3 0  2 3 -2  -2 3 -2" mixin="linhas"></a-entity>
-				<a-entity id="BCV" faceset="vertices:0 7.3 0  -2 3 -2  -2 3 2" mixin="linhas"></a-entity>	
+				<a-entity id="BCV" faceset="vertices:0 7.3 0  -2 3 -2  -2 3 2" mixin="linhas"></a-entity></a-entity>-->
+				<a-gltf-model src="objetos/piramide0.glb"></a-gltf-model>
 				<a-entity line="start: -2 0 2; end: 2 0 2; color: #6E6E6E"  line__20="start: 2 0 2; end: 2 0 -2; color: #6E6E6E"
 					line__2="start: 2 0 -2; end: -2 0 -2; color: #6E6E6E"  line__21="start: -2 0 -2; end: -2 0 2; color: #6E6E6E"
 					line__3="start: -2 0 2; end: 2 0 -2; color: #6E6E6E"  line__31="start: 2 0 2; end: -2 0 -2; color: #6E6E6E"
