@@ -2,10 +2,6 @@ footer {
   display: none !important;
 }
 
-.cbb {width: 100%; height: 75vh; min-height: 250px;}
-
-.cbbd {border: none; padding: 2px; width:100%;}
-
 .btn {
   display: none !important;
 }
@@ -38,8 +34,7 @@ details[open] summary ~ * {
 }
 
 .visu{
-	line-height: 26px; color: blue; font-size: 15px; font-weight: normal;
-}
+	line-height: 30px; 
 
 .topo::after {
     content: "";
