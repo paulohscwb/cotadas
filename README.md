@@ -4420,7 +4420,7 @@
 	<img src="cotadas/Cotadas_2020_0077b.png" loading="lazy"/>
 	<div class="combo" id="atv51"><span class="atv1">&#x1f4cf; &#x1f4d0; Exercício Proposto 5.1</span></div>
 	<p class="topop"><a href="#intersecoes" class="topo">voltar ao topo</a></p>
-	<h3>Resposta do Exercício proposto</h3><hr><h4>Exercício 5.1: c) da pág. 77</h4><div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary><p></p><img src="solucoes/5/77_03_00.png" /><figcaption></figcaption></details></div>
+	<!--<h3>Resposta do Exercício proposto</h3><hr><h4>Exercício 5.1: c) da pág. 77</h4><div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary><p></p><img src="solucoes/5/77_03_00.png" /><figcaption></figcaption></details></div>-->
 	
 </details>
 
