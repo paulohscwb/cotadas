@@ -2414,7 +2414,7 @@
 		<img src="cotadas/32_03_00.png" class="fundo" loading="lazy"/>
 	</details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<h3>Respostas dos Exercícios propostos</h3><hr><h4>Exercício 2.3: b) da pág. 29</h4><div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary><p>Usando os mesmos conceitos do item a, encontre a vg do segmento <b>CD</b>.</p><img src="solucoes/2/29_02_00.png"/></details></div><h4>Exercício 2.3: b) da pág. 29</h4><div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary><p>Usando os mesmos conceitos do item a, encontre a vg do segmento <b>CD</b>.</p><img src="solucoes/2/29_02_00.png"/></details></div>
+	<h3>Respostas dos Exercícios propostos</h3><hr><h4>Exercício 2.3: b) da pág. 29</h4><div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary><p>Usando os mesmos conceitos do item a, encontre a vg do segmento <b>CD</b>.</p><img src="solucoes/2/29_02_00.png"/></details></div><h4>Exercício 2.4: 1b) da pág. 31</h4><div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary><p>Solução do item b</p><img src="solucoes/2/31_02_00.png" class="fundo" /></details></div>
 	
 </details>
 
