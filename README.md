@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="scripts/style.css">
+<link rel="icon" type="image/png" href="vr/imagem.png">
 
 <h2 id="inicio">Visualização de propriedades de projeções, sólidos e aplicações</h2> 
 <p>Esta página contém as construções geométricas e visualizações 3D dos exemplos e exercícios utilizados na disciplina de Expressão Gráfica I</p>
@@ -6157,7 +6158,7 @@
 <p>Para ver os objetos em Realidade Aumentada, visite a página:</p> 
 <p align="center"><a href="https://paulohscwb.github.io/cotadas/ra.html" target="_blank"> https://paulohscwb.github.io/cotadas/ra.html</a></p> 
 <p>em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).</p>
-<p>O acesso às páginas de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.</p>
+<p>O acesso às páginas dos modelos 3D é feito clicando no círculo azul que aparece em cima dos marcadores.</p>
 <p align="center"><img style="border-radius:7px;" src="vr/exemploB.jpg" width="43%">&#160;&#160;&#160;&#160;&#160;&#160;<img style="border-radius:7px;" src="vr/exemploA.jpg" width="43%"></p>
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Expressão Gráfica I</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/cotadas/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
