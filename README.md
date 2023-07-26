@@ -4,7 +4,7 @@
 <h2 id="inicio">Visualização de propriedades de projeções, sólidos e aplicações</h2> 
 <p>Esta página contém as construções geométricas e visualizações 3D dos exemplos e exercícios utilizados na disciplina de Expressão Gráfica I</p>
 <p>A apostila está disponível no link: <a href="vr/Cotadas_2020.pdf" target="_blank">apostila de Projeções Cotadas</a></p>
-<p>Os objetos programados em 3D podem ser visualizados em Realidade Virtual (RV) e Realidade Aumentada (RA). As propriedades de projeções, os sólidos e as maquetes podem ser vistos em RA com os marcadores indicados, e através dos links criados nos marcadores, os objetos podem ser vistos em RV.</p>
+<p>Os objetos programados em 3D podem ser visualizados em Realidade Virtual (RV) e Realidade Aumentada (RA). As propriedades de projeções, os sólidos e as maquetes podem ser vistos em RA com os marcadores indicados, e por meio dos links criados nos marcadores, os objetos podem ser vistos em RV.</p>
 
 <details><summary id="desenho">1. Desenho Geométrico</summary>
    <p>Material da página 1 até a página 10.</p>
@@ -1479,7 +1479,6 @@
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 	<div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/8O9ci27ltkE" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-		<!--<iframe src="https://drive.google.com/file/d/1rHRuxnvuXSKN2W6kVXYlDH9egVrxC4Tg/preview" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen width="100%"></iframe>-->
 	</div>
 	<img src="prop/Cotadas_2020_0014.png" loading="lazy"/>
     <div class="combo"><figcaption>Para projetar um ponto <b>A</b> qualquer do espaço usando a projeção cônica, basta definir a reta projetante <b>a</b>, que passa pelo centro de projeção <b>O</b> e pelo ponto <b>A</b>. A interseção desta reta com o plano <b>&pi;'</b> é a projeção <b>A'</b> do ponto <b>A</b>.</figcaption>
@@ -1498,47 +1497,12 @@
     <div class="combo"><figcaption>No caso em que as retas <b>r</b> e <b>d</b> são paralelas, a projeção <b>r'</b> é um ponto.</figcaption>
 	<a href="vr/p1a.html" target="_blank" class="visu">Visualização em 3D: projeção <b>oblíqua</b></a>
 	<br><a href="vr/p1a_orto.html" target="_blank" class="visu">Visualização em 3D: projeção <b>ortogonal</b></a>
-	  <details class="sub"><summary>&#x1f453; Realidade Aumentada e Realidade Virtual</summary>
-		<p>Esta apostila tem recursos programados em Realidade Aumentada e Realidade Virtal. Você pode acessar estes recursos usando o seguinte endereço:</p>
+		<h4>&#x1f453; Realidade Aumentada e Realidade Virtual</h4>
+		<p>Esta apostila tem recursos programados em Realidade Aumentada e Realidade Virtual. Você pode acessar estes recursos usando o seguinte endereço:</p>
 		<p align="center"><a href="https://paulohscwb.github.io/cotadas/ra.html" target="_blank"> https://paulohscwb.github.io/cotadas/ra.html</a></p>
-		<p>Veja o passo a passo para acessar estes recursos</p>
-		  <ul class="slider">
-		   <li>
-			   <input type="radio" id="a00" name="sl">
-			   <label for="a00"></label>
-			   <img src="dg/00_00_01.png" loading="lazy"/>
-			   <figcaption>Os ambientes podem ser acessados em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook). Dê preferência aos navegadores GOOGLE CHROME e MOZILLA FIREFOX.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="a01" name="sl">
-			   <label for="a01"></label>
-			   <img src="dg/00_00_02.jpg" loading="lazy"/>
-			   <figcaption>Acesse a página <a href="https://paulohscwb.github.io/cotadas/ra.html" target="_blank"> https://paulohscwb.github.io/cotadas/ra.html</a>. Na primeira vez que acessar, o dispositivo pedirá a permissão para acesso à câmera para leitura dos QR Codes. Libere o acesso e aponte a câmera para um dos QR Codes impressos da apostila.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="a02" name="sl">
-			   <label for="a02"></label>
-			   <img src="dg/00_00_03.jpg" loading="lazy"/>
-			   <figcaption>Os objetos 3D aparecerão por cima das coordenadas da apostila. Você pode usá-los para conferir as construções ou apenas visualizar os objetos em 3D. Ao clicar sobre os círculos azuis que aparecem sobre os QR codes, você tem acesso aos objetos programados em Realidade Virtual.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="a03" name="sl">
-			   <label for="a03"></label>
-			   <img src="dg/00_00_04.png" loading="lazy"/>
-			   <figcaption>Os objetos em Realidade Virtual podem ser manipulados, ajudando a compreensão dos nossos estudos de projeções.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="a04" name="sl">
-			   <label for="a04"></label>
-			   <div class="embed-container">
-				 <!--<iframe src="https://drive.google.com/file/d/1m2pfKIbtITcS1pXKGfAlsBuff_5DYzAJ/preview" width="100%"></iframe>-->
-				 <iframe width="100%" src="https://www.youtube.com/embed/-BJ1Ko3x52I" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture;" allowfullscreen></iframe>
-			   </div>
-			   <figcaption>Veja o vídeo de demonstração do uso destes recursos. Não esqueça de HABILITAR AS LEGENDAS.</figcaption>
-		   </li>
-		</ul>
-		<img src="dg/00_00_04.png" class="fundo" style="visibility:hidden;" loading="lazy"/>	
-	  </details></div>
+		<p align="center"><img src="ar/eg_ra.gif" style="max-width: 85%; border-radius:5px;" loading="lazy"/></p>
+		<p>Os objetos modelados em 3D aparecem por cima das coordenadas da apostila. Você pode usá-los para conferir as construções ou apenas visualizar os objetos em 3D.</p>
+	</div>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 	<img src="prop/Cotadas_2020_0016.png" loading="lazy"/>  
     <div class="combo"><figcaption>Considerando <b>r</b> e <b>s</b> estão em planos projetantes distintos, as projeções <b>r'</b> e <b>s'</b> são paralelas.</figcaption>
@@ -4431,51 +4395,16 @@
 		<iframe width="100%" src="https://www.youtube.com/embed/1-I9MGoxOGg " frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
   <img src="aplicacoes/Cotadas_2020_0078.png" loading="lazy"/>
-  <div class="combo"><details class="sub"><summary>&#x1f453; Realidade Aumentada</summary>
-		<p>Você pode acessar os recursos de Realidade Aumentada das representações dos telhados usando o seguinte endereço:</p>
-		<p align="center"><a href="https://paulohscwb.github.io/cotadas/telhados.html" target="_blank"> https://paulohscwb.github.io/cotadas/telhados.html</a></p>
-		<p>Veja o passo a passo para acessar estes recursos</p>
-		  <ul class="slider">
-		   <li>
-			   <input type="radio" id="a10" name="sl">
-			   <label for="a10"></label>
-			   <img src="dg/00_00_01.png" loading="lazy"/>
-			   <figcaption>Os ambientes podem ser acessados em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook). Dê preferência aos navegadores GOOGLE CHROME e MOZILLA FIREFOX.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="a11" name="sl">
-			   <label for="a11"></label>
-			   <img src="dg/00_00_02.jpg" loading="lazy"/>
-			   <figcaption>Acesse a página <a href="https://paulohscwb.github.io/cotadas/telhados.html" target="_blank"> https://paulohscwb.github.io/cotadas/telhados.html</a>. Na primeira vez que acessar, o dispositivo pedirá a permissão para acesso à câmera para leitura dos QR Codes. Libere o acesso e aponte a câmera para um dos QR Codes impressos da apostila.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="a12" name="sl">
-			   <label for="a12"></label>
-			   <img src="dg/00_00_05.jpg" loading="lazy"/>
-			   <figcaption>Os telhados em 3D aparecerão por cima das representações da apostila. Você pode usá-los para conferir as construções ou apenas visualizar os telhados em 3D. Ao clicar sobre os círculos azuis que aparecem sobre os QR codes, você tem acesso aos telhados programados em Realidade Virtual.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="a13" name="sl">
-			   <label for="a13"></label>
-			   <img src="dg/00_00_06.png" loading="lazy"/>
-			   <figcaption>Os objetos em Realidade Virtual podem ser manipulados, ajudando a compreensão dos nossos estudos de projeções.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="a14" name="sl">
-			   <label for="a14"></label>
-			   <div class="embed-container">
-				 <!--<iframe src="https://drive.google.com/file/d/1m2pfKIbtITcS1pXKGfAlsBuff_5DYzAJ/preview" width="100%"></iframe>-->
-				 <iframe width="100%" src="https://www.youtube.com/embed/-BJ1Ko3x52I" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			   </div>
-			   <figcaption>Veja o vídeo de demonstração do uso destes recursos. Não esqueça de HABILITAR AS LEGENDAS.</figcaption>
-		   </li>
-		</ul>
-		<img src="dg/00_00_04.png" class="fundo" style="visibility:hidden;" loading="lazy"/>	
-	  </details></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0079.png" loading="lazy"/>
   <div class="combo"><figcaption>Use o link abaixo para visualizar em 3D os elementos de um telhado</figcaption>
-  <a href="telhados/casa.html" target="_blank" class="visu">Visualização em 3D</a></div>
+  <a href="telhados/casa.html" target="_blank" class="visu">Visualização em 3D</a>
+	<h4>&#x1f453; Realidade Aumentada e Realidade Virtual</h4>
+	<p>Você pode acessar estes recursos para as representações de telhados usando o seguinte endereço:</p>
+	<p align="center"><a href="telhados.html" target="_blank"> https://paulohscwb.github.io/cotadas/telhados.html</a></p>
+	<p align="center"><img src="ar/eg_telhados.gif" style="max-width: 85%; border-radius:5px;" loading="lazy"/></p>
+	<p>Os telhados modelados em 3D aparecem por cima das coordenadas da apostila. Você pode usá-los para conferir as construções ou apenas visualizar os telhados em 3D.</p>
+  </div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0080.png" loading="lazy"/>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
@@ -5492,51 +5421,16 @@
 <details style="border-bottom: 1px solid #a2dec0;"><summary id="superficies">6. Superfícies Topográficas</summary>
   <p>Material da página 96 até a página 114.</p>
   <img src="aplicacoes/Cotadas_2020_0096.png" loading="lazy"/>
-  <div class="combo"><details class="sub"><summary>&#x1f453; Realidade Aumentada</summary>
-		<p>Você pode acessar os recursos de Realidade Aumentada das representações das superfícies topográficas usando o seguinte endereço:</p>
-		<p align="center"><a href="https://paulohscwb.github.io/cotadas/superficies.html" target="_blank"> https://paulohscwb.github.io/cotadas/superficies.html</a></p>
-		<p>Veja o passo a passo para acessar estes recursos</p>
-		  <ul class="slider">
-		   <li>
-			   <input type="radio" id="a20" name="sl">
-			   <label for="a20"></label>
-			   <img src="dg/00_00_01.png" loading="lazy"/>
-			   <figcaption>Os ambientes podem ser acessados em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook). Dê preferência aos navegadores GOOGLE CHROME e MOZILLA FIREFOX.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="a21" name="sl">
-			   <label for="a21"></label>
-			   <img src="dg/00_00_02.jpg" loading="lazy"/>
-			   <figcaption>Acesse a página <a href="https://paulohscwb.github.io/cotadas/superficies.html" target="_blank"> https://paulohscwb.github.io/cotadas/superficies.html</a>. Na primeira vez que acessar, o dispositivo pedirá a permissão para acesso à câmera para leitura dos QR Codes. Libere o acesso e aponte a câmera para um dos QR Codes impressos da apostila.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="a22" name="sl">
-			   <label for="a22"></label>
-			   <img src="dg/00_00_07.jpg" loading="lazy"/>
-			   <figcaption>As superfícies topográficas em 3D aparecerão por cima das representações da apostila. Você pode usá-las para conferir as construções ou apenas visualizar as superfícies em 3D. Ao clicar sobre os círculos azuis que aparecem sobre os QR codes, você tem acesso às superfícies programadas em Realidade Virtual.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="a23" name="sl">
-			   <label for="a23"></label>
-			   <img src="dg/00_00_08.png" loading="lazy"/>
-			   <figcaption>Os objetos em Realidade Virtual podem ser manipulados, ajudando a compreensão dos nossos estudos de projeções.</figcaption>
-		   </li>
-		   <li>
-			   <input type="radio" id="a24" name="sl">
-			   <label for="a24"></label>
-			   <div class="embed-container">
-				 <!--<iframe src="https://drive.google.com/file/d/1m2pfKIbtITcS1pXKGfAlsBuff_5DYzAJ/preview" width="100%"></iframe>-->
-				 <iframe width="100%" src="https://www.youtube.com/embed/-BJ1Ko3x52I" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-			   </div>
-			   <figcaption>Veja o vídeo de demonstração do uso destes recursos. Não esqueça de HABILITAR AS LEGENDAS.</figcaption>
-		   </li>
-		</ul>
-		<img src="dg/00_00_04.png" class="fundo" style="visibility:hidden;" loading="lazy"/>	
-	  </details></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0097.png" loading="lazy"/>
   <div class="combo"><figcaption>Use o link abaixo para visualizar em 3D uma superfície topográfica com suas respectivas curvas de nível</figcaption>
-  <a href="superficies/curva11.html" target="_blank" class="visu">Visualização em 3D</a></div>
+  <a href="superficies/curva11.html" target="_blank" class="visu">Visualização em 3D</a>
+  <h4>&#x1f453; Realidade Aumentada e Realidade Virtual</h4>
+	<p>Você pode acessar estes recursos para as representações de superfícies topográficas usando o seguinte endereço:</p>
+	<p align="center"><a href="superficies.html" target="_blank"> https://paulohscwb.github.io/cotadas/superficies.html</a></p>
+	<p align="center"><img src="ar/eg_superficies.gif" style="max-width: 85%; border-radius:5px;" loading="lazy"/></p>
+	<p>As superfícies topográficas modeladas em 3D aparecem por cima das coordenadas da apostila. Você pode usá-las para conferir as construções ou apenas visualizar os modelos em 3D.</p>
+  </div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <div class="embed-container">
 	 <iframe width="100%" src="https://www.youtube.com/embed/DGEB-CqWzlc" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -6158,8 +6052,9 @@
 <p>Para ver os objetos em Realidade Aumentada, visite a página:</p> 
 <p align="center"><a href="https://paulohscwb.github.io/cotadas/ra.html" target="_blank"> https://paulohscwb.github.io/cotadas/ra.html</a></p> 
 <p>em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).</p>
+<p align="center"><img src="ar/eg_ra.gif" style="max-width: 85%; border-radius:5px;" loading="lazy"/></p>
 <p>O acesso às páginas dos modelos 3D é feito clicando no círculo azul que aparece em cima dos marcadores.</p>
-<p align="center"><img style="border-radius:7px;" src="vr/exemploB.jpg" width="43%">&#160;&#160;&#160;&#160;&#160;&#160;<img style="border-radius:7px;" src="vr/exemploA.jpg" width="43%"></p>
+<p align="center"><img style="border-radius:7px; max-width:45%" src="ar/exemploB.jpg">&#160;&#160;&#160;&#160;&#160;&#160;<img style="border-radius:7px; max-width:45%" src="ar/exemploA.jpg"></p>
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" loading="lazy"/></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Expressão Gráfica I</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://paulohscwb.github.io/cotadas/" property="cc:attributionName" rel="cc:attributionURL">Paulo Henrique Siqueira</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Atribuição-NãoComercial-SemDerivações 4.0 Internacional</a>.
 
