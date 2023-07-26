@@ -1501,6 +1501,7 @@
 		<p>Esta apostila tem recursos programados em Realidade Aumentada e Realidade Virtual. Você pode acessar estes recursos usando o seguinte endereço:</p>
 		<p align="center"><a href="ra.html" target="_blank"> https://paulohscwb.github.io/cotadas/ra.html</a></p>
 		<p align="center"><img src="ar/eg_ra.gif" style="max-width: 85%; border-radius:5px;" loading="lazy"/></p>
+		<p>Os ambientes podem ser acessados em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).</p>
 		<p>Os objetos modelados em 3D aparecem por cima das coordenadas da apostila. Você pode usá-los para conferir as construções ou apenas visualizar os objetos em 3D.</p>
 	</div>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
