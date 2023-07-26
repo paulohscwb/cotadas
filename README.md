@@ -1502,7 +1502,7 @@
 		<p align="center"><a href="ra.html" target="_blank"> https://paulohscwb.github.io/cotadas/ra.html</a></p>
 		<p align="center"><img src="ar/eg_ra.gif" style="max-width: 85%; border-radius:5px;" loading="lazy"/></p>
 		<p>Os ambientes podem ser acessados em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).</p>
-		<p>Os objetos modelados em 3D aparecem por cima das coordenadas da apostila. Você pode usá-los para conferir as construções ou apenas visualizar os objetos em 3D.</p>
+		<p>Os objetos modelados em 3D aparecem sobre as coordenadas da apostila. Você pode usá-los para conferir as construções ou apenas visualizar os objetos em 3D.</p>
 	</div>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 	<img src="prop/Cotadas_2020_0016.png" loading="lazy"/>  
@@ -4404,7 +4404,7 @@
 	<p>Você pode acessar os recursos de RA e RV das representações de telhados usando o seguinte endereço:</p>
 	<p align="center"><a href="telhados.html" target="_blank"> https://paulohscwb.github.io/cotadas/telhados.html</a></p>
 	<p align="center"><img src="ar/eg_telhados.gif" style="max-width: 85%; border-radius:5px;" loading="lazy"/></p>
-	<p>Os telhados modelados em 3D aparecem por cima das coordenadas da apostila. Você pode usá-los para conferir as construções ou apenas visualizar os modelos em 3D.</p>
+	<p>Os telhados modelados em 3D aparecem sobre as coordenadas da apostila. Você pode usá-los para conferir as construções ou apenas visualizar os modelos em 3D.</p>
   </div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0080.png" loading="lazy"/>
@@ -5424,13 +5424,14 @@
   <img src="aplicacoes/Cotadas_2020_0096.png" loading="lazy"/>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0097.png" loading="lazy"/>
-  <div class="combo"><figcaption>Use o link abaixo para visualizar em 3D uma superfície topográfica com suas respectivas curvas de nível</figcaption>
-  <a href="superficies/curva11.html" target="_blank" class="visu">Visualização em 3D</a>
-  <h4 style="margin-top:15px;">&#x1f453; Realidade Aumentada e Realidade Virtual</h4>
+  <div class="combo">
+	<figcaption>Use o link abaixo para visualizar em 3D uma superfície topográfica com suas respectivas curvas de nível</figcaption>
+	<a href="superficies/curva11.html" target="_blank" class="visu">Visualização em 3D</a>
+	<h4 style="margin-top:15px;">&#x1f453; Realidade Aumentada e Realidade Virtual</h4>
 	<p>Você pode acessar os recursos de RA e RV das representações de superfícies topográficas usando o seguinte endereço:</p>
 	<p align="center"><a href="superficies.html" target="_blank"> https://paulohscwb.github.io/cotadas/superficies.html</a></p>
 	<p align="center"><img src="ar/eg_superficies.gif" style="max-width: 85%; border-radius:5px;" loading="lazy"/></p>
-	<p>As superfícies topográficas modeladas em 3D aparecem por cima das coordenadas da apostila. Você pode usá-las para conferir as construções ou apenas visualizar os modelos em 3D.</p>
+	<p>As superfícies topográficas modeladas em 3D aparecem sobre as coordenadas da apostila. Você pode usá-las para conferir as construções ou apenas visualizar os modelos em 3D.</p>
   </div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <div class="embed-container">
