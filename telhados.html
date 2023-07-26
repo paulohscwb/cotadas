@@ -19,12 +19,16 @@
 	<a-assets>
 		<a-mixin id="lnk" rotation="-90 0 0" scale="0.5 0.5 0.5" position="0 0.1 0" link="title: modelo 3D; highlighted:true; backgroundColor:LightGray"></a-mixin>
 	</a-assets>
-	  
-	<a-entity camera></a-entity>
 	
 	<a-light type="ambient" color="#bbb" intensity="1.5"></a-light>
 	<a-light type="directional" color="white" intensity="0.8" position="-1 1 1"></a-light>
 	<a-light type="directional" color="white" intensity="0.8" position="1 1 1"></a-light>
+	  
+	<a-entity camera></a-entity>
+	
+	<a-marker preset="hiro">
+	    <a-link mixin="lnk" class="lnk" href="#"></a-link>
+	</a-marker>
 	 
 	<a-marker type="barcode" value="0" smooth="smooth:true; smoothCount:1;">
 	   	<a-link mixin="lnk" class="lnk" href="telhados/telhado35.html"></a-link>
