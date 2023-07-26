@@ -1499,7 +1499,7 @@
 	<br><a href="vr/p1a_orto.html" target="_blank" class="visu">Visualização em 3D: projeção <b>ortogonal</b></a>
 		<h4 style="margin-top:15px;">&#x1f453; Realidade Aumentada e Realidade Virtual</h4>
 		<p>Esta apostila tem recursos programados em Realidade Aumentada e Realidade Virtual. Você pode acessar estes recursos usando o seguinte endereço:</p>
-		<p align="center"><a href="https://paulohscwb.github.io/cotadas/ra.html" target="_blank"> https://paulohscwb.github.io/cotadas/ra.html</a></p>
+		<p align="center"><a href="ra.html" target="_blank"> https://paulohscwb.github.io/cotadas/ra.html</a></p>
 		<p align="center"><img src="ar/eg_ra.gif" style="max-width: 85%; border-radius:5px;" loading="lazy"/></p>
 		<p>Os objetos modelados em 3D aparecem por cima das coordenadas da apostila. Você pode usá-los para conferir as construções ou apenas visualizar os objetos em 3D.</p>
 	</div>
@@ -4403,7 +4403,7 @@
 	<p>Você pode acessar os recursos de RA e RV das representações de telhados usando o seguinte endereço:</p>
 	<p align="center"><a href="telhados.html" target="_blank"> https://paulohscwb.github.io/cotadas/telhados.html</a></p>
 	<p align="center"><img src="ar/eg_telhados.gif" style="max-width: 85%; border-radius:5px;" loading="lazy"/></p>
-	<p>Os telhados modelados em 3D aparecem por cima das coordenadas da apostila. Você pode usá-los para conferir as construções ou apenas visualizar os telhados em 3D.</p>
+	<p>Os telhados modelados em 3D aparecem por cima das coordenadas da apostila. Você pode usá-los para conferir as construções ou apenas visualizar os modelos em 3D.</p>
   </div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
   <img src="aplicacoes/Cotadas_2020_0080.png" loading="lazy"/>
