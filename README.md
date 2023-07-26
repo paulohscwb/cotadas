@@ -6050,7 +6050,7 @@
 <p>Paulo Henrique Siqueira</p> 
 <p><b>contato:</b> paulohscwb@gmail.com </p> 
 <p>Para ver os objetos em Realidade Aumentada, visite a página:</p> 
-<p align="center"><a href="https://paulohscwb.github.io/cotadas/ra.html" target="_blank"> https://paulohscwb.github.io/cotadas/ra.html</a></p> 
+<p align="center"><a href="ra.html" target="_blank"> https://paulohscwb.github.io/cotadas/ra.html</a></p> 
 <p>em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).</p>
 <p align="center"><img src="ar/eg_ra.gif" style="max-width: 85%; border-radius:5px;" loading="lazy"/></p>
 <p>O acesso às páginas dos modelos 3D é feito clicando no círculo azul que aparece em cima dos marcadores.</p>
