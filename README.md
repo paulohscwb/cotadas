@@ -1537,7 +1537,7 @@
 	<img src="prop/Cotadas_2020_0018a.png" loading="lazy"/> 
     <div class="combo"><figcaption>Uma figura que pertence a um plano <b>&alpha;</b> paralelo à direção <b>d</b> de projeções tem projeção reduzida a um segmento.</figcaption>
     <a href="vr/p5.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
-	<br><a href="vr/p5_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>
+	<br><a href="vr/p5_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
 	<br><a href="vr/p_novo_propriedades.html" target="_blank" class="visu">Planos paralelo, projetante e oblíquo: projeção <b>ortogonal</b></a></div>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/Cotadas_2020_0019.png" loading="lazy"/>
