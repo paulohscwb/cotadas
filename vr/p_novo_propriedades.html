@@ -1,0 +1,95 @@
+<html>
+  <head>
+	<title>Geometria Descritiva</title>
+	<link rel="icon" type="image/png" href="imagem1.png">
+	<script src="https://aframe.io/releases/1.3.0/aframe.js"></script>
+	<script src=".././scripts/aframe-orbit-controls.min.js"></script>
+  </head>  
+<body>
+<div style='color:#f0f8ff; position: fixed; bottom: 1vh; left:1vw; width:100%; z-index: 1; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px royalblue;'>paulohscwb@gmail.com <br> &copy; 2023 Paulo Henrique Siqueira</div>
+	<a-scene vr-mode-ui="enabled: false">
+		<a-assets>
+			<a-mixin id="imagem" material="side: double; transparent: true; depthTest: false;" rotation="-25 0 0"></a-mixin>
+			<a-mixin id="mtl0" material="opacity: 0.4; side: double; metalness:0.5; roughness:0.6;"></a-mixin>
+			<a-mixin id="mtl0s" material="opacity: 0.6; side: double; metalness:0.5; roughness:0.6; depthTest: false;"></a-mixin>
+			<a-mixin id="mtl2" material="color: #fff"></a-mixin>
+			<a-mixin id="mtl8" material="color: #1E9961;"></a-mixin>
+			<a-mixin id="mtl9" material="color: #4b97ee;"></a-mixin>
+			<a-mixin id="texto" text="width: 12; side:double; color: black; x-offset:0.05;" rotation="-25 0 0"></a-mixin> 
+			<a-mixin id="ponto" geometry="radius:0.11;" material="roughness: 0.6; metalness: 0.3; color: paleturquoise"></a-mixin> <!--#4b97ee; #1E9961; #B404AE; #82FA58; orange; #d8ef09; #6E6E6E;-->
+			<a-mixin id="anima0" animation='property: visible; from: true; to: false; dur: 1; delay: 4000'></a-mixin>
+			<a-mixin id="anima1" animation__1='property: visible; from: false; to: true; dur: 1; delay: 6000'></a-mixin>
+			<a-mixin id="anima2" animation__2='property: visible; from: true; to: false; dur: 1; delay: 7000'></a-mixin>
+			<a-mixin id="anima3" animation__3='property: visible; from: false; to: true; dur: 1; delay: 10000'></a-mixin>
+			<a-mixin id="anima4" animation__4='property: visible; from: true; to: false; dur: 1; delay: 11000'></a-mixin>
+			<a-mixin id="anima5" animation__18='property: visible; from: false; to: true; dur: 1; delay: 13500'></a-mixin>
+			<a-mixin id="animar0" animation__7='property: rotation; to: 0 0 30; dur: 3000; easing: linear; loop: false; delay: 3000;'></a-mixin>
+			<a-mixin id="animar1" animation__8='property: rotation; from: 0 0 30; to: 0 0 60; dur: 3000; easing: linear; loop: false; delay: 7000;'></a-mixin>
+			<a-mixin id="animar2" animation__9='property: rotation; from: 0 0 60; to: 0 0 90; dur: 3000; easing: linear; loop: false; delay: 11000;'></a-mixin>
+			<a-mixin id="animap1" animation__10='property: position; to: -0.536 0 0; dur: 1; easing: linear; loop: false; delay: 6000;'></a-mixin>
+			<a-mixin id="animap2" animation__11='property: position; to: -2 0 0; dur: 1; easing: linear; loop: false; delay: 10000;'></a-mixin>
+			<a-mixin id="animap3" animation__12='property: position; to: -4 0 0; dur: 1; easing: linear; loop: false; delay: 14000;'></a-mixin>
+			<a-mixin id="animae1" animation__13='property: scale; to: 0.866 0 1; dur: 1; easing: linear; loop: false; delay: 6000;'></a-mixin>
+			<a-mixin id="animae2" animation__14='property: scale; to: 0.5 0 1; dur: 1; easing: linear; loop: false; delay: 10000;'></a-mixin>
+			<a-mixin id="animae3" animation__15='property: scale; to: 0 0 1; dur: 1; easing: linear; loop: false; delay: 14000;'></a-mixin>
+			<a-mixin id="animae4" animation__16='property: scale; to: 1 1.5 1; dur: 1; easing: linear; loop: false; delay: 6000;'></a-mixin>
+			<a-mixin id="animae5" animation__17='property: scale; to: 1 1.866 1; dur: 1; easing: linear; loop: false; delay: 10000;'></a-mixin>
+		</a-assets>
+		
+		<a-entity scale="0.7 0.7 0.7" position="0 0 0">
+			<a-entity position="-2 4 -2.5" mixin="animar0 animar1 animar2">
+				<a-sphere mixin="ponto" position="0 0 0"></a-sphere>
+				<a-text position="-0.6 0 0" value="A" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="4 0 0"></a-sphere>
+				<a-text position="4 0 0" value="B" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="4 0 4"></a-sphere>
+				<a-text position="4 0 4" value="C" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="0 0 4"></a-sphere>
+				<a-text position="-0.6 0 4" value="D" mixin="texto"></a-text>
+				<a-triangle color="green" vertex-a="0 0 0" vertex-b="4 0 0" vertex-c="4 0 4" material="side: double" mixin="mtl0"></a-triangle>
+				<a-triangle color="green" vertex-a="0 0 0" vertex-b="4 0 4" vertex-c="0 0 4" material="side: double" mixin="mtl0"></a-triangle>
+				<a-entity line="start: 0 0 0; end: 4 0 0; color: white" 
+				line__2="start: 4 0 0; end: 4 0 4; color: white" line__7="start: 4 0 4; end: 0 0 4; color: white" line__8="start: 0 0 4; end: 0 0 0; color: white"></a-entity>
+			</a-entity>
+			
+			<a-entity position="-2 0.03 -2.5">
+				<a-sphere mixin="ponto" position="0 0 0"></a-sphere>
+				<a-text position="-0.6 0.2 0" value="A'" mixin="texto"></a-text>
+				<a-sphere mixin="ponto" position="0 0 4"></a-sphere>
+				<a-text position="-0.6 0.2 4" value="D'" mixin="texto"></a-text>
+				<a-entity line="start: 0 0 0; end: 0 4 0; color: #6E6E6E" line__8="start: 0 0 4; end: 0 4 4; color: #6E6E6E"></a-entity>
+				<a-text position="0 5 -1" value="Plano Paralelo" mixin="texto anima0"></a-text>
+				<a-text position="-3 5 -1" value="Plano Obliquo" visible="false" mixin="texto anima1 anima4"></a-text>
+				<a-text position="-4 5 -1" value="Plano Projetante" visible="false" mixin="texto anima5"></a-text>
+				<a-entity mixin="animap1 animap2 animap3">
+					<a-sphere mixin="ponto" position="4 0 0"></a-sphere>
+					<a-text position="4 0.2 0" value="B'" mixin="texto"></a-text>
+					<a-sphere mixin="ponto" position="4 0 4"></a-sphere>
+					<a-text position="4 0.2 4" value="C'" mixin="texto"></a-text>
+					<a-entity line__2="start: 4 0 0; end: 4 4 0; color: #6E6E6E" line__7="start: 4 0 4; end: 4 4 4; color: #6E6E6E" mixin="animae4 animae5 anima0 anima1 anima2 anima3 anima4"></a-entity>
+				</a-entity>
+				<a-entity mixin="animae1 animae2 animae3">
+					<a-triangle color="red" vertex-a="0 0 0" vertex-b="4 0 0" vertex-c="4 0 4" material="side: double" mixin="mtl0"></a-triangle>
+					<a-triangle color="red" vertex-a="0 0 0" vertex-b="4 0 4" vertex-c="0 0 4" material="side: double" mixin="mtl0"></a-triangle>
+					<a-entity line__3="start: 0 0 0; end: 4 0 0; color: white" line__4="start: 4 0 0; end: 4 0 4; color: white" line__5="start: 4 0 4; end: 0 0 4; color: white" line__6="start: 0 0 4; end: 0 0 0; color: white"></a-entity>
+				</a-entity>
+			</a-entity>
+
+			<a-text position="4.1 3.5 -3.5" value="d" mixin="texto"></a-text>
+			<a-entity line__4="start: 4 4 -3.5; end: 4 0 -3.5; color: #6E6E6E"></a-entity>
+				
+			<a-plane id="planoPI" scale="10 10 1" rotation="-90 0 0" mixin="mtl0 mtl2"></a-plane>
+			<a-image src="pi1.png" height="0.6" width="0.6" position="-4.5 0.32 4.8" mixin="imagem"></a-image>
+		</a-entity>
+		
+		<a-entity camera="fov:1; near:5; zoom:0.8;" orbit-controls="target: 0 0 0; maxPolarAngle: 91; initialPosition: -100 250 500; maxDistance: 1800"></a-entity>
+	  
+		<a-light type="ambient" color="white" intensity="0.7"></a-light>
+		<a-light type="directional" color="white" intensity="0.6" position="-1 2 1"></a-light>
+		<a-light type="directional" color="white" intensity="0.6" position="1 2 1"></a-light>
+		
+		<a-sky color="rgb(150,200,255)"></a-sky>
+
+	</a-scene>
+</body>
+</html>
