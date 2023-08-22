@@ -6065,6 +6065,8 @@
 <h4>Como citar este trabalho:</h4> 
 <p>Siqueira, P.H., Costa, D.M.B, Rolkouski, E., Souza, L.V.S., Medina, S.S.S. "Expressão Gráfica I". Disponível em: <https://paulohscwb.github.io/cotadas/>, Setembro de 2020.</p>
 
+<br><a href="https://zenodo.org/badge/latestdoi/196281421"><img src="https://zenodo.org/badge/196281421.svg" alt="DOI"></a>
+
 <h4>Referências:</h4>
 <ol>
 	<li>Etienne, J. <i>AR.js - Augmented Reality for the Web - Scripts do ambiente de Realidade Aumentada:</i> <a href="https://github.com/jeromeetienne/AR.js" target="blank">https://github.com/jeromeetienne/AR.js</a>.</li>
