@@ -7,7 +7,7 @@
 <br>em qualquer navegador com um dispositivo de webcam (smartphone, tablet ou notebook).
 <br>O acesso aos sites de Realidade Virtual é feito clicando no círculo azul que aparece em cima dos marcadores.
 <br>
-<p align="center"><img src="../ar/eg_superficies.gif" width="80%"><br><img src="../ar/exemploA.jpg" style="transform:rotate(90deg);" width="80%"></p>
+<p align="center"><img src="../ar/eg_superficies.gif" width="80%"><br><img src="../ar/exemploA.jpg" style="-webkit-transform:rotate(90deg);transform:rotate(90deg);" height="80%"></p>
 <table><tr><td><h3>Curvas de nível, pág. 119</h3>
 <img src="119_cnivel.PNG">
 <br><a target="_blank" href="https://paulohscwb.github.io/cotadas/superficies/curva11.html"><img src="../vr/RVaframe.png" width="200px"></a>
