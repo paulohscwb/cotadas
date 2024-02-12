@@ -6,6 +6,7 @@
 	<meta charset="UTF-8">
 	<script src="https://aframe.io/releases/1.3.0/aframe.min.js"></script>
 	<script src="https://raw.githack.com/AR-js-org/AR.js/master/aframe/build/aframe-ar.js"></script>
+	<script src="https://raw.githack.com/fcor/arjs-gestures/master/dist/gestures.js"></script>
 	<!--<script src="AR.js/aframe/build/aframe-ar.js"></script>
 	<script src="https://paulohscwb.github.io/AR.js/aframe/build/aframe-ar.js"></script>-->
 	<!--<script src="scripts/faceset.js"></script>-->
@@ -16,8 +17,7 @@
 		<font face="verdana" size="5" color="DarkSlateBlue">Carregando...</font>
 	</div>
 	<div style='color:#f0f8ff; position: fixed; bottom: 1vh; left:1vw; width:80vw; z-index: 5; font-family: Calibri; font-size:3vh; font-weight:bold; text-shadow:1px 1px 1px grey;'>paulohscwb@gmail.com <br> &copy; 2020 Paulo Henrique Siqueira</div>
-  <a-scene cursor="rayOrigin: mouse" raycaster="objects: .lnk, a-link;" 
-	   embedded renderer="logarithmicDepthBuffer: true;" arjs='sourceType: webcam; trackingMethod: best; detectionMode: mono_and_matrix; matrixCodeType: 3x3; debugUIEnabled: false;'>
+  <a-scene cursor="rayOrigin: mouse" raycaster="objects: .lnk, a-link;" embedded renderer="logarithmicDepthBuffer: true;" arjs='sourceType: webcam; trackingMethod: best; detectionMode: mono_and_matrix; matrixCodeType: 3x3; debugUIEnabled: false;' gesture-detector>
 	<a-assets>
 		<a-mixin id="imagem" material="side: double; transparent: true; depthTest: false;" rotation="-25 0 0"></a-mixin>
 		<a-mixin id="mtl0" material="opacity: 0.7; side: double; metalness:0.5; roughness:0.6;"></a-mixin>
@@ -40,44 +40,44 @@
 	    <a-link mixin="lnk" class="lnk" href="#"></a-link>
 	</a-marker>
 	
-	<a-marker type="barcode" value="47" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="47" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 	   	<a-link mixin="lnk" class="lnk" href="vr/reta_declive.html"></a-link>
-		<a-entity position="-4 0 -3" id="rdeclive" scale="1.8 1.8 1.8">
+		<a-entity position="-4 0 -3" id="rdeclive" scale="1.8 1.8 1.8" gesture-handler>
 			<a-entity gltf-model="vr/reta_decliveN.glb"></a-entity>
 		</a-entity>
   	 </a-marker>
 	
-	<a-marker type="barcode" value="48" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="48" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 	   	<a-link mixin="lnk" class="lnk" href="vr/int_pv_ph.html"></a-link>
-		<a-entity position="-4 0 -3" id="rdeclive" scale="1.8 1.8 1.8">
+		<a-entity position="-4 0 -3" id="rdeclive" scale="1.8 1.8 1.8" gesture-handler>
 			<a-entity gltf-model="vr/int_pv_phN.glb"></a-entity>
 		</a-entity>
   	 </a-marker>
 	
-	<a-marker type="barcode" value="49" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="49" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 	   	<a-link mixin="lnk" class="lnk" href="vr/int_pq_ph.html"></a-link>
-		<a-entity position="-4 0 -3" id="rdeclive" scale="1.8 1.8 1.8">
+		<a-entity position="-4 0 -3" id="rdeclive" scale="1.8 1.8 1.8" gesture-handler>
 			<a-entity gltf-model="vr/int_pq_phN.glb"></a-entity>
 		</a-entity>
   	 </a-marker>
 	
-	<a-marker type="barcode" value="50" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="50" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 	   	<a-link mixin="lnk" class="lnk" href="vr/int_pq_pv.html"></a-link>
-		<a-entity position="-4 0 -3" id="rdeclive" scale="1.8 1.8 1.8">
+		<a-entity position="-4 0 -3" id="rdeclive" scale="1.8 1.8 1.8" gesture-handler>
 			<a-entity gltf-model="vr/int_pq_pvN.glb"></a-entity>
 		</a-entity>
   	 </a-marker>
 	
-	<a-marker type="barcode" value="51" smooth="smooth:true; smoothCount:1">
+	<a-marker type="barcode" value="51" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 	   	<a-link mixin="lnk" class="lnk" href="vr/int_pq_pq.html"></a-link>
-		<a-entity position="-4 0 -3" id="rdeclive" scale="1.8 1.8 1.8">
+		<a-entity position="-4 0 -3" id="rdeclive" scale="1.8 1.8 1.8" gesture-handler>
 			<a-entity gltf-model="vr/int_pq_pqN.glb"></a-entity>
 		</a-entity>
   	 </a-marker>
 		
-	 <a-marker type="barcode" value="32" smooth="smooth:true; smoothCount:1;">
+	 <a-marker type="barcode" value="32" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 	   <a-link mixin="lnk" class="lnk" href="vr/p1.html"></a-link>
-	   <a-entity position="3.5 0.5 -0.7" id="prop1" scale="0.5 0.5 0.5">
+	   <a-entity position="3.5 0.5 -0.7" id="prop1" scale="0.5 0.5 0.5" gesture-handler>
      		
 		<a-sphere mixin="ponto" position="-3 0 2"></a-sphere>
 		<a-text position="-3.5 0.15 2" value="A'" mixin="texto"></a-text>
@@ -104,9 +104,9 @@
 	   </a-entity>
   	</a-marker>
 		
-	<a-marker type="barcode" value="34" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="34" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 	   <a-link mixin="lnk" class="lnk" href="vr/p1a.html"></a-link>
-	   <a-entity position="-3.5 0.5 0.7" id="prop1a" scale="0.5 0.5 0.5">		
+	   <a-entity position="-3.5 0.5 0.7" id="prop1a" scale="0.5 0.5 0.5" gesture-handler>		
 		
 		<a-sphere mixin="ponto" position="-0.5 0 2"></a-sphere>
 		<a-text position="-0.4 0.25 2" value="A'=B'=r'" mixin="texto"></a-text>
@@ -127,9 +127,9 @@
 	   </a-entity>
   	</a-marker>
 		
-	<a-marker type="barcode" value="36" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="36" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 	   <a-link mixin="lnk" class="lnk" href="vr/p2.html"></a-link>
-	   <a-entity position="-3.5 0.5 -0.7" id="prop2" scale="0.5 0.5 0.5">		
+	   <a-entity position="-3.5 0.5 -0.7" id="prop2" scale="0.5 0.5 0.5" gesture-handler>		
 		
 		<a-sphere mixin="ponto" position="-3 0 2"></a-sphere>
 		<a-text position="-3.6 0.25 2" value="A'" mixin="texto"></a-text>
@@ -172,9 +172,9 @@
 	   </a-entity>
   	</a-marker>
 		
-	<a-marker type="barcode" value="37" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="37" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 	   <a-link mixin="lnk" class="lnk" href="vr/p2a.html"></a-link>
-	   <a-entity position="3.5 0.5 0.7" id="prop2a" scale="0.5 0.5 0.5">		
+	   <a-entity position="3.5 0.5 0.7" id="prop2a" scale="0.5 0.5 0.5" gesture-handler>		
 		
 		<a-text position="-5.16 5.11 2.67" value="s" mixin="texto"></a-text>
 		<a-text position="-4.54 3.11 3.42" value="r" mixin="texto"></a-text>
@@ -192,9 +192,9 @@
 	   </a-entity>
   	</a-marker>
 
-	<a-marker type="barcode" value="31" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="31" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 	   <a-link mixin="lnk" class="lnk" href="vr/p_ex5a_hexagono.html"></a-link>
-	   <a-entity position="-4 0.5 -0.8" id="p_ex5a_hexagono" scale="0.5 0.5 0.5">		
+	   <a-entity position="-4 0.5 -0.8" id="p_ex5a_hexagono" scale="0.5 0.5 0.5" gesture-handler>		
 		<a-entity position="-1 0 -3">
 			<a-sphere mixin="ponto" position="-1.68 2.63 2.6"></a-sphere>
 			<a-text position="-2.28 2.63 2.6" value="A" mixin="texto"></a-text>
@@ -246,9 +246,9 @@
 	   </a-entity>
   	</a-marker>		
 		
-	<a-marker type="barcode" value="38" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="38" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 	   <a-link mixin="lnk" class="lnk" href="vr/p_ex5c_hexagono.html"></a-link>
-	   <a-entity position="-4 0.5 0.8" id="p_ex5c_hexagono" scale="0.5 0.5 0.5">
+	   <a-entity position="-4 0.5 0.8" id="p_ex5c_hexagono" scale="0.5 0.5 0.5" gesture-handler>
 		<a-entity position="-2 0 1">
 			<a-sphere mixin="ponto" position="-4.63 2.43 -0.4"></a-sphere>
 			<a-text position="-5.2 2.43 -0.4" value="A" mixin="texto"></a-text>
@@ -300,9 +300,9 @@
 	   </a-entity>
   	</a-marker>
 	
-	<a-marker type="barcode" value="39" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="39" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 	   <a-link mixin="lnk" class="lnk" href="vr/p_ex4c_triangulo.html"></a-link>
-	   <a-entity position="3 0.5 -2" id="p_ex4c_triangulo" scale="0.5 0.5 0.5">		
+	   <a-entity position="3 0.5 -2" id="p_ex4c_triangulo" scale="0.5 0.5 0.5" gesture-handler>	
 		<a-entity position="1 0 1">
 			<a-sphere mixin="ponto" position="-2.79 3.28 -0.77"></a-sphere>
 			<a-text position="-2.79 3.28 -0.77" value="B" mixin="texto"></a-text>
@@ -336,9 +336,9 @@
 	   </a-entity>
   	</a-marker>
 	
-	<a-marker type="barcode" value="40" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="40" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 	   <a-link mixin="lnk" class="lnk" href="vr/p7.html"></a-link>
-	   <a-entity position="-4 0.5 0" id="p7" scale="0.5 0.5 0.5">
+	   <a-entity position="-4 0.5 0" id="p7" scale="0.5 0.5 0.5" gesture-handler>
 		<a-text position="-4.3 0.21 2" value="r'" mixin="texto"></a-text>
 		<a-text position="-4.3 3.15 2" value="r" mixin="texto"></a-text>
 		<a-text position="3 0.21 2.56" value="s'" mixin="texto"></a-text>
@@ -358,9 +358,9 @@
 	   </a-entity>
   	</a-marker>
 	
-	<a-marker type="barcode" value="41" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="41" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 	   <a-link mixin="lnk" class="lnk" href="vr/exerc_epura.html"></a-link>
-	   <a-entity position="0.75 0.5 0" id="exerc_epura" scale="0.5 0.5 0.5">		
+	   <a-entity position="0.75 0.5 0" id="exerc_epura" scale="0.5 0.5 0.5" gesture-handler>		
 		<a-sphere mixin="ponto" position="4 2 -3"></a-sphere>
 		<a-text position="4 2 -3" value="A" mixin="texto"></a-text>
 		<a-sphere mixin="ponto" position="4 0 -3"></a-sphere>
@@ -400,9 +400,9 @@
 	    </a-entity>
   	</a-marker>
 	
-	<a-marker type="barcode" value="42" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="42" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 	   <a-link mixin="lnk" class="lnk" href="vr/vg_segmento.html"></a-link>
-	   <a-entity position="-4 0.5 0" id="vg_segmento" scale="0.5 0.5 0.5">		
+	   <a-entity position="-4 0.5 0" id="vg_segmento" scale="0.5 0.5 0.5" gesture-handler>		
 		<a-entity position="0 0 -1">
 				<a-entity rotation="0 45 0">
 					<a-sphere mixin="ponto" position="0 5 0"></a-sphere>
@@ -464,9 +464,9 @@
 	   </a-entity>
   	</a-marker>
 	
-	<a-marker type="barcode" value="43" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="43" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 	   <a-link mixin="lnk" class="lnk" href="vr/piramide1.html"></a-link>
-	   <a-entity position="0 0 0" id="piramide1" scale="0.5 0.5 0.5">		
+	   <a-entity position="0 0 0" id="piramide1" scale="0.5 0.5 0.5" gesture-handler>		
 		<a-text position="3.5 1 -8" value="A" mixin="texto"></a-text>
 		<a-sphere mixin="ponto" position="4 1 -8"></a-sphere>
 		<a-text position="4.2 1 -5.2" value="B" mixin="texto"></a-text>
@@ -500,9 +500,9 @@
 	   </a-entity>
   	</a-marker>
 	
-	<a-marker type="barcode" value="44" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="44" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 	   <a-link mixin="lnk" class="lnk" href="vr/piramide2.html"></a-link>
-	   <a-entity position="0 0 0" id="piramide2" scale="0.5 0.5 0.5">		
+	   <a-entity position="0 0 0" id="piramide2" scale="0.5 0.5 0.5" gesture-handler>		
 		<a-text position="7 1 -2.5" value="A" mixin="texto"></a-text>
 		<a-sphere mixin="ponto" position="7.5 1 -2.5"></a-sphere>
 		<a-text position="11.25 2 -3.5" value="B" mixin="texto"></a-text>
@@ -529,9 +529,10 @@
 	   </a-entity>
   	</a-marker>
 	
-	<a-marker type="barcode" value="45" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="45" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 	   <a-link mixin="lnk" class="lnk" href="vr/prisma1.html"></a-link>
-	   <a-entity position="0 0 0" id="prisma1" scale="0.5 0.5 0.5">	<a-text position="7.1 2.5 -6.9" value="A" mixin="texto"></a-text>
+	   <a-entity position="0 0 0" id="prisma1" scale="0.5 0.5 0.5" gesture-handler>	
+	    <a-text position="7.1 2.5 -6.9" value="A" mixin="texto"></a-text>
 		<a-sphere mixin="ponto" position="7.6 2.5 -6.9"></a-sphere>
 		<a-text position="11.6 1 -5.5" value="B" mixin="texto"></a-text>
 		<a-sphere mixin="ponto" position="11.5 1 -5.5"></a-sphere>
@@ -569,9 +570,9 @@
 	   </a-entity>
   	</a-marker>
 		
-	<a-marker type="barcode" value="46" smooth="smooth:true; smoothCount:1;">
+	<a-marker type="barcode" value="46" smooth="smooth:true; smoothCount:1" cursor="fuse: false; rayOrigin: mouse;" raycaster="objects: .clickable" emitevents="true">
 	   <a-link mixin="lnk" class="lnk" href="vr/rebatimento.html"></a-link>
-	   <a-entity position="-5 0.5 0" id="rebatimento" scale="0.5 0.5 0.5" rotation="0 -60 0">		
+	   <a-entity position="-5 0.5 0" id="rebatimento" scale="0.5 0.5 0.5" rotation="0 -60 0" gesture-handler>		
 		<a-entity>
 			<a-entity animation="property: rotation; to: 0 0 -90; loop: true; dur: 10000; delay:3500;">
 				<a-entity line__2="start: 0 0 0; end: 0 0 -2; color: green"
