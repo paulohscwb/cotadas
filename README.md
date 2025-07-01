@@ -3,7 +3,7 @@
 
 <h2 id="inicio">Visualização de propriedades de projeções, sólidos e aplicações</h2> 
 <p>Esta página contém as construções geométricas e visualizações 3D dos exemplos e exercícios utilizados na disciplina de Expressão Gráfica I</p>
-<p>A apostila está disponível no link: <a href="vr/Cotadas_2020.pdf" target="_blank">apostila de Projeções Cotadas</a></p>
+<p>A apostila está disponível no link: <a href="vr/Cotadas_2025.pdf" target="_blank">apostila de Projeções Cotadas</a></p>
 <p>Os objetos programados em 3D podem ser visualizados em Realidade Virtual (RV) e Realidade Aumentada (RA). As propriedades de projeções, os sólidos e as maquetes podem ser vistos em RA com os marcadores indicados, e por meio dos links criados nos marcadores, os objetos podem ser vistos em RV.</p>
 
 <details><summary id="desenho">1. Desenho Geométrico</summary>
@@ -11,7 +11,7 @@
 	<div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/1_cC5J2Xwcw" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
-   <img src="dg/Cotadas_2020_0001.png" loading="lazy"/>  
+   <img src="dg/Cotadas_2025-001.png" loading="lazy"/>  
    <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
 	  <ul class="slider">
@@ -85,7 +85,7 @@
 	<img src="dg/01_01_00.png" class="fundo" loading="lazy"/>
   </details></div>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
-  <img src="dg/Cotadas_2020_0002.png" loading="lazy"/>
+  <img src="dg/Cotadas_2025-002.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução com esquadros</summary>
   <p>Podemos utilizar a régua e um dos esquadros ou a régua e o compasso para resolver este exercício. Primeiro, veja como é a construção com a régua e o esquadro de 45&deg;.</p>
   <ul class="slider">
@@ -158,7 +158,7 @@
     </ul>
     <img src="dg/02_01_00c.png" class="fundo" loading="lazy"/>
   </details></div>
-  <img src="dg/Cotadas_2020_0002a.png" loading="lazy"/>
+  <img src="dg/Cotadas_2025-002a.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução com esquadros</summary>
   <p> Vamos utilizar a régua e um dos esquadros para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <ul class="slider">
@@ -279,7 +279,7 @@
   </ul>
   <img src="dg/02_02_00c.png" class="fundo" loading="lazy"/>
   </details></div>
-  <img src="dg/Cotadas_2020_0002b.png" loading="lazy"/>
+  <img src="dg/Cotadas_2025-002b.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <ul class="slider">
@@ -323,7 +323,7 @@
     <img src="dg/02_03_00.png" class="fundo" loading="lazy"/>
   </details></div>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
-  <img src="dg/Cotadas_2020_0003.png" loading="lazy"/>
+  <img src="dg/Cotadas_2025-003.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <ul class="slider">
@@ -360,7 +360,7 @@
     </ul>
     <img src="dg/03_01_00.png" class="fundo" loading="lazy"/>
   </details></div>
-  <img src="dg/Cotadas_2020_0003a.png" loading="lazy"/>
+  <img src="dg/Cotadas_2025-003a.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução com régua e compasso</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <h4>Ângulos de 60&deg;, 30&deg;, 90&deg; e 45&deg;:</h4>
@@ -697,7 +697,7 @@
     <img src="dg/03_02_20ef.png" class="fundo" loading="lazy"/>
 	</details></div>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
-  <img src="dg/Cotadas_2020_0004.png" loading="lazy"/>
+  <img src="dg/Cotadas_2025-004.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para dividirmos um segmento graficamente em partes iguais utilizamos o Teorema de Tales que diz que “Um feixe (conjunto) de retas paralelas determina sobre um feixe de retas concorrentes segmentos proporcionais correspondentes”.</p>
   <ul class="slider">
@@ -764,7 +764,7 @@
     </ul>
     <img src="dg/04_01_00.png" class="fundo" loading="lazy"/>
   </details></div>
-  <img src="dg/Cotadas_2020_0004a.png" loading="lazy"/>
+  <img src="dg/Cotadas_2025-004a.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para dividirmos o segmento <b>AB</b> graficamente em partes proporcionais a números dados vamos aplicar o Teorema de Tales. Temos que construir um feixe de retas concorrentes cortadas por um feixe de paralelas, lembra?</p>
   <ul class="slider">
@@ -819,7 +819,7 @@
     </ul>
     <img src="dg/04_02_00.png" class="fundo" loading="lazy"/>
   </details></div>
-  <img src="dg/Cotadas_2020_0004b.png" loading="lazy"/>
+  <img src="dg/Cotadas_2025-004b.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para construir a circunferência pertencente aos pontos dados <b>A</b>, <b>B</b> e <b>C</b>, devemos encontrar o centro <b>O</b> da mesma para depois desenhá-la com o compasso. Antes de iniciarmos a construção devemos pensar na estratégia de solução! Acompanhe o desenvolvimento do raciocínio e depois a resolução gráfica!</p>
   <ul class="slider">
@@ -887,7 +887,7 @@
     <img src="dg/04_03_00.png" class="fundo" loading="lazy"/>
   </details></div>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
-  <img src="dg/Cotadas_2020_0005.png" loading="lazy"/>
+  <img src="dg/Cotadas_2025-005.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Num triângulo <b>ABC</b>, o lado oposto ao vértice <b>A</b> é denotado por <b>a=BC</b>, o lado oposto ao <b>B</b> é denotado por <b>b=AC</b> e o lado oposto ao <b>C</b> é denotado por <b>c=AB</b>. Para construir um triângulo <b>ABC</b> dados os lados é necessário determinar a posição dos seus vértices <b>A</b>, <b>B</b> e <b>C</b>. Vamos à construção!</p>
   <ul class="slider">
@@ -954,7 +954,7 @@
     </ul>
     <img src="dg/05_01_00.png" class="fundo" loading="lazy"/>
   </details></div>
-  <img src="dg/Cotadas_2020_0005a.png" loading="lazy"/>
+  <img src="dg/Cotadas_2025-005a.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para obter o baricentro <b>G</b> do triângulo precisamos construir as medianas do mesmo. Uma mediana é um segmento que une um vértice do triângulo ao ponto médio do lado oposto. Veja como resolver o exercício.</p>
   <ul class="slider">
@@ -985,11 +985,11 @@
     </ul>
     <img src="dg/05_02_00.png" class="fundo" loading="lazy"/>
   </details></div>
-  <img src="dg/Cotadas_2020_0005b.png" loading="lazy"/>
+  <img src="dg/Cotadas_2025-005b.png" loading="lazy"/>
   <div class="combo" id="atv11">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 1.1</span>
   <p>Nesta atividade, construa o incentro e a circunferência inscrita.</p></div>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
-  <img src="dg/Cotadas_2020_0006.png" loading="lazy"/>
+  <img src="dg/Cotadas_2025-006.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para obtermos o Ortocentro <b>H</b> do triângulo precisamos construir suas alturas.</p>
   <ul class="slider">
@@ -1014,7 +1014,7 @@
     </ul>
     <img src="dg/06_01_00.png" class="fundo" loading="lazy"/>
   </details></div>
-  <img src="dg/Cotadas_2020_0006a.png" loading="lazy"/>
+  <img src="dg/Cotadas_2025-006a.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Quando dividimos uma circunferência em partes iguais estamos dividindo o ângulo central de <b>360°</b> em partes iguais e também estamos construindo polígonos regulares inscritos nessa circunferência. É importante observar que se a circunferência for dividida em <b>n</b> partes iguais, também será facilmente dividida em <b>2n</b> partes, bastando traçar bissetrizes dos ângulos centrais.</p> 
   <p>Vamos dividir a circunferência em <b>3</b> partes iguais, ou seja, construir o polígono regular de <b>3</b> lados inscrito na circunferência dada. Esse será o <b>triângulo equilátero</b>!</p>
@@ -1064,7 +1064,7 @@
     </ul>
     <img src="dg/06_02_00.png" class="fundo" loading="lazy"/>
   </details></div>
-  <img src="dg/Cotadas_2020_0006b.png" loading="lazy"/>
+  <img src="dg/Cotadas_2025-006b.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos dividir a circunferência em <b>4</b> partes iguais, ou seja, construir o polígono regular de <b>4</b> lados inscrito na circunferência dada. Esse será o quadrado!</p>
   <ul class="slider">
@@ -1090,13 +1090,13 @@
     <img src="dg/06_03_00.png" class="fundo" loading="lazy"/>
   </details></div>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
-  <img src="dg/Cotadas_2020_0007.png" loading="lazy"/>
+  <img src="dg/Cotadas_2025-007.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p>Vamos dividir a circunferência em <b>6</b> partes iguais. Lembra que no item a desse exercício já fizemos isso?</p>
     <img src="dg/07_01_01.png" loading="lazy"/>
     <figcaption>Então basta repetir o processo aqui. Lembre de utilizar como medida no compasso o raio da circunferência dada! Pronto! Temos o hexágono regular inscrito na circunferência!</figcaption>
   </details></div>
-  <img src="dg/Cotadas_2020_0007a.png" loading="lazy"/>
+  <img src="dg/Cotadas_2025-007a.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos dividir a circunferência em <b>8</b> partes iguais. Para isso, vamos começar dividindo a circunferência em <b>4</b> partes iguais. Lembra? Já fizemos isso no item b desse exercício! </p>
   <ul class="slider">
@@ -1127,7 +1127,7 @@
     </ul>
     <img src="dg/07_02_00.png" class="fundo" loading="lazy"/>
   </details></div>
-  <img src="dg/Cotadas_2020_0007b.png" loading="lazy"/>
+  <img src="dg/Cotadas_2025-007b.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos dividir a circunferência em <b>10</b> partes iguais. Acompanhe o procedimento.</p>
   <ul class="slider">
@@ -1189,7 +1189,7 @@
     <img src="dg/07_03_00.png" class="fundo" loading="lazy"/>
   </details></div>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
-  <img src="dg/Cotadas_2020_0008.png" loading="lazy"/>
+  <img src="dg/Cotadas_2025-008.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para dividir a circunferência em <b>5</b> partes iguais podemos dividi-la primeiro em <b>10</b> partes iguais e ao invés de unir os vértices um a um, basta unir de dois em dois, ou utilizar uma propriedade geométrica. Veja a seguir qual seria.</p>
   <ul class="slider">
@@ -1226,7 +1226,7 @@
     </ul>
     <img src="dg/08_01_00.png" class="fundo" loading="lazy"/>
   </details></div>
-  <img src="dg/Cotadas_2020_0008a.png" loading="lazy"/>
+  <img src="dg/Cotadas_2025-008a.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos construir o triângulo equilátero de lado <b>l</b> dado! Mas antes reveja o exercício 6 da página 3 em que construímos o ângulo de <b>60°</b>, lá utilizamos dois processos: um com régua e compasso e outro com os esquadros para obtermos o ângulo de <b>60°</b>. Reveja também o exercício 10 da página 5, em que construímos um triângulo dados os tamanhos dos lados. O que já aprendemos iremos utilizar agora. </p>
   <ul class="slider">
@@ -1269,7 +1269,7 @@
     </ul>
     <img src="dg/08_02_00.png" class="fundo" loading="lazy"/>
   </details></div>
-  <img src="dg/Cotadas_2020_0008b.png" loading="lazy"/>
+  <img src="dg/Cotadas_2025-008b.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos construir o quadrado de lado <b>l</b> dado! O quadrado é um polígono que possui os quatro lados congruentes (iguais) e os quatro ângulos internos também congruentes e cada um medindo <b>90°</b>.</p>
   <ul class="slider">
@@ -1325,7 +1325,7 @@
     <img src="dg/08_03_00.png" class="fundo" loading="lazy"/>
   </details></div>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
-  <img src="dg/Cotadas_2020_0009.png" loading="lazy"/>
+  <img src="dg/Cotadas_2025-009.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Vamos construir o pentágono regular de lado <b>l</b> dado! O pentágono regular é um polígono que possui os cinco lados congruentes e os cinco ângulos internos também congruentes. Existem processos de construção exatos e aproximados. Vamos aprender um aproximado que é rápido de ser construído e nos dá um resultado muito bom!</p>
   <ul class="slider">
@@ -1392,9 +1392,9 @@
     </ul>
     <img src="dg/09_01_00.png" class="fundo" loading="lazy"/>
   </details></div>
-  <img src="dg/Cotadas_2020_0009a.png" loading="lazy"/>
+  <img src="dg/Cotadas_2025-009a.png" loading="lazy"/>
   <div class="combo" id="atv12"> &#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 1.2</span></div>
-  <img src="dg/Cotadas_2020_0009b.png" loading="lazy"/>
+  <img src="dg/Cotadas_2025-009b.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Para determinar a reta tangente à circunferência dada basta encontrar o ponto <b>T</b> de tangência! Antes de iniciarmos a construção vamos aprender duas propriedades importantes!</p>
   <ul class="slider">
@@ -1438,9 +1438,9 @@
     <img src="dg/09_03_00.png" class="fundo" loading="lazy"/>
   </details></div>
   <p class="topop"><a href="#desenho" class="topo">voltar ao topo</a></p>
-  <img src="dg/Cotadas_2020_0010.png" loading="lazy"/>
+  <img src="dg/Cotadas_2025-010.png" loading="lazy"/>
   <div class="combo" id="atv13">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 1.3</span></div>
-  <img src="dg/Cotadas_2020_0010a.png" loading="lazy"/>
+  <img src="dg/Cotadas_2025-010a.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p>Lembre-se que para que uma reta seja tangente à uma circunferência devemos ter que o ângulo formado entre o raio e a reta no ponto de tangência mede <b>90°</b>! Vamos à construção.</p>
   <ul class="slider">
@@ -1471,29 +1471,29 @@
 <details><summary id="propriedades">2.1. Propriedades das projeções cilíndricas</summary>
 	<p>Material da página 11 até a página 25.</p>
 	<p>Leia o conteúdo das páginas 11, 12 e 13 da apostila. Agora vamos começar a trabalhar com as projeções de objetos e figuras em um plano <b>&pi;'</b>.</p> 	
-	<img src="prop/Cotadas_2020_0011.png" loading="lazy"/>
+	<img src="prop/Cotadas_2025-011.png" loading="lazy"/>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
-	<img src="prop/Cotadas_2020_0012.png" loading="lazy"/>
+	<img src="prop/Cotadas_2025-012.png" loading="lazy"/>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
-	<img src="prop/Cotadas_2020_0013.png" loading="lazy"/>
+	<img src="prop/Cotadas_2025-013.png" loading="lazy"/>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
 	<div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/8O9ci27ltkE" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
-	<img src="prop/Cotadas_2020_0014.png" loading="lazy"/>
+	<img src="prop/Cotadas_2025-014.png" loading="lazy"/>
     <div class="combo"><figcaption>Para projetar um ponto <b>A</b> qualquer do espaço usando a projeção cônica, basta definir a reta projetante <b>a</b>, que passa pelo centro de projeção <b>O</b> e pelo ponto <b>A</b>. A interseção desta reta com o plano <b>&pi;'</b> é a projeção <b>A'</b> do ponto <b>A</b>.</figcaption>
     <a href="vr/proj_conica.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="prop/Cotadas_2020_0014a.png" loading="lazy"/>
+	<img src="prop/Cotadas_2025-014a.png" loading="lazy"/>
     <div class="combo"><figcaption>Para projetar um ponto <b>A</b> qualquer do espaço usando a projeção cilíndrica, basta definir a reta projetante <b>a</b>, paralela à direção <b>d</b> e que passa pelo ponto <b>A</b>. A interseção desta reta com o plano <b>&pi;'</b> é a projeção <b>A'</b> do ponto <b>A</b>. Se a reta <b>d</b> formar ângulo <b>0 < &theta; < 90&deg;</b>, a projeção é chamada <b>oblíqua</b>.</figcaption>
     <a href="vr/proj_cilindrica.html" target="_blank" class="visu">Projeção cilíndrica <b>oblíqua</b> em 3D</a>
     <figcaption>Quando <b>&theta; = 90&deg;</b>, temos a projeção <b>ortogonal</b>.</figcaption>
 	<a href="vr/proj_cilindrica_orto.html" target="_blank" class="visu">Projeção cilíndrica <b>ortogonal</b> em 3D</a></div>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
-	<img src="prop/Cotadas_2020_0015.png" loading="lazy"/>
+	<img src="prop/Cotadas_2025-015.png" loading="lazy"/>
     <div class="combo"><figcaption>Quando a reta <b>r</b> não é paralela à direção <b>d</b>, a sua projeção <b>r'</b> é uma reta.</figcaption>
     <a href="vr/p1.html" target="_blank" class="visu">Visualização em 3D: projeção <b>oblíqua</b></a>
 	<br><a href="vr/p1_orto.html" target="_blank" class="visu">Visualização em 3D: projeção <b>ortogonal</b></a></div>
-	<img src="prop/Cotadas_2020_0015a.png" loading="lazy"/>
+	<img src="prop/Cotadas_2025-015a.png" loading="lazy"/>
     <div class="combo"><figcaption>No caso em que as retas <b>r</b> e <b>d</b> são paralelas, a projeção <b>r'</b> é um ponto.</figcaption>
 	<a href="vr/p1a.html" target="_blank" class="visu">Visualização em 3D: projeção <b>oblíqua</b></a>
 	<br><a href="vr/p1a_orto.html" target="_blank" class="visu">Visualização em 3D: projeção <b>ortogonal</b></a>
@@ -1505,24 +1505,24 @@
 		<p>Os objetos modelados em 3D aparecem sobre as coordenadas da apostila. Você pode usá-los para conferir as construções ou apenas visualizar os objetos em 3D.</p>
 	</div>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
-	<img src="prop/Cotadas_2020_0016.png" loading="lazy"/>  
+	<img src="prop/Cotadas_2025-016.png" loading="lazy"/>  
     <div class="combo"><figcaption>Considerando <b>r</b> e <b>s</b> estão em planos projetantes distintos, as projeções <b>r'</b> e <b>s'</b> são paralelas.</figcaption>
     <a href="vr/p2.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
 	<br><a href="vr/p2_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>
-    <img src="prop/Cotadas_2020_0016a.png" loading="lazy"/>  
+    <img src="prop/Cotadas_2025-016a.png" loading="lazy"/>  
 	<div class="combo"><figcaption>Se <b>r</b> e <b>s</b> estão em um mesmo plano projetante, as projeções <b>r'</b> e <b>s'</b> são coincidentes.</figcaption>
     <a href="vr/p2a.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
 	<br><a href="vr/p2a_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>
-    <img src="prop/Cotadas_2020_0016b.png" loading="lazy"/>  
+    <img src="prop/Cotadas_2025-016b.png" loading="lazy"/>  
     <div class="combo"><figcaption>Quando as retas <b>r</b> e <b>s</b> são paralelas à direção <b>d</b>, suas projeções <b>r'</b> e <b>s'</b> são pontos.</figcaption>
     <a href="vr/p2c.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
 	<br><a href="vr/p2c_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
-    <div class="combo"><img src="prop/Cotadas_2020_0017.png" loading="lazy"/> 
+    <div class="combo"><img src="prop/Cotadas_2025-017.png" loading="lazy"/> 
     <figcaption>A proporção entre as medidas dos segmentos paralelos <b>AB</b> e <b>CD</b> é a mesma de suas projeções, ou seja: <b>AB/CD = A'B'/C'D'</b>.</figcaption>
     <a href="vr/p3a.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
 	<br><a href="vr/p3a_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>
-    <img src="prop/Cotadas_2020_0017a.png" loading="lazy"/> 
+    <img src="prop/Cotadas_2025-017a.png" loading="lazy"/> 
     <div class="combo"><figcaption>Se os segmentos <b>AB</b> e <b>CD</b> são colineares, a mesma proporção entre as medidas é válida: <b>AB/CD = A'B'/C'D'</b>.</figcaption>
     <a href="vr/p3b.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
 	<br><a href="vr/p3b_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>
@@ -1530,17 +1530,17 @@
 	<div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/k3yomlMReqQ" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
-	<img src="prop/Cotadas_2020_0018.png" loading="lazy"/> 
+	<img src="prop/Cotadas_2025-018.png" loading="lazy"/> 
     <div class="combo"><figcaption>Uma figura pertencente a um plano paralelo ao plano de projeções <b>&pi;'</b> fica projetada com o mesmo tamanho, sem redução ou ampliação de tamanho.</figcaption>
     <a href="vr/p4.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
 	<br><a href="vr/p4_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a></div>
-	<img src="prop/Cotadas_2020_0018a.png" loading="lazy"/> 
+	<img src="prop/Cotadas_2025-018a.png" loading="lazy"/> 
     <div class="combo"><figcaption>Uma figura que pertence a um plano <b>&alpha;</b> paralelo à direção <b>d</b> de projeções tem projeção reduzida a um segmento.</figcaption>
     <a href="vr/p5.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
 	<br><a href="vr/p5_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
 	<br><a href="vr/p_novo_propriedades.html" target="_blank" class="visu">Planos paralelo, projetante e oblíquo: projeção <b>ortogonal</b></a></div>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
-  <img src="prop/Cotadas_2020_0019.png" loading="lazy"/>
+  <img src="prop/Cotadas_2025-019.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício. De acordo com a propriedade 3, podemos encontrar a projeção do ponto médio de <b>AB</b> construindo a mediatriz da projeção deste segmento. Clique nos botões do passo a passo para fazer a construção na sua apostila.</p>
   <ul class="slider">
@@ -1577,7 +1577,7 @@
     </ul>
     <img src="prop/19_01_00.png" class="fundo" loading="lazy"/>
   </details></div>
-  <img src="prop/Cotadas_2020_0019a.png" loading="lazy"/>
+  <img src="prop/Cotadas_2025-019a.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua, o compasso e os esquadros para resolver este exercício. De acordo com a propriedade 2, podemos encontrar a projeção dos lados de um paralelogramo utilizando a construção de retas paralelas.</p>
   <ul class="slider">
@@ -1620,7 +1620,7 @@
     </ul>
     <img src="prop/19_02_00.png" class="fundo" loading="lazy"/>
   </details></div>
-  <img src="prop/Cotadas_2020_0019b.png" loading="lazy"/>
+  <img src="prop/Cotadas_2025-019b.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício. De acordo com a propriedade 5, o paralelogramo está em um plano paralelo à direção <b>d</b> das projetantes.</p>
   <ul class="slider">
@@ -1658,7 +1658,7 @@
     <img src="prop/19_02_00c.png" class="fundo" loading="lazy"/>
   </details></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
-  <img src="prop/Cotadas_2020_0020.png" loading="lazy"/>
+  <img src="prop/Cotadas_2025-020.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: item a</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
@@ -1732,13 +1732,13 @@
     <img src="prop/20_03_00b.png" class="fundo" loading="lazy"/>
   </details>
   <a href="vr/20_03b.html" target="_blank" class="visu">Visualização em 3D: item b</a></div>
-  <img src="prop/Cotadas_2020_0020b.png" loading="lazy"/>
+  <img src="prop/Cotadas_2025-020b.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p>Usando as propriedades dos itens a e b, você consegue fazer a construção deste paralelogramo.</p>
     <img src="prop/20_03_00c.png">
 	<figcaption></figcaption>
   </details></div>
-  <img src="prop/Cotadas_2020_0020a.png" loading="lazy"/>
+  <img src="prop/Cotadas_2025-020a.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: item a</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
@@ -1824,7 +1824,7 @@
 	<img src="prop/20_04_00_b.png" class="fundo" loading="lazy"/>
     </details>
   <a href="vr/20_04b.html" target="_blank" class="visu">Visualização em 3D: item b</a></div>
-  <img src="prop/Cotadas_2020_0020c.png" loading="lazy"/>
+  <img src="prop/Cotadas_2025-020c.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p>Utilizando as mesmas propriedades dos itens anteriores, você consegue construir este triângulo. Use o link abaixo para te ajudar na visualização em 3D.</p>
     <img src="prop/20_04_00c.png">
@@ -1832,7 +1832,7 @@
   </details>
   <a href="vr/p_ex4c_triangulo.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
-  <img src="prop/Cotadas_2020_0021.png" loading="lazy"/>
+  <img src="prop/Cotadas_2025-021.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua, o compasso e os esquadros para resolver este exercício.</p>
   <ul class="slider">
@@ -1900,7 +1900,7 @@
 	<img src="prop/21_05_00a.png" class="fundo" loading="lazy"/>
   </details>
   <a href="vr/p_ex5a_hexagono.html" target="_blank" class="visu">Visualização em 3D: item a</a></div>
-  <img src="prop/Cotadas_2020_0021b.png" loading="lazy"/>
+  <img src="prop/Cotadas_2025-021b.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
@@ -1950,21 +1950,21 @@
 	<img src="prop/21_05_00c.png" class="fundo" loading="lazy"/>
   </details>
   <a href="vr/p_ex5c_hexagono.html" target="_blank" class="visu">Visualização em 3D</a></div>
-  <img src="prop/Cotadas_2020_0021a.png" loading="lazy"/>
+  <img src="prop/Cotadas_2025-021a.png" loading="lazy"/>
   <div class="combo" id="atv21">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 2.1</span></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/cnp8sxPpF-g" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
-  <img src="prop/Cotadas_2020_0022.png" loading="lazy"/>
+  <img src="prop/Cotadas_2025-022.png" loading="lazy"/>
   <div class="combo"><figcaption>Os segmentos oblíquos ao plano de projeções <b>&pi;'</b> são projetados com tamanho reduzido, ou seja, <b>AB > A'B'</b></figcaption>
   <a href="vr/p6.html" target="_blank" class="visu">Visualização da propriedade em 3D</a></div>
-  <img src="prop/Cotadas_2020_0022a.png" loading="lazy"/>
+  <img src="prop/Cotadas_2025-022a.png" loading="lazy"/>
   <div class="combo"><figcaption>Quando a reta <b>r // &pi;'</b> e as retas <b>r</b> e <b>s</b> são perpendiculares ou ortogonais, as retas <b>r'</b> e <b>s'</b> são perpendiculares.</figcaption>
   <a href="vr/p7.html" target="_blank" class="visu">Visualização da propriedade em 3D</a>
   <br><a href="vr/p_novo_propriedades.html" target="_blank" class="visu">Planos paralelo, projetante e oblíquo: projeção <b>ortogonal</b></a></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
-  <img src="prop/Cotadas_2020_0023.png" loading="lazy"/>
+  <img src="prop/Cotadas_2025-023.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
@@ -2002,7 +2002,7 @@
 	<img src="prop/23_01_00.png" class="fundo" loading="lazy"/>
   </details>
   <a href="vr/p_ex1_losango.html" target="_blank" class="visu">Visualização em 3D</a></div>
-  <img src="prop/Cotadas_2020_0023a.png" loading="lazy"/>
+  <img src="prop/Cotadas_2025-023a.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar a régua e o compasso para resolver este exercício.</p>
   <ul class="slider">
@@ -2053,7 +2053,7 @@
   </details>
   <a href="vr/p_ex2_retangulo.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
-  <img src="prop/Cotadas_2020_0024.png" loading="lazy"/>
+  <img src="prop/Cotadas_2025-024.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
   <p> Vamos utilizar o compasso e os esquadros para resolver este exercício.</p>
   <ul class="slider">
@@ -2120,10 +2120,10 @@
     </ul>
 	<img src="prop/24_01_00.png" class="fundo" loading="lazy"/>
   </details></div>
-  <img src="prop/Cotadas_2020_0024a.png" loading="lazy"/>
+  <img src="prop/Cotadas_2025-024a.png" loading="lazy"/>
   <div class="combo" id="atv22">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 2.2</span></div>
   <p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
-  <img src="prop/Cotadas_2020_0025.png" loading="lazy"/>
+  <img src="prop/Cotadas_2025-025.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
   <p> Você pode utilizar o compasso e os esquadros para resolver este exercício. Lembre-se de aplicar as propriedades de projeções cilíndricas e cilíndricas ortogonais.</p>
 	<img src="prop/25_01_00.png">
@@ -2136,15 +2136,15 @@
 
 <details><summary id="pontos">2.2. Pontos e segmentos em épura</summary>
 	<p>Material da página 26 até a página 32.</p>
-	<img src="cotadas/Cotadas_2020_0026.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-026.png" loading="lazy"/>
 	<div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/hfTo8zRRnQ4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
-	<img src="cotadas/Cotadas_2020_0026a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-026a.png" loading="lazy"/>
 	<div class="combo"><figcaption>Para representar um ponto em épura, basta marcar as coordenadas x(abscissa), y(ordenada) e indicar o valor da cota <b>a</b> do ponto. Use o link abaixo para visualizar em 3D.</figcaption>
 	<a href="vr/rep_ponto.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0027.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-027.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
 		  <li>
@@ -2176,11 +2176,11 @@
 	  </details>
 	  <a href="vr/exerc_epura.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	  <p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-    <img src="cotadas/Cotadas_2020_0028.png" loading="lazy"/>
+    <img src="cotadas/Cotadas_2025-028.png" loading="lazy"/>
    	<div class="combo"><figcaption>Usamos o rebatimento encontrar a verdadeira grandeza (vg) de um segmento AB. Neste caso, o segmento é rebatido usando a projeção <b>A'B'</b> como eixo para rebater o segmento em <b>&pi;'</b>. Neste caso, marcamos as cotas dos pontos a partir de suas projeções.</figcaption>
 	<a href="vr/vg_segmento.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0029.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-029.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
 		  <li>
@@ -2222,9 +2222,9 @@
 		</ul>
 		<img src="cotadas/29_01_00.png" class="fundo" loading="lazy"/>
 	  </details></div>
-	  <img src="cotadas/Cotadas_2020_0029a.png" loading="lazy"/>
+	  <img src="cotadas/Cotadas_2025-029a.png" loading="lazy"/>
 	  <div class="combo" id="atv23">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 2.3</span></div>
-	  <img src="cotadas/Cotadas_2020_0029b.png" loading="lazy"/>
+	  <img src="cotadas/Cotadas_2025-029b.png" loading="lazy"/>
 	  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
 		  <li>
@@ -2258,10 +2258,10 @@
 	  <div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/xyUOtZkioQk" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
-	  <img src="cotadas/Cotadas_2020_0030.png" loading="lazy"/>
+	  <img src="cotadas/Cotadas_2025-030.png" loading="lazy"/>
 	  <div class="combo"><figcaption>Rebatimento usado para encontrar a verdadeira grandeza (vg) de um segmento <b>AB</b>. Neste caso, o segmento é rebatido usando o segmento <b>AC</b> como eixo para rebater o segmento em um plano horizontal<b>&beta;</b> que passa por <b>A</b>. Neste caso, marcamos a diferença de cotas entre os pontos <b>A</b> e <b>B</b> a partir da projeção <b>B'</b></figcaption>
 	  <a href="vr/vg_segmento2.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	  <img src="cotadas/Cotadas_2020_0030a.png" loading="lazy"/>
+	  <img src="cotadas/Cotadas_2025-030a.png" loading="lazy"/>
 	  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
 		  <li>
@@ -2295,7 +2295,7 @@
 		<img src="cotadas/30_02_00.png" loading="lazy"/>
 		<figcaption></figcaption>
 	  </details></div>
-	  <img src="cotadas/Cotadas_2020_0030b.png" loading="lazy"/>
+	  <img src="cotadas/Cotadas_2025-030b.png" loading="lazy"/>
 	  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
 		  <li>
@@ -2320,7 +2320,7 @@
 		<img src="cotadas/30_03_00.png" class="fundo" loading="lazy"/>
 	  </details></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0031.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-031.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
 		  <li>
@@ -2344,20 +2344,20 @@
 		</ul>
 		<img src="cotadas/31_01_00.png" class="fundo" loading="lazy"/>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0031a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-031a.png" loading="lazy"/>
 	<div class="combo" id="atv24">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 2.4</span></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0032.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-032.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p>Solução do item c.</p>
 		<img src="cotadas/32_01_00.png" class="fundo" />
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0032a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-032a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p>Solução do item d</p>
 		<img src="cotadas/32_02_00.png" class="fundo" loading="lazy"/>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0032b.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-032b.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
 		  <li>
@@ -2391,7 +2391,7 @@
 	<div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/X3u9BQbZKdI" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
-	<img src="cotadas/Cotadas_2020_0033.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-033.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>As retas podem assumir três diferentes posições com relação ao plano de projeção <b>&pi;’</b>. A primeira reta que iremos estudar é a reta vertical. </p>
 	  <ul class="slider">
@@ -2410,7 +2410,7 @@
 		</ul>
 		<img src="cotadas/33_01_00.png" class="fundo" loading="lazy"/>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0033a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-033a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>A segunda reta que iremos estudar é a reta horizontal.</p>
 	  <ul class="slider">
@@ -2430,7 +2430,7 @@
 		<img src="cotadas/33_02_00.png" class="fundo" loading="lazy"/>
 	</details></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0034.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-034.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>A terceira reta que iremos estudar é a reta qualquer.</p>
 	  <ul class="slider">
@@ -2449,7 +2449,7 @@
 		</ul>
 		<img src="cotadas/34_01_00.png" class="fundo" loading="lazy"/>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0034a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-034a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
 		  <li>
@@ -2510,9 +2510,9 @@
 		<img src="cotadas/34_02_00.png" class="fundo" loading="lazy"/>
 	</details></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0035.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-035.png" loading="lazy"/>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0036.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-036.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<p>Observe o desenho em 3D, nosso objetivo é rebater o triângulo <b>ABC</b> no plano de projeção <b>&pi;'</b>. Com isso obteremos a VG do segmento AB, bem como a VG do ângulo <b>&theta;</b>.</p>
 	<ul class="slider">
@@ -2556,7 +2556,7 @@
 		<img src="cotadas/36_01_00.png" class="fundo" loading="lazy"/>
 	</details></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0037.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-037.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: item a</summary>
 	<p>Observe o desenho em 3D, nosso objetivo é obter a distância horizontal equivalente à diferença de cota de uma unidade.</p>
 	<ul class="slider">
@@ -2624,7 +2624,7 @@
 		<img src="cotadas/37_02_00.png" class="fundo" loading="lazy"/>
 	</details></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0038.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-038.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<ul class="slider">
 		  <li>
@@ -2654,32 +2654,32 @@
 		</ul>
 		<img src="cotadas/38_01_00.png" class="fundo" loading="lazy"/>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0038a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-038a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	<p>O processo é similar ao anterior, no entanto, devemos tomar cuidado com a cota negativa.</p>
 		<img src="cotadas/38_02_01.png" class="fundo" loading="lazy"/>
 		<figcaption>Unimos o ponto <b>6,2</b> a <b>B’</b> e traçamos retas paralelas obtendo os pontos de cotas inteiras, e com isso a graduação da reta <b>AB</b>.</figcaption>
 	</details></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0039.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-039.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<img src="cotadas/39_01_00.png" class="fundo" loading="lazy"/>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0039a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-039a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p>Como o ponto de cota zero encontra-se externo ao segmento <b>CD</b>, uma das possibilidades é encontrar o intervalo da reta.</p>
 		<img src="cotadas/39_02_00.png" class="fundo" loading="lazy"/>
 		<figcaption>Nesse caso, obteve-se <b>E’(3)</b>. Observe que a distância de <b>E’</b> a <b>D’</b> é a mesma de <b>D’</b> a <b>F’</b> e de <b>F’</b> a <b>G’</b>. O traço de <b>r</b> sobre <b>&pi;’</b> é <b>G’</b> de cota zero.</figcaption>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0039b.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-039b.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p>O traço de <b>r</b> sobre <b>&pi;’</b> nada mais é que o ponto em que a reta cruza o plano <b>&pi;’</b>, ou seja, o ponto da reta que possui cota zero. No exercício está representado por <b>C’(0)</b>.</p>
 		<img src="cotadas/39_03_00.png" class="fundo" loading="lazy"/>
 	</details></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0040.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-040.png" loading="lazy"/>
 	<div class="combo" id="atv31">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 3.1</span></div>
-	<img src="cotadas/Cotadas_2020_0040a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-040a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	<ul class="slider">
 		   <li>
@@ -2725,70 +2725,70 @@
 	<div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/AlrQ3zUdS7M" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
-	<img src="cotadas/Cotadas_2020_0041.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-041.png" loading="lazy"/>
 	<div class="combo"><a href="vr/41_pertinencia1.html" target="_blank" class="visu">Visualização em 3D do 1&deg; exemplo</a>
 	<br><a href="vr/41_pertinencia2.html" target="_blank" class="visu">Visualização em 3D do 2&deg; exemplo</a></div>
-	<img src="cotadas/Cotadas_2020_0041a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-041a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p></p>
 		<img src="cotadas/41_01_00.png" class="fundo" loading="lazy"/>
 	</details></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0042.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-042.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p></p>
 		<img src="cotadas/42_01_00.png" class="fundo" loading="lazy"/>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0042a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-042a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p></p>
 		<img src="cotadas/42_02_00.png" class="fundo" loading="lazy"/>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0042b.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-042b.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p>Para encontrar o ponto <b>P</b> de uma reta, dada a sua cota, usamos o mesmo processo usado para graduar uma reta. Inicia-se com uma reta pelo ponto de menor cota, e, com o auxílio da régua marca-se a cota do segundo ponto da reta e do ponto <b>P</b>. Traçando-se paralelas, encontra-se o ponto <b>P</b> desejado.</p>
 		<img src="cotadas/42_03_00.png" class="fundo" loading="lazy"/>
 	</details></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0043.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-043.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p></p>
 		<img src="cotadas/43_01_00.png" class="fundo" loading="lazy"/>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0043a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-043a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p></p>
 		<img src="cotadas/43_02_00.png" class="fundo" loading="lazy"/>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0043b.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-043b.png" loading="lazy"/>
 	<div class="combo" id="atv32">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 3.2</span></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0044.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-044.png" loading="lazy"/>
 	<div class="combo"><figcaption>Duas retas quaisquer <b>r</b> e <b>s</b> são paralelas quando suas projeções <b>r'</b> e <b>s'</b> são paralelas, e as graduações destas retas crescem no mesmo sentido. Use o link abaixo para visualizar esta propriedade em 3D.</figcaption>
 	<a href="vr/44_paralelas.html" target="_blank" class="visu">Visualização em 3D do 1&deg; exemplo</a>
 	<br><a href="vr/44_paralelas2.html" target="_blank" class="visu">Visualização em 3D do 2&deg; exemplo</a></div>
-	<img src="cotadas/Cotadas_2020_0044a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-044a.png" loading="lazy"/>
 	<div class="combo"><a href="vr/44_paralelas3.html" target="_blank" class="visu">Visualização em 3D do 3&deg; exemplo</a></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0045.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-045.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p>Como <b>r'</b> é um ponto, significa que a reta <b>r</b> é perpendicular ao plano de projeção. </p> 
 		<img src="cotadas/45_01_00.png" loading="lazy"/>
 		<figcaption>Logo a reta <b>s</b>, também será uma reta vertical, ou seja, perpendicular ao plano de projeção.</figcaption>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0045a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-045a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p>A reta <b>r</b> é uma reta horizontal de cota 1, então uma reta paralela à reta <b>r</b>, também será uma reta horizontal.</p> 
 		<img src="cotadas/45_02_00.png" loading="lazy"/>
 		<figcaption>Porém a reta <b>s</b> é uma reta horizontal de cota 3. Suas projeções coincidem, pois pertencem ao mesmo plano projetante.</figcaption>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0045b.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-045b.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p>A reta <b>r</b> é uma reta horizontal, logo a reta s também será uma horizontal e suas projeções devem ser paralelas. </p> 
 		<img src="cotadas/45_03_00.png" loading="lazy"/>
 		<figcaption>A cota da reta <b>s</b> é a mesma cota do ponto <b>P</b> que a define.</figcaption>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0045c.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-045c.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>As retas <b>r</b> e <b>s</b> pertencem ao mesmo plano projetante, portanto suas projeções são coincidentes, assim <b>r'</b> coincide com <b>s'</b>, porém isso não é suficiente para que as retas sejam consideradas paralelas, ainda precisamos de mais um ponto da reta <b>s</b>.</p>
 	  <ul class="slider">
@@ -2813,7 +2813,7 @@
 		</ul>
 		<img src="cotadas/45_04_00.png" class="fundo" loading="lazy"/>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0045d.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-045d.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Para que duas retas quaisquer sejam paralelas, devem ocorrer três condições:
 	  <br>•	suas projeções devem ser paralelas, <b>r'//s'</b>
@@ -2848,9 +2848,9 @@
 		<img src="cotadas/45_05_00.png" class="fundo" loading="lazy"/>
 	</details></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0046.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-046.png" loading="lazy"/>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0047.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-047.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p> Vamos verificar se as retas são paralelas ou concorrentes, considerando a reta <b>s</b> qualquer e a reta <b>r</b> vertical. Como pertencem ao mesmo plano projetante, elas são necessariamente concorrentes, basta encontrar o ponto <b>P</b> de concorrência. Usando o método do rebatimento, siga os seguintes passos:</p>
 	  <ul class="slider">
@@ -2888,7 +2888,7 @@
 		<img src="cotadas/47_01_00.png" class="fundo" loading="lazy"/>
 	</details>
 	<a href="vr/47_incidencia5.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="cotadas/Cotadas_2020_0047a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-047a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&deg; exemplo</summary>
 	  <p> Vamos verificar se as retas são paralelas ou concorrentes considerando as retas <b>r</b> e <b>s</b> quaisquer. Devemos verificar o ponto de interseção tem a mesma cota nas duas retas, para isso utilizamos o método do rebatimento.</p>
 	  <h4>Planos projetantes distintos e não paralelos</h4>
@@ -2957,7 +2957,7 @@
 		<figcaption>Neste caso as retas são reversas, pois o ponto <b>P</b> possui cotas diferentes nas retas <b>r</b> e <b>s</b>. Use o link abaixo para visualizar este exemplo em 3D.</figcaption>
 	</details>
 	<a href="vr/47_incidencia6b.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="cotadas/Cotadas_2020_0047b.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-047b.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 		<p>Como as retas são concorrentes, basta verificar se o ângulo entre elas é 90&deg;. Se for, elas são perpendiculares. Faremos isso através do método do rebatimento.</p>
 		<ul class="slider">
@@ -3005,9 +3005,9 @@
 	<div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/dhry8zBZSE8" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
-	<img src="cotadas/Cotadas_2020_0048.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-048.png" loading="lazy"/>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0049.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-049.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Devemos verificar se as retas são concorrentes ou ortogonais, para isso basta verificar se o ponto se o ponto onde as retas se cruzam na projeção, possui cota <b>2</b> na reta <b>s</b>.</p>
 	  <ul class="slider">
@@ -3026,7 +3026,7 @@
 		</ul>
 		<img src="cotadas/49_01_00.png" class="fundo" loading="lazy"/>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0049a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-049a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Como as retas são concorrentes, basta verificar se o ângulo entre elas é <b>90&deg;</b>, se for, elas são perpendiculares. Faremos isso através do método do rebatimento.</p>
 	  <ul class="slider">
@@ -3045,7 +3045,7 @@
 		</ul>
 		<img src="cotadas/49_02_00.png" class="fundo" loading="lazy"/>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0049b.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-049b.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Compreenda a construção:</summary>
 		<p>Das relações métricas no triângulo retângulo, temos que:</p>
 		<img src="cotadas/49_03_00.png" width="65%" loading="lazy"/>
@@ -3055,7 +3055,7 @@
 	<a href="vr/49_ortogonais1.html" target="_blank" class="visu">Visualização em 3D: perpendiculares</a>
 	<br><a href="vr/49_ortogonais2.html" target="_blank" class="visu">Visualização em 3D: ortogonais</a></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0050.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-050.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 		<p>Para encontrar o intervalo da reta <b>s</b>, perpendicular à reta <b>r</b>, utilizamos o intervalo inverso. </p>
 		<ul class="slider">
@@ -3104,10 +3104,10 @@
 		</ul>
 		<img src="cotadas/50_01_00.png" class="fundo" loading="lazy"/>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0050a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-050a.png" loading="lazy"/>
 	<div class="combo" id="atv33">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 3.3</span></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0051.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-051.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 		<p>Como os planos projetantes das retas são paralelos, então suas projeções são paralelas.</p>
 		<ul class="slider">
@@ -3144,13 +3144,13 @@
 		</ul>
 		<img src="cotadas/51_01_00.png" class="fundo" loading="lazy"/>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0051a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-051a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 <p>Como os planos projetantes das retas são paralelos, então suas projeções são paralelas. Observe que a diferença de cotas entre os pontos <b>A</b> e <b>B</b>, é de 3 unidades de cota, assim, ao rebater o ponto <b>B</b>, marcamos 3 unidades de cota (3cm) e o segmento entre <b>A'</b> e <b>B'</b> representa 3 intervalos da reta <b>r</b>, que chamamos de <b>3I<sub>r</sub></b>, obtendo o ponto <b>B'<sub>1</sub></b>.</p> 
 <img src="cotadas/51_02_00.png" loading="lazy"/>
 <figcaption>Ao traçar a perpendicular à reta rebatida, <b>r'<sub>1</sub></b>, pelo ponto <b>B'<sub>1</sub></b>, obtemos 3 intervalos da reta <b>s</b>, que chamamos de <b>3I<sub>s</sub></b>. Quando transportamos esse intervalo para a reta <b>s</b>, devemos lembrar que em retas ortogonais, as cotas crescem em sentidos opostos.</figcaption>
 </details></div>
-	<img src="cotadas/Cotadas_2020_0051b.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-051b.png" loading="lazy"/>
 	<div class="combo" id="atv34">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 3.4</span></div>
 	<p class="topop"><a href="#retas" class="topo">voltar ao topo</a></p>
 	<!--<h3>Respostas dos Exercícios propostos</h3><hr><h4>Exercício 3.1: 3 da pág. 40</h4><div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary><ul class="slider"><li><input type="radio" id="565" name="sl"><label for="565"></label><img src="solucoes/3/40_01_01.png"/><figcaption>Iniciamos marcando as projeções dos pontos <b>A</b> e <b>B</b>.</figcaption></li><li><input type="radio" id="566" name="sl"><label for="566"></label><img src="solucoes/3/40_01_02.png"/><figcaption>Traçamos duas perpendiculares por <b>A</b> e <b>B</b>, marcando 3 unidades a partir de <b>A'</b> e 7,5 unidades a partir de <b>B'</b>. Com isso temos os pontos <b>A’<sub>1</sub></b> e <b>B’<sub>1</sub></b>.</figcaption></li><li><input type="radio" id="567" name="sl"><label for="567"></label><img src="solucoes/3/40_01_03.png"/><figcaption>Traçando-se uma perpendicular por <b>A’<sub>1</sub></b>, encontramos a inclinação da reta (ângulo <b>&theta;</b>).</figcaption></li><li><input type="radio" id="568" name="sl"><label for="568"></label><img src="solucoes/3/40_01_04.png"/><figcaption>A partir de <b>B’<sub>1</sub></b>, marcamos uma unidade, indicando <b>dV=1</b>, com isso construímos o triângulo conforme a figura e encontramos o intervalo <b>Ir</b>, conforme o indicado.</figcaption></li><li><input type="radio" id="569" name="sl"><label for="569"></label><img src="solucoes/3/40_01_05.png" /><figcaption>De acordo com a teoria, temos a declividade, a inclinação e o coeficiente de redução.</figcaption></li></ul><img src="solucoes/3/40_01_01.png" class="fundo"/></details></div><h4>Exercício 3.2: 2d da pág. 43</h4><div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary><p>Podemos usar Tales para encontrar o ponto de cota <b>p = 1,5cm</b>. Basta marcar as unidades correspondentes das cotas 3, 2 e 1,5.</p><img src="solucoes/3/43_03_00.png" class="fundo"/><figcaption>Depois, podemos unir os pontos <b>2</b> e <b>H'(2)</b> e construir a reta paralela a <b>2H'</b> que passa pelo ponto <b>1,5</b>.</figcaption></details></div><h4>Exercício 3.3: 1b da pág. 50</h4><div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary><p>A resolução da letra b é similar à letra a. Lembre-se que entre as projeções dos pontos <b>A</b> e <b>B</b>, temos 2 intervalos, dessa forma, devemos marcar 2 unidades de cota no ponto <b>B</b> e obteremos 2 intervalos da reta <b>s</b> e como as cotas de retas perpendiculares crescem no sentido oposto, a cota do ponto <b>Q</b> obtido é a cota do ponto <b>P</b> mais duas unidades: Q'(3).</p><img src="solucoes/3/50_02_00.png" class="fundo"/></details></div><h4>Exercício 3.4: 2c) da pág. 51</h4><div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary><p>Como os planos projetantes das retas são paralelos, então suas projeções são paralelas, ou seja, <b>r'</b> é paralela a <b>s'</b>. Observe que a diferença de cotas entre os pontos <b>A</b> e <b>B</b>, é de 4 unidades de cota, assim, ao rebater o ponto <b>B</b>, marcamos 4 unidades de cota (3cm) e o segmento entre <b>A'</b> e <b>B'</b> representa 4 intervalos da reta <b>r</b>, que chamamos de <b>4I<sub>r</sub></b>, obtendo o ponto <b>B'<sub>1</sub></b>.</p><img src="solucoes/3/51_03_00.png" class="fundo"/><figcaption>Ao traçar a perpendicular à reta rebatida, <b>r'<sub>1</sub></b>, pelo ponto <b>B'<sub>1</sub></b>, obtemos 4 intervalos da reta <b>s</b>, que chamamos de <b>4I<sub>s</sub></b>. Quando transportamos esse intervalo para a reta <b>s</b>, devemos lembrar que em retas ortogonais, as cotas crescem em sentidos opostos.</figcaption></details></div>-->
@@ -3162,10 +3162,10 @@
 	<div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/h23UJN35Wdc" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
-	<img src="cotadas/Cotadas_2020_0052.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-052.png" loading="lazy"/>
 	<div class="combo"><figcaption>Use o link abaixo para visualizar em 3D as representações de um plano <b>&alpha;(A,B,C)</b> por 3 pontos não colineares, <b>&alpha;(r,C)</b> por um ponto e uma reta que não se pertencem, <b>&alpha;(r,s)</b> por duas retas concorrentes ou <b>&alpha;(s,t)</b> por duas retas paralelas.</figcaption>
 	<a href="vr/53_rep_planos.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="cotadas/Cotadas_2020_0052a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-052a.png" loading="lazy"/>
 	<figcaption>b) Para determinar o plano horizontal é necessário apenas um ponto, pois já possuímos a informação de que o plano é paralelo ao plano de projeção π'.
 	<br>c) As retas contidas no plano horizontal são horizontais.
 	<br>d) Uma figura contida no plano horizontal tem sua projeção em VG.
@@ -3173,7 +3173,7 @@
 	<br>f) A condição para que um ponto pertença ao plano horizontal é que sua cota tenha o mesmo valor da cota do plano α.
 	<br>g) O traço de uma reta sobre o plano é um ponto rα, cuja projeção tem cota igual à cota do plano.</figcaption>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0053.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-053.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 		<p>A pirâmide possui base quadrada e como está no plano horizontal, todos os pontos possuem a mesma cota e o quadrado está representado em Verdadeira Grandeza (VG). Como a pirâmide é regular, sua altura é perpendicular à base e passa pelo centro da base.</p>
 		<ul class="slider">
@@ -3199,7 +3199,7 @@
 		<img src="cotadas/53_01_00.png" class="fundo" loading="lazy"/>
 	</details>
 	<a href="vr/piramide0.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="cotadas/Cotadas_2020_0053a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-053a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 		<p>A pirâmide possui base hexagonal e como está contida no plano horizontal, todos os pontos possuem a mesma cota e o hexágono está em Verdadeira Grandeza (VG). </p>
 		<ul class="slider">
@@ -3220,13 +3220,13 @@
 	</details>
 	<a href="vr/piramide1.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0054.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-054.png" loading="lazy"/>
 	<div class="combo" id="atv41">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 4.1</span></div>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0055.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-055.png" loading="lazy"/>
 	<div class="combo"><figcaption>Use o link abaixo para a visualização em 3D do rebatimento do plano vertical.</figcaption>
 	<a href="vr/55_rebatimento_vertical.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="cotadas/Cotadas_2020_0055a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-055a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Rebatimento do plano</summary>
 		<p>Vamos rebater o plano vertical para encontrar a VG de uma figura.</p>
 		<ul class="slider">
@@ -3245,7 +3245,7 @@
 		</ul>
 		<img src="cotadas/55_01_00.png" class="fundo" loading="lazy"/>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0055b.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-055b.png" loading="lazy"/>
 	<figcaption>b) Para determinar o plano vertical são necessários apenas dois pontos, pois já possuímos a informação de que o plano é perpendicular ao plano de projeção <b>&pi;'</b>
 	<br>c) As retas contidas no plano vertical são: reta vertical, reta horizontal e reta qualquer.
 	<br>d) Uma figura contida no plano vertical não tem sua projeção em VG, assim precisamos utilizar o método do rebatimento para determinar a VG de uma figura contida nesse plano.
@@ -3253,7 +3253,7 @@
 	<br>f) A condição para que um ponto pertença ao plano é que sua projeção pertença ao traço do plano <b>&alpha;&pi;'</b>
 	<br>g) O traço de uma reta sobre o plano é um ponto <b>r&alpha;</b>, cuja projeção está contida em <b>&alpha;&pi;'</b>.</figcaption>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0056.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-056.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 		<ul class="slider">
 		  <li>
@@ -3290,7 +3290,7 @@
 		<img src="cotadas/56_01_00.png" class="fundo" loading="lazy"/>
 	</details>
 	<a href="vr/piramide2.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="cotadas/Cotadas_2020_0056a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-056a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p>A resolução desse exercício é semelhante ao anterior, apenas a base é diferente.Observe que as alturas são retas horizontais e, portanto, possuem a mesma cota.</p> 
 		<img src="cotadas/56_02_00.png" loading="lazy"/>
@@ -3300,7 +3300,7 @@
 	<p>3. Represente a projeção cotada de uma pirâmide reta de base hexagonal regular, sabendo-se que a base ABCDEF está contida no plano vertical definido por A(4; 8; 2,5) e B(6; 4; 1) e a altura mede h = 5cm.</p>
 	<div class="combo" id="atv42">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 4.2</span></div>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0057.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-057.png" loading="lazy"/>
 	<figcaption>Propriedades:
 	<br>a) Quantidade de pontos que determinam o plano: 3 pontos não colineares
 	<br>b) Retas contidas no plano: Reta horizontal e reta qualquer
@@ -3312,7 +3312,7 @@
 	<div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/Y-IonoqnC9Y" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
-	<img src="cotadas/Cotadas_2020_0058.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-058.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 		<p>Para que a reta esteja contida no plano, ela deve ser concorrente com duas retas do plano.</p>
 		<ul class="slider">
@@ -3325,7 +3325,7 @@
 		</ul>
 		<img src="cotadas/58_01_00.png" class="fundo" loading="lazy"/>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0058a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-058a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 		<ul class="slider">
 		  <li>
@@ -3350,7 +3350,7 @@
 		<img src="cotadas/58_02_00.png" class="fundo" loading="lazy"/>
 	</details></div>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0059.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-059.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 		<p>Para que um ponto pertença a um plano, ele deve pertencer a uma das retas do plano. Seguimos os mesmos passos do exercício anterior. conduzimos pelo ponto <b>P</b> uma reta que seja concorrente com as duas retas do plano ou que seja concorrente com uma e paralela à outra e verificamos se essa reta pertence ao plano.</p>
 		<p>Traçar a reta que passa pelo ponto <b>A</b> e pelo ponto <b>P</b> e verificar se ela pertence ao plano, ou seja, devemos verificar se a reta é concorrente com a reta <b>b</b>, pois com a reta <b>a</b> ela é, já que passa pelo ponto <b>A</b> que, certamente pertence ao plano. Assim, devemos verificar se o ponto de interseção, <b>Q'</b>, entre a reta traçada <b>r'(A'P')</b> com a reta <b>b</b>, possui a mesma cota nas duas retas. Rebatemos então a reta <b>r</b> e a reta <b>b</b>. </p>
@@ -3388,7 +3388,7 @@
 		</ul>
 		<img src="cotadas/59_01_00.png" class="fundo" loading="lazy"/>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0059a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-059a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 		<p>Neste exercício vamos utilizar uma reta <b>r</b>, concorrente com a reta <b>a</b> e paralela à reta <b>b</b>. Traçar a reta que passa pelo ponto <b>P</b>, é paralela à reta <b>b</b> e concorrente com a reta <b>a</b>.</p>
 		<p>Para que a reta <b>r</b> seja paralela à reta <b>b</b>, são necessárias 3 condições:</p>
@@ -3424,7 +3424,7 @@
 		<img src="cotadas/59_02_00.png" class="fundo" loading="lazy"/>
 	</details></div>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0060.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-060.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 		<p>Para verificar se a reta <b>r</b> pertence ao plano <b>&alpha;</b>, devemos verificar se ela é concorrente com duas retas do plano. Dessa forma, iremos verificar se a reta <b>r</b> é concorrente com as retas <b>a</b> e <b>b</b></p>
 		<ul class="slider">
@@ -3455,14 +3455,14 @@
 		</ul>
 		<img src="cotadas/60_01_00.png" class="fundo" loading="lazy"/>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0060a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-060a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p>Vamos seguir os passos do exercício anterior, ou seja, vamos verificar se os pontos <b>M</b> e <b>N</b> são interseções das retas <b>r</b> com <b>a</b> e <b>r</b> com <b>b</b>, respectivamente. Para isso rebatemos as retas <b>a</b> e <b>r</b>, e <b>b</b> e <b>r</b>. Se o ponto <b>M</b> tiver a mesma cota nas retas <b>a</b> e <b>r</b>, significa que as retas <b>a</b> e <b>r</b> são concorrentes e se o ponto <b>N</b> tiver a mesma cota nas retas <b>r</b> e <b>b</b>, as retas <b>r</b> e <b>b</b> são concorrentes, portanto se a reta <b>r</b> for concorrente com as retas <b>a</b> e <b>b</b>, ela pertence ao plano por elas definido.</p> 
 		<img src="cotadas/60_02_00.png" loading="lazy"/>
 		<figcaption>Observamos que a cota do ponto <b>M</b> é a mesma nas retas <b>a</b> e <b>r</b>, portanto a reta <b>r</b> é concorrente com a reta <b>a</b>, porém o ponto <b>N</b> tem cota 5.4 na reta <b>b</b> e 5.2 na reta <b>r</b>, logo as retas <b>r</b> e <b>b</b> são reversas, e portanto, a reta <b>r</b> não pertence ao plano <b>&alpha;</b>.</figcaption>
 	</details></div>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0061.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-061.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 		<p>Como as retas horizontais possuem a mesma cota, basta encontrar dois pontos do plano que possuam a mesma cota. Basta encontrar mais um ponto do plano de cota 2,5, assim, vamos graduar a reta que passa pelos pontos <b>A</b> e <b>C</b>, para encontrar o ponto dela que possua cota 2,5.</p>
 		<ul class="slider">
@@ -3481,7 +3481,7 @@
 		</ul>
 		<img src="cotadas/61_01_00.png" class="fundo" loading="lazy"/>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0061a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-061a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 		<p>Para encontrar o traço do plano <b>&alpha;</b> sobre o plano <b>&pi;'</b>, basta encontrar sua horizontal de cota 0. Para isso, devemos encontrar dois pontos do plano de cota 0.</p>
 		<ul class="slider">
@@ -3525,9 +3525,9 @@
 		<img src="cotadas/61_02_00.png" class="fundo" loading="lazy"/>
 	</details></div>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0062.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-062.png" loading="lazy"/>
 	<div class="combo" id="atv43">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 4.3</span></div>
-	<img src="cotadas/Cotadas_2020_0062a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-062a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 		<p>Para que um ponto pertença ao plano, ele deve estar em uma das retas do plano.</p>
 		<ul class="slider">
@@ -3565,10 +3565,10 @@
 		<img src="cotadas/62_02_00.png" class="fundo" loading="lazy"/>
 	</details></div>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0063.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-063.png" loading="lazy"/>
 	<div class="combo"><figcaption>Use o link abaixo para visualizar em 3D a reta de declive de um plano.</figcaption>
 	<a href="vr/reta_declive.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="cotadas/Cotadas_2020_0063a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-063a.png" loading="lazy"/>
   	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
 		  <li>
@@ -3610,7 +3610,7 @@
 		</ul>
 		<img src="cotadas/63_01_00.png" class="fundo" loading="lazy"/>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0063b.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-063b.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Num plano existem infinitas retas, se o plano for qualquer estas retas podem ser horizontais ou quaisquer.</p>
 	  <ul class="slider">
@@ -3648,7 +3648,7 @@
 		<img src="cotadas/63_02_00.png" class="fundo" loading="lazy"/>
 	</details></div>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0064.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-064.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>O ângulo que um plano forma com o plano de projeção é igual à inclinação de uma de suas retas de maior declive.</p>
 	  <ul class="slider">
@@ -3679,7 +3679,7 @@
 		</ul>
 		<img src="cotadas/64_01_00.png" class="fundo" loading="lazy"/>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0064a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-064a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Representar uma reta do plano, por exemplo a reta definida pelos pontos <b>B</b> e <b>C</b>.</p>
 	  <ul class="slider">
@@ -3729,7 +3729,7 @@
 		<img src="cotadas/64_02_00.png" class="fundo" loading="lazy"/>
 	</details></div>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0065.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-065.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>O ângulo que um plano forma com o plano de projeção (inclinação) é igual a inclinação de uma de suas retas de declive.</p>
 	  <p>Vimos que uma reta de declive de um plano qualquer é suficiente para representá-lo. Neste exercício conhecemos a projeção de uma de suas retas de declive assim como de um de seus pontos, porém para definir uma reta precisamos de um segundo ponto. A solução consiste em encontrar este segundo ponto.</p>
@@ -3761,7 +3761,7 @@
 		</ul>
 		<img src="cotadas/65_01_00.png" class="fundo" loading="lazy"/>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0065a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-065a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Vamos resolver o exercício encontrando uma das retas de declive do plano <b>&alpha;</b>. Sabemos que uma reta de declive define um plano qualquer e a sua inclinação corresponde à inclinação do plano.</p>
 	  <ul class="slider">
@@ -3802,11 +3802,91 @@
 	<div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/HMtR2fdmxfA" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
-	<img src="cotadas/Cotadas_2020_0066.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-066.png" loading="lazy"/>
 	<div class="combo"><figcaption>Use o link abaixo para visualizar em 3D o processo do rebatimento de um plano qualquer <b>&alpha;</b> sobre <b>&pi;</b>.</figcaption>
 	<a href="vr/rebatimento.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0067.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-072.png" loading="lazy"/>
+	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
+	  <p>As faces inclinadas da pirâmide formam planos quaisquer e suas projeções não estão em verdadeira grandeza (VG). Para encontrar a VG de uma figura contida num plano qualquer devemos efetuar o rebatimento do mesmo sobre o plano horizontal <b>&pi;</b>, ou sobre um outro plano paralelo à <b>&pi;</b>, ou seja vamos transformar planos quaisquer em planos horizontais.</p>
+	  <ul class="slider">
+		   <li>
+			   <input type="radio" id="n432" name="sl">
+			   <label for="n432"></label>
+			   <img src="cotadas/72_01_01.png" loading="lazy"/>
+			 <figcaption>Começamos marcando os pontos <b>A</b>, <b>B</b> e <b>D</b> em épura, usando as medidas indicadas na figura.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="n433" name="sl">
+			   <label for="n433"></label>
+			   <img src="cotadas/72_01_02.png" loading="lazy"/>
+			 <figcaption>O ponto <b>C'</b> é vértice de um retângulo com as medidas dos lados iguais a 6.5 e 9.5.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="n431" name="sl">
+			   <label for="n431"></label>
+			   <img src="cotadas/72_01_03.png" loading="lazy"/>
+			 <figcaption>As projeções dos vértices do prisma <b>E</b>, <b>F</b>, <b>G</b> e <b>H</b> coincidem com as projeções dos vértices <b>A</b>, <b>B</b>, <b>C</b> e <b>D</b>, respectivamente.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="n434" name="sl">
+			   <label for="n434"></label>
+			   <img src="cotadas/72_01_04.png" loading="lazy"/>
+			 <figcaption>A projeção do vértice da pirâmide <b>V</b> coincide com o encontro das diagonais do retângulo.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="n435" name="sl">
+			   <label for="n435"></label>
+			   <img src="cotadas/72_01_05.png" loading="lazy"/>
+			 <figcaption>A reta definida pelos pontos <b>F</b> e <b>G</b> é horizontal e pode ser considerada o eixo do rebatimento da face <b>VFG</b>. Obs: Para rebater um plano qualquer precisamos definir um eixo de rebatimento, que deve ser uma reta horizontal do próprio plano. Neste caso, os pontos <b>F</b> e <b>G</b> têm cota 4, logo definem uma reta horizontal contida no plano de cota 4, paralelo a <b>&pi;'</b>. Este plano horizontal passa pelos pontos <b>E</b>, <b>F</b>, <b>G</b> e <b>H</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="n436" name="sl">
+			   <label for="n436"></label>
+			   <img src="cotadas/72_01_06.png" loading="lazy"/>
+			 <figcaption>Vamos encontrar o rebatimento do vértice <b>V</b>. Os pontos <b>F'<sub>1</sub></b> e <b>G'<sub>1</sub></b> pertencem ao eixo. Obs: pontos do eixo permanecem no mesmo lugar quando rebatemos um plano. Logo temos que <b>F'≡F'<sub>1</sub></b> e <b>G'≡G'<sub>1</sub></b>. Conduzir por <b>V'</b> uma reta perpendicular ao eixo. Na interseção desta reta com o eixo temos o ponto <b>O'<sub>V</sub></b>. Obs: Pontos que não pertencem ao eixo de rebatimento se deslocam perpendicularmente a este.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="n437" name="sl">
+			   <label for="n437"></label>
+			   <img src="cotadas/72_01_07.png" loading="lazy"/>
+			 <figcaption>Construa o triângulo de rebatimento para o ponto <b>V</b>: <b>V'V'<sub>0</sub>O'<sub>V</sub></b>. Obs: O cateto <b>V'V'<sub>0</sub></b> tem tamanho igual à diferença de cotas do ponto <b>V</b> ao plano de cota 4, ou seja, esta distância mede 1.5.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="n438" name="sl">
+			   <label for="n438"></label>
+			   <img src="cotadas/72_01_08.png" loading="lazy"/>
+			 <figcaption>Com centro em <b>O'<sub>V</sub></b>, descreva um arco de circunferência de raio igual à hipotenusa do triângulo do rebatimento, ou seja com raio <b>O'<sub>V</sub>V'<sub>0</sub></b>. Encontrar o ponto <b>V</b> rebatido <b>V'<sub>1</sub></b> na interseção deste arco com a reta perpendicular ao eixo. Unindo os pontos <b>F'<sub>1</sub></b>, <b>G'<sub>1</sub></b> e <b>V'<sub>1</sub></b> encontramos a VG do triângulo <b>VFG</b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="n439" name="sl">
+			   <label for="n439"></label>
+			   <img src="cotadas/72_01_09.png" loading="lazy"/>
+			 <figcaption>Agora vamos encontrar o rebatimento do triângulo <b>VEF</b>. A reta definida pelos pontos <b>E</b> e <b>F</b> é horizontal e pode ser considerada o eixo do rebatimento da face <b>VEF</b>. Vamos rebater esta face no mesmo plano horizontal de cota 4 usado no rebatimento da outra face.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="n440" name="sl">
+			   <label for="n440"></label>
+			   <img src="cotadas/72_01_10.png" loading="lazy"/>
+			 <figcaption>Vamos encontrar o rebatimento do vértice <b>V</b>. Os pontos <b>E'<sub>1</sub></b> e <b>F'<sub>1</sub></b> pertencem ao eixo. Conduzir por <b>V'</b> uma reta perpendicular ao eixo. Na interseção desta reta com o eixo temos o ponto <b>Q'<sub>V</sub></b>.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="n441" name="sl">
+			   <label for="n441"></label>
+			   <img src="cotadas/72_01_11.png" loading="lazy"/>
+			 <figcaption>Construa o triângulo de rebatimento para o ponto <b>V</b>: <b>V'V''<sub>0</sub>Q'<sub>V</sub></b>. Obs: O cateto <b>V''V'<sub>0</sub></b> tem tamanho igual à diferença de cotas do ponto <b>V</b> ao plano de cota 4, ou seja, esta distância mede 1.5.</figcaption>
+		   </li>
+		   <li>
+			   <input type="radio" id="n442" name="sl">
+			   <label for="n442"></label>
+			   <img src="cotadas/72_01_12.png" loading="lazy"/>
+			 <figcaption>Com centro em <b>Q'<sub>V</sub></b>, descreva um arco de circunferência de raio igual à hipotenusa do triângulo do rebatimento, ou seja com raio <b>Q'<sub>V</sub>V''<sub>0</sub></b>. Encontrar o ponto <b>V</b> rebatido <b>V''<sub>1</sub></b> na interseção deste arco com a reta perpendicular ao eixo. Unindo os pontos <b>E'<sub>1</sub></b>, <b>F'<sub>1</sub></b> e <b>V''<sub>1</sub></b> encontramos a VG do triângulo <b>VEF</b>.</figcaption>
+		   </li>
+		</ul>
+		<img src="cotadas/72_01_00.png" class="fundo" loading="lazy"/>
+	</details></div>
+	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
+	<img src="cotadas/Cotadas_2025-067.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>O triângulo <b>ABC</b> está contido em um plano qualquer <b>&alpha;</b> e sua projeção não está em verdadeira grandeza (VG). Para encontrar a VG de uma figura contida num plano qualquer devemos efetuar o rebatimento do mesmo sobre o plano horizontal <b>&pi;</b> , ou sobre um outro plano paralelo à <b>&pi;</b>, ou seja vamos transformar o plano qualquer em um horizontal.</p>
 	  <ul class="slider">
@@ -3820,7 +3900,7 @@
 			   <input type="radio" id="433" name="sl">
 			   <label for="433"></label>
 			   <img src="cotadas/67_01_02.png" loading="lazy"/>
-			 <figcaption>Unindo <b>A'</b> com <b>B'</b> temos <b>&alpha;&pi;'</b> que poder ser considerado o eixo do rebatimento. Obs: Para rebater um plano qualquer precisamos definir um eixo de rebatimento, que deve ser uma reta horizontal do próprio plano. Neste caso, os pontos <b>A</b> e <b>B</b> têm cota 0, logo definem a horizontal de cota zero do plano <b>&pi;</b>, ou seja, definem o traço do plano <b>&alpha;&pi;</b></figcaption>
+			 <figcaption>Unindo <b>A'</b> com <b>B'</b> temos <b>&alpha;&pi;'</b> que pode ser considerado o eixo do rebatimento. Obs: Para rebater um plano qualquer precisamos definir um eixo de rebatimento, que deve ser uma reta horizontal do próprio plano. Neste caso, os pontos <b>A</b> e <b>B</b> têm cota 0, logo definem a horizontal de cota zero do plano <b>&pi;</b>, ou seja, definem o traço do plano <b>&alpha;&pi;</b></figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="431" name="sl">
@@ -3855,7 +3935,7 @@
 		</ul>
 		<img src="cotadas/67_01_00.png" class="fundo" loading="lazy"/>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0067a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-067a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>O triângulo <b>ABC</b> está contido em um plano qualquer e sua projeção não está em verdadeira grandeza (VG). Para encontrar a VG de uma figura contida num plano qualquer devemos efetuar o rebatimento do mesmo sobre o plano horizontal <b>&pi;'</b>, ou sobre um outro plano paralelo à <b>&pi;'</b>, ou seja vamos transformar o plano qualquer em um horizontal.</p>
 	  <ul class="slider">
@@ -3917,7 +3997,7 @@
 		<img src="cotadas/67_02_00.png" class="fundo" loading="lazy"/>
 	</details></div>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0068.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-068.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Para representar um triângulo equilátero <b>ABC</b> contido no plano <b>&alpha;(A,B,P)</b> é necessário rebater este plano para que o triângulo apresente VG.</p>
 	  <ul class="slider">
@@ -3990,7 +4070,7 @@
 		</ul>
 		<img src="cotadas/68_01_00.png" class="fundo" loading="lazy"/>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0068a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-068a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
 	  <p>Para representar um quadrado <b>ABCD</b> contido no plano <b>&alpha;(A,B,P)</b> é necessário rebater este plano deixando-o paralelo ou coincidente com o plano de projeção <b>&pi;'</b>.</p>
 	  <ul class="slider">
@@ -4093,40 +4173,34 @@
 		<img src="cotadas/68_02_08.png" class="fundo" loading="lazy"/>
 	</details></div>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0069.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-069.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p></p> 
 		<img src="cotadas/69_01_00.png" loading="lazy"/>
 		<figcaption></figcaption>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0069a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-069a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p></p> 
 		<img src="cotadas/69_02_00.png" loading="lazy"/>
 		<figcaption></figcaption>
 	</details></div>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0070.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-070.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p></p> 
 		<img src="cotadas/70_01_00.png" loading="lazy"/>
 		<figcaption></figcaption>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0070a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-070a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p></p> 
 		<img src="cotadas/70_02_00.png" loading="lazy"/>
 		<figcaption></figcaption>
 	</details></div>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0071.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-071.png" loading="lazy"/>
 	<div class="combo" id="atv44">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 4.4</span></div>
-	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0072.png" loading="lazy"/>
-	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
-		<img src="cotadas/72_01_00.png" loading="lazy"/>
-		<figcaption></figcaption>
-	</details></div>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
 	<!--<h3>Respostas dos Exercícios propostos</h3><hr><h4>Exercício 4.1: 3 da pág. 54</h4><div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary><p>A pirâmide possui base hexagonal e como está contida no plano horizontal, todos os pontos possuem a mesma cota e o hexágono está em Verdadeira Grandeza (VG).</p><ul class="slider"><li><input type="radio" id="340" name="sl"><label for="340"></label><img src="solucoes/4/54_01_01.png" /><figcaption>Desenhar o hexágono em VG, obtendo os pontos <b>C'</b>, <b>D'</b>, <b>E'</b> e <b>F'</b>. Observe que é possível representar dois hexágonos, uma para a direita do segmento <b>A'B'</b> e outro para a esquerda. Vamos escolher a posição para direita, pois tem mais espaço para desenhar. As cotas dos pontos <b>C</b>, <b>D</b>, <b>E</b> e <b>F</b> são iguais à cota do plano, ou seja, <b>1</b>.</figcaption></li><li><input type="radio" id="341" name="sl"><label for="341"></label><img src="solucoes/4/54_01_02.png" /><figcaption>Representar a altura do prisma, observe que a face superior coincide com a inferior, a projeção da segunda face que também é um hexágono regular coincide com a primeira, as arestas: <b>AG</b>, <b>BH</b>, <b>CI</b>, <b>DJ</b>, <b>EK</b> e <b>FL</b> são retas verticais e, portanto sua projeção é um ponto. Os pontos <b>GHIJKL</b> pertencem ao plano horizontal de cota <b>4</b>, portanto sua cota é <b>4</b>.</figcaption></li><li><input type="radio" id="342" name="sl"><label for="342"></label><img src="solucoes/4/54_01_04.png" /><figcaption>Agora representamos a pirâmide apoiada sobre a face <b>GHIJKL</b>, para isso, basta unir esses vértices com o centro do hexágono, obtendo o vértice <b>V</b> de cota <b>7</b>.</figcaption></li></ul><img src="solucoes/4/54_01_00.png" class="fundo" /></details></div><h4>Exercício 4.2: pág. 56</h4><div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary><p>Exercício similar aos resolvidos na página 56. </p><img src="solucoes/4/56_03_00.png" /><figcaption>A altura deve ser marcada a partir do traço <b>&alpha;&pi;'</b>, com mesma cota do centro da base <b>O</b>.</figcaption></details></div><h4>Exercício 4.3: 3 da pág. 62</h4><div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary><p>Basta encontrar dois pontos do plano que possuam cota 2, graduar duas das retas do plano para encontrar esses pontos.</p><img src="solucoes/4/62_01_00.png" /><figcaption></figcaption></details></div><h4>Exercício 4.4: 5 da pág. 71</h4><div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary><img src="solucoes/4/71_01_00.png" /><figcaption></figcaption></details></div>-->
 		
@@ -4137,7 +4211,7 @@
 	<div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/EYk0pI5-MkY" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
-	<img src="cotadas/Cotadas_2020_0073.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-073.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Dois planos são paralelos se:
 	  <br>- suas escalas de declive são paralelas: <b>d<sub>&alpha;</sub> // d<sub>&beta;</sub></b> 
@@ -4164,7 +4238,7 @@
 		</ul>
 		<img src="cotadas/73_01_00.png" class="fundo" loading="lazy"/>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0073a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-073a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Se as retas de declive de dois planos são paralelas <b>d<sub>&alpha;</sub> // d<sub>β</sub></b> podemos afirmar que os planos são paralelos. Duas retas são paralelas quando suas projeções são paralelas, seus intervalos iguais e suas graduações crescem no mesmo sentido.</p>
 	  <ul class="slider">
@@ -4196,14 +4270,14 @@
 		<img src="cotadas/73_02_00.png" class="fundo" loading="lazy"/>
 	</details></div>
 	<p class="topop"><a href="#intersecoes" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0074.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-074.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p>A projeção da interseção entre um plano horizontal e um plano vertical coincide com o traço do plano vertical em <b>&pi;'</b>.</p> 
 		<img src="cotadas/74_01_01.png" loading="lazy"/>
 		<figcaption>Trata-se de uma reta horizontal com a cota igual à cota do plano horizontal: neste caso, a cota é do plano é igual à cota do ponto <b>A</b>, com 3 unidades.</figcaption>
 	</details>
 	<a href="vr/int_pv_ph.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="cotadas/Cotadas_2020_0074a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-074a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Considerando o plano horizontal <b>&alpha;</b> definido pelo ponto <b>A</b>, vamos encontrar a reta horizontal do plano qualquer <b>&beta;</b> com cota igual à cota de <b>A</b>.</p>
 	  <ul class="slider">
@@ -4224,13 +4298,13 @@
 	</details>
 	<a href="vr/int_pq_ph.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#intersecoes" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0075.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-075.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p>A projeção da interseção entre dois planos verticais será a reta vertical que coincide com a interseção dos traços <b>&alpha;&pi;'</b> e <b>&beta;&pi;'</b>.</p> 
 		<img src="cotadas/75_01_01.png" loading="lazy"/>
 		<figcaption></figcaption>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0075a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-075a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Considerando o plano vertical definido pelo traço <b>&alpha;&pi;'</b>, vamos encontrar duas retas horizontais do plano qualquer <b>&beta;</b>.</p>
 	  <ul class="slider">
@@ -4268,11 +4342,11 @@
 		<img src="cotadas/75_02_00.png" class="fundo" loading="lazy"/>
 	</details>
 	<a href="vr/int_pq_pv.html" target="_blank" class="visu">Visualização em 3D</a></div>
-	<img src="cotadas/Cotadas_2020_0075b.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-075b.png" loading="lazy"/>
 	<div class="combo"><figcaption>Use o link abaixo para visualizar em 3D a interseção entre dois planos quaisquer</figcaption>
 	<a href="vr/int_pq_pq.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#intersecoes" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0076.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-076.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Para encontrar a reta comum a dois planos quaisquer utilizamos planos horizontais auxiliares e encontramos as retas comuns aos dois planos quaisquer com os planos horizontais auxiliares, ou seja, encontramos retas horizontais dos planos quaisquer.</p>
 	  <ul class="slider">
@@ -4303,7 +4377,7 @@
 		</ul>
 		<img src="cotadas/76_01_00.png" class="fundo" loading="lazy"/>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0076a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-076a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Conforme visto no exercício anterior, para encontrar a reta comum a dois planos quaisquer utilizamos planos horizontais auxiliares e encontramos as retas comuns aos dois planos quaisquer com os planos horizontais auxiliares.</p>
 	  <ul class="slider">
@@ -4340,7 +4414,7 @@
 		</ul>
 		<img src="cotadas/76_02_00.png" class="fundo" loading="lazy"/>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0076b.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-076b.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Como as projeções das retas de declive dos dois planos são paralelas, a reta comum será uma reta horizontal.</p>
 	  <ul class="slider">
@@ -4373,19 +4447,19 @@
 	</details>
 	<a href="vr/intersecao_planos.html" target="_blank" class="visu">Visualização em 3D</a></div>
 	<p class="topop"><a href="#intersecoes" class="topo">voltar ao topo</a></p>
-	<img src="cotadas/Cotadas_2020_0077.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-077.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p></p> 
 		<img src="cotadas/77_01_00.png" loading="lazy"/>
 		<figcaption></figcaption>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0077a.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-077a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 		<p></p> 
 		<img src="cotadas/77_02_00.png" loading="lazy"/>
 		<figcaption></figcaption>
 	</details></div>
-	<img src="cotadas/Cotadas_2020_0077b.png" loading="lazy"/>
+	<img src="cotadas/Cotadas_2025-077b.png" loading="lazy"/>
 	<div class="combo" id="atv51"><span class="atv1">&#x1f4cf; &#x1f4d0; Exercício Proposto 5.1</span></div>
 	<p class="topop"><a href="#intersecoes" class="topo">voltar ao topo</a></p>
 	<!--<h3>Resposta do Exercício proposto</h3><hr><h4>Exercício 5.1: c) da pág. 77</h4><div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary><p></p><img src="solucoes/5/77_03_00.png" /><figcaption></figcaption></details></div>-->
@@ -4397,9 +4471,9 @@
   <div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/1-I9MGoxOGg " frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
-  <img src="aplicacoes/Cotadas_2020_0078.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-078.png" loading="lazy"/>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
-  <img src="aplicacoes/Cotadas_2020_0079.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-079.png" loading="lazy"/>
   <div class="combo"><figcaption>Use o link abaixo para visualizar em 3D os elementos de um telhado</figcaption>
   <a href="telhados/casa.html" target="_blank" class="visu">Visualização em 3D</a>
 	<h4 style="margin-top:15px;">&#x1f453; Realidade Aumentada e Realidade Virtual</h4>
@@ -4409,11 +4483,11 @@
 	<p>Os telhados modelados em 3D aparecem sobre as coordenadas da apostila. Você pode usá-los para conferir as construções ou apenas visualizar os modelos em 3D.</p>
   </div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
-  <img src="aplicacoes/Cotadas_2020_0080.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-080.png" loading="lazy"/>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
-  <img src="aplicacoes/Cotadas_2020_0081.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-081.png" loading="lazy"/>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
-  <img src="aplicacoes/Cotadas_2020_0082.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-082.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
 		   <li>
@@ -4480,7 +4554,7 @@
 		<img src="aplicacoes/82_00.png" class="fundo" loading="lazy"/>
 	</details></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
-  <img src="aplicacoes/Cotadas_2020_0083.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-083.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
   <p>Para simplificar a notação vamos denominar cada água do telhado por letras minúsculas do nosso alfabeto. Os lados da poligonal que representa a planta da cobertura são horizontais de cota <b>2</b> de cada água.</p>
 	  <ul class="slider">
@@ -4588,7 +4662,7 @@
   <div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/cRa3HmfSPKs" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
-  <img src="aplicacoes/Cotadas_2020_0084.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-084.png" loading="lazy"/>
    <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Bissetrizes</summary>
   <p>Vamos determinar as interseções das águas da cobertura dada. Como todas as águas possuem a mesma inclinação utilizaremos o processo das bissetrizes. Elas são as projeções de algumas das interseções entre as águas do telhado. Acompanhe o traçado das bissetrizes utilizando os esquadros. Nomeie os vértices da poligonal de <b>A</b> a <b>F</b>.</p>
 	  <ul class="slider">
@@ -4776,7 +4850,7 @@
 	</details>
   <a href="telhados/telhado34.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
-  <img src="aplicacoes/Cotadas_2020_0085.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-085.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
   <p>Vamos determinar as interseções das águas da cobertura dada. Como todas as águas possuem a mesma inclinação utilizaremos o processo das bissetrizes.</p>
 	  <ul class="slider">
@@ -4892,7 +4966,7 @@
 	</details>
   <a href="telhados/telhado35.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
-  <img src="aplicacoes/Cotadas_2020_0086.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-086.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Vamos determinar as interseções das águas da cobertura dada. Como todas as águas possuem a mesma inclinação utilizaremos o processo das bissetrizes.</p>
 	  <ul class="slider">
@@ -4961,7 +5035,7 @@
 	</details>
   <a href="telhados/telhado36.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
-  <img src="aplicacoes/Cotadas_2020_0087.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-087.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Vamos determinar as interseções das águas da cobertura dada. Como todas as águas possuem a mesma inclinação utilizaremos o processo das bissetrizes.</p>
 	  <ul class="slider">
@@ -5036,7 +5110,7 @@
 	</details>
   <a href="telhados/telhado37.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
-  <img src="aplicacoes/Cotadas_2020_0088.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-088.png" loading="lazy"/>
   <div class="combo">
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Vamos determinar as interseções das águas da cobertura dada. Como todas as águas possuem a mesma inclinação utilizaremos o processo das bissetrizes.</p>
@@ -5082,15 +5156,15 @@
 	</details>
 	 <a href="telhados/telhado38.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
-  <img src="aplicacoes/Cotadas_2020_0089.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-089.png" loading="lazy"/>
   <div class="combo" id="atv52">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 5.2</span>
   <figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
   <a href="telhados/telhado39.html" target="_blank" class="visu">Visualização em 3D</a></div>
   
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
-  <img src="aplicacoes/Cotadas_2020_0090.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-090.png" loading="lazy"/>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
-  <img src="aplicacoes/Cotadas_2020_0091.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-091.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Como os planos possuem inclinações diferentes devemos obter horizontais de mesma cota de cada um deles. </p>
 	  <ul class="slider">
@@ -5125,11 +5199,11 @@
   <div class="embed-container">
 		<iframe width="100%" src="https://www.youtube.com/embed/fwr04Mo_gF0" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 	</div>
-  <img src="aplicacoes/Cotadas_2020_0092.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-092.png" loading="lazy"/>
   <div class="combo"><figcaption>Use o link abaixo para visualizar o telhado em 3D</figcaption>
   <a href="telhados/telhado43.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
-  <img src="aplicacoes/Cotadas_2020_0093.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-093.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
 	  <p>Vamos determinar as interseções das águas da cobertura dada. Como as águas possuem inclinações diferentes só poderemos utilizar o processo das bissetrizes entre as águas de mesma inclinação. Nas demais devemos achar pontos comuns das horizontais de mesma cota.</p>
 	  <ul class="slider">
@@ -5239,7 +5313,7 @@
 	</details>
   <a href="telhados/telhado44.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
-  <img src="aplicacoes/Cotadas_2020_0094.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-094.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Vamos determinar as interseções das águas da cobertura dada. Como as águas possuem inclinações diferentes só poderemos utilizar o processo das bissetrizes entre as águas de mesma inclinação. Nas demais devemos achar pontos comuns das horizontais de mesma cota.</p>	  
 	  <ul class="slider">
@@ -5308,7 +5382,7 @@
 	</details>
   <a href="telhados/telhado45.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
-  <img src="aplicacoes/Cotadas_2020_0095.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-095.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
 	  <p>Vamos determinar as interseções das águas da cobertura dada. Esse telhado possui respaldos diferentes então veja como proceder.</p>
 	  <ul class="slider">
@@ -5412,8 +5486,8 @@
 	</details>
   <a href="telhados/telhado46.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
-  <img src="aplicacoes/Cotadas_2020_0095a.png" loading="lazy"/>
-  <img src="aplicacoes/Cotadas_2020_0095b.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-095a.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-095b.png" loading="lazy"/>
   <div class="combo" id="atv53">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 5.3</span>
   <br>&#x1F9FE; <a target="_blank" href="aplicacoes/telhado47.pdf">Imprimir</a></div>
   <p class="topop"><a href="#telhados" class="topo">voltar ao topo</a></p>
@@ -5423,9 +5497,9 @@
 
 <details style="border-bottom: 1px solid #a2dec0;"><summary id="superficies">6. Superfícies Topográficas</summary>
   <p>Material da página 96 até a página 114.</p>
-  <img src="aplicacoes/Cotadas_2020_0096.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-096.png" loading="lazy"/>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
-  <img src="aplicacoes/Cotadas_2020_0097.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-097.png" loading="lazy"/>
   <div class="combo">
 	<figcaption>Use o link abaixo para visualizar em 3D uma superfície topográfica com suas respectivas curvas de nível</figcaption>
 	<a href="superficies/curva11.html" target="_blank" class="visu">Visualização em 3D</a>
@@ -5439,7 +5513,7 @@
   <div class="embed-container">
 	 <iframe width="100%" src="https://www.youtube.com/embed/DGEB-CqWzlc" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
    </div>
-  <img src="aplicacoes/Cotadas_2020_0098.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-098.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Traçado de curvas de nível</summary>
 	  <p>Para traças as curvas de nível podemos utilizar o método da triangularização. Acompanhe o procedimento.</p>
 	  <ul class="slider">
@@ -5489,7 +5563,7 @@
 		<img src="aplicacoes/98_00.png" class="fundo" loading="lazy"/>
 	</details></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
-  <img src="aplicacoes/Cotadas_2020_0099.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-099.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Para representar a superfície topográfica por meio de Curvas de Nível vamos obter mais pontos da mesma utilizando uma interpolação linear.</p>
 	  <ul class="slider">
@@ -5552,7 +5626,7 @@
 	</details>
   <a href="superficies/curva2.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
-  <img src="aplicacoes/Cotadas_2020_0100.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-100.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Para traçar as Curvas de Nível vamos utilizar o método da triangularização e a interpolação linear. Acompanhe o procedimento.</p>
 	  <ul class="slider">
@@ -5620,9 +5694,9 @@
 		<img src="aplicacoes/100_00.png" class="fundo" loading="lazy"/>
 	</details></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
-  <img src="aplicacoes/Cotadas_2020_0101.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-101.png" loading="lazy"/>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
-  <img src="aplicacoes/Cotadas_2020_0102.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-102.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Para obtermos o perfil topográfico devemos encontrar os pontos comuns da superfície natural do terreno com o plano de corte vertical.</p>
 	  <ul class="slider">
@@ -5666,12 +5740,12 @@
 		<img src="aplicacoes/102_00.png" class="fundo" loading="lazy"/>
 	</details></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
-  <img src="aplicacoes/Cotadas_2020_0103.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-103.png" loading="lazy"/>
   <div class="combo" id="atv61">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 6.1</span>
   <br><a href="superficies/curva3.html" target="_blank" class="visu">Visualização em 3D</a></div>
     
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
-  <img src="aplicacoes/Cotadas_2020_0104.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-104.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	  <p>Para obtermos o perfil topográfico devemos encontrar os pontos comuns da superfície natural do terreno com o plano de corte vertical. Siga o procedimento como no exercício anterior.</p>
 	  <img src="aplicacoes/104_01.png" />
@@ -5680,7 +5754,7 @@
 	<a href="superficies/curva9.html" target="_blank" class="visu">Visualização em 3D</a></div>
   
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
-  <img src="aplicacoes/Cotadas_2020_0105.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-105.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Como o intervalo do plano já está definido na sua reta de declive, basta marcar os demais pontos com a mesma cota das curvas existentes.</p>
 	  <ul class="slider">
@@ -5735,20 +5809,20 @@
 		</ul>
 		<img src="aplicacoes/105_01_00.png" class="fundo" loading="lazy"/>
 	</details></div>
-	<img src="aplicacoes/Cotadas_2020_0105a.png" loading="lazy"/>
+	<img src="aplicacoes/Cotadas_2025-105a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	  <p>Resolução semelhante ao exercício anterior.</p>
 	  <img src="aplicacoes/105_02_00.png" loading="lazy"/>
 	  <figcaption></figcaption>
 	  </details></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
-  <img src="aplicacoes/Cotadas_2020_0106.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-106.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	  <p>Resolução semelhante ao exercício anterior, porém devemos pegar os pontos de interseção das horizontais com todas as curvas de mesma cota. Observe que ao lado esquerdo temos uma depressão enquanto que ao lado direito temos um morro.</p>
 	  <img src="aplicacoes/106_01_00.png" loading="lazy"/>
 	  <figcaption></figcaption>
 	  </details></div>
-	  <img src="aplicacoes/Cotadas_2020_0106a.png" loading="lazy"/>
+	  <img src="aplicacoes/Cotadas_2025-106a.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Resolução semelhante ao exercício anterior. Observe que as curvas de nível estão desenhadas de 20 em 20, assim devemos encontrar o intervalo de cota 20.</p>
 	  <ul class="slider">
@@ -5781,9 +5855,9 @@
 	</details>
   <a href="superficies/curva10.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
-  <img src="aplicacoes/Cotadas_2020_0107.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-107.png" loading="lazy"/>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
-  <img src="aplicacoes/Cotadas_2020_0108.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-108.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <p>Vamos trabalhar da mesma maneira que na seção plana, somente que aqui são duas seções planas com inclinações diferentes.</p>
 	  <ul class="slider">
@@ -5857,24 +5931,24 @@
 		<img src="aplicacoes/108_01_00.png" class="fundo" loading="lazy"/>
 	</details></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
-  <img src="aplicacoes/Cotadas_2020_0109.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-109.png" loading="lazy"/>
   
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
   <div class="combo" id="atv62">&#x1f4cf; &#x1f4d0; <span class="atv1">Exercício proposto 6.2</span></div>
-  <img src="aplicacoes/Cotadas_2020_0110.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-110.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	  <p>Repetir os passos do exercício anterior. A diferença nesse exercício é que ao invés de inclinação é dada a declividade. Lembre-se que o intervalo é o inverso da declividade, assim se a declividade é 2/3, o intervalo é 3/2, ou seja o intervalo é 1.5.</p>
 	  <img src="aplicacoes/110_01_00.png" />
 	  <figcaption></figcaption>
 	  </details></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
-  <img src="aplicacoes/Cotadas_2020_0111.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-111.png" loading="lazy"/>
   <div class="combo"><figcaption>Use o link abaixo para visualizar em 3D dos cortes de um terreno para construção de uma estrada</figcaption>
   <a href="superficies/curva15.html" target="_blank" class="visu">Visualização em 3D</a></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
-  <img src="aplicacoes/Cotadas_2020_0112.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-112.png" loading="lazy"/>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
-  <img src="aplicacoes/Cotadas_2020_0113.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-113.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução: 1&ordf; parte</summary>
 	  <ul class="slider">
 		   <li>
@@ -6015,7 +6089,7 @@
 		<img src="aplicacoes/113_01_02_00.png" class="fundo" loading="lazy"/>
 	</details></div>
   <p class="topop"><a href="#superficies" class="topo">voltar ao topo</a></p>
-  <img src="aplicacoes/Cotadas_2020_0114.png" loading="lazy"/>
+  <img src="aplicacoes/Cotadas_2025-114.png" loading="lazy"/>
   <div class="combo">
   <details class="sub"><summary>&#x1f4cf; &#x1f4d0; Solução</summary>
 	  <ul class="slider">
