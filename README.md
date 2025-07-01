@@ -3808,13 +3808,13 @@
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2025-072.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
-	  <p>As faces inclinadas da pirâmide formam planos quaisquer e suas projeções não estão em verdadeira grandeza (VG). Para encontrar a VG de uma figura contida num plano qualquer devemos efetuar o rebatimento do mesmo sobre o plano horizontal <b>&pi;</b>, ou sobre um outro plano paralelo à <b>&pi;</b>, ou seja vamos transformar planos quaisquer em planos horizontais.</p>
+	  <p>As faces inclinadas da pirâmide formam planos quaisquer e suas projeções não estão em verdadeira grandeza (VG). Para encontrar a VG de uma figura contida num plano qualquer devemos efetuar o rebatimento do mesmo sobre o plano horizontal <b>&pi;'</b>, ou sobre um outro plano paralelo à <b>&pi;'</b>, ou seja vamos transformar planos quaisquer em planos horizontais.</p>
 	  <ul class="slider">
 		   <li>
 			   <input type="radio" id="n432" name="sl">
 			   <label for="n432"></label>
 			   <img src="cotadas/72_01_01.png" loading="lazy"/>
-			 <figcaption>Começamos marcando os pontos <b>A</b>, <b>B</b> e <b>D</b> em épura, usando as medidas indicadas na figura.</figcaption>
+			 <figcaption>Começamos marcando as projeções dos pontos <b>A</b>, <b>B</b> e <b>D</b> em épura, usando as medidas indicadas na figura.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="n433" name="sl">
