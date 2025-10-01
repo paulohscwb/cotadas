@@ -3,7 +3,7 @@
 
 <h2 id="inicio">Visualização de propriedades de projeções, sólidos e aplicações</h2> 
 <div><img align="right" src="ar/qr.png"/>
-<br>Esta página contém as construções geométricas e visualizações 3D dos exemplos e exercícios utilizados na disciplina de Expressão Gráfica I
+<br><p>Esta página contém as construções geométricas e visualizações 3D dos exemplos e exercícios utilizados na disciplina de Expressão Gráfica I</p>
 <p>A apostila está disponível no link:</p>
 <center><a href="vr/Cotadas_2025.pdf" target="_blank">apostila de Projeções Cotadas</a></center>
 <p>Os objetos programados em 3D podem ser visualizados em Realidade Virtual (RV) e Realidade Aumentada (RA).</p>
