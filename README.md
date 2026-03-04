@@ -1541,7 +1541,7 @@
     <div class="combo"><figcaption>Uma figura que pertence a um plano <b>&alpha;</b> paralelo à direção <b>d</b> de projeções tem projeção reduzida a um segmento.</figcaption>
     <a href="vr/p5.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>oblíqua</b></a>
 	<br><a href="vr/p5_orto.html" target="_blank" class="visu">Propriedade em 3D: projeção <b>ortogonal</b></a>
-	<br><a href="vr/p_novo_propriedades.html" target="_blank" class="visu">Planos paralelo, projetante e oblíquo: projeção <b>ortogonal</b></a></div>
+	<br><a href="vr/p_novo_propriedades.html" target="_blank" class="visu">Planos paralelo, projetante e oblíquo: projeção <b>ortogonal</b></a><p align="center"><img src="videos/props1.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p></div>
 	<p class="topop"><a href="#propriedades" class="topo">voltar ao topo</a></p>
   <img src="prop/Cotadas_2025-019.png" loading="lazy"/>
   <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -2181,7 +2181,7 @@
 	  <p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
     <img src="cotadas/Cotadas_2025-028.png" loading="lazy"/>
    	<div class="combo"><figcaption>Usamos o rebatimento encontrar a verdadeira grandeza (vg) de um segmento AB. Neste caso, o segmento é rebatido usando a projeção <b>A'B'</b> como eixo para rebater o segmento em <b>&pi;'</b>. Neste caso, marcamos as cotas dos pontos a partir de suas projeções.</figcaption>
-	<a href="vr/vg_segmento.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<a href="vr/vg_segmento.html" target="_blank" class="visu">Visualização em 3D</a><p align="center"><img src="videos/vg1.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p></div>
 	<p class="topop"><a href="#pontos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2025-029.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
@@ -2263,7 +2263,7 @@
 	</div>
 	  <img src="cotadas/Cotadas_2025-030.png" loading="lazy"/>
 	  <div class="combo"><figcaption>Rebatimento usado para encontrar a verdadeira grandeza (vg) de um segmento <b>AB</b>. Neste caso, o segmento é rebatido usando o segmento <b>AC</b> como eixo para rebater o segmento em um plano horizontal<b>&beta;</b> que passa por <b>A</b>. Neste caso, marcamos a diferença de cotas entre os pontos <b>A</b> e <b>B</b> a partir da projeção <b>B'</b></figcaption>
-	  <a href="vr/vg_segmento2.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	  <a href="vr/vg_segmento2.html" target="_blank" class="visu">Visualização em 3D</a><p align="center"><img src="videos/vg2.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p></div>
 	  <img src="cotadas/Cotadas_2025-030a.png" loading="lazy"/>
 	  <div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
 	  <ul class="slider">
@@ -3228,7 +3228,7 @@
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2025-055.png" loading="lazy"/>
 	<div class="combo"><figcaption>Use o link abaixo para a visualização em 3D do rebatimento do plano vertical.</figcaption>
-	<a href="vr/55_rebatimento_vertical.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<a href="vr/55_rebatimento_vertical.html" target="_blank" class="visu">Visualização em 3D</a><p align="center"><img src="videos/pvertical.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p></div>
 	<img src="cotadas/Cotadas_2025-055a.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Rebatimento do plano</summary>
 		<p>Vamos rebater o plano vertical para encontrar a VG de uma figura.</p>
@@ -3807,7 +3807,7 @@
 	</div>
 	<img src="cotadas/Cotadas_2025-066.png" loading="lazy"/>
 	<div class="combo"><figcaption>Use o link abaixo para visualizar em 3D o processo do rebatimento de um plano qualquer <b>&alpha;</b> sobre <b>&pi;</b>.</figcaption>
-	<a href="vr/rebatimento.html" target="_blank" class="visu">Visualização em 3D</a></div>
+	<a href="vr/rebatimento.html" target="_blank" class="visu">Visualização em 3D</a><p align="center"><img src="videos/pqualquer.gif" style="max-width: 92%; border-radius:5px;" loading="lazy"/></p></div>
 	<p class="topop"><a href="#planos" class="topo">voltar ao topo</a></p>
 	<img src="cotadas/Cotadas_2025-072.png" loading="lazy"/>
 	<div class="combo"><details class="sub"><summary>&#x1f4cf; &#x1f4d0; Resolução</summary>
