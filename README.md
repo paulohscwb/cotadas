@@ -3841,13 +3841,13 @@
 			   <input type="radio" id="n435" name="sl">
 			   <label for="n435"></label>
 			   <img src="cotadas/72_01_05.png" loading="lazy"/>
-			 <figcaption>A reta definida pelos pontos <b>F</b> e <b>G</b> é horizontal e pode ser considerada o eixo do rebatimento da face <b>VFG</b>. Obs: Para rebater um plano qualquer precisamos definir um eixo de rebatimento, que deve ser uma reta horizontal do próprio plano. Neste caso, os pontos <b>F</b> e <b>G</b> têm cota 4, logo definem uma reta horizontal contida no plano de cota 4, paralelo a <b>&pi;'</b>. Este plano horizontal passa pelos pontos <b>E</b>, <b>F</b>, <b>G</b> e <b>H</b>.</figcaption>
+			 <figcaption>A reta definida pelos pontos <b>H</b> e <b>G</b> é horizontal e pode ser considerada o eixo do rebatimento da face <b>VHG</b>. Obs: Para rebater um plano qualquer precisamos definir um eixo de rebatimento, que deve ser uma reta horizontal do próprio plano. Neste caso, os pontos <b>H</b> e <b>G</b> têm cota 4, logo definem uma reta horizontal contida no plano de cota 4, paralelo a <b>&pi;'</b>. Este plano horizontal passa pelos pontos <b>E</b>, <b>F</b>, <b>G</b> e <b>H</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="n436" name="sl">
 			   <label for="n436"></label>
 			   <img src="cotadas/72_01_06.png" loading="lazy"/>
-			 <figcaption>Vamos encontrar o rebatimento do vértice <b>V</b>. Os pontos <b>F'<sub>1</sub></b> e <b>G'<sub>1</sub></b> pertencem ao eixo. Obs: pontos do eixo permanecem no mesmo lugar quando rebatemos um plano. Logo temos que <b>F'≡F'<sub>1</sub></b> e <b>G'≡G'<sub>1</sub></b>. Conduzir por <b>V'</b> uma reta perpendicular ao eixo. Na interseção desta reta com o eixo temos o ponto <b>O'<sub>V</sub></b>. Obs: Pontos que não pertencem ao eixo de rebatimento se deslocam perpendicularmente a este.</figcaption>
+			 <figcaption>Vamos encontrar o rebatimento do vértice <b>V</b>. Os pontos <b>H'<sub>1</sub></b> e <b>G'<sub>1</sub></b> pertencem ao eixo. Obs: pontos do eixo permanecem no mesmo lugar quando rebatemos um plano. Logo temos que <b>H'≡H'<sub>1</sub></b> e <b>G'≡G'<sub>1</sub></b>. Conduzir por <b>V'</b> uma reta perpendicular ao eixo. Na interseção desta reta com o eixo temos o ponto <b>O'<sub>V</sub></b>. Obs: Pontos que não pertencem ao eixo de rebatimento se deslocam perpendicularmente a este.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="n437" name="sl">
@@ -3859,19 +3859,19 @@
 			   <input type="radio" id="n438" name="sl">
 			   <label for="n438"></label>
 			   <img src="cotadas/72_01_08.png" loading="lazy"/>
-			 <figcaption>Com centro em <b>O'<sub>V</sub></b>, descreva um arco de circunferência de raio igual à hipotenusa do triângulo do rebatimento, ou seja com raio <b>O'<sub>V</sub>V'<sub>0</sub></b>. Encontrar o ponto <b>V</b> rebatido <b>V'<sub>1</sub></b> na interseção deste arco com a reta perpendicular ao eixo. Unindo os pontos <b>F'<sub>1</sub></b>, <b>G'<sub>1</sub></b> e <b>V'<sub>1</sub></b> encontramos a VG do triângulo <b>VFG</b>.</figcaption>
+			 <figcaption>Com centro em <b>O'<sub>V</sub></b>, descreva um arco de circunferência de raio igual à hipotenusa do triângulo do rebatimento, ou seja com raio <b>O'<sub>V</sub>V'<sub>0</sub></b>. Encontrar o ponto <b>V</b> rebatido <b>V'<sub>1</sub></b> na interseção deste arco com a reta perpendicular ao eixo. Unindo os pontos <b>H'<sub>1</sub></b>, <b>G'<sub>1</sub></b> e <b>V'<sub>1</sub></b> encontramos a VG do triângulo <b>VHG</b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="n439" name="sl">
 			   <label for="n439"></label>
 			   <img src="cotadas/72_01_09.png" loading="lazy"/>
-			 <figcaption>Agora vamos encontrar o rebatimento do triângulo <b>VEF</b>. A reta definida pelos pontos <b>E</b> e <b>F</b> é horizontal e pode ser considerada o eixo do rebatimento da face <b>VEF</b>. Vamos rebater esta face no mesmo plano horizontal de cota 4 usado no rebatimento da outra face.</figcaption>
+			 <figcaption>Agora vamos encontrar o rebatimento do triângulo <b>VEH</b>. A reta definida pelos pontos <b>E</b> e <b>H</b> é horizontal e pode ser considerada o eixo do rebatimento da face <b>VEH</b>. Vamos rebater esta face no mesmo plano horizontal de cota 4 usado no rebatimento da outra face.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="n440" name="sl">
 			   <label for="n440"></label>
 			   <img src="cotadas/72_01_10.png" loading="lazy"/>
-			 <figcaption>Vamos encontrar o rebatimento do vértice <b>V</b>. Os pontos <b>E'<sub>1</sub></b> e <b>F'<sub>1</sub></b> pertencem ao eixo. Conduzir por <b>V'</b> uma reta perpendicular ao eixo. Na interseção desta reta com o eixo temos o ponto <b>Q'<sub>V</sub></b>.</figcaption>
+			 <figcaption>Vamos encontrar o rebatimento do vértice <b>V</b>. Os pontos <b>E'<sub>1</sub></b> e <b>H'<sub>1</sub></b> pertencem ao eixo. Conduzir por <b>V'</b> uma reta perpendicular ao eixo. Na interseção desta reta com o eixo temos o ponto <b>Q'<sub>V</sub></b>.</figcaption>
 		   </li>
 		   <li>
 			   <input type="radio" id="n441" name="sl">
@@ -3883,7 +3883,7 @@
 			   <input type="radio" id="n442" name="sl">
 			   <label for="n442"></label>
 			   <img src="cotadas/72_01_12.png" loading="lazy"/>
-			 <figcaption>Com centro em <b>Q'<sub>V</sub></b>, descreva um arco de circunferência de raio igual à hipotenusa do triângulo do rebatimento, ou seja com raio <b>Q'<sub>V</sub>V''<sub>0</sub></b>. Encontrar o ponto <b>V</b> rebatido <b>V''<sub>1</sub></b> na interseção deste arco com a reta perpendicular ao eixo. Unindo os pontos <b>E'<sub>1</sub></b>, <b>F'<sub>1</sub></b> e <b>V''<sub>1</sub></b> encontramos a VG do triângulo <b>VEF</b>.</figcaption>
+			 <figcaption>Com centro em <b>Q'<sub>V</sub></b>, descreva um arco de circunferência de raio igual à hipotenusa do triângulo do rebatimento, ou seja com raio <b>Q'<sub>V</sub>V''<sub>0</sub></b>. Encontrar o ponto <b>V</b> rebatido <b>V''<sub>1</sub></b> na interseção deste arco com a reta perpendicular ao eixo. Unindo os pontos <b>E'<sub>1</sub></b>, <b>H'<sub>1</sub></b> e <b>V''<sub>1</sub></b> encontramos a VG do triângulo <b>VEH</b>.</figcaption>
 		   </li>
 		</ul>
 		<img src="cotadas/72_01_00.png" class="fundo" loading="lazy"/>
